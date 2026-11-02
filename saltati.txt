@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 02/11/2026 21:37 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 02/11 19:00  [GOAL] Kongsvinger: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
 02/11 17:00  [GOAL] FC Inter Turku: 1X + GOAL uscita, era a 7 👻 35/42  -  FC Inter Turku 4-3 IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
@@ -21,10 +21,10 @@ Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite
 01/11 14:00  [GOAL] Hammarby: X2 + GOAL uscita, era a 6  -  Malmö FF 1-2 Hammarby   [SVEZIA - ALLSVENSKAN]
 01/11 14:00  [GOAL] Malmö FF: X2 + GOAL uscita, era a 10  -  Malmö FF 1-2 Hammarby   [SVEZIA - ALLSVENSKAN]
 01/11 13:30  [GOAL] St. Pauli: 12 + GOAL uscita, era a 6  -  St. Pauli 1-3 1. FC Nürnberg   [GERMANIA - 2. BUNDESLIGA]
-01/11 13:00  [GOAL] Hradec Králové: 1X + GOAL uscita, era a 6 👻 37/42  -  Mladá Boleslav 3-1 Hradec Králové   [REP. CECA - 1. LIGA]
+01/11 13:00  [GOAL] Hradec Králové: 1X + GOAL uscita, era a 6 👻 38/42  -  Mladá Boleslav 3-1 Hradec Králové   [REP. CECA - 1. LIGA]
 01/11 13:00  [GOAL] Mladá Boleslav: 12 + GOAL uscita, era a 7  -  Mladá Boleslav 3-1 Hradec Králové   [REP. CECA - 1. LIGA]
 31/10 20:45  [GOAL] Anderlecht: 1X + GOAL uscita, era a 8 👻 36/42  -  Anderlecht 4-1 Westerlo   [BELGIO - FIRST DIVISION A]
-31/10 19:00  [GOAL] Benfica B: 12 + GOAL uscita, era a 6  -  Benfica B 3-1 Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
+31/10 19:00  [GOAL] Benfica B: 12 + GOAL uscita, era a 6 👻 34/42  -  Benfica B 3-1 Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
 31/10 18:15  [GOAL] Kortrijk: 1X + GOAL uscita, era a 8 👻 36/42  -  Standard Liège 1-1 Kortrijk   [BELGIO - FIRST DIVISION A]
 31/10 18:00  [GOAL] Udinese: X2 + GOAL uscita, era a 6  -  Udinese 2-5 Roma   [ITALIA - SERIE A]
 31/10 17:30  [GOAL] Perugia: 1X + GOAL uscita, era a 8  -  Guidonia Montecelio 1-1 Perugia   [ITALIA - SERIE C]
@@ -42,29 +42,29 @@ Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite
 30/10 20:00  [GOAL] Nantes: 1X + GOAL uscita, era a 6  -  Nantes 1-1 Clermont Foot   [FRANCIA - LIGUE 2]
 30/10 19:30  [GOAL] FC Stade Lausanne-Ouchy: 1X + GOAL uscita, era a 6  -  FC Stade Lausanne-Ouchy 3-2 Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
 30/10 19:30  [GOAL] FC Stade Lausanne-Ouchy: 12 + GOAL uscita, era a 7  -  FC Stade Lausanne-Ouchy 3-2 Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
-29/10 19:00  [GOAL] Mjällby: 12 + GOAL uscita, era a 6 👻 38/42  -  Örgryte 1-2 Mjällby   [SVEZIA - ALLSVENSKAN]
+29/10 19:00  [GOAL] Mjällby: 12 + GOAL uscita, era a 6 👻 37/42  -  Örgryte 1-2 Mjällby   [SVEZIA - ALLSVENSKAN]
 29/10 01:30  [GOAL] St. Louis City: X2 + GOAL uscita, era a 7 ❗ 9/42  -  St. Louis City 2-3 Portland Timbers   [USA/CANADA - MLS]
 28/10 20:45  [GOAL] Motherwell: X2 + GOAL uscita, era a 7  -  St. Johnstone 2-2 Motherwell   [SCOZIA - PREMIERSHIP]
 28/10 20:00  [GOAL] Arezzo: 1X + GOAL uscita, era a 8 ❗ 11/42  -  Carrarese 2-1 Arezzo   [ITALIA - SERIE B]
 27/10 20:45  [GOAL] York City: 12 + GOAL uscita, era a 8 👻 36/42  -  Barnet 3-1 York City   [INGHILTERRA - LEAGUE TWO]
 27/10 20:00  [GOAL] Cesena: 12 + GOAL uscita, era a 6  -  Cesena 2-1 Empoli   [ITALIA - SERIE B]
-26/10 21:00  [GOAL] Walsall: 12 + GOAL uscita, era a 8 👻 36/42  -  Walsall 2-4 Salford City   [INGHILTERRA - LEAGUE TWO]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 02/11/2026 21:37 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+02/11 19:00  [GOAL] GAIS: 12 + GOAL uscita, era a 14 👻 37/42  -  GAIS 2-1 AIK   [SVEZIA - ALLSVENSKAN]
 02/11 17:00  [GOAL] FC Inter Turku: 1X + GOAL uscita, era a 7 👻 35/42  -  FC Inter Turku 4-3 IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-01/11 16:30  [GOAL] Elfsborg: 1X + GOAL uscita, era a 7 👻 38/42  -  Elfsborg 2-1 Örgryte   [SVEZIA - ALLSVENSKAN]
+01/11 16:30  [GOAL] Elfsborg: 1X + GOAL uscita, era a 7 👻 37/42  -  Elfsborg 2-1 Örgryte   [SVEZIA - ALLSVENSKAN]
 01/11 16:00  [GOAL] St.Truiden: 12 + GOAL uscita, era a 6  -  St.Truiden 1-2 OH Leuven   [BELGIO - FIRST DIVISION A]
 01/11 16:00  [GOAL] Nordsjælland: X2 + GOAL uscita, era a 6  -  Nordsjælland 2-3 FC Midtjylland   [DANIMARCA - SUPERLIGAEN]
 01/11 14:00  [GOAL] Getafe: 12 + GOAL uscita, era a 6  -  Getafe 3-1 Sevilla   [SPAGNA - LALIGA]
 01/11 13:00  [GOAL] Varbergs BoIS FC: X2 + GOAL uscita, era a 7 ❗ 11/42  -  Varbergs BoIS FC 2-2 Ljungskile   [SVEZIA - SUPERETTAN]
 01/11 12:00  [GOAL] Vizela: 1X + GOAL uscita, era a 8 👻 39/42  -  Vizela 2-1 Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-01/11 12:00  [GOAL] Vizela: 12 + GOAL uscita, era a 7  -  Vizela 2-1 Académica   [PORTOGALLO - LIGA PORTUGAL 2]
+01/11 12:00  [GOAL] Vizela: 12 + GOAL uscita, era a 7 👻 34/42  -  Vizela 2-1 Académica   [PORTOGALLO - LIGA PORTUGAL 2]
 01/11 02:30  [GOAL] Colorado Rapids: 12 + GOAL uscita, era a 10 ❗ 10/42  -  Colorado Rapids 2-4 Chicago Fire FC   [USA/CANADA - MLS]
 31/10 17:15  [GOAL] Catanzaro: 1X + GOAL uscita, era a 7 ❗ 11/42  -  Catanzaro 1-1 Padova   [ITALIA - SERIE B]
 31/10 16:00  [GOAL] Millwall: 12 + GOAL uscita, era a 9 ❗ 13/42  -  Millwall 4-1 Derby County   [INGHILTERRA - CHAMPIONSHIP]
@@ -75,7 +75,7 @@ Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite
 31/10 14:30  [GOAL] Bari: 1X + GOAL uscita, era a 6  -  Bari 1-1 Scafatese   [ITALIA - SERIE C]
 31/10 14:30  [GOAL] Bari: X2 + GOAL uscita, era a 6  -  Bari 1-1 Scafatese   [ITALIA - SERIE C]
 31/10 14:00  [GOAL] Jahn Regensburg: 1X + GOAL uscita, era a 6  -  Jahn Regensburg 2-1 Hansa Rostock   [GERMANIA - 3. LIGA]
-31/10 13:30  [GOAL] Fredericia: 12 + GOAL uscita, era a 6 👻 34/42  -  Fredericia 3-1 AB   [DANIMARCA - 1. DIVISION]
+31/10 13:30  [GOAL] Fredericia: 12 + GOAL uscita, era a 6 👻 33/42  -  Fredericia 3-1 AB   [DANIMARCA - 1. DIVISION]
 31/10 13:00  [GOAL] Inter Bratislava: 12 + GOAL uscita, era a 8  -  Inter Bratislava 2-3 Baník Lehota pod Vtacnikom   [SLOVACCHIA - 2. LIGA]
 31/10 12:15  [GOAL] Wisła Płock: X2 + GOAL uscita, era a 15  -  Wisła Płock 2-2 Piast Gliwice   [POLONIA - EKSTRAKLASA]
 30/10 20:45  [GOAL] Zulte Waregem: X2 + GOAL uscita, era a 6 👻 41/42  -  Zulte Waregem 2-4 Club Brugge   [BELGIO - FIRST DIVISION A]
@@ -85,20 +85,19 @@ Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite
 30/10 16:00  [GOAL] Liptovský Mikuláš: 12 + GOAL uscita, era a 10  -  Liptovský Mikuláš 3-2 Žilina B   [SLOVACCHIA - 2. LIGA]
 28/10 21:00  [GOAL] Heart of Midlothian: X2 + GOAL uscita, era a 11  -  Heart of Midlothian 2-2 Rangers   [SCOZIA - PREMIERSHIP]
 28/10 20:45  [GOAL] Celtic: X2 + GOAL uscita, era a 10  -  Celtic 2-2 Dundee United   [SCOZIA - PREMIERSHIP]
-26/10 21:00  [GOAL] Walsall: X2 + GOAL uscita, era a 7 ❗ 12/42  -  Walsall 2-4 Salford City   [INGHILTERRA - LEAGUE TWO]
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 02/11/2026 21:37 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 02/11 19:00  [GOAL] Stabæk: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
 02/11 18:30  [GOAL] Leganés: 12 + GOAL uscita, era a 7  -  Real Valladolid 4-3 Leganés   [SPAGNA - LALIGA 2]
 02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 7 👻 33/42  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
 01/11 21:30  [GOAL] Seattle Sounders FC: 12 + GOAL uscita, era a 6 ❗ 10/42  -  Vancouver Whitecaps 5-1 Seattle Sounders FC   [USA/CANADA - MLS]
-01/11 19:00  [GOAL] Rio Ave: 12 + GOAL uscita, era a 7 👻 37/42  -  Académico Viseu 2-1 Rio Ave   [PORTOGALLO - LIGA PORTUGAL]
+01/11 19:00  [GOAL] Rio Ave: 12 + GOAL uscita, era a 7 👻 38/42  -  Académico Viseu 2-1 Rio Ave   [PORTOGALLO - LIGA PORTUGAL]
 01/11 18:30  [GOAL] Castellón: 1X + GOAL uscita, era a 6 👻 34/42  -  Burgos CF 1-1 Castellón   [SPAGNA - LALIGA 2]
 01/11 18:00  [GOAL] Genoa: X2 + GOAL uscita, era a 6  -  Lecce 1-2 Genoa   [ITALIA - SERIE A]
 01/11 17:30  [GOAL] Pianese: X2 + GOAL uscita, era a 6  -  Latina 1-1 Pianese   [ITALIA - SERIE C]
@@ -114,7 +113,7 @@ Aggiornato: 02/11/2026 20:48 (ora italiana). Dal più recente. Ritardo = partite
 30/10 19:30  [GOAL] Stade Nyonnais: X2 + GOAL uscita, era a 11 ❗ 14/42  -  FC Rapperswil-Jona 1-4 Stade Nyonnais   [SVIZZERA - CHALLENGE LEAGUE]
 29/10 18:30  [GOAL] Lecce: 1X + GOAL uscita, era a 9  -  Frosinone 5-1 Lecce   [ITALIA - SERIE A]
 29/10 01:30  [GOAL] Botafogo: 12 + GOAL uscita, era a 6  -  Remo 2-1 Botafogo   [BRASILE - SÉRIE A]
-28/10 19:00  [GOAL] Djurgården: 1X + GOAL uscita, era a 10 👻 38/42  -  IFK Göteborg 1-1 Djurgården   [SVEZIA - ALLSVENSKAN]
+28/10 19:00  [GOAL] Djurgården: 1X + GOAL uscita, era a 10 👻 37/42  -  IFK Göteborg 1-1 Djurgården   [SVEZIA - ALLSVENSKAN]
 28/10 19:00  [GOAL] Djurgården: X2 + GOAL uscita, era a 8  -  IFK Göteborg 1-1 Djurgården   [SVEZIA - ALLSVENSKAN]
 27/10 20:45  [GOAL] Cagliari: 1X + GOAL uscita, era a 7  -  Roma 4-2 Cagliari   [ITALIA - SERIE A]
 
