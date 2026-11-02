@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 02/11/2026 22:35 (ora italiana)
+Aggiornato: 02/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -113,15 +113,14 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 Manchester United              48/100
     5/20 AFC Bournemouth                48/100
      ...
-   20/20 Arsenal                        34/100  (la fa meno spesso)
+   20/20 Everton                        33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 AFC Bournemouth                42/100
     2/20 Ipswich Town                   40/100
     3/20 Chelsea                        39/100
     4/20 Fulham                         38/100
-    5/20 Everton                        38/100
-    6/20 Crystal Palace                 38/100
+    5/20 Crystal Palace                 38/100
      ...
    20/20 Manchester City                25/100  (la fa meno spesso)
 
@@ -368,7 +367,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Clermont Foot                  48/100
     3/18 Pau                            43/100
     4/18 Sochaux                        42/100
-    5/18 Red Star                       42/100
+    5/18 Red Star                       41/100
      ...
    18/18 Nancy                          29/100  (la fa meno spesso)
 
@@ -386,8 +385,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Rodez                          39/100
     3/18 Annecy FC                      39/100
     4/18 Dijon                          38/100
-    5/18 Reims                          36/100
-    6/18 Nancy                          36/100
+    5/18 Nancy                          37/100
      ...
    18/18 Sochaux                        23/100  (la fa meno spesso)
 
@@ -399,7 +397,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Racing Santander               46/100
     3/20 Elche                          46/100
     4/20 Espanyol                       45/100
-    5/20 Celta Vigo                     45/100
+    5/20 Deportivo A Coruña             45/100
+    6/20 Celta Vigo                     45/100
      ...
    20/20 Getafe                         22/100  (la fa meno spesso)
 
@@ -1472,7 +1471,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 02/11/2026 22:35 (ora italiana)
+Aggiornato: 02/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1839,7 +1838,7 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Dijon                          23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Red Star                       38/100
+    1/18 Red Star                       39/100
     2/18 Montpellier                    38/100
     3/18 Saint-Étienne                  37/100
     4/18 Reims                          37/100
@@ -2156,8 +2155,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Marítimo                       40/100
     2/18 Estoril                        37/100
-    3/18 Gil Vicente                    35/100
-    4/18 Rio Ave                        34/100
+    3/18 Rio Ave                        34/100
+    4/18 Gil Vicente                    34/100
     5/18 Nacional                       33/100
     6/18 Famalicão                      33/100
     7/18 Estrela da Amadora             33/100
@@ -2172,7 +2171,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 Sporting CP                    35/100
     5/18 Académico Viseu                35/100
      ...
-   18/18 Gil Vicente                    23/100  (la fa meno spesso)
+   18/18 Gil Vicente                    22/100  (la fa meno spesso)
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -2897,7 +2896,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 02/11/2026 22:35 (ora italiana)
+Aggiornato: 02/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3270,7 +3269,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Laval                          29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Nancy                          43/100
+    1/18 Nancy                          44/100
     2/18 Pau                            42/100
     3/18 Rodez                          41/100
     4/18 Reims                          41/100
@@ -3282,8 +3281,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/18 Dijon                          40/100
     2/18 Nantes                         39/100
-    3/18 Dunkerque                      38/100
-    4/18 Nancy                          37/100
+    3/18 Nancy                          38/100
+    4/18 Dunkerque                      38/100
     5/18 Metz                           37/100
      ...
    18/18 Boulogne                       20/100  (la fa meno spesso)
@@ -3326,8 +3325,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/21 Girona                         45/100
     3/21 Albacete                       45/100
     4/21 Real Sociedad B                44/100
-    5/21 Tenerife                       41/100
-    6/21 Cádiz                          41/100
+    5/21 Cádiz                          42/100
      ...
    21/21 Burgos CF                      27/100  (la fa meno spesso)
 
@@ -3347,7 +3345,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/21 Castellón                      36/100
     5/21 Córdoba                        35/100
      ...
-   21/21 Cádiz                          25/100  (la fa meno spesso)
+   21/21 Eldense                        25/100  (la fa meno spesso)
 
 ==================================================
 BELGIO - FIRST DIVISION A
@@ -3587,7 +3585,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Sporting CP                    49/100
-    2/18 Alverca                        48/100
+    2/18 Alverca                        47/100
     3/18 Académico Viseu                42/100
     4/18 Estrela da Amadora             40/100
     5/18 Benfica                        40/100
@@ -3595,7 +3593,7 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Casa Pia AC                    26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Alverca                        43/100
+    1/18 Alverca                        42/100
     2/18 Marítimo                       38/100
     3/18 Braga                          38/100
     4/18 Gil Vicente                    36/100

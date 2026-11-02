@@ -1,11 +1,8 @@
 TIPS DEL GIORNO - 02/11/2026
-Aggiornato: 02/11/2026 22:35 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 02/11/2026 23:33 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 100,0  (Freq 100 · Rit 100 · Lega 100 · GG 100 · xG 100)
-    L'X2+GOAL si fa aspettare da Defensa y Justicia in casa: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG è buono.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
