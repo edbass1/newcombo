@@ -1,4 +1,5 @@
 name: Aggiorna ritardi
+# Avvio automatico anche dopo modifiche al generatore.
 on:
   schedule:
     - cron: '0 * * * *'
