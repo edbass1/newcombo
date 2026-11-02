@@ -1415,7 +1415,8 @@ def _bundle(chunks, key):
 
 VENUE_TAG = {"all": "TOTALE", "home": "CASA", "away": "TRASFERTA"}
 
-def render_prossime(chunks, now):
+def render_prossime(chunks, now, repeat_alerts=None):
+    repeat_alerts = repeat_alerts or {}
     """Una scheda per contesto, raggruppata sulla stessa partita: TOTALE, poi CASA, poi TRASFERTA."""
     groups = {}
     for venue, _label, _desc in VENUES:
@@ -1498,9 +1499,24 @@ def render_prossime(chunks, now):
                 PG.append(f"           {tn}{gg_txt(ggv)}: " + "; ".join(parts))
                 hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>{gg_html(ggv)}: ' + "; ".join(hparts) + "</div>")
             xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
+            match_alerts = repeat_alerts.get((g["t"].isoformat(), c, l, hn, an), set())
+            matching_alerts = []
+            for _key, alert_team, parts, _hparts, _ggv in tags:
+                for alert_team_name, alert_combo, alert_row in match_alerts:
+                    if alert_team == alert_team_name and any(part.startswith(alert_combo + " (") for part in parts):
+                        matching_alerts.append((alert_team_name, alert_combo, alert_row))
+            alert_badge = ""
+            alert_note = ""
+            if matching_alerts:
+                labels = []
+                for alert_team_name, alert_combo, alert_row in matching_alerts:
+                    delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                    labels.append(f'{alert_team_name}: {alert_combo} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+                alert_note = " | ".join(labels)
+                alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
             H.append(
                 f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
-                f'<div class="fxh"><span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
+                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{club_html(LIX, hn, an, hn, gol)} vs {club_html(LIX, hn, an, an, gol)} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
                 + "".join(hb) + "</div>"
@@ -1723,6 +1739,7 @@ def render_repeat(data, pools, now):
         )
 
     alert_rows = []
+    alert_map = {}
     for c, l, r, err in data:
         if not r:
             continue
@@ -1735,6 +1752,8 @@ def render_repeat(data, pools, now):
                 state = by_team.get((c, l, team), {})
                 for name, row in state.items():
                     if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
+                        fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
+                        alert_map.setdefault(fixture_key, set()).add((team, row["name"], row))
                         alert_rows.append((t, c, l, teams[h], teams[a], team, row))
 
     alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
@@ -1768,6 +1787,7 @@ def render_repeat(data, pools, now):
         "txt": "\n".join(lines) + "\n",
         "upcoming_html": "".join(alert_html),
         "upcoming_txt": "\n".join(alert_txt) + "\n",
+        "alert_map": alert_map,
     }
 
 def main():
@@ -1797,10 +1817,8 @@ def main():
     for name, rows in LEAGUE_FREQ.items():
         print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
-    prossime = render_prossime(chunks, now)
     repeat = render_repeat(data, pools, now)
-    prossime["html"] += repeat["upcoming_html"]
-    prossime["txt"] += repeat["upcoming_txt"]
+    prossime = render_prossime(chunks, now, repeat["alert_map"])
     today = datetime.datetime.now(ROME).date()
     tips = render_tips(rank_tips(collect_tip_candidates(data, today)), data, today, now)
     print("TIPS", flush=True)
