@@ -1,46 +1,42 @@
 TIPS DEL GIORNO - 02/11/2026
-Aggiornato: 02/11/2026 18:31 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 02/11/2026 18:54 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TOTALE    19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 79,1  (Freq 100 · Rit 53 · Lega 70 · GG 100)
-    L'X2+GOAL si fa aspettare da Kongsvinger: 6 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
-
- 2. TRASFERTA 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 74,5  (Freq 93 · Rit 80 · Lega 90 · GG 83 · xG 11)
+ 1. TRASFERTA 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 76,9  (Freq 100 · Rit 82 · Lega 86 · GG 86 · xG 14)
     Per Nancy in trasferta l'1X+GOAL manca da 6 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 40% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG dà una mano.
 
- 3. TRASFERTA 20:00  Heracles vs TOP Oss   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 62,1  (Freq 33 · Rit 63 · Lega 80 · GG 83)
+ 2. TRASFERTA 20:00  Heracles vs TOP Oss   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 63,5  (Freq 36 · Rit 68 · Lega 73 · GG 86)
     TOP Oss non vede l'X2+GOAL da 7 partite in trasferta: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 6 volte.
 
- 4. TOTALE    19:00  Mjällby vs Kalmar FF   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 61,6  (Freq 77 · Rit 73 · Lega 53 · GG 13 · xG 78)
-    Sono 10 partite che Kalmar FF resta senza l'1X+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%). Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 5 volte e c'è tanto xG.
-
- 5. CASA      19:00  GAIS vs AIK   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 54,9  (Freq 20 · Rit 100 · Lega 33 · GG 13 · xG 100)
-    Il 12+GOAL si fa aspettare da GAIS in casa: 14 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 28% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 3 volte e c'è tanto xG.
-
- 6. TRASFERTA 20:00  Jong Ajax vs Vitesse   [OLANDA - EERSTE DIVISIE]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 49,7  (Freq 47 · Rit 40 · Lega 100 · GG 13)
+ 3. TRASFERTA 20:00  Jong Ajax vs Vitesse   [OLANDA - EERSTE DIVISIE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 55,6  (Freq 55 · Rit 55 · Lega 100 · GG 9)
     Per Vitesse in trasferta l'1X+GOAL manca da 6 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 32% delle volte. Questo campionato la produce di continuo e nelle ultime 10 il GG è uscito 3 volte.
 
- 7. TOTALE    20:45  Atalanta vs Parma   [ITALIA - SERIE A]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 49,0  (Freq 77 · Rit 0 · Lega 17 · GG 83 · xG 89)
+ 4. TOTALE    20:45  Atalanta vs Parma   [ITALIA - SERIE A]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 53,5  (Freq 82 · Rit 0 · Lega 23 · GG 86 · xG 100)
     Parma non vede l'X2+GOAL da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 37% delle volte. Nel campionato esce con regolarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
 
- 8. TRASFERTA 20:30  Casarano vs Foggia   [ITALIA - SERIE C]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 40,8  (Freq 7 · Rit 93 · Lega 47 · GG 0)
+ 5. TRASFERTA 20:30  Casarano vs Foggia   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 45,2  (Freq 9 · Rit 100 · Lega 55 · GG 0)
     Sono 15 partite che Foggia resta senza l'X2+GOAL in trasferta: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 25%). In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 2 volte.
 
- 9. TRASFERTA 21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 38,7  (Freq 33 · Rit 63 · Lega 27 · GG 37 · xG 22)
+ 6. TRASFERTA 21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 41,9  (Freq 36 · Rit 68 · Lega 36 · GG 27 · xG 29)
     Per Vitória de Guimarães in trasferta l'X2+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG dà una mano.
 
-10. TOTALE    21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 37,5  (Freq 60 · Rit 7 · Lega 3 · GG 63 · xG 67)
+ 7. TOTALE    21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 41,6  (Freq 64 · Rit 9 · Lega 5 · GG 59 · xG 86)
     Il 12+GOAL si fa aspettare da Everton: 9 gare, in media ne restano fuori circa 5, e non è tra le sue giocate più solite (circa il 20%). Nel campionato esce con regolarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e c'è tanto xG.
+
+ 8. CASA      20:30  Novara vs Desenzano   [ITALIA - SERIE C]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 41,3  (Freq 18 · Rit 36 · Lega 64 · GG 59)
+    Novara non vede il 12+GOAL da 6 partite in casa: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 26% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il gol di entrambe è arrivato 5 volte.
+
+ 9. CASA      23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 39,9  (Freq 36 · Rit 45 · Lega 45 · GG 27 · xG 43)
+    L'X2+GOAL si fa aspettare da Defensa y Justicia in casa: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG è buono.
 
 
 COME CALCOLIAMO IL PUNTEGGIO

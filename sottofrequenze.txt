@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1002,8 +1002,8 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Slavia Prague B                53/100
-    2/12 Vysočina Jihlava               51/100
-    3/12 FC Vlašim                      51/100
+    2/12 FC Vlašim                      51/100
+    3/12 Vysočina Jihlava               50/100
     4/12 SK Prostějov                   46/100
     5/12 Žižkov                         44/100
      ...
@@ -1013,7 +1013,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 Karviná                        38/100
     2/12 FC Vlašim                      37/100
     3/12 SK Prostějov                   36/100
-    4/12 Vysočina Jihlava               33/100
+    4/12 Vysočina Jihlava               34/100
     5/12 Slavia Prague B                32/100
     6/12 Příbram                        32/100
     7/12 Dukla Praha                    32/100
@@ -1350,12 +1350,13 @@ SOTTOFREQUENZA 1X + GOAL
     3/12 IFK Mariehamn                  43/100
     4/12 FC Lahti                       43/100
     5/12 KuPS                           42/100
+    6/12 FC Inter Turku                 42/100
      ...
    12/12 HJK                            37/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 SJK                            43/100
-    2/12 IF Gnistan                     42/100
+    2/12 IF Gnistan                     41/100
     3/12 HJK                            37/100
     4/12 TPS                            35/100
     5/12 KuPS                           35/100
@@ -1472,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2775,8 +2776,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 FF Jaro                        48/100
     3/12 KuPS                           43/100
     4/12 HJK                            43/100
-    5/12 IF Gnistan                     42/100
-    6/12 FC Inter Turku                 42/100
+    5/12 FC Inter Turku                 43/100
      ...
    12/12 IFK Mariehamn                  31/100  (la fa meno spesso)
 
@@ -2792,9 +2792,9 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/12 SJK                            44/100
     2/12 Ilves                          41/100
-    3/12 VPS                            40/100
-    4/12 TPS                            40/100
-    5/12 IF Gnistan                     40/100
+    3/12 TPS                            40/100
+    4/12 IF Gnistan                     40/100
+    5/12 VPS                            39/100
      ...
    12/12 IFK Mariehamn                  27/100  (la fa meno spesso)
 
@@ -2902,7 +2902,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3871,7 +3871,7 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/11 FC Vlašim                      51/100
-    2/11 Vysočina Jihlava               49/100
+    2/11 Vysočina Jihlava               48/100
     3/11 Karviná                        43/100
     4/11 FC Silon Táborsko              42/100
     5/11 Žižkov                         41/100
@@ -3880,7 +3880,7 @@ SOTTOFREQUENZA 1X + GOAL
    11/11 Dukla Praha                    33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/11 Vysočina Jihlava               37/100
+    1/11 Vysočina Jihlava               38/100
     2/11 FC Vlašim                      37/100
     3/11 SK Prostějov                   36/100
     4/11 Karviná                        35/100
@@ -4215,16 +4215,16 @@ SOTTOFREQUENZA 1X + GOAL
     1/12 Ilves                          45/100
     2/12 IFK Mariehamn                  44/100
     3/12 AC Oulu                        44/100
-    4/12 IF Gnistan                     40/100
+    4/12 IF Gnistan                     41/100
     5/12 FC Lahti                       40/100
      ...
    12/12 SJK                            30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 KuPS                           44/100
-    2/12 IF Gnistan                     43/100
+    2/12 IF Gnistan                     42/100
     3/12 TPS                            40/100
-    4/12 HJK                            39/100
+    4/12 HJK                            38/100
     5/12 VPS                            36/100
      ...
    12/12 IFK Mariehamn                  28/100  (la fa meno spesso)

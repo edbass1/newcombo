@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -262,16 +262,16 @@ Stagione 2026/2027 (163 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Walsall                           3  🟢 100%  🔥 6/42
-   2. Colchester United                 2  🟢 100%  🔥 6/42
-   3. Gillingham                        2  🟢 100%  🔥 6/42
-   4. Crawley Town                      1  🔥 6/42
-   5. Oldham Athletic                   1  🔥 6/42
-   6. Shrewsbury Town                   1  🟢 100%  🔥 6/42
-   7. Accrington Stanley                0  🔥 6/42
-   8. Barnet                            0  🔥 6/42
-   9. Bristol Rovers                    0  🔥 6/42
-  10. Cheltenham Town                   0  🔴  🔥 6/42
+   1. Walsall                           3  🟢 100%  🔥 5/42
+   2. Colchester United                 2  🟢 100%  🔥 5/42
+   3. Gillingham                        2  🟢 100%  🔥 5/42
+   4. Crawley Town                      1  🔥 5/42
+   5. Oldham Athletic                   1  🔥 5/42
+   6. Shrewsbury Town                   1  🟢 100%  🔥 5/42
+   7. Accrington Stanley                0  🔥 5/42
+   8. Barnet                            0  🔥 5/42
+   9. Bristol Rovers                    0  🔥 5/42
+  10. Cheltenham Town                   0  🔴  🔥 5/42
 
 RITARDI X2 + GOAL
    1. Exeter City                      10  ❗ 12/42
@@ -1283,20 +1283,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (104 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Vlašim                         4  🟢 75%  🔴  🔥 4/42
-   2. Vysočina Jihlava                  2  🟢 100%  🔴  🔥 4/42
-   3. Ústí nad Labem                    2  🟢 100%  🔥 4/42
-   4. Dukla Praha                       1  🔥 4/42
-   5. FC Silon Táborsko                 1  🟢 100%  🔥 4/42
-   6. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 4/42
-   7. Kladno                            1  🟢 100%  🔥 4/42
-   8. Opava                             1  🔥 4/42
-   9. Příbram                           1  🟢 100%  🔥 4/42
-  10. SK Prostějov                      1  🔥 4/42
+   1. FC Vlašim                         4  🟢 75%  🔴  🔥 6/42
+   2. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 6/42
+   3. Ústí nad Labem                    2  🟢 100%  🔥 6/42
+   4. Baník Ostrava B                   1  🟢 100%  🔥 6/42
+   5. Dukla Praha                       1  🔥 6/42
+   6. FC Silon Táborsko                 1  🟢 100%  🔥 6/42
+   7. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 6/42
+   8. Kladno                            1  🟢 100%  🔥 6/42
+   9. Opava                             1  🔥 6/42
+  10. Příbram                           1  🟢 100%  🔥 6/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         8  🟢 88%  🔴  🔥 2/42
@@ -1306,9 +1306,9 @@ RITARDI X2 + GOAL
    5. FC Silon Táborsko                 1  🟢 100%  🔥 2/42
    6. Opava                             1  🔥 2/42
    7. Příbram                           1  🟢 100%  🔥 2/42
-   8. Vysočina Jihlava                  1  🟢 100%  🔥 2/42
-   9. Ústí nad Labem                    1  🟢 100%  🔥 2/42
-  10. Baník Ostrava B                   0  🔥 2/42
+   8. Ústí nad Labem                    1  🟢 100%  🔥 2/42
+   9. Baník Ostrava B                   0  🔥 2/42
+  10. Hanácká Slavia Kromeriz           0  🔥 2/42
 
 RITARDI 12 + GOAL
    1. FC Silon Táborsko                 4  🟢 75%
@@ -1316,11 +1316,11 @@ RITARDI 12 + GOAL
    3. Dukla Praha                       3  🟢 67%
    4. Opava                             2  🟢 50%
    5. Příbram                           2  🟢 100%
-   6. Baník Ostrava B                   1  🟢 100%
-   7. Karviná                           1  🟢 100%  🔴
-   8. SK Prostějov                      1  🔴
-   9. Slavia Prague B                   1  🟢 100%  🔴
-  10. Vysočina Jihlava                  1  🟢 100%
+   6. Karviná                           1  🟢 100%  🔴
+   7. SK Prostějov                      1  🔴
+   8. Slavia Prague B                   1  🟢 100%  🔴
+   9. Ústí nad Labem                    1  🟢 100%
+  10. Žižkov                            1  🔴
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1654,16 +1654,16 @@ Stagione 2026 (495 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
-   1. Philadelphia Union                3  🔥 5/42
-   2. St. Louis City                    3  🟢 67%  🔥 5/42
-   3. Charlotte FC                      2  🟢 100%  🔥 5/42
-   4. Columbus Crew                     2  🟢 100%  🔥 5/42
-   5. Chicago Fire FC                   1  🟢 100%  🔥 5/42
-   6. Colorado Rapids                   1  🟢 100%  🔥 5/42
-   7. DC United                         1  🟢 100%  🔥 5/42
-   8. FC Cincinnati                     1  🔥 5/42
-   9. Inter Miami CF                    1  🟢 100%  🔴  🔥 5/42
-  10. Los Angeles FC                    1  🟢 100%  🔥 5/42
+   1. Philadelphia Union                3  🔥 4/42
+   2. St. Louis City                    3  🟢 67%  🔥 4/42
+   3. Charlotte FC                      2  🟢 100%  🔥 4/42
+   4. Columbus Crew                     2  🟢 100%  🔥 4/42
+   5. Chicago Fire FC                   1  🟢 100%  🔥 4/42
+   6. Colorado Rapids                   1  🟢 100%  🔥 4/42
+   7. DC United                         1  🟢 100%  🔥 4/42
+   8. FC Cincinnati                     1  🔥 4/42
+   9. Inter Miami CF                    1  🟢 100%  🔴  🔥 4/42
+  10. Los Angeles FC                    1  🟢 100%  🔥 4/42
 
 RITARDI X2 + GOAL
    1. Columbus Crew                    11  🟢 91%  ❗ 9/42
@@ -1731,42 +1731,42 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (172 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
+Stagione 2026 (174 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
    1. AC Oulu                          14  👻 35/42
-   2. VPS                              13  👻 35/42
-   3. FC Inter Turku                    7  👻 35/42
+   2. VPS                              14  👻 35/42
+   3. HJK                               2  🟢 100%  👻 35/42
    4. SJK                               2  🟢 50%  🔴  👻 35/42
-   5. HJK                               1  🟢 100%  👻 35/42
-   6. Ilves                             1  🟢 100%  👻 35/42
-   7. KuPS                              1  🟢 100%  👻 35/42
+   5. Ilves                             1  🟢 100%  👻 35/42
+   6. KuPS                              1  🟢 100%  👻 35/42
+   7. FC Inter Turku                    0  👻 35/42
    8. FC Lahti                          0  🔴  👻 35/42
    9. FF Jaro                           0  👻 35/42
   10. IF Gnistan                        0  🔴  👻 35/42
 
 RITARDI X2 + GOAL
-   1. VPS                              10
+   1. VPS                              11
    2. TPS                               5
    3. SJK                               3  🟢 67%  🔴
    4. AC Oulu                           2  🟢 50%
    5. FC Lahti                          2  🟢 50%
-   6. Ilves                             1  🟢 100%
-   7. KuPS                              1  🟢 100%
-   8. FC Inter Turku                    0
-   9. FF Jaro                           0
-  10. HJK                               0  🔴
+   6. FC Inter Turku                    1  🟢 100%
+   7. HJK                               1  🟢 100%  🔴
+   8. IF Gnistan                        1  🟢 100%  🔴
+   9. Ilves                             1  🟢 100%
+  10. KuPS                              1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. KuPS                             10  🟢 60%  👻 40/42
-   2. VPS                              10  🔴  👻 40/42
+   1. VPS                              11  🔴  👻 40/42
+   2. KuPS                             10  🟢 60%  👻 40/42
    3. FF Jaro                           8  🟢 75%  👻 40/42
    4. Ilves                             3  🟢 100%  👻 40/42
    5. AC Oulu                           2  🟢 50%  🔴  👻 40/42
    6. IFK Mariehamn                     2  🟢 100%  👻 40/42
    7. SJK                               2  🟢 50%  🔴  👻 40/42
-   8. IF Gnistan                        1  🟢 100%  👻 40/42
+   8. HJK                               1  🟢 100%  👻 40/42
    9. FC Inter Turku                    0  👻 40/42
   10. FC Lahti                          0  👻 40/42
 
@@ -1897,7 +1897,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2156,16 +2156,16 @@ Stagione 2026/2027 (163 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Bristol Rovers                    6  🟢 50%  🔥 6/42
-   2. Northampton Town                  4  🔥 6/42
-   3. Walsall                           4  🟢 75%  🔥 6/42
-   4. Shrewsbury Town                   3  🔥 6/42
-   5. Colchester United                 2  🟢 50%  🔥 6/42
-   6. Cheltenham Town                   1  🔥 6/42
-   7. Gillingham                        1  🟢 100%  🔥 6/42
-   8. Oldham Athletic                   1  🔥 6/42
-   9. Rochdale                          1  🟢 100%  🔥 6/42
-  10. York City                         1  🟢 100%  🔥 6/42
+   1. Bristol Rovers                    6  🟢 50%  🔥 5/42
+   2. Northampton Town                  4  🔥 5/42
+   3. Walsall                           4  🟢 75%  🔥 5/42
+   4. Shrewsbury Town                   3  🔥 5/42
+   5. Colchester United                 2  🟢 50%  🔥 5/42
+   6. Cheltenham Town                   1  🔥 5/42
+   7. Gillingham                        1  🟢 100%  🔥 5/42
+   8. Oldham Athletic                   1  🔥 5/42
+   9. Rochdale                          1  🟢 100%  🔥 5/42
+  10. York City                         1  🟢 100%  🔥 5/42
 
 RITARDI X2 + GOAL
    1. Salford City                      7  ❗ 12/42
@@ -3177,30 +3177,30 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (104 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Příbram                           3  🟢 100%  🔥 4/42
-   2. Ústí nad Labem                    3  🟢 100%  🔥 4/42
-   3. FC Vlašim                         2  🟢 50%  🔴  🔥 4/42
-   4. Kladno                            2  🟢 100%  🔥 4/42
-   5. Třinec                            2  🟢 50%  🔥 4/42
-   6. SK Prostějov                      1  🔴  🔥 4/42
-   7. Vysočina Jihlava                  1  🟢 100%  🔴  🔥 4/42
-   8. Žižkov                            1  🔥 4/42
-   9. Baník Ostrava B                   0  🔥 4/42
-  10. Dukla Praha                       0  🔥 4/42
+   1. Příbram                           3  🟢 100%  🔥 6/42
+   2. Ústí nad Labem                    3  🟢 100%  🔥 6/42
+   3. FC Vlašim                         2  🟢 50%  🔴  🔥 6/42
+   4. Kladno                            2  🟢 100%  🔥 6/42
+   5. Třinec                            2  🟢 50%  🔥 6/42
+   6. Baník Ostrava B                   1  🟢 100%  🔥 6/42
+   7. SK Prostějov                      1  🔴  🔥 6/42
+   8. Vysočina Jihlava                  1  🟢 100%  🔴  🔥 6/42
+   9. Žižkov                            1  🔥 6/42
+  10. Dukla Praha                       0  🔥 6/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         4  🟢 75%  🔥 2/42
    2. Slavia Prague B                   3  🟢 67%  🔥 2/42
-   3. Baník Ostrava B                   2  🟢 100%  🔥 2/42
-   4. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 2/42
-   5. Příbram                           1  🟢 100%  🔥 2/42
-   6. SK Prostějov                      1  🔴  🔥 2/42
-   7. Vysočina Jihlava                  1  🟢 100%  🔥 2/42
-   8. Žižkov                            1  🔥 2/42
+   3. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 2/42
+   4. Příbram                           1  🟢 100%  🔥 2/42
+   5. SK Prostějov                      1  🔴  🔥 2/42
+   6. Vysočina Jihlava                  1  🟢 100%  🔥 2/42
+   7. Žižkov                            1  🔥 2/42
+   8. Baník Ostrava B                   0  🔥 2/42
    9. Dukla Praha                       0  🔥 2/42
   10. FC Silon Táborsko                 0  🔥 2/42
 
@@ -3548,16 +3548,16 @@ Stagione 2026 (495 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Dallas                         5  🔥 5/42
-   2. Austin FC                         3  🟢 100%  🔥 5/42
-   3. St. Louis City                    3  🔥 5/42
-   4. CF Montréal                       2  🟢 100%  🔥 5/42
-   5. Charlotte FC                      2  🟢 100%  🔥 5/42
-   6. Colorado Rapids                   2  🟢 50%  🔥 5/42
-   7. Red Bull New York                 2  🟢 100%  🔥 5/42
-   8. Columbus Crew                     1  🟢 100%  🔥 5/42
-   9. DC United                         1  🟢 100%  🔥 5/42
-  10. FC Cincinnati                     1  🔥 5/42
+   1. FC Dallas                         5  🔥 4/42
+   2. Austin FC                         3  🟢 100%  🔥 4/42
+   3. St. Louis City                    3  🔥 4/42
+   4. CF Montréal                       2  🟢 100%  🔥 4/42
+   5. Charlotte FC                      2  🟢 100%  🔥 4/42
+   6. Colorado Rapids                   2  🟢 50%  🔥 4/42
+   7. Red Bull New York                 2  🟢 100%  🔥 4/42
+   8. Columbus Crew                     1  🟢 100%  🔥 4/42
+   9. DC United                         1  🟢 100%  🔥 4/42
+  10. FC Cincinnati                     1  🔥 4/42
 
 RITARDI X2 + GOAL
    1. Nashville SC                     12  🟢 75%  ❗ 9/42
@@ -3625,37 +3625,37 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (172 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
+Stagione 2026 (174 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
    1. AC Oulu                          10  🟢 50%  👻 35/42
-   2. VPS                               9  👻 35/42
-   3. FC Inter Turku                    7  👻 35/42
-   4. TPS                               7  🟢 57%  👻 35/42
-   5. IF Gnistan                        2  🟢 50%  👻 35/42
-   6. Ilves                             1  🟢 100%  👻 35/42
-   7. SJK                               1  🔴  👻 35/42
+   2. VPS                              10  👻 35/42
+   3. TPS                               7  🟢 57%  👻 35/42
+   4. IF Gnistan                        2  🟢 50%  👻 35/42
+   5. Ilves                             1  🟢 100%  👻 35/42
+   6. SJK                               1  🔴  👻 35/42
+   7. FC Inter Turku                    0  🔴  👻 35/42
    8. FC Lahti                          0  👻 35/42
    9. FF Jaro                           0  🔴  👻 35/42
   10. HJK                               0  🔴  👻 35/42
 
 RITARDI X2 + GOAL
-   1. TPS                               5
-   2. VPS                               5  🔴
+   1. VPS                               6  🔴
+   2. TPS                               5
    3. Ilves                             3  🟢 100%
    4. AC Oulu                           2  🟢 50%
    5. SJK                               2  🟢 50%  🔴
-   6. FC Lahti                          1  🟢 100%
-   7. FC Inter Turku                    0
+   6. FC Inter Turku                    1  🟢 100%
+   7. FC Lahti                          1  🟢 100%
    8. FF Jaro                           0  🔴
    9. HJK                               0
   10. IF Gnistan                        0
 
 RITARDI 12 + GOAL
    1. IFK Mariehamn                    14  🟢 86%  👻 40/42
-   2. TPS                               5  🔴  👻 40/42
-   3. VPS                               5  🔴  👻 40/42
+   2. VPS                               6  👻 40/42
+   3. TPS                               5  🔴  👻 40/42
    4. KuPS                              4  🟢 50%  👻 40/42
    5. FF Jaro                           3  🟢 67%  👻 40/42
    6. HJK                               3  🟢 100%  👻 40/42
@@ -3791,7 +3791,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 02/11/2026 18:31 (ora italiana)
+Aggiornato: 02/11/2026 18:54 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4050,16 +4050,16 @@ Stagione 2026/2027 (163 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Swindon Town                      9  🟢 56%  🔴  🔥 6/42
-   2. Salford City                      4  🟢 100%  🔥 6/42
-   3. Accrington Stanley                1  🟢 100%  🔥 6/42
-   4. Colchester United                 1  🟢 100%  🔥 6/42
-   5. Crawley Town                      1  🔥 6/42
-   6. Gillingham                        1  🟢 100%  🔥 6/42
-   7. Grimsby Town                      1  🟢 100%  🔥 6/42
-   8. Newport County                    1  🔥 6/42
-   9. Port Vale                         1  🟢 100%  🔥 6/42
-  10. Walsall                           1  🟢 100%  🔥 6/42
+   1. Swindon Town                      9  🟢 56%  🔴  🔥 5/42
+   2. Salford City                      4  🟢 100%  🔥 5/42
+   3. Accrington Stanley                1  🟢 100%  🔥 5/42
+   4. Colchester United                 1  🟢 100%  🔥 5/42
+   5. Crawley Town                      1  🔥 5/42
+   6. Gillingham                        1  🟢 100%  🔥 5/42
+   7. Grimsby Town                      1  🟢 100%  🔥 5/42
+   8. Newport County                    1  🔥 5/42
+   9. Port Vale                         1  🟢 100%  🔥 5/42
+  10. Walsall                           1  🟢 100%  🔥 5/42
 
 RITARDI X2 + GOAL
    1. Bristol Rovers                    7  🟢 86%  ❗ 12/42
@@ -5071,20 +5071,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (104 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Dukla Praha                       2  🟢 50%  🔥 4/42
-   2. FC Vlašim                         2  🟢 100%  🔴  🔥 4/42
-   3. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 4/42
-   4. Karviná                           2  🟢 50%  🔴  🔥 4/42
-   5. Opava                             2  🟢 50%  🔥 4/42
-   6. Vysočina Jihlava                  2  🟢 100%  🔴  🔥 4/42
-   7. Česká Lípa                        2  🟢 100%  🔥 4/42
-   8. FC Silon Táborsko                 1  🟢 100%  🔥 4/42
-   9. Ústí nad Labem                    1  🟢 100%  🔥 4/42
-  10. Baník Ostrava B                   0  🔥 4/42
+   1. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 6/42
+   2. Dukla Praha                       2  🟢 50%  🔥 6/42
+   3. FC Vlašim                         2  🟢 100%  🔴  🔥 6/42
+   4. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 6/42
+   5. Karviná                           2  🟢 50%  🔴  🔥 6/42
+   6. Opava                             2  🟢 50%  🔥 6/42
+   7. Česká Lípa                        2  🟢 100%  🔥 6/42
+   8. FC Silon Táborsko                 1  🟢 100%  🔥 6/42
+   9. Ústí nad Labem                    1  🟢 100%  🔥 6/42
+  10. Baník Ostrava B                   0  🔥 6/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         4  🟢 100%  🔴  🔥 2/42
@@ -5442,16 +5442,16 @@ Stagione 2026 (495 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
-   1. Philadelphia Union                6  🟢 67%  🔥 5/42
-   2. Chicago Fire FC                   5  🟢 60%  🔥 5/42
-   3. New England Revolution            5  🟢 100%  🔥 5/42
-   4. Inter Miami CF                    3  🟢 100%  🔥 5/42
-   5. Vancouver Whitecaps               3  🔥 5/42
-   6. Columbus Crew                     2  🟢 100%  🔴  🔥 5/42
-   7. Minnesota United                  2  🟢 50%  🔥 5/42
-   8. Portland Timbers                  2  🟢 100%  🔴  🔥 5/42
-   9. DC United                         1  🟢 100%  🔥 5/42
-  10. Nashville SC                      1  🟢 100%  🔥 5/42
+   1. Philadelphia Union                6  🟢 67%  🔥 4/42
+   2. Chicago Fire FC                   5  🟢 60%  🔥 4/42
+   3. New England Revolution            5  🟢 100%  🔥 4/42
+   4. Inter Miami CF                    3  🟢 100%  🔥 4/42
+   5. Vancouver Whitecaps               3  🔥 4/42
+   6. Columbus Crew                     2  🟢 100%  🔴  🔥 4/42
+   7. Minnesota United                  2  🟢 50%  🔥 4/42
+   8. Portland Timbers                  2  🟢 100%  🔴  🔥 4/42
+   9. DC United                         1  🟢 100%  🔥 4/42
+  10. Nashville SC                      1  🟢 100%  🔥 4/42
 
 RITARDI X2 + GOAL
    1. Red Bull New York                 9  🟢 67%  ❗ 9/42
@@ -5519,14 +5519,14 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (172 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
+Stagione 2026 (174 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
    1. VPS                               6  🟢 50%  👻 35/42
    2. AC Oulu                           5  🔴  👻 35/42
    3. FC Inter Turku                    3  👻 35/42
-   4. HJK                               2  🟢 100%  👻 35/42
+   4. HJK                               3  🟢 100%  👻 35/42
    5. FC Lahti                          1  👻 35/42
    6. FF Jaro                           1  👻 35/42
    7. KuPS                              1  🟢 100%  👻 35/42
@@ -5540,11 +5540,11 @@ RITARDI X2 + GOAL
    3. FC Lahti                          3
    4. TPS                               2  🟢 50%  🔴
    5. FF Jaro                           1
-   6. KuPS                              1  🟢 100%  🔴
-   7. SJK                               1  🟢 100%
-   8. AC Oulu                           0
-   9. HJK                               0
-  10. IF Gnistan                        0  🔴
+   6. HJK                               1  🟢 100%
+   7. IF Gnistan                        1  🟢 100%  🔴
+   8. KuPS                              1  🟢 100%  🔴
+   9. SJK                               1  🟢 100%
+  10. AC Oulu                           0
 
 RITARDI 12 + GOAL
    1. FF Jaro                           6  🟢 83%  👻 40/42
@@ -5552,9 +5552,9 @@ RITARDI 12 + GOAL
    3. SJK                               5  🟢 60%  👻 40/42
    4. VPS                               5  🔴  👻 40/42
    5. FC Inter Turku                    3  👻 40/42
-   6. IF Gnistan                        3  🟢 67%  👻 40/42
-   7. Ilves                             2  🟢 100%  👻 40/42
-   8. FC Lahti                          1  👻 40/42
+   6. Ilves                             2  🟢 100%  👻 40/42
+   7. FC Lahti                          1  👻 40/42
+   8. HJK                               1  🟢 100%  👻 40/42
    9. IFK Mariehamn                     1  🟢 100%  🔴  👻 40/42
   10. AC Oulu                           0  🔴  👻 40/42
 
