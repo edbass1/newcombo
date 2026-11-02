@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 02/11/2026 18:54 (ora italiana)
+Aggiornato: 02/11/2026 19:48 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto (totale, casa o trasferta). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -181,13 +181,13 @@ TOTALE    20:30  Odra Opole [🧊A] vs Skierniewice [🔥D]   [POLONIA - I LIGA]
            [GOAL] Odra Opole 🟢 GG 40%: 12 + GOAL (8)
 CASA      20:30  Odra Opole [🧊A] vs Skierniewice [🔥D]   [POLONIA - I LIGA]  [OK X2+GOAL]
            [GOAL] Odra Opole 🟢 GG 30%: X2 + GOAL (6)
-TOTALE    20:30  Wisła Kraków vs Cracovia   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
+TOTALE    20:30  Wisła Kraków vs Cracovia [🧊A]   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
            xG: Wisła Kraków xG 3,17 (1,88+1,29) · Cracovia xG 3,04 (1,60+1,44)
            [GOAL] Wisła Kraków 🟢 GG 60%: X2 + GOAL (6)
-CASA      20:30  Wisła Kraków vs Cracovia   [POLONIA - EKSTRAKLASA]  [ALT X2+GOAL]
+CASA      20:30  Wisła Kraków vs Cracovia [🧊A]   [POLONIA - EKSTRAKLASA]  [ALT X2+GOAL]
            xG: Wisła Kraków xG 3,17 (1,88+1,29) · Cracovia xG 3,04 (1,60+1,44)
            [GOAL] Wisła Kraków 🟢 GG 67% (4/6): X2 + GOAL (6+) 🔴 Cracovia
-TRASFERTA 20:30  Wisła Kraków vs Cracovia   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
+TRASFERTA 20:30  Wisła Kraków vs Cracovia [🧊A]   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
            xG: Wisła Kraków xG 3,17 (1,88+1,29) · Cracovia xG 3,04 (1,60+1,44)
            [GOAL] Cracovia 🟢 GG 60%: X2 + GOAL (6) 🔴 Wisła Kraków
 CASA      20:30  Raith Rovers [🔥A] vs Dunfermline Athletic [🧊D]   [SCOZIA - CHAMPIONSHIP]  [ALT 12+GOAL]
@@ -228,7 +228,7 @@ TOTALE    11:45  Perth Glory vs Newcastle Jets   [AUSTRALIA - A-LEAGUE MEN]  [OK
            [GOAL] Perth Glory 🟢 GG 70%: X2 + GOAL (6) 🔴 Newcastle Jets
            [GOAL] Newcastle Jets 🟢 GG 80%: 12 + GOAL (8)
 TRASFERTA 12:15  Korona Kielce [🧊A] vs Radomiak Radom [🧊A 🔥D]   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
-           xG: Korona Kielce xG 2,89 (1,29+1,60) · Radomiak Radom xG 3,55 (1,51+2,04)
+           xG: Korona Kielce xG 2,96 (1,33+1,63) · Radomiak Radom xG 3,65 (1,58+2,07)
            [GOAL] Radomiak Radom 🟢 GG 40%: X2 + GOAL (11)
 TOTALE    13:00  Holstein Kiel vs Arminia Bielefeld   [GERMANIA - 2. BUNDESLIGA]  [ALT 12+GOAL]
            xG: Holstein Kiel xG 3,20 (1,51+1,69) · Arminia Bielefeld xG 2,72 (1,38+1,34)
@@ -259,7 +259,7 @@ TOTALE    14:30  Atalanta U23 vs Reggiana [🧊D]   [ITALIA - SERIE C]  [ALT 1X+
 TOTALE    14:30  Crotone [🧊A 🔥D] vs Giugliano [🔥D]   [ITALIA - SERIE C]  [OK X2+GOAL]
            [GOAL] Giugliano 🟢 GG 20%: X2 + GOAL (11)
 TRASFERTA 14:45  Śląsk Wrocław vs Piast Gliwice [🔥A]   [POLONIA - EKSTRAKLASA]  [OK 12+GOAL]
-           xG: Śląsk Wrocław xG 3,53 (1,50+2,03) · Piast Gliwice xG 3,49 (1,38+2,11)
+           xG: Śląsk Wrocław xG 3,62 (1,52+2,10) · Piast Gliwice xG 3,49 (1,38+2,11)
            [GOAL] Piast Gliwice 🟢 GG 60%: 12 + GOAL (6) 🔥 3/42
 TOTALE    15:00  Juve Stabia vs Arezzo [🧊A 🔥D]   [ITALIA - SERIE B]  [ALT 12+GOAL]
            xG: Juve Stabia xG 2,45 (1,25+1,20) · Arezzo xG 2,64 (0,97+1,67)
@@ -287,7 +287,7 @@ TOTALE    15:30  Borussia Dortmund [🧊D] vs Elversberg   [GERMANIA - BUNDESLIG
 CASA      15:30  Mainz 05 vs Bayern München [🔥A 🧊D]   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
            xG: Mainz 05 xG 3,66 (2,11+1,55) · Bayern München xG 4,44 (3,54+0,90)
            [GOAL] Mainz 05 🟢 GG 80%: 1X + GOAL (7) 🔴 Bayern München
-TOTALE    15:30  RB Leipzig [🔥A] vs Augsburg [🔥A]   [GERMANIA - BUNDESLIGA]  [ALT X2+GOAL]
+TOTALE    15:30  RB Leipzig [🔥A] vs Augsburg [🔥A]   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
            xG: RB Leipzig xG 3,97 (2,53+1,44) · Augsburg xG 4,66 (2,06+2,60)
            [GOAL] RB Leipzig 🟢 GG 40%: X2 + GOAL (12)
 CASA      15:30  RB Leipzig [🔥A] vs Augsburg [🔥A]   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
@@ -365,10 +365,10 @@ TOTALE    17:30  Vado vs Ravenna [🔥A 🧊D]   [ITALIA - SERIE C]  [OK X2+GOAL
 CASA      17:30  Vado vs Ravenna [🔥A 🧊D]   [ITALIA - SERIE C]  [ALT 12+GOAL]
            [GOAL] Vado 🟢 GG 33% (2/6): 12 + GOAL (6+)
 CASA      17:30  Degerfors [🧊A 🔥D] vs GAIS [🧊D]   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-           xG: Degerfors xG 2,63 (0,93+1,70) · GAIS xG 2,97 (1,57+1,40)
+           xG: Degerfors xG 2,63 (0,93+1,70) · GAIS xG 2,87 (1,52+1,35)
            [GOAL] Degerfors 🟢 GG 40%: 1X + GOAL (7) 👻 38/42
 TRASFERTA 17:30  Degerfors [🧊A 🔥D] vs GAIS [🧊D]   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
-           xG: Degerfors xG 2,63 (0,93+1,70) · GAIS xG 2,97 (1,57+1,40)
+           xG: Degerfors xG 2,63 (0,93+1,70) · GAIS xG 2,87 (1,52+1,35)
            [GOAL] GAIS 🟢 GG 30%: X2 + GOAL (7)
 TOTALE    17:30  Örgryte [🔥D] vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
            xG: Örgryte xG 3,12 (1,10+2,02) · Västerås SK xG 2,85 (1,31+1,54)
@@ -409,3 +409,6 @@ TOTALE    19:00  Alverca vs Casa Pia AC [🧊A 🔥D]   [PORTOGALLO - LIGA PORTU
 TRASFERTA 19:00  Alverca vs Casa Pia AC [🧊A 🔥D]   [PORTOGALLO - LIGA PORTUGAL]  [OK 1X+GOAL]
            xG: Alverca xG 3,17 (1,48+1,69) · Casa Pia AC xG 2,65 (0,88+1,77)
            [GOAL] Casa Pia AC 🟢 GG 30%: 1X + GOAL (6) 👻 41/42
+TOTALE    19:30  Benevento [🧊D] vs Avellino [🧊D]   [ITALIA - SERIE B]  [ALT 12+GOAL]
+           xG: Benevento xG 2,86 (1,61+1,25) · Avellino xG 2,45 (1,33+1,12)
+           [GOAL] Benevento 🟢 GG 50%: 12 + GOAL (6)
