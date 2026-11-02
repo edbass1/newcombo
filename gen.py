@@ -1424,6 +1424,16 @@ def render_prossime(chunks, now, repeat_alerts=None):
             key = (t.isoformat(), c, l, hn, an)
             g = groups.setdefault(key, {"t": t, "c": c, "l": l, "hn": hn, "an": an, "by": {}})
             g["by"][venue] = (tags, info, LIX, xgp, dh, dt, gol)
+    # Le partite con alert di doppia ripetizione entrano sempre in Prossime,
+    # anche quando non hanno nessun ritardo combo ordinario sopra soglia.
+    for fixture_key, alerts in repeat_alerts.items():
+        if fixture_key not in groups:
+            t_iso, c0, l0, hn0, an0 = fixture_key
+            groups[fixture_key] = {
+                "t": datetime.datetime.fromisoformat(t_iso), "c": c0, "l": l0,
+                "hn": hn0, "an": an0, "by": {},
+            }
+        groups[fixture_key]["repeat_alerts"] = alerts
     ordered = sorted(groups.values(), key=lambda g: (g["t"], g["c"], g["hn"]))
     note = ("La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: "
             "TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), "
@@ -1481,6 +1491,33 @@ def render_prossime(chunks, now, repeat_alerts=None):
             H.append(f'<h3 class="day">{d0}</h3>')
             day = d0
         hn, an, c, l = g["hn"], g["an"], g["c"], g["l"]
+        fixture_alerts = g.get("repeat_alerts", [])
+        # Se la partita entra soltanto per la doppia ripetizione, crea una scheda
+        # autonoma: non richiede un ritardo combo ordinario.
+        if not g["by"]:
+            alert_lines = []
+            for alert_team_name, alert_combo, alert_row in fixture_alerts:
+                delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                alert_lines.append(
+                    f'{alert_team_name}: {alert_combo} · ritardo ripetizione {delay_label} · '
+                    f'#{alert_row["rank"]}/{alert_row["total"]}'
+                )
+            alert_note = " | ".join(alert_lines)
+            alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
+            H.append(
+                f'<div class="fx"><span class="vtag all">TOTALE</span>'
+                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
+                f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
+                f'<div class="tagrow"><span class="tag goal">DOPPIA RIPETIZIONE</span> '
+                f'{esc(alert_note)}</div></div>'
+            )
+            P.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
+            for alert_team_name, alert_combo, alert_row in fixture_alerts:
+                delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+            PG.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
+            continue
+        alert_badge_shown = False
         for venue, _label, _desc in VENUES:
             item = g["by"].get(venue)
             if not item:
@@ -1499,21 +1536,16 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 PG.append(f"           {tn}{gg_txt(ggv)}: " + "; ".join(parts))
                 hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>{gg_html(ggv)}: ' + "; ".join(hparts) + "</div>")
             xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
-            match_alerts = repeat_alerts.get((g["t"].isoformat(), c, l, hn, an), set())
-            matching_alerts = []
-            for _key, alert_team, parts, _hparts, _ggv in tags:
-                for alert_team_name, alert_combo, alert_row in match_alerts:
-                    if any(part.startswith(alert_combo + " (") for part in parts):
-                        matching_alerts.append((alert_team_name, alert_combo, alert_row))
             alert_badge = ""
             alert_note = ""
-            if matching_alerts:
+            if fixture_alerts and not alert_badge_shown:
                 labels = []
-                for alert_team_name, alert_combo, alert_row in matching_alerts:
+                for alert_team_name, alert_combo, alert_row in fixture_alerts:
                     delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
                     labels.append(f'{alert_team_name}: {alert_combo} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
                 alert_note = " | ".join(labels)
                 alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
+                alert_badge_shown = True
             H.append(
                 f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
