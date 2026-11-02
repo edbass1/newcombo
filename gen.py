@@ -1503,7 +1503,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             matching_alerts = []
             for _key, alert_team, parts, _hparts, _ggv in tags:
                 for alert_team_name, alert_combo, alert_row in match_alerts:
-                    if alert_team == alert_team_name and any(part.startswith(alert_combo + " (") for part in parts):
+                    if any(part.startswith(alert_combo + " (") for part in parts):
                         matching_alerts.append((alert_team_name, alert_combo, alert_row))
             alert_badge = ""
             alert_note = ""
