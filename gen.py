@@ -1753,7 +1753,7 @@ def render_repeat(data, pools, now):
                 for name, row in state.items():
                     if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
                         fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
-                        alert_map.setdefault(fixture_key, set()).add((team, row["name"], row))
+                        alert_map.setdefault(fixture_key, []).append((team, row["name"], row))
                         alert_rows.append((t, c, l, teams[h], teams[a], team, row))
 
     alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
