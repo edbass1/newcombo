@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 02/11/2026 18:04 (ora italiana)
+Aggiornato: 02/11/2026 18:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -433,11 +433,11 @@ SOTTOFREQUENZA 1X + GOAL
     5/22 Girona                         44/100
     6/22 Castellón                      44/100
      ...
-   22/22 Real Oviedo                    29/100  (la fa meno spesso)
+   22/22 Real Oviedo                    28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/22 Córdoba                        41/100
-    2/22 Las Palmas                     36/100
+    2/22 Las Palmas                     37/100
     3/22 Girona                         35/100
     4/22 Eldense                        35/100
     5/22 Celta Fortuna                  35/100
@@ -1472,7 +1472,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 02/11/2026 18:04 (ora italiana)
+Aggiornato: 02/11/2026 18:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2902,7 +2902,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 02/11/2026 18:04 (ora italiana)
+Aggiornato: 02/11/2026 18:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================

@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 02/11/2026 18:04 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 02/11/2026 18:31 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 02/11 03:45  [GOAL] Houston Dynamo FC: 12 + GOAL uscita, era a 8 ❗ 10/42  -  Portland Timbers 3-1 Houston Dynamo FC   [USA/CANADA - MLS]
 02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 6 👻 33/42  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
@@ -55,7 +55,7 @@ Aggiornato: 02/11/2026 18:04 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 02/11/2026 18:04 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 02/11/2026 18:31 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 01/11 16:30  [GOAL] Elfsborg: 1X + GOAL uscita, era a 7 👻 38/42  -  Elfsborg 2-1 Örgryte   [SVEZIA - ALLSVENSKAN]
 01/11 16:00  [GOAL] St.Truiden: 12 + GOAL uscita, era a 6 👻 33/42  -  St.Truiden 1-2 OH Leuven   [BELGIO - FIRST DIVISION A]
@@ -91,7 +91,7 @@ Aggiornato: 02/11/2026 18:04 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 02/11/2026 18:04 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 02/11/2026 18:31 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 7 👻 33/42  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
 01/11 21:30  [GOAL] Seattle Sounders FC: 12 + GOAL uscita, era a 6 ❗ 10/42  -  Vancouver Whitecaps 5-1 Seattle Sounders FC   [USA/CANADA - MLS]
