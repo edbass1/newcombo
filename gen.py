@@ -1594,7 +1594,7 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ritardi Combo</title>
 <script>(function(){var okt={notte:1,chiaro:1,oceano:1,bordeaux:1,tramonto:1,viola:1,cielo:1,carta:1,foresta:1,stadio:1};var q=null;try{q=new URLSearchParams(location.search)}catch(e){}var t=(q&&q.get('tema'))||localStorage.getItem('themeRC')||'notte';if(!okt[t])t='notte';document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('themeRC',t)}catch(e){}})();</script>
-<style>___CSS___</style></head><body>
+<style>___CSS___ .repeat-alert{display:inline-block;background:#b71c1c;color:#fff;padding:.12rem .48rem;border-radius:6px;font-weight:900;font-size:.72rem;letter-spacing:.04em;margin-right:.35rem}.repeat-grid{display:grid;grid-template-columns:1fr;gap:.6rem}.repeat-alerts{margin-top:1rem}</style></head><body>
 <div id="topbar">
   <label class="tsel" for="theme">Tema <select id="theme">___THEMEOPTS___</select></label>
 </div>
@@ -1607,8 +1607,8 @@ PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
 <a class="sbig" href="#tips">🎯<span>TIPS DEL GIORNO</span></a>
 <a class="sbig" href="#prossime">📅<span>PROSSIME PARTITE</span></a>
-<a class="ssm" href="#goal">Ritardi + GOAL</a><a class="ssm" href="#frequenza">Frequenza campionati</a><a class="ssm" href="#sotto">Sottofrequenze</a><a class="ssm" href="#saltati">Saltati</a>
-<details class="stext"><summary>TEXT</summary><a href="tips_del_giorno.txt">tips_del_giorno.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="frequenza_campionati.txt">frequenza_campionati.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
+<a class="ssm" href="#goal">Ritardi + GOAL</a><a class="ssm" href="#ripetizione">Doppia ripetizione</a><a class="ssm" href="#frequenza">Frequenza campionati</a><a class="ssm" href="#sotto">Sottofrequenze</a><a class="ssm" href="#saltati">Saltati</a>
+<details class="stext"><summary>TEXT</summary><a href="tips_del_giorno.txt">tips_del_giorno.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="ritardi_ripetizione.txt">ritardi_ripetizione.txt</a><a href="frequenza_campionati.txt">frequenza_campionati.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
 </aside>
 <h2 id="tips">TIPS DEL GIORNO</h2>
 ___TIPS___
@@ -1619,6 +1619,8 @@ ___SOTTO___
 ___PROSSIME___
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2>
 ___GOAL___
+<h2 id="ripetizione">Doppia ripetizione consecutiva — classifiche globali</h2>
+___RIPETIZIONE___
 <h2 id="frequenza">Frequenza campionati</h2>
 <p class="leg">Solo stagione in corso, tutte le partite (non casa/trasferta). 1 ogni N = partite giocate / uscite. Servono almeno 7 giornate. 🔥 = primi 7, ❗ = posizioni 8-14, 👻 = ultimi 10: lo stesso badge compare accanto ai ritardi, anche in Casa e Trasferta.</p>
 <pre>___FREQUENZA___</pre>
@@ -1645,6 +1647,128 @@ window.addEventListener('hashchange',show);show()})();</script>
 document.getElementById('theme').addEventListener('change',function(){document.documentElement.setAttribute('data-theme',this.value);try{localStorage.setItem('themeRC',this.value)}catch(err){}syncBar()});
 window.addEventListener('resize',syncBar);syncBar()})();</script>
 </body></html>"""
+
+
+REPEAT_ALERT_MIN = 10
+
+def render_repeat(data, pools, now):
+    """Ritardi delle coppie consecutive, su tutte le gare casa/trasferta della squadra."""
+    rankings = {name: [] for name, _f in COMBOS["goal"]}
+    by_team = {}
+    for c, l, r, err in data:
+        if not r:
+            continue
+        pool = (pools.get(c) or ([], []))[0]
+        teams = r["teams"]
+        for tid, tname in teams.items():
+            seq = sorted((m for m in pool if tid in (m[1], m[2])), key=lambda m: m[0])
+            if not seq:
+                continue
+            team_rows = {}
+            for name, f in COMBOS["goal"]:
+                delay = 0
+                previous_hit = False
+                last_hit = False
+                had_pair = False
+                for m in seq:
+                    hit = bool(f(m[3], m[4]))
+                    if previous_hit:
+                        if hit:
+                            delay = 0
+                            had_pair = True
+                        else:
+                            delay += 1
+                    previous_hit = hit
+                    last_hit = hit
+                row = {
+                    "name": name, "team": tname, "country": c, "league": l,
+                    "delay": delay, "full": not had_pair, "last_hit": last_hit,
+                    "matches": len(seq), "rank": 0, "total": 0,
+                }
+                rankings[name].append(row)
+                team_rows[name] = row
+            by_team[(c, l, tname)] = team_rows
+
+    for name, rows in rankings.items():
+        rows.sort(key=lambda x: (-x["delay"], x["team"].casefold(),
+                                 x["country"].casefold(), x["league"].casefold()))
+        for i, row in enumerate(rows, 1):
+            row["rank"] = i
+            row["total"] = len(rows)
+
+    lines = [
+        "RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — STORICO TOTALE CASA + TRASFERTA",
+        f"Aggiornato: {now} (ora italiana)",
+        "Ogni squadra è valutata su tutte le proprie partite, in casa e in trasferta, in ordine cronologico.",
+        "Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.",
+        f"Storico: pool nazionale multi-stagione disponibile (fino a {SOTTO_STAGIONI} stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.",
+        "La posizione è globale per ciascuna combo, non limitata al campionato.", ""
+    ]
+    blocks = []
+    for name, _f in COMBOS["goal"]:
+        rows = rankings[name]
+        lines += [f"CLASSIFICA GLOBALE — {name}", f"Squadre: {len(rows)}"]
+        table = []
+        for row in rows:
+            delay = str(row["delay"]) + ("+" if row["full"] else "")
+            table.append(f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | {row["country"]} - {row["league"]}  | {row["matches"]} gare')
+        lines += table + [""]
+        visible = "\n".join(table[:30])
+        complete = "\n".join(table)
+        blocks.append(
+            f'<div class="fx"><h3>{esc(name)}</h3>'
+            f'<pre>{html.escape(visible or "Nessun dato disponibile")}</pre>'
+            f'<details><summary>Classifica globale completa ({len(rows)} squadre)</summary>'
+            f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
+        )
+
+    alert_rows = []
+    for c, l, r, err in data:
+        if not r:
+            continue
+        teams = r["teams"]
+        for t, h, a in r["up"]:
+            for tid in (h, a):
+                team = teams.get(tid)
+                if not team:
+                    continue
+                state = by_team.get((c, l, team), {})
+                for name, row in state.items():
+                    if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
+                        alert_rows.append((t, c, l, teams[h], teams[a], team, row))
+
+    alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
+    alert_html = ['<div class="repeat-alerts"><h3>🔴 ALERT — prossime partite per doppia ripetizione</h3>']
+    alert_txt = ["", "ALERT — PROSSIME PARTITE PER DOPPIA RIPETIZIONE", ""]
+    if not alert_rows:
+        alert_html.append('<p class="leg">Nessuna squadra con ritardo almeno 10 e ultima uscita utile a completare la coppia consecutiva.</p>')
+        alert_txt.append("Nessun alert al momento.")
+    for t, c, l, hn, an, team, row in alert_rows:
+        lt = t.astimezone(ROME)
+        delay = str(row["delay"]) + ("+" if row["full"] else "")
+        title = (f'Ritardo {delay}: {row["delay"]} mancate doppie ripetizioni; '
+                 f'posizione globale {row["rank"]}/{row["total"]}. '
+                 f'L’ultima partita della squadra ha prodotto {row["name"]}: '
+                 'se la combo esce anche nella prossima partita, si completa la coppia consecutiva.')
+        alert_html.append(
+            f'<div class="fx"><span class="repeat-alert" title="{esc(title)}">ALERT</span> '
+            f'<b>{esc(team)}</b> — {esc(row["name"])} · ritardo <b>{delay}</b> · '
+            f'posizione globale <b>#{row["rank"]}/{row["total"]}</b>'
+            f'<div class="fxh">{lt:%d/%m %H:%M} · {esc(hn)} vs {esc(an)} '
+            f'<span class="lg">{esc(c)} - {esc(l)}</span></div></div>'
+        )
+        alert_txt.append(
+            f'{lt:%d/%m %H:%M}  {hn} vs {an} [{c} - {l}] — ALERT {team}: {row["name"]}, '
+            f'ritardo {delay}, posizione globale {row["rank"]}/{row["total"]}'
+        )
+    alert_html.append("</div>")
+    lines += alert_txt
+    return {
+        "html": '<div class="repeat-grid">' + "".join(blocks) + "</div>",
+        "txt": "\n".join(lines) + "\n",
+        "upcoming_html": "".join(alert_html),
+        "upcoming_txt": "\n".join(alert_txt) + "\n",
+    }
 
 def main():
     now = datetime.datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
@@ -1674,6 +1798,9 @@ def main():
         print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
     prossime = render_prossime(chunks, now)
+    repeat = render_repeat(data, pools, now)
+    prossime["html"] += repeat["upcoming_html"]
+    prossime["txt"] += repeat["upcoming_txt"]
     today = datetime.datetime.now(ROME).date()
     tips = render_tips(rank_tips(collect_tip_candidates(data, today)), data, today, now)
     print("TIPS", flush=True)
@@ -1686,6 +1813,7 @@ def main():
     open("prossime_partite.txt", "w").write(prossime["txt"])
     open("prossime_partite_goal.txt", "w").write(prossime["goal"])
     open("ritardi_goal.txt", "w").write(_bundle(chunks, "goal"))
+    open("ritardi_ripetizione.txt", "w").write(repeat["txt"])
     open("frequenza_campionati.txt", "w").write(freq_text)
     pop = {venue: chunks[venue]["pop"] for venue, _l, _d in VENUES}
     popjson = json.dumps(pop, ensure_ascii=False).replace("</", "<\\/")
@@ -1700,6 +1828,7 @@ def main():
         "___SOTTO___": "".join(chunks[v]["sotto_html"] for v, _l, _d in VENUES),
         "___PROSSIME___": prossime["html"],
         "___GOAL___": "".join(chunks[v]["goal_html"] for v, _l, _d in VENUES),
+        "___RIPETIZIONE___": repeat["html"],
         "___FREQUENZA___": html.escape(freq_text),
         "___SALTATI___": "".join(chunks[v]["saltati_html"] for v, _l, _d in VENUES),
         "___POP___": popjson,
