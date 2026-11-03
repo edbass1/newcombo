@@ -1391,7 +1391,7 @@ def render_venue(data, venue, now):
                     bdg = league_badge_txt(lg, name)
                     bhtml = league_badge_html(lg, name)
                     parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + "".join(f" 🔴 {x}" for x in rr))
-                    hparts.append(f'{tspan(LI, hn, an, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
+                    hparts.append(f'{tspan(LI, h, a, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
                                   + "".join(f' <span class="pr" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
