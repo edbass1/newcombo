@@ -1520,6 +1520,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
         # Se la partita entra soltanto per la doppia ripetizione, crea una scheda
         # autonoma: non richiede un ritardo combo ordinario.
         if not g["by"]:
+            repeat_li = next((idx for idx, pd in chunks["all"]["pop"].items() if pd.get("lg") == f"{c} - {l}"), None)
             alert_lines = []
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
                 delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
@@ -1532,7 +1533,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             H.append(
                 f'<div class="fx"><span class="vtag all">TOTALE</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
-                f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
+                f'{tspan(repeat_li, hn, an, hn, "all") if repeat_li is not None else esc(hn)} vs {tspan(repeat_li, hn, an, an, "all") if repeat_li is not None else esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
                 f'<div class="tagrow"><span class="tag goal">DOPPIA RIPETIZIONE</span> '
                 f'{esc(alert_note)}</div></div>'
             )
