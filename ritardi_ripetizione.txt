@@ -1,5 +1,5 @@
 RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — STORICO TOTALE CASA + TRASFERTA
-Aggiornato: 03/11/2026 20:43 (ora italiana)
+Aggiornato: 03/11/2026 21:38 (ora italiana)
 Ogni squadra è valutata su tutte le proprie partite, in casa e in trasferta, in ordine cronologico.
 Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.
 Storico: pool nazionale multi-stagione disponibile (fino a 12 stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.
@@ -361,7 +361,7 @@ Squadre: 823
  352. Santos                           2  | BRASILE - SÉRIE A  | 414 gare
  353. Sarpsborg 08                     2  | NORVEGIA - ELITESERIEN  | 355 gare
  354. Shrewsbury Town                  2  | INGHILTERRA - LEAGUE TWO  | 465 gare
- 355. Sirius                           2  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 355. Sirius                           2  | SVEZIA - ALLSVENSKAN  | 357 gare
  356. Spartak Trnava                   2  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 360 gare
  357. Stade Nyonnais                   2  | SVIZZERA - CHALLENGE LEAGUE  | 120 gare
  358. Strømsgodset                     2  | NORVEGIA - OBOS-LIGAEN  | 359 gare
@@ -499,7 +499,7 @@ Squadre: 823
  490. Guidonia Montecelio              1  | ITALIA - SERIE C  | 48 gare
  491. Guingamp                         1  | FRANCIA - LIGUE 2  | 297 gare
  492. Górnik Zabrze                    1  | POLONIA - EKSTRAKLASA  | 394 gare
- 493. Halmstads BK                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 493. Halmstads BK                     1  | SVEZIA - ALLSVENSKAN  | 357 gare
  494. Hammarby                         1  | SVEZIA - ALLSVENSKAN  | 357 gare
  495. Hartberg                         1  | AUSTRIA - BUNDESLIGA  | 309 gare
  496. Hellas Verona                    1  | ITALIA - SERIE B  | 434 gare
@@ -888,7 +888,7 @@ Squadre: 823
   53. Cremonese                        7  | ITALIA - SERIE B  | 436 gare
   54. Dukla Praha                      7  | REP. CECA - FNL  | 354 gare
   55. Fulham                           7  | INGHILTERRA - PREMIER LEAGUE  | 429 gare
-  56. Halmstads BK                     7  | SVEZIA - ALLSVENSKAN  | 356 gare
+  56. Halmstads BK                     7  | SVEZIA - ALLSVENSKAN  | 357 gare
   57. Heart of Midlothian              7  | SCOZIA - PREMIERSHIP  | 410 gare
   58. Hødd                             7  | NORVEGIA - OBOS-LIGAEN  | 322 gare
   59. Juventus                         7  | ITALIA - SERIE A  | 428 gare
@@ -1500,7 +1500,7 @@ Squadre: 823
  665. Seattle Sounders FC              1  | USA/CANADA - MLS  | 432 gare
  666. Sevilla                          1  | SPAGNA - LALIGA  | 429 gare
  667. Sion                             1  | SVIZZERA - SUPER LEAGUE  | 411 gare
- 668. Sirius                           1  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 668. Sirius                           1  | SVEZIA - ALLSVENSKAN  | 357 gare
  669. SJK Akatemia                     1  | FINLANDIA - YKKOSLIIGA  | 228 gare
  670. SK Prostějov                     1  | REP. CECA - FNL  | 279 gare
  671. SKU Amstetten                    1  | AUSTRIA - 2. LIGA  | 249 gare
@@ -1825,7 +1825,7 @@ Squadre: 823
  164. Rangers                          4  | SCOZIA - PREMIERSHIP  | 418 gare
  165. San Jose Earthquakes             4  | USA/CANADA - MLS  | 401 gare
  166. San Lorenzo                      4  | ARGENTINA - PRIMERA DIVISIÓN  | 279 gare
- 167. Sirius                           4  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 167. Sirius                           4  | SVEZIA - ALLSVENSKAN  | 357 gare
  168. Slavia Prague                    4  | REP. CECA - 1. LIGA  | 381 gare
  169. Sparta Prague                    4  | REP. CECA - 1. LIGA  | 381 gare
  170. Sporting Gijón                   4  | SPAGNA - LALIGA 2  | 469 gare
@@ -2007,7 +2007,7 @@ Squadre: 823
  346. Grêmio                           2  | BRASILE - SÉRIE A  | 413 gare
  347. Gubbio                           2  | ITALIA - SERIE C  | 385 gare
  348. Guingamp                         2  | FRANCIA - LIGUE 2  | 297 gare
- 349. Halmstads BK                     2  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 349. Halmstads BK                     2  | SVEZIA - ALLSVENSKAN  | 357 gare
  350. Heart of Midlothian              2  | SCOZIA - PREMIERSHIP  | 410 gare
  351. Hobro                            2  | DANIMARCA - 1. DIVISION  | 239 gare
  352. Hull City                        2  | INGHILTERRA - PREMIER LEAGUE  | 464 gare

@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 03/11/2026 20:43 (ora italiana)
+Aggiornato: 03/11/2026 21:38 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1160,20 +1160,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (215 partite giocate) + 2025
+Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      19  🟢 63%  👻 37/42
-   2. Kalmar FF                        11  👻 37/42
-   3. Brommapojkarna                    6  🟢 50%  🔴  👻 37/42
-   4. Hammarby                          6  🟢 50%  👻 37/42
-   5. Häcken                            6  🟢 50%  👻 37/42
-   6. Malmö FF                          6  🟢 50%  👻 37/42
-   7. Halmstads BK                      4  🟢 75%  👻 37/42
-   8. Mjällby                           4  🟢 50%  👻 37/42
-   9. Sirius                            2  🟢 100%  🔴  👻 37/42
-  10. IFK Göteborg                      1  👻 37/42
+   1. Västerås SK                      19  🟢 63%  👻 38/42
+   2. Kalmar FF                        11  👻 38/42
+   3. Brommapojkarna                    6  🟢 50%  🔴  👻 38/42
+   4. Hammarby                          6  🟢 50%  👻 38/42
+   5. Häcken                            6  🟢 50%  👻 38/42
+   6. Malmö FF                          6  🟢 50%  👻 38/42
+   7. Halmstads BK                      5  🟢 80%  👻 38/42
+   8. Mjällby                           4  🟢 50%  👻 38/42
+   9. Sirius                            3  🟢 100%  🔴  👻 38/42
+  10. IFK Göteborg                      1  👻 38/42
 
 RITARDI X2 + GOAL
    1. Häcken                            6  🟢 50%
@@ -1181,21 +1181,21 @@ RITARDI X2 + GOAL
    3. Degerfors                         3  🟢 100%  🔴
    4. Kalmar FF                         3
    5. GAIS                              2  🟢 50%
-   6. Västerås SK                       2  🟢 50%
-   7. AIK                               1  🟢 100%
-   8. Djurgården                        1  🟢 100%
-   9. Elfsborg                          1  🟢 100%
-  10. Halmstads BK                      1  🟢 100%
+   6. Halmstads BK                      2  🟢 100%
+   7. Sirius                            2  🟢 100%
+   8. Västerås SK                       2  🟢 50%
+   9. AIK                               1  🟢 100%
+  10. Djurgården                        1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Häcken                            8  🟢 50%  👻 37/42
    2. IFK Göteborg                      6  🟢 50%  👻 37/42
    3. Brommapojkarna                    4  🟢 50%  🔴  👻 37/42
    4. Kalmar FF                         3  👻 37/42
-   5. Västerås SK                       2  🟢 50%  👻 37/42
-   6. Halmstads BK                      1  🟢 100%  👻 37/42
-   7. Mjällby                           1  👻 37/42
-   8. Sirius                            1  🟢 100%  🔴  👻 37/42
+   5. Halmstads BK                      2  🟢 100%  👻 37/42
+   6. Sirius                            2  🟢 100%  🔴  👻 37/42
+   7. Västerås SK                       2  🟢 50%  👻 37/42
+   8. Mjällby                           1  👻 37/42
    9. AIK                               0  👻 37/42
   10. Degerfors                         0  👻 37/42
 
@@ -1246,16 +1246,16 @@ Stagione 2026/2027 (102 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Liberec                    8  🟢 62%  👻 38/42
-   2. Jablonec                          4  🟢 75%  👻 38/42
-   3. Pardubice                         4  🟢 100%  👻 38/42
-   4. Viktoria Plzeň                    4  🟢 100%  👻 38/42
-   5. Baník Ostrava                     3  👻 38/42
-   6. Teplice                           3  👻 38/42
-   7. Bohemians 1905                    1  👻 38/42
-   8. FC Zbrojovka Brno                 1  🟢 100%  👻 38/42
-   9. Sigma Olomouc                     1  🟢 100%  👻 38/42
-  10. Slavia Prague                     1  🟢 100%  👻 38/42
+   1. Slovan Liberec                    8  🟢 62%  👻 37/42
+   2. Jablonec                          4  🟢 75%  👻 37/42
+   3. Pardubice                         4  🟢 100%  👻 37/42
+   4. Viktoria Plzeň                    4  🟢 100%  👻 37/42
+   5. Baník Ostrava                     3  👻 37/42
+   6. Teplice                           3  👻 37/42
+   7. Bohemians 1905                    1  👻 37/42
+   8. FC Zbrojovka Brno                 1  🟢 100%  👻 37/42
+   9. Sigma Olomouc                     1  🟢 100%  👻 37/42
+  10. Slavia Prague                     1  🟢 100%  👻 37/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    28  🟢 82%
@@ -1897,7 +1897,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 03/11/2026 20:43 (ora italiana)
+Aggiornato: 03/11/2026 21:38 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3054,20 +3054,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (215 partite giocate) + 2025
+Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      10  🟢 50%  👻 37/42
-   2. Degerfors                         7  🟢 57%  👻 37/42
-   3. Kalmar FF                         5  🟢 60%  👻 37/42
-   4. Brommapojkarna                    3  👻 37/42
-   5. Häcken                            3  🟢 67%  🔴  👻 37/42
-   6. Malmö FF                          3  👻 37/42
-   7. Halmstads BK                      2  🟢 50%  👻 37/42
-   8. Hammarby                          2  🟢 50%  🔴  👻 37/42
-   9. Mjällby                           2  🟢 50%  👻 37/42
-  10. Sirius                            1  🟢 100%  👻 37/42
+   1. Västerås SK                      10  🟢 50%  👻 38/42
+   2. Degerfors                         7  🟢 57%  👻 38/42
+   3. Kalmar FF                         5  🟢 60%  👻 38/42
+   4. Brommapojkarna                    3  👻 38/42
+   5. Häcken                            3  🟢 67%  🔴  👻 38/42
+   6. Malmö FF                          3  👻 38/42
+   7. Halmstads BK                      2  🟢 50%  👻 38/42
+   8. Hammarby                          2  🟢 50%  🔴  👻 38/42
+   9. Mjällby                           2  🟢 50%  👻 38/42
+  10. Sirius                            2  🟢 100%  👻 38/42
 
 RITARDI X2 + GOAL
    1. Halmstads BK                      7  🟢 71%
@@ -3091,7 +3091,7 @@ RITARDI 12 + GOAL
    7. Hammarby                          2  🟢 50%  👻 37/42
    8. IFK Göteborg                      2  🟢 50%  👻 37/42
    9. Degerfors                         1  🟢 100%  👻 37/42
-  10. Västerås SK                       1  👻 37/42
+  10. Sirius                            1  🟢 100%  👻 37/42
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -3140,16 +3140,16 @@ Stagione 2026/2027 (102 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Baník Ostrava                    11  🟢 55%  👻 38/42
-   2. Bohemians 1905                    4  👻 38/42
-   3. Hradec Králové                    4  🟢 75%  👻 38/42
-   4. Sigma Olomouc                     4  🟢 75%  👻 38/42
-   5. Slovan Liberec                    3  🟢 100%  👻 38/42
-   6. Viktoria Plzeň                    3  🟢 100%  🔴  👻 38/42
-   7. Jablonec                          2  🟢 100%  🔴  👻 38/42
-   8. Pardubice                         2  🟢 100%  👻 38/42
-   9. Slovácko                          2  🟢 100%  👻 38/42
-  10. Teplice                           1  👻 38/42
+   1. Baník Ostrava                    11  🟢 55%  👻 37/42
+   2. Bohemians 1905                    4  👻 37/42
+   3. Hradec Králové                    4  🟢 75%  👻 37/42
+   4. Sigma Olomouc                     4  🟢 75%  👻 37/42
+   5. Slovan Liberec                    3  🟢 100%  👻 37/42
+   6. Viktoria Plzeň                    3  🟢 100%  🔴  👻 37/42
+   7. Jablonec                          2  🟢 100%  🔴  👻 37/42
+   8. Pardubice                         2  🟢 100%  👻 37/42
+   9. Slovácko                          2  🟢 100%  👻 37/42
+  10. Teplice                           1  👻 37/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    14  🟢 93%
@@ -3791,7 +3791,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 03/11/2026 20:43 (ora italiana)
+Aggiornato: 03/11/2026 21:38 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4948,20 +4948,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (215 partite giocate) + 2025
+Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      11  🟢 82%  👻 37/42
-   2. Häcken                            7  🟢 57%  👻 37/42
-   3. Kalmar FF                         6  👻 37/42
-   4. Malmö FF                          6  🟢 50%  👻 37/42
-   5. Hammarby                          4  🟢 50%  👻 37/42
-   6. Sirius                            4  🟢 50%  🔴  👻 37/42
-   7. Brommapojkarna                    3  🟢 67%  🔴  👻 37/42
-   8. Halmstads BK                      2  🟢 100%  👻 37/42
-   9. Mjällby                           2  🟢 50%  👻 37/42
-  10. GAIS                              1  👻 37/42
+   1. Västerås SK                      11  🟢 82%  👻 38/42
+   2. Häcken                            7  🟢 57%  👻 38/42
+   3. Kalmar FF                         6  👻 38/42
+   4. Malmö FF                          6  🟢 50%  👻 38/42
+   5. Hammarby                          4  🟢 50%  👻 38/42
+   6. Sirius                            4  🟢 50%  🔴  👻 38/42
+   7. Brommapojkarna                    3  🟢 67%  🔴  👻 38/42
+   8. Halmstads BK                      3  🟢 100%  👻 38/42
+   9. Mjällby                           2  🟢 50%  👻 38/42
+  10. GAIS                              1  👻 38/42
 
 RITARDI X2 + GOAL
    1. Häcken                            8  🟢 62%  🔴
@@ -4972,8 +4972,8 @@ RITARDI X2 + GOAL
    6. Sirius                            2  🟢 50%  🔴
    7. Västerås SK                       2  🟢 50%
    8. AIK                               1  🟢 100%  🔴
-   9. IFK Göteborg                      1
-  10. Kalmar FF                         1
+   9. Halmstads BK                      1  🟢 100%
+  10. IFK Göteborg                      1
 
 RITARDI 12 + GOAL
    1. Djurgården                        9  👻 37/42
@@ -4985,7 +4985,7 @@ RITARDI 12 + GOAL
    7. Sirius                            2  🟢 50%  🔴  👻 37/42
    8. Västerås SK                       2  🟢 50%  👻 37/42
    9. GAIS                              1  👻 37/42
-  10. Kalmar FF                         1  👻 37/42
+  10. Halmstads BK                      1  🟢 100%  👻 37/42
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -5034,16 +5034,16 @@ Stagione 2026/2027 (102 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Liberec                    7  👻 38/42
-   2. FC Zbrojovka Brno                 5  🟢 100%  👻 38/42
-   3. Pardubice                         4  🟢 75%  👻 38/42
-   4. Slavia Prague                     4  🟢 75%  👻 38/42
-   5. Teplice                           4  🟢 75%  🔴  👻 38/42
-   6. Jablonec                          3  🟢 67%  👻 38/42
-   7. Sparta Prague                     3  👻 38/42
-   8. Artis Brno                        2  🟢 50%  👻 38/42
-   9. Viktoria Plzeň                    2  🟢 100%  👻 38/42
-  10. Baník Ostrava                     1  👻 38/42
+   1. Slovan Liberec                    7  👻 37/42
+   2. FC Zbrojovka Brno                 5  🟢 100%  👻 37/42
+   3. Pardubice                         4  🟢 75%  👻 37/42
+   4. Slavia Prague                     4  🟢 75%  👻 37/42
+   5. Teplice                           4  🟢 75%  🔴  👻 37/42
+   6. Jablonec                          3  🟢 67%  👻 37/42
+   7. Sparta Prague                     3  👻 37/42
+   8. Artis Brno                        2  🟢 50%  👻 37/42
+   9. Viktoria Plzeň                    2  🟢 100%  👻 37/42
+  10. Baník Ostrava                     1  👻 37/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    15  🟢 67%  🔴
