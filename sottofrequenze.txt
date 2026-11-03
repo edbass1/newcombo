@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -140,32 +140,30 @@ INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 Cardiff City                   50/100
-    2/24 Preston North End              49/100
-    3/24 West Bromwich Albion           48/100
+    2/24 West Bromwich Albion           49/100
+    3/24 Preston North End              49/100
     4/24 West Ham United                47/100
-    5/24 Watford                        47/100
-    6/24 Norwich City                   47/100
+    5/24 Watford                        46/100
+    6/24 Norwich City                   46/100
      ...
    24/24 Sheffield United               30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Wolverhampton Wanderers        40/100
-    2/24 Preston North End              40/100
+    1/24 Preston North End              41/100
+    2/24 Wolverhampton Wanderers        40/100
     3/24 West Ham United                39/100
-    4/24 Wrexham                        38/100
-    5/24 Southampton                    38/100
+    4/24 Southampton                    39/100
+    5/24 Wrexham                        38/100
     6/24 Derby County                   38/100
      ...
    24/24 Lincoln City                   26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/24 Southampton                    48/100
-    2/24 Norwich City                   47/100
-    3/24 Queens Park Rangers            46/100
+    2/24 Queens Park Rangers            46/100
+    3/24 Norwich City                   46/100
     4/24 Bolton Wanderers               43/100
-    5/24 West Ham United                38/100
-    6/24 Sheffield United               38/100
-    7/24 Middlesbrough                  38/100
+    5/24 Sheffield United               39/100
      ...
    24/24 Millwall                       27/100  (la fa meno spesso)
 
@@ -196,7 +194,6 @@ SOTTOFREQUENZA 12 + GOAL
     3/24 Reading                        40/100
     4/24 Leyton Orient                  40/100
     5/24 Stockport County               39/100
-    6/24 Mansfield Town                 39/100
      ...
    24/24 Wigan Athletic                 22/100  (la fa meno spesso)
 
@@ -1473,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1614,8 +1611,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 West Ham United                43/100
-    2/24 Charlton Athletic              40/100
-    3/24 Queens Park Rangers            39/100
+    2/24 Queens Park Rangers            40/100
+    3/24 Charlton Athletic              40/100
     4/24 Wolverhampton Wanderers        37/100
     5/24 Southampton                    37/100
      ...
@@ -1647,9 +1644,9 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/24 Luton Town                     41/100
     2/24 Oxford United                  40/100
-    3/24 Bromley                        37/100
-    4/24 Barnsley                       37/100
-    5/24 Huddersfield Town              36/100
+    3/24 Huddersfield Town              37/100
+    4/24 Bromley                        37/100
+    5/24 Barnsley                       37/100
      ...
    24/24 Stockport County               25/100  (la fa meno spesso)
 
@@ -2898,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3036,8 +3033,8 @@ INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 West Bromwich Albion           49/100
-    2/24 Southampton                    46/100
-    3/24 Norwich City                   46/100
+    2/24 Southampton                    47/100
+    3/24 Norwich City                   45/100
     4/24 Watford                        44/100
     5/24 Charlton Athletic              43/100
      ...
@@ -3050,17 +3047,16 @@ SOTTOFREQUENZA X2 + GOAL
     4/24 Charlton Athletic              40/100
     5/24 Southampton                    39/100
      ...
-   24/24 Stoke City                     24/100  (la fa meno spesso)
+   24/24 Stoke City                     25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/24 Southampton                    47/100
-    2/24 Middlesbrough                  47/100
+    1/24 Middlesbrough                  47/100
+    2/24 Southampton                    46/100
     3/24 Norwich City                   40/100
     4/24 Derby County                   39/100
     5/24 West Bromwich Albion           37/100
-    6/24 Burnley                        37/100
      ...
-   24/24 Lincoln City                   23/100  (la fa meno spesso)
+   24/24 Lincoln City                   22/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -3069,7 +3065,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/24 Wigan Athletic                 49/100
     2/24 Leicester City                 48/100
     3/24 Reading                        47/100
-    4/24 Luton Town                     44/100
+    4/24 Luton Town                     45/100
     5/24 Peterborough United            43/100
     6/24 Huddersfield Town              43/100
      ...
@@ -3079,7 +3075,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/24 Notts County                   48/100
     2/24 Stockport County               45/100
     3/24 Barnsley                       45/100
-    4/24 Mansfield Town                 41/100
+    4/24 Mansfield Town                 40/100
     5/24 Wycombe Wanderers              39/100
     6/24 Oxford United                  39/100
     7/24 Bromley                        39/100

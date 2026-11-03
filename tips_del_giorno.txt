@@ -1,11 +1,8 @@
 TIPS DEL GIORNO - 03/11/2026
-Aggiornato: 03/11/2026 22:34 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 03/11/2026 23:33 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 100,0  (Freq 100 · Rit 100 · Lega 100 · GG 100 · xG 100)
-    Il 12+GOAL si fa aspettare da Mirassol: 7 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 30%). In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 6 volte e l'xG è alto.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.

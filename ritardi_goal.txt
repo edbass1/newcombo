@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -176,73 +176,73 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (156 partite giocate) + 2025/2026
+Stagione 2026/2027 (165 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                  9  🟢 78%
-   2. Birmingham City                   5  🟢 60%
-   3. Stoke City                        5  🟢 60%
+   1. Bolton Wanderers                 10  🟢 70%
+   2. Birmingham City                   6  🟢 67%
+   3. Stoke City                        6  🟢 67%
    4. Bristol City                      4
-   5. Swansea City                      4  🟢 50%
+   5. Charlton Athletic                 4  🟢 75%
    6. West Ham United                   4  🟢 75%
-   7. Charlton Athletic                 3  🟢 100%
-   8. Blackburn Rovers                  2  🟢 100%
-   9. Cardiff City                      2  🟢 50%  🔴
+   7. Blackburn Rovers                  3  🟢 100%
+   8. Cardiff City                      2  🟢 50%  🔴
+   9. Lincoln City                      2  🟢 50%
   10. Middlesbrough                     2  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Watford                           6  🟢 67%  ❗ 10/42
-   2. Blackburn Rovers                  5  🟢 80%  ❗ 10/42
-   3. Swansea City                      5  🟢 60%  ❗ 10/42
-   4. Queens Park Rangers               4  🟢 100%  ❗ 10/42
-   5. Stoke City                        3  ❗ 10/42
-   6. Wrexham                           3  🟢 67%  ❗ 10/42
-   7. Burnley                           2  🟢 50%  ❗ 10/42
-   8. Cardiff City                      2  🟢 50%  ❗ 10/42
-   9. Millwall                          2  🟢 100%  ❗ 10/42
-  10. Portsmouth                        2  🟢 50%  ❗ 10/42
+   1. Watford                           7  🟢 57%  ❗ 9/42
+   2. Swansea City                      6  🟢 67%  ❗ 9/42
+   3. Millwall                          3  🟢 100%  ❗ 9/42
+   4. Portsmouth                        3  🟢 67%  ❗ 9/42
+   5. Wrexham                           3  🟢 67%  ❗ 9/42
+   6. Cardiff City                      2  🟢 50%  ❗ 9/42
+   7. Charlton Athletic                 2  🟢 50%  ❗ 9/42
+   8. Derby County                      2  🟢 100%  ❗ 9/42
+   9. Norwich City                      2  🟢 100%  ❗ 9/42
+  10. Wolverhampton Wanderers           2  🟢 50%  🔴  ❗ 9/42
 
 RITARDI 12 + GOAL
-   1. Swansea City                      4  🟢 50%  ❗ 13/42
-   2. Cardiff City                      3  🟢 67%  ❗ 13/42
-   3. Sheffield United                  3  ❗ 13/42
-   4. Stoke City                        3  ❗ 13/42
-   5. Wolverhampton Wanderers           3  🟢 67%  ❗ 13/42
-   6. Blackburn Rovers                  2  🟢 100%  ❗ 13/42
-   7. Preston North End                 2  🟢 100%  ❗ 13/42
-   8. Wrexham                           2  🟢 50%  ❗ 13/42
-   9. Burnley                           1  ❗ 13/42
-  10. Charlton Athletic                 1  🟢 100%  ❗ 13/42
+   1. Cardiff City                      3  🟢 67%  ❗ 13/42
+   2. Wolverhampton Wanderers           3  🟢 67%  ❗ 13/42
+   3. Burnley                           2  🟢 50%  ❗ 13/42
+   4. Charlton Athletic                 2  🟢 50%  ❗ 13/42
+   5. Wrexham                           2  🟢 50%  ❗ 13/42
+   6. Birmingham City                   1  🟢 100%  ❗ 13/42
+   7. Bolton Wanderers                  1  ❗ 13/42
+   8. Derby County                      1  🟢 100%  ❗ 13/42
+   9. Lincoln City                      1  ❗ 13/42
+  10. Middlesbrough                     1  🟢 100%  ❗ 13/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
-Stagione 2026/2027 (155 partite giocate) + 2025/2026
+Stagione 2026/2027 (157 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
    1. Bradford City                     5
-   2. Plymouth Argyle                   4  🟢 75%
-   3. Mansfield Town                    3  🟢 100%
+   2. Mansfield Town                    4  🟢 75%
+   3. Plymouth Argyle                   4  🟢 75%
    4. Burton Albion                     1  🟢 100%
    5. Cambridge United                  1  🟢 100%
-   6. Huddersfield Town                 1  🟢 100%
-   7. Leyton Orient                     1  🟢 100%
-   8. Luton Town                        1  🟢 100%  🔴
-   9. Notts County                      1  🟢 100%
-  10. Peterborough United               1  🟢 100%  🔴
+   6. Leyton Orient                     1  🟢 100%
+   7. Notts County                      1  🟢 100%
+   8. Peterborough United               1  🟢 100%  🔴
+   9. Reading                           1
+  10. Wigan Athletic                    1
 
 RITARDI X2 + GOAL
-   1. Wigan Athletic                   18  🟢 56%  ❗ 13/42
-   2. Doncaster Rovers                  8  🟢 75%  ❗ 13/42
-   3. Leyton Orient                     7  🟢 57%  ❗ 13/42
-   4. Bradford City                     5  ❗ 13/42
-   5. Luton Town                        5  🟢 100%  ❗ 13/42
-   6. Milton Keynes Dons                5  🟢 80%  ❗ 13/42
-   7. Huddersfield Town                 4  🟢 100%  ❗ 13/42
-   8. Reading                           4  🔴  ❗ 13/42
-   9. Burton Albion                     3  🟢 67%  ❗ 13/42
-  10. Bromley                           2  🟢 100%  ❗ 13/42
+   1. Wigan Athletic                   19  🟢 53%  ❗ 12/42
+   2. Doncaster Rovers                  8  🟢 75%  ❗ 12/42
+   3. Leyton Orient                     7  🟢 57%  ❗ 12/42
+   4. Bradford City                     5  ❗ 12/42
+   5. Milton Keynes Dons                5  🟢 80%  ❗ 12/42
+   6. Reading                           4  🔴  ❗ 12/42
+   7. Burton Albion                     3  🟢 67%  ❗ 12/42
+   8. Bromley                           2  🟢 100%  ❗ 12/42
+   9. Mansfield Town                    2  🟢 50%  ❗ 12/42
+  10. Stockport County                  2  🟢 50%  ❗ 12/42
 
 RITARDI 12 + GOAL
    1. Bradford City                     9
@@ -252,50 +252,50 @@ RITARDI 12 + GOAL
    5. Wycombe Wanderers                 4  🟢 100%
    6. Oxford United                     3
    7. Cambridge United                  2  🟢 100%
-   8. Leicester City                    2  🟢 100%
-   9. Peterborough United               2  🟢 100%  🔴
-  10. Barnsley                          1  🟢 100%  🔴
+   8. Huddersfield Town                 2  🟢 100%
+   9. Leicester City                    2  🟢 100%
+  10. Luton Town                        2  🟢 100%
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
-Stagione 2026/2027 (163 partite giocate) + 2025/2026
+Stagione 2026/2027 (164 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Walsall                           3  🟢 100%  🔥 5/42
-   2. Colchester United                 2  🟢 100%  🔥 5/42
-   3. Gillingham                        2  🟢 100%  🔥 5/42
-   4. Crawley Town                      1  🔥 5/42
-   5. Oldham Athletic                   1  🔥 5/42
-   6. Shrewsbury Town                   1  🟢 100%  🔥 5/42
-   7. Accrington Stanley                0  🔥 5/42
-   8. Barnet                            0  🔥 5/42
-   9. Bristol Rovers                    0  🔥 5/42
-  10. Cheltenham Town                   0  🔴  🔥 5/42
+   1. Walsall                           3  🟢 100%  🔥 7/42
+   2. Colchester United                 2  🟢 100%  🔥 7/42
+   3. Gillingham                        2  🟢 100%  🔥 7/42
+   4. Oldham Athletic                   2  🔥 7/42
+   5. Crawley Town                      1  🔥 7/42
+   6. Northampton Town                  1  🔥 7/42
+   7. Shrewsbury Town                   1  🟢 100%  🔥 7/42
+   8. Accrington Stanley                0  🔥 7/42
+   9. Barnet                            0  🔥 7/42
+  10. Bristol Rovers                    0  🔥 7/42
 
 RITARDI X2 + GOAL
-   1. Exeter City                      10  ❗ 12/42
-   2. Cheltenham Town                   7  🟢 86%  ❗ 12/42
-   3. Fleetwood Town                    4  🟢 100%  🔴  ❗ 12/42
-   4. York City                         3  🟢 100%  ❗ 12/42
-   5. Bristol Rovers                    2  🟢 50%  ❗ 12/42
-   6. Chesterfield                      2  🟢 100%  ❗ 12/42
-   7. Newport County                    2  🟢 50%  ❗ 12/42
-   8. Port Vale                         2  🟢 100%  ❗ 12/42
-   9. Rochdale                          2  🟢 100%  ❗ 12/42
-  10. Swindon Town                      2  🟢 50%  ❗ 12/42
+   1. Exeter City                      10  ❗ 14/42
+   2. Cheltenham Town                   7  🟢 86%  ❗ 14/42
+   3. Fleetwood Town                    4  🟢 100%  🔴  ❗ 14/42
+   4. York City                         3  🟢 100%  ❗ 14/42
+   5. Bristol Rovers                    2  🟢 50%  ❗ 14/42
+   6. Chesterfield                      2  🟢 100%  ❗ 14/42
+   7. Newport County                    2  🟢 50%  ❗ 14/42
+   8. Oldham Athletic                   2  ❗ 14/42
+   9. Port Vale                         2  🟢 100%  ❗ 14/42
+  10. Rochdale                          2  🟢 100%  ❗ 14/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                12+  🟢 58%  👻 35/42
-   2. Accrington Stanley                3  🟢 100%  👻 35/42
-   3. Oldham Athletic                   3  🟢 67%  👻 35/42
-   4. Crawley Town                      2  🟢 50%  👻 35/42
-   5. Barnet                            1  🟢 100%  🔴  👻 35/42
-   6. Crewe Alexandra                   1  🟢 100%  👻 35/42
-   7. Bristol Rovers                    0  🔴  👻 35/42
-   8. Cheltenham Town                   0  👻 35/42
-   9. Chesterfield                      0  👻 35/42
-  10. Colchester United                 0  👻 35/42
+   1. Northampton Town                13+  🟢 54%  👻 36/42
+   2. Oldham Athletic                   4  🟢 50%  👻 36/42
+   3. Accrington Stanley                3  🟢 100%  👻 36/42
+   4. Crawley Town                      2  🟢 50%  👻 36/42
+   5. Barnet                            1  🟢 100%  🔴  👻 36/42
+   6. Crewe Alexandra                   1  🟢 100%  👻 36/42
+   7. Bristol Rovers                    0  🔴  👻 36/42
+   8. Cheltenham Town                   0  👻 36/42
+   9. Chesterfield                      0  👻 36/42
+  10. Colchester United                 0  👻 36/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -807,16 +807,16 @@ RITARDI 1X + GOAL
   10. Yverdon                           0  🔴
 
 RITARDI X2 + GOAL
-   1. FC Stade Lausanne-Ouchy           7  🟢 71%  🔴  ❗ 14/42
-   2. Winterthur                        6  🟢 83%  ❗ 14/42
-   3. Yverdon                           6  🟢 83%  ❗ 14/42
-   4. Wil                               1  🟢 100%  ❗ 14/42
-   5. Aarau                             0  🔴  ❗ 14/42
-   6. Etoile Carouge                    0  ❗ 14/42
-   7. FC Rapperswil-Jona                0  ❗ 14/42
-   8. Kriens                            0  ❗ 14/42
-   9. Stade Nyonnais                    0  ❗ 14/42
-  10. Xamax                             0  🔴  ❗ 14/42
+   1. FC Stade Lausanne-Ouchy           7  🟢 71%  🔴  ❗ 13/42
+   2. Winterthur                        6  🟢 83%  ❗ 13/42
+   3. Yverdon                           6  🟢 83%  ❗ 13/42
+   4. Wil                               1  🟢 100%  ❗ 13/42
+   5. Aarau                             0  🔴  ❗ 13/42
+   6. Etoile Carouge                    0  ❗ 13/42
+   7. FC Rapperswil-Jona                0  ❗ 13/42
+   8. Kriens                            0  ❗ 13/42
+   9. Stade Nyonnais                    0  ❗ 13/42
+  10. Xamax                             0  🔴  ❗ 13/42
 
 RITARDI 12 + GOAL
    1. Wil                              10  🟢 100%
@@ -836,16 +836,16 @@ Stagione 2026/2027 (66 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 3,7 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Hartberg                          2  🟢 50%  🔥 7/42
-   2. Austria Wien                      1  🟢 100%  🔥 7/42
-   3. Grazer AK                         1  🟢 100%  🔥 7/42
-   4. Rapid Wien                        1  🟢 100%  🔴  🔥 7/42
-   5. Altach                            0  🔥 7/42
-   6. Austria Lustenau                  0  🔥 7/42
-   7. LASK                              0  🔥 7/42
-   8. Ried                              0  🔥 7/42
-   9. Salzburg                          0  🔴  🔥 7/42
-  10. Sturm Graz                        0  🔴  🔥 7/42
+   1. Hartberg                          2  🟢 50%  🔥 6/42
+   2. Austria Wien                      1  🟢 100%  🔥 6/42
+   3. Grazer AK                         1  🟢 100%  🔥 6/42
+   4. Rapid Wien                        1  🟢 100%  🔴  🔥 6/42
+   5. Altach                            0  🔥 6/42
+   6. Austria Lustenau                  0  🔥 6/42
+   7. LASK                              0  🔥 6/42
+   8. Ried                              0  🔥 6/42
+   9. Salzburg                          0  🔴  🔥 6/42
+  10. Sturm Graz                        0  🔴  🔥 6/42
 
 RITARDI X2 + GOAL
    1. Rapid Wien                        9  🟢 100%  👻 42/42
@@ -1287,16 +1287,16 @@ Stagione 2026/2027 (104 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Vlašim                         4  🟢 75%  🔴  🔥 6/42
-   2. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 6/42
-   3. Ústí nad Labem                    2  🟢 100%  🔥 6/42
-   4. Baník Ostrava B                   1  🟢 100%  🔥 6/42
-   5. Dukla Praha                       1  🔥 6/42
-   6. FC Silon Táborsko                 1  🟢 100%  🔥 6/42
-   7. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 6/42
-   8. Kladno                            1  🟢 100%  🔥 6/42
-   9. Opava                             1  🔥 6/42
-  10. Příbram                           1  🟢 100%  🔥 6/42
+   1. FC Vlašim                         4  🟢 75%  🔴  🔥 5/42
+   2. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 5/42
+   3. Ústí nad Labem                    2  🟢 100%  🔥 5/42
+   4. Baník Ostrava B                   1  🟢 100%  🔥 5/42
+   5. Dukla Praha                       1  🔥 5/42
+   6. FC Silon Táborsko                 1  🟢 100%  🔥 5/42
+   7. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 5/42
+   8. Kladno                            1  🟢 100%  🔥 5/42
+   9. Opava                             1  🔥 5/42
+  10. Příbram                           1  🟢 100%  🔥 5/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         8  🟢 88%  🔴  🔥 2/42
@@ -1666,16 +1666,16 @@ RITARDI 1X + GOAL
   10. Los Angeles FC                    1  🟢 100%  🔥 4/42
 
 RITARDI X2 + GOAL
-   1. Columbus Crew                    11  🟢 91%  ❗ 9/42
-   2. Red Bull New York                11  🟢 73%  ❗ 9/42
-   3. DC United                         7  🟢 100%  🔴  ❗ 9/42
-   4. Toronto FC                        4  🟢 100%  ❗ 9/42
-   5. Charlotte FC                      3  🟢 100%  ❗ 9/42
-   6. Houston Dynamo FC                 3  ❗ 9/42
-   7. Nashville SC                      3  🟢 67%  ❗ 9/42
-   8. Vancouver Whitecaps               3  🟢 67%  ❗ 9/42
-   9. Atlanta United                    2  🟢 100%  ❗ 9/42
-  10. Philadelphia Union                2  ❗ 9/42
+   1. Columbus Crew                    11  🟢 91%  ❗ 10/42
+   2. Red Bull New York                11  🟢 73%  ❗ 10/42
+   3. DC United                         7  🟢 100%  🔴  ❗ 10/42
+   4. Toronto FC                        4  🟢 100%  ❗ 10/42
+   5. Charlotte FC                      3  🟢 100%  ❗ 10/42
+   6. Houston Dynamo FC                 3  ❗ 10/42
+   7. Nashville SC                      3  🟢 67%  ❗ 10/42
+   8. Vancouver Whitecaps               3  🟢 67%  ❗ 10/42
+   9. Atlanta United                    2  🟢 100%  ❗ 10/42
+  10. Philadelphia Union                2  ❗ 10/42
 
 RITARDI 12 + GOAL
    1. CF Montréal                       5  🟢 100%  ❗ 10/42
@@ -1881,23 +1881,23 @@ RITARDI X2 + GOAL
   10. Pogoń Siedlce                     0  🔴
 
 RITARDI 12 + GOAL
-   1. Odra Opole                        9  👻 36/42
-   2. Ruch Chorzów                      6  🟢 83%  👻 36/42
-   3. Pogoń Grodzisk Mazowiecki         5  🟢 60%  👻 36/42
-   4. ŁKS Łódź                          5  🟢 60%  👻 36/42
-   5. Miedź Legnica                     4  🟢 75%  👻 36/42
-   6. Polonia Warszawa                  3  🟢 67%  👻 36/42
-   7. Stal Mielec                       3  🔴  👻 36/42
-   8. Warta Poznań                      3  👻 36/42
-   9. Chrobry Głogów                    2  👻 36/42
-  10. Pogoń Siedlce                     2  🟢 50%  👻 36/42
+   1. Odra Opole                        9  👻 35/42
+   2. Ruch Chorzów                      6  🟢 83%  👻 35/42
+   3. Pogoń Grodzisk Mazowiecki         5  🟢 60%  👻 35/42
+   4. ŁKS Łódź                          5  🟢 60%  👻 35/42
+   5. Miedź Legnica                     4  🟢 75%  👻 35/42
+   6. Polonia Warszawa                  3  🟢 67%  👻 35/42
+   7. Stal Mielec                       3  🔴  👻 35/42
+   8. Warta Poznań                      3  👻 35/42
+   9. Chrobry Głogów                    2  👻 35/42
+  10. Pogoń Siedlce                     2  🟢 50%  👻 35/42
 
 ##################################################
 # CASA
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2070,48 +2070,48 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (156 partite giocate) + 2025/2026
+Stagione 2026/2027 (165 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Bolton Wanderers                  6  🟢 67%  🔴
    2. Bristol City                      4
-   3. Stoke City                        3  🟢 67%
-   4. Watford                           3  🟢 100%
-   5. Birmingham City                   2  🟢 100%
-   6. Burnley                           2  🟢 50%
-   7. Swansea City                      2  🟢 50%
-   8. West Ham United                   2  🟢 100%
-   9. Wolverhampton Wanderers           2  🟢 50%
-  10. Blackburn Rovers                  1  🟢 100%
+   3. Watford                           4  🟢 75%
+   4. Birmingham City                   3  🟢 100%
+   5. Stoke City                        3  🟢 67%
+   6. Blackburn Rovers                  2  🟢 100%
+   7. Burnley                           2  🟢 50%
+   8. Charlton Athletic                 2  🟢 50%
+   9. Derby County                      2  🟢 50%
+  10. Swansea City                      2  🟢 50%
 
 RITARDI X2 + GOAL
-   1. Swansea City                      8  🟢 62%  ❗ 10/42
-   2. Bristol City                      7  ❗ 10/42
-   3. Southampton                       7  🟢 71%  ❗ 10/42
-   4. Blackburn Rovers                  3  🟢 100%  ❗ 10/42
-   5. Cardiff City                      3  🟢 67%  ❗ 10/42
-   6. Norwich City                      3  ❗ 10/42
-   7. Birmingham City                   2  🟢 100%  ❗ 10/42
-   8. Portsmouth                        2  🟢 100%  ❗ 10/42
-   9. Queens Park Rangers               2  🟢 100%  🔴  ❗ 10/42
-  10. Stoke City                        2  🟢 50%  ❗ 10/42
+   1. Swansea City                      8  🟢 62%  ❗ 9/42
+   2. Bristol City                      7  ❗ 9/42
+   3. Southampton                       7  🟢 71%  ❗ 9/42
+   4. Birmingham City                   3  🟢 100%  ❗ 9/42
+   5. Cardiff City                      3  🟢 67%  ❗ 9/42
+   6. Norwich City                      3  ❗ 9/42
+   7. Portsmouth                        3  🟢 100%  ❗ 9/42
+   8. Watford                           3  🟢 67%  ❗ 9/42
+   9. Derby County                      2  🟢 50%  ❗ 9/42
+  10. Stoke City                        2  🟢 50%  ❗ 9/42
 
 RITARDI 12 + GOAL
-   1. Birmingham City                   6  🟢 100%  ❗ 13/42
+   1. Birmingham City                   7  🟢 100%  ❗ 13/42
    2. Bristol City                      4  ❗ 13/42
    3. Middlesbrough                     4  🟢 75%  ❗ 13/42
    4. Sheffield United                  4  🟢 50%  ❗ 13/42
-   5. Preston North End                 3  ❗ 13/42
-   6. Wolverhampton Wanderers           3  🟢 67%  ❗ 13/42
-   7. Derby County                      2  🟢 50%  ❗ 13/42
-   8. Stoke City                        2  🟢 50%  ❗ 13/42
-   9. Swansea City                      2  🟢 50%  ❗ 13/42
-  10. Watford                           2  🟢 100%  ❗ 13/42
+   5. Derby County                      3  🟢 67%  ❗ 13/42
+   6. Watford                           3  🟢 67%  ❗ 13/42
+   7. Wolverhampton Wanderers           3  🟢 67%  ❗ 13/42
+   8. Queens Park Rangers               2  🟢 100%  🔴  ❗ 13/42
+   9. Stoke City                        2  🟢 50%  ❗ 13/42
+  10. Swansea City                      2  🟢 50%  ❗ 13/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
-Stagione 2026/2027 (155 partite giocate) + 2025/2026
+Stagione 2026/2027 (157 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
@@ -2127,16 +2127,16 @@ RITARDI 1X + GOAL
   10. Mansfield Town                    1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Wigan Athletic                   15  🟢 60%  ❗ 13/42
-   2. Plymouth Argyle                   6  🟢 67%  ❗ 13/42
-   3. Bradford City                     4  🟢 50%  ❗ 13/42
-   4. Leyton Orient                     4  🟢 75%  ❗ 13/42
-   5. Luton Town                        4  🟢 75%  🔴  ❗ 13/42
-   6. Stevenage                         4  🟢 50%  ❗ 13/42
-   7. Stockport County                  4  🟢 50%  ❗ 13/42
-   8. Doncaster Rovers                  3  🟢 67%  ❗ 13/42
-   9. Milton Keynes Dons                3  🟢 100%  ❗ 13/42
-  10. Oxford United                     3  🔴  ❗ 13/42
+   1. Wigan Athletic                   16  🟢 56%  ❗ 12/42
+   2. Plymouth Argyle                   6  🟢 67%  ❗ 12/42
+   3. Bradford City                     4  🟢 50%  ❗ 12/42
+   4. Leyton Orient                     4  🟢 75%  ❗ 12/42
+   5. Luton Town                        4  🟢 75%  🔴  ❗ 12/42
+   6. Stevenage                         4  🟢 50%  ❗ 12/42
+   7. Stockport County                  4  🟢 50%  ❗ 12/42
+   8. Doncaster Rovers                  3  🟢 67%  ❗ 12/42
+   9. Milton Keynes Dons                3  🟢 100%  ❗ 12/42
+  10. Oxford United                     3  🔴  ❗ 12/42
 
 RITARDI 12 + GOAL
    1. AFC Wimbledon                     7
@@ -2152,44 +2152,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
-Stagione 2026/2027 (163 partite giocate) + 2025/2026
+Stagione 2026/2027 (164 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Bristol Rovers                    6  🟢 50%  🔥 5/42
-   2. Northampton Town                  4  🔥 5/42
-   3. Walsall                           4  🟢 75%  🔥 5/42
-   4. Shrewsbury Town                   3  🔥 5/42
-   5. Colchester United                 2  🟢 50%  🔥 5/42
-   6. Cheltenham Town                   1  🔥 5/42
-   7. Gillingham                        1  🟢 100%  🔥 5/42
-   8. Oldham Athletic                   1  🔥 5/42
-   9. Rochdale                          1  🟢 100%  🔥 5/42
-  10. York City                         1  🟢 100%  🔥 5/42
+   1. Bristol Rovers                    6  🟢 50%  🔥 7/42
+   2. Northampton Town                  5  🔥 7/42
+   3. Walsall                           4  🟢 75%  🔥 7/42
+   4. Shrewsbury Town                   3  🔥 7/42
+   5. Colchester United                 2  🟢 50%  🔥 7/42
+   6. Cheltenham Town                   1  🔥 7/42
+   7. Gillingham                        1  🟢 100%  🔥 7/42
+   8. Oldham Athletic                   1  🔥 7/42
+   9. Rochdale                          1  🟢 100%  🔥 7/42
+  10. York City                         1  🟢 100%  🔥 7/42
 
 RITARDI X2 + GOAL
-   1. Salford City                      7  ❗ 12/42
-   2. Exeter City                       5  ❗ 12/42
-   3. Port Vale                         5  ❗ 12/42
-   4. Cheltenham Town                   4  🟢 75%  ❗ 12/42
-   5. Northampton Town                  4  ❗ 12/42
-   6. Oldham Athletic                   3  ❗ 12/42
-   7. Fleetwood Town                    2  🟢 100%  🔴  ❗ 12/42
-   8. Grimsby Town                      2  🟢 100%  ❗ 12/42
-   9. Barnet                            1  🟢 100%  ❗ 12/42
-  10. Bristol Rovers                    1  ❗ 12/42
+   1. Salford City                      7  ❗ 14/42
+   2. Exeter City                       5  ❗ 14/42
+   3. Northampton Town                  5  ❗ 14/42
+   4. Port Vale                         5  ❗ 14/42
+   5. Cheltenham Town                   4  🟢 75%  ❗ 14/42
+   6. Oldham Athletic                   3  ❗ 14/42
+   7. Fleetwood Town                    2  🟢 100%  🔴  ❗ 14/42
+   8. Grimsby Town                      2  🟢 100%  ❗ 14/42
+   9. Barnet                            1  🟢 100%  ❗ 14/42
+  10. Bristol Rovers                    1  ❗ 14/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                 6+  👻 35/42
-   2. York City                         5  🟢 100%  👻 35/42
-   3. Rochdale                          4  🟢 75%  👻 35/42
-   4. Rotherham United                  2  🟢 100%  👻 35/42
-   5. Accrington Stanley                1  🟢 100%  👻 35/42
-   6. Bristol Rovers                    1  👻 35/42
-   7. Cheltenham Town                   1  👻 35/42
-   8. Crawley Town                      1  🟢 100%  👻 35/42
-   9. Crewe Alexandra                   1  🟢 100%  👻 35/42
-  10. Oldham Athletic                   1  👻 35/42
+   1. Northampton Town                 7+  👻 36/42
+   2. York City                         5  🟢 100%  👻 36/42
+   3. Rochdale                          4  🟢 75%  👻 36/42
+   4. Rotherham United                  2  🟢 100%  👻 36/42
+   5. Accrington Stanley                1  🟢 100%  👻 36/42
+   6. Bristol Rovers                    1  👻 36/42
+   7. Cheltenham Town                   1  👻 36/42
+   8. Crawley Town                      1  🟢 100%  👻 36/42
+   9. Crewe Alexandra                   1  🟢 100%  👻 36/42
+  10. Oldham Athletic                   1  👻 36/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -2701,16 +2701,16 @@ RITARDI 1X + GOAL
   10. Yverdon                           0
 
 RITARDI X2 + GOAL
-   1. FC Stade Lausanne-Ouchy           9  🟢 89%  🔴  ❗ 14/42
-   2. Winterthur                        3  🟢 100%  🔴  ❗ 14/42
-   3. Yverdon                           3  🟢 67%  ❗ 14/42
-   4. Stade Nyonnais                    1  🟢 100%  ❗ 14/42
-   5. Wil                               1  🟢 100%  ❗ 14/42
-   6. Aarau                             0  ❗ 14/42
-   7. Etoile Carouge                    0  ❗ 14/42
-   8. FC Rapperswil-Jona                0  ❗ 14/42
-   9. Kriens                            0  ❗ 14/42
-  10. Xamax                             0  🔴  ❗ 14/42
+   1. FC Stade Lausanne-Ouchy           9  🟢 89%  🔴  ❗ 13/42
+   2. Winterthur                        3  🟢 100%  🔴  ❗ 13/42
+   3. Yverdon                           3  🟢 67%  ❗ 13/42
+   4. Stade Nyonnais                    1  🟢 100%  ❗ 13/42
+   5. Wil                               1  🟢 100%  ❗ 13/42
+   6. Aarau                             0  ❗ 13/42
+   7. Etoile Carouge                    0  ❗ 13/42
+   8. FC Rapperswil-Jona                0  ❗ 13/42
+   9. Kriens                            0  ❗ 13/42
+  10. Xamax                             0  🔴  ❗ 13/42
 
 RITARDI 12 + GOAL
    1. Wil                               5  🟢 100%
@@ -2730,16 +2730,16 @@ Stagione 2026/2027 (66 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 3,7 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Austria Lustenau                  3  🟢 100%  🔥 7/42
-   2. Austria Wien                      2  🟢 100%  🔴  🔥 7/42
-   3. Grazer AK                         2  🟢 50%  🔥 7/42
-   4. Hartberg                          1  🔥 7/42
-   5. Altach                            0  🔥 7/42
-   6. LASK                              0  🔥 7/42
-   7. Rapid Wien                        0  🔥 7/42
-   8. Ried                              0  🔥 7/42
-   9. Salzburg                          0  🔴  🔥 7/42
-  10. Sturm Graz                        0  🔴  🔥 7/42
+   1. Austria Lustenau                  3  🟢 100%  🔥 6/42
+   2. Austria Wien                      2  🟢 100%  🔴  🔥 6/42
+   3. Grazer AK                         2  🟢 50%  🔥 6/42
+   4. Hartberg                          1  🔥 6/42
+   5. Altach                            0  🔥 6/42
+   6. LASK                              0  🔥 6/42
+   7. Rapid Wien                        0  🔥 6/42
+   8. Ried                              0  🔥 6/42
+   9. Salzburg                          0  🔴  🔥 6/42
+  10. Sturm Graz                        0  🔴  🔥 6/42
 
 RITARDI X2 + GOAL
    1. Rapid Wien                       14  🟢 79%  👻 42/42
@@ -3181,16 +3181,16 @@ Stagione 2026/2027 (104 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Příbram                           3  🟢 100%  🔥 6/42
-   2. Ústí nad Labem                    3  🟢 100%  🔥 6/42
-   3. FC Vlašim                         2  🟢 50%  🔴  🔥 6/42
-   4. Kladno                            2  🟢 100%  🔥 6/42
-   5. Třinec                            2  🟢 50%  🔥 6/42
-   6. Baník Ostrava B                   1  🟢 100%  🔥 6/42
-   7. SK Prostějov                      1  🔴  🔥 6/42
-   8. Vysočina Jihlava                  1  🟢 100%  🔴  🔥 6/42
-   9. Žižkov                            1  🔥 6/42
-  10. Dukla Praha                       0  🔥 6/42
+   1. Příbram                           3  🟢 100%  🔥 5/42
+   2. Ústí nad Labem                    3  🟢 100%  🔥 5/42
+   3. FC Vlašim                         2  🟢 50%  🔴  🔥 5/42
+   4. Kladno                            2  🟢 100%  🔥 5/42
+   5. Třinec                            2  🟢 50%  🔥 5/42
+   6. Baník Ostrava B                   1  🟢 100%  🔥 5/42
+   7. SK Prostějov                      1  🔴  🔥 5/42
+   8. Vysočina Jihlava                  1  🟢 100%  🔴  🔥 5/42
+   9. Žižkov                            1  🔥 5/42
+  10. Dukla Praha                       0  🔥 5/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         4  🟢 75%  🔥 2/42
@@ -3560,16 +3560,16 @@ RITARDI 1X + GOAL
   10. FC Cincinnati                     1  🔥 4/42
 
 RITARDI X2 + GOAL
-   1. Nashville SC                     12  🟢 75%  ❗ 9/42
-   2. Charlotte FC                      7  🟢 71%  ❗ 9/42
-   3. FC Dallas                         7  🟢 57%  ❗ 9/42
-   4. Columbus Crew                     6  🟢 83%  ❗ 9/42
-   5. CF Montréal                       4  🟢 100%  ❗ 9/42
-   6. Portland Timbers                  4  🟢 50%  ❗ 9/42
-   7. Red Bull New York                 4  🟢 100%  ❗ 9/42
-   8. FC Cincinnati                     3  🟢 67%  ❗ 9/42
-   9. DC United                         2  🟢 100%  ❗ 9/42
-  10. Minnesota United                  2  🟢 100%  🔴  ❗ 9/42
+   1. Nashville SC                     12  🟢 75%  ❗ 10/42
+   2. Charlotte FC                      7  🟢 71%  ❗ 10/42
+   3. FC Dallas                         7  🟢 57%  ❗ 10/42
+   4. Columbus Crew                     6  🟢 83%  ❗ 10/42
+   5. CF Montréal                       4  🟢 100%  ❗ 10/42
+   6. Portland Timbers                  4  🟢 50%  ❗ 10/42
+   7. Red Bull New York                 4  🟢 100%  ❗ 10/42
+   8. FC Cincinnati                     3  🟢 67%  ❗ 10/42
+   9. DC United                         2  🟢 100%  ❗ 10/42
+  10. Minnesota United                  2  🟢 100%  🔴  ❗ 10/42
 
 RITARDI 12 + GOAL
    1. Inter Miami CF                    6  🟢 100%  🔴  ❗ 10/42
@@ -3775,23 +3775,23 @@ RITARDI X2 + GOAL
   10. Stal Mielec                       2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Chrobry Głogów                    8  🟢 50%  👻 36/42
-   2. Pogoń Grodzisk Mazowiecki         8  👻 36/42
-   3. Odra Opole                        4  👻 36/42
-   4. ŁKS Łódź                          4  🟢 75%  👻 36/42
-   5. Polonia Warszawa                  3  🟢 100%  👻 36/42
-   6. Ruch Chorzów                      3  🟢 100%  👻 36/42
-   7. Miedź Legnica                     2  🟢 100%  👻 36/42
-   8. Termalica Nieciecza               2  🟢 50%  🔴  👻 36/42
-   9. Warta Poznań                      2  👻 36/42
-  10. Pogoń Siedlce                     1  🟢 100%  🔴  👻 36/42
+   1. Chrobry Głogów                    8  🟢 50%  👻 35/42
+   2. Pogoń Grodzisk Mazowiecki         8  👻 35/42
+   3. Odra Opole                        4  👻 35/42
+   4. ŁKS Łódź                          4  🟢 75%  👻 35/42
+   5. Polonia Warszawa                  3  🟢 100%  👻 35/42
+   6. Ruch Chorzów                      3  🟢 100%  👻 35/42
+   7. Miedź Legnica                     2  🟢 100%  👻 35/42
+   8. Termalica Nieciecza               2  🟢 50%  🔴  👻 35/42
+   9. Warta Poznań                      2  👻 35/42
+  10. Pogoń Siedlce                     1  🟢 100%  🔴  👻 35/42
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 03/11/2026 22:34 (ora italiana)
+Aggiornato: 03/11/2026 23:33 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3964,73 +3964,73 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (156 partite giocate) + 2025/2026
+Stagione 2026/2027 (165 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Birmingham City                   4  🟢 50%
-   2. Bolton Wanderers                  4  🟢 75%
-   3. Stoke City                        3  🟢 67%
-   4. Swansea City                      3  🟢 67%
-   5. Wolverhampton Wanderers           3
-   6. Bristol City                      2  🟢 50%
-   7. Charlton Athletic                 2  🟢 100%
-   8. Middlesbrough                     2  🟢 100%
-   9. Southampton                       2  🟢 50%  🔴
+   1. Bolton Wanderers                  5  🟢 60%
+   2. Birmingham City                   4  🟢 50%
+   3. Stoke City                        4  🟢 75%
+   4. Wolverhampton Wanderers           3
+   5. Bristol City                      2  🟢 50%
+   6. Charlton Athletic                 2  🟢 100%
+   7. Middlesbrough                     2  🟢 100%
+   8. Norwich City                      2  🟢 100%  🔴
+   9. Sheffield United                  2  🟢 50%
   10. West Ham United                   2  🟢 50%
 
 RITARDI X2 + GOAL
-   1. Watford                           6  🟢 50%  ❗ 10/42
-   2. Blackburn Rovers                  3  🟢 67%  ❗ 10/42
-   3. Burnley                           3  🟢 100%  ❗ 10/42
-   4. Preston North End                 3  🟢 100%  ❗ 10/42
-   5. Sheffield United                  3  🟢 67%  ❗ 10/42
-   6. Charlton Athletic                 2  🟢 100%  🔴  ❗ 10/42
-   7. Millwall                          2  🟢 50%  ❗ 10/42
-   8. Queens Park Rangers               2  🟢 100%  ❗ 10/42
-   9. Swansea City                      2  🟢 50%  ❗ 10/42
-  10. West Ham United                   2  🟢 50%  ❗ 10/42
+   1. Watford                           6  🟢 50%  ❗ 9/42
+   2. Blackburn Rovers                  3  🟢 67%  ❗ 9/42
+   3. Millwall                          3  🟢 67%  ❗ 9/42
+   4. Preston North End                 3  🟢 100%  ❗ 9/42
+   5. Swansea City                      3  🟢 67%  ❗ 9/42
+   6. Bolton Wanderers                  2  ❗ 9/42
+   7. Charlton Athletic                 2  🟢 100%  🔴  ❗ 9/42
+   8. Queens Park Rangers               2  🟢 100%  ❗ 9/42
+   9. West Ham United                   2  🟢 50%  ❗ 9/42
+  10. Wrexham                           2  🟢 50%  🔴  ❗ 9/42
 
 RITARDI 12 + GOAL
    1. Wrexham                           7  🟢 71%  ❗ 13/42
-   2. Lincoln City                      5  ❗ 13/42
+   2. Lincoln City                      6  ❗ 13/42
    3. Portsmouth                        5  ❗ 13/42
    4. Charlton Athletic                 3  🟢 100%  ❗ 13/42
    5. West Ham United                   3  🟢 67%  ❗ 13/42
-   6. Cardiff City                      2  🟢 100%  ❗ 13/42
-   7. Swansea City                      2  🟢 50%  ❗ 13/42
+   6. Bolton Wanderers                  2  ❗ 13/42
+   7. Cardiff City                      2  🟢 100%  ❗ 13/42
    8. Blackburn Rovers                  1  🟢 100%  ❗ 13/42
-   9. Bolton Wanderers                  1  ❗ 13/42
-  10. Preston North End                 1  🟢 100%  ❗ 13/42
+   9. Burnley                           1  🟢 100%  ❗ 13/42
+  10. Millwall                          1  🟢 100%  ❗ 13/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
-Stagione 2026/2027 (155 partite giocate) + 2025/2026
+Stagione 2026/2027 (157 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
    1. Plymouth Argyle                   6  🟢 100%
    2. Huddersfield Town                 3  🟢 100%
-   3. Milton Keynes Dons                3
-   4. Notts County                      3  🟢 100%
-   5. Reading                           3  🔴
-   6. Bradford City                     2
-   7. Mansfield Town                    2  🟢 100%
+   3. Mansfield Town                    3  🟢 67%
+   4. Milton Keynes Dons                3
+   5. Notts County                      3  🟢 100%
+   6. Reading                           3  🔴
+   7. Bradford City                     2
    8. Sheffield Wednesday               2  🟢 100%
    9. Burton Albion                     1  🟢 100%
   10. Cambridge United                  1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Wigan Athletic                    9  ❗ 13/42
-   2. Doncaster Rovers                  5  🟢 80%  ❗ 13/42
-   3. Barnsley                          4  🟢 100%  🔴  ❗ 13/42
-   4. Bromley                           4  🟢 75%  ❗ 13/42
-   5. AFC Wimbledon                     3  🟢 100%  ❗ 13/42
-   6. Leyton Orient                     3  ❗ 13/42
-   7. Milton Keynes Dons                3  ❗ 13/42
-   8. Notts County                      3  🟢 100%  🔴  ❗ 13/42
-   9. Bradford City                     2  ❗ 13/42
-  10. Huddersfield Town                 2  🟢 100%  ❗ 13/42
+   1. Wigan Athletic                    9  ❗ 12/42
+   2. Doncaster Rovers                  5  🟢 80%  ❗ 12/42
+   3. Barnsley                          4  🟢 100%  🔴  ❗ 12/42
+   4. Bromley                           4  🟢 75%  ❗ 12/42
+   5. AFC Wimbledon                     3  🟢 100%  ❗ 12/42
+   6. Leyton Orient                     3  ❗ 12/42
+   7. Milton Keynes Dons                3  ❗ 12/42
+   8. Notts County                      3  🟢 100%  🔴  ❗ 12/42
+   9. Bradford City                     2  ❗ 12/42
+  10. Huddersfield Town                 2  🟢 100%  ❗ 12/42
 
 RITARDI 12 + GOAL
    1. Bradford City                     8
@@ -4046,44 +4046,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
-Stagione 2026/2027 (163 partite giocate) + 2025/2026
+Stagione 2026/2027 (164 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Swindon Town                      9  🟢 56%  🔴  🔥 5/42
-   2. Salford City                      4  🟢 100%  🔥 5/42
-   3. Accrington Stanley                1  🟢 100%  🔥 5/42
-   4. Colchester United                 1  🟢 100%  🔥 5/42
-   5. Crawley Town                      1  🔥 5/42
-   6. Gillingham                        1  🟢 100%  🔥 5/42
-   7. Grimsby Town                      1  🟢 100%  🔥 5/42
-   8. Newport County                    1  🔥 5/42
-   9. Port Vale                         1  🟢 100%  🔥 5/42
-  10. Walsall                           1  🟢 100%  🔥 5/42
+   1. Swindon Town                      9  🟢 56%  🔴  🔥 7/42
+   2. Salford City                      4  🟢 100%  🔥 7/42
+   3. Accrington Stanley                1  🟢 100%  🔥 7/42
+   4. Colchester United                 1  🟢 100%  🔥 7/42
+   5. Crawley Town                      1  🔥 7/42
+   6. Gillingham                        1  🟢 100%  🔥 7/42
+   7. Grimsby Town                      1  🟢 100%  🔥 7/42
+   8. Newport County                    1  🔥 7/42
+   9. Oldham Athletic                   1  🔥 7/42
+  10. Port Vale                         1  🟢 100%  🔥 7/42
 
 RITARDI X2 + GOAL
-   1. Bristol Rovers                    7  🟢 86%  ❗ 12/42
-   2. Exeter City                      7+  ❗ 12/42
-   3. Rotherham United                  5  ❗ 12/42
-   4. Crawley Town                      4  🟢 75%  ❗ 12/42
-   5. Fleetwood Town                    4  🟢 75%  ❗ 12/42
-   6. Cheltenham Town                   3  🟢 100%  ❗ 12/42
-   7. Crewe Alexandra                   3  🟢 67%  ❗ 12/42
-   8. Chesterfield                      2  🟢 50%  ❗ 12/42
-   9. Rochdale                          2  🟢 100%  🔴  ❗ 12/42
-  10. York City                         2  🟢 100%  ❗ 12/42
+   1. Bristol Rovers                    7  🟢 86%  ❗ 14/42
+   2. Exeter City                      7+  ❗ 14/42
+   3. Rotherham United                  5  ❗ 14/42
+   4. Crawley Town                      4  🟢 75%  ❗ 14/42
+   5. Fleetwood Town                    4  🟢 75%  ❗ 14/42
+   6. Cheltenham Town                   3  🟢 100%  ❗ 14/42
+   7. Crewe Alexandra                   3  🟢 67%  ❗ 14/42
+   8. Chesterfield                      2  🟢 50%  ❗ 14/42
+   9. Rochdale                          2  🟢 100%  🔴  ❗ 14/42
+  10. York City                         2  🟢 100%  ❗ 14/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                 6+  🟢 83%  👻 35/42
-   2. Newport County                    5  👻 35/42
-   3. Oldham Athletic                   5  🟢 100%  👻 35/42
-   4. Accrington Stanley                4  🟢 75%  👻 35/42
-   5. Colchester United                 4  🟢 75%  👻 35/42
-   6. Port Vale                         4  🟢 75%  👻 35/42
-   7. Tranmere Rovers                   2  🟢 50%  👻 35/42
-   8. Barnet                            1  🟢 100%  🔴  👻 35/42
-   9. Crawley Town                      1  👻 35/42
-  10. Shrewsbury Town                   1  🟢 100%  👻 35/42
+   1. Northampton Town                 6+  🟢 83%  👻 36/42
+   2. Oldham Athletic                   6  🟢 83%  👻 36/42
+   3. Newport County                    5  👻 36/42
+   4. Accrington Stanley                4  🟢 75%  👻 36/42
+   5. Colchester United                 4  🟢 75%  👻 36/42
+   6. Port Vale                         4  🟢 75%  👻 36/42
+   7. Tranmere Rovers                   2  🟢 50%  👻 36/42
+   8. Barnet                            1  🟢 100%  🔴  👻 36/42
+   9. Crawley Town                      1  👻 36/42
+  10. Shrewsbury Town                   1  🟢 100%  👻 36/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -4595,16 +4595,16 @@ RITARDI 1X + GOAL
   10. Yverdon                           0
 
 RITARDI X2 + GOAL
-   1. FC Stade Lausanne-Ouchy           3  🟢 67%  🔴  ❗ 14/42
-   2. Winterthur                        3  🟢 67%  ❗ 14/42
-   3. Yverdon                           3  🟢 100%  ❗ 14/42
-   4. Xamax                             1  ❗ 14/42
-   5. Aarau                             0  🔴  ❗ 14/42
-   6. Etoile Carouge                    0  ❗ 14/42
-   7. FC Rapperswil-Jona                0  ❗ 14/42
-   8. Kriens                            0  ❗ 14/42
-   9. Stade Nyonnais                    0  ❗ 14/42
-  10. Wil                               0  🔴  ❗ 14/42
+   1. FC Stade Lausanne-Ouchy           3  🟢 67%  🔴  ❗ 13/42
+   2. Winterthur                        3  🟢 67%  ❗ 13/42
+   3. Yverdon                           3  🟢 100%  ❗ 13/42
+   4. Xamax                             1  ❗ 13/42
+   5. Aarau                             0  🔴  ❗ 13/42
+   6. Etoile Carouge                    0  ❗ 13/42
+   7. FC Rapperswil-Jona                0  ❗ 13/42
+   8. Kriens                            0  ❗ 13/42
+   9. Stade Nyonnais                    0  ❗ 13/42
+  10. Wil                               0  🔴  ❗ 13/42
 
 RITARDI 12 + GOAL
    1. Winterthur                       6+  🟢 83%  🔴
@@ -4624,16 +4624,16 @@ Stagione 2026/2027 (66 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 3,7 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Altach                            5  🟢 60%  🔥 7/42
-   2. Rapid Wien                        3  🟢 100%  🔴  🔥 7/42
-   3. Salzburg                          2  🟢 50%  🔥 7/42
-   4. Wolfsberger AC                    2  🟢 50%  🔥 7/42
-   5. Hartberg                          1  🟢 100%  🔥 7/42
-   6. LASK                              1  🟢 100%  🔥 7/42
-   7. Austria Lustenau                  0  🔥 7/42
-   8. Austria Wien                      0  🔴  🔥 7/42
-   9. Grazer AK                         0  🔥 7/42
-  10. Ried                              0  🔥 7/42
+   1. Altach                            5  🟢 60%  🔥 6/42
+   2. Rapid Wien                        3  🟢 100%  🔴  🔥 6/42
+   3. Salzburg                          2  🟢 50%  🔥 6/42
+   4. Wolfsberger AC                    2  🟢 50%  🔥 6/42
+   5. Hartberg                          1  🟢 100%  🔥 6/42
+   6. LASK                              1  🟢 100%  🔥 6/42
+   7. Austria Lustenau                  0  🔥 6/42
+   8. Austria Wien                      0  🔴  🔥 6/42
+   9. Grazer AK                         0  🔥 6/42
+  10. Ried                              0  🔥 6/42
 
 RITARDI X2 + GOAL
    1. WSG Tirol                        11  🟢 82%  👻 42/42
@@ -5075,16 +5075,16 @@ Stagione 2026/2027 (104 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 6/42
-   2. Dukla Praha                       2  🟢 50%  🔥 6/42
-   3. FC Vlašim                         2  🟢 100%  🔴  🔥 6/42
-   4. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 6/42
-   5. Karviná                           2  🟢 50%  🔴  🔥 6/42
-   6. Opava                             2  🟢 50%  🔥 6/42
-   7. Česká Lípa                        2  🟢 100%  🔥 6/42
-   8. FC Silon Táborsko                 1  🟢 100%  🔥 6/42
-   9. Ústí nad Labem                    1  🟢 100%  🔥 6/42
-  10. Baník Ostrava B                   0  🔥 6/42
+   1. Vysočina Jihlava                  3  🟢 100%  🔴  🔥 5/42
+   2. Dukla Praha                       2  🟢 50%  🔥 5/42
+   3. FC Vlašim                         2  🟢 100%  🔴  🔥 5/42
+   4. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 5/42
+   5. Karviná                           2  🟢 50%  🔴  🔥 5/42
+   6. Opava                             2  🟢 50%  🔥 5/42
+   7. Česká Lípa                        2  🟢 100%  🔥 5/42
+   8. FC Silon Táborsko                 1  🟢 100%  🔥 5/42
+   9. Ústí nad Labem                    1  🟢 100%  🔥 5/42
+  10. Baník Ostrava B                   0  🔥 5/42
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         4  🟢 100%  🔴  🔥 2/42
@@ -5454,16 +5454,16 @@ RITARDI 1X + GOAL
   10. Nashville SC                      1  🟢 100%  🔥 4/42
 
 RITARDI X2 + GOAL
-   1. Red Bull New York                 9  🟢 67%  ❗ 9/42
-   2. Sporting Kansas City              9  🟢 100%  ❗ 9/42
-   3. Columbus Crew                     7  🟢 100%  🔴  ❗ 9/42
-   4. Toronto FC                        6  🟢 100%  ❗ 9/42
-   5. DC United                         5  🟢 100%  ❗ 9/42
-   6. Atlanta United                    4  🟢 50%  ❗ 9/42
-   7. St. Louis City                    3  🟢 100%  ❗ 9/42
-   8. Houston Dynamo FC                 2  🟢 50%  ❗ 9/42
-   9. Philadelphia Union                2  ❗ 9/42
-  10. San Diego FC                      2  🟢 50%  ❗ 9/42
+   1. Red Bull New York                 9  🟢 67%  ❗ 10/42
+   2. Sporting Kansas City              9  🟢 100%  ❗ 10/42
+   3. Columbus Crew                     7  🟢 100%  🔴  ❗ 10/42
+   4. Toronto FC                        6  🟢 100%  ❗ 10/42
+   5. DC United                         5  🟢 100%  ❗ 10/42
+   6. Atlanta United                    4  🟢 50%  ❗ 10/42
+   7. St. Louis City                    3  🟢 100%  ❗ 10/42
+   8. Houston Dynamo FC                 2  🟢 50%  ❗ 10/42
+   9. Philadelphia Union                2  ❗ 10/42
+  10. San Diego FC                      2  🟢 50%  ❗ 10/42
 
 RITARDI 12 + GOAL
    1. CF Montréal                       3  🟢 100%  ❗ 10/42
@@ -5669,14 +5669,14 @@ RITARDI X2 + GOAL
   10. Stal Rzeszów                      1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. Pogoń Siedlce                    16  🟢 56%  👻 36/42
-   2. Ruch Chorzów                      7  🟢 71%  👻 36/42
-   3. TS Podbeskidzie Bielsko-Biała    7+  🟢 71%  👻 36/42
-   4. Odra Opole                        5  🟢 80%  👻 36/42
-   5. Miedź Legnica                     2  🟢 50%  👻 36/42
-   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%  👻 36/42
-   7. Polonia Warszawa                  2  🟢 50%  👻 36/42
-   8. Puszcza Niepołomice               2  🟢 100%  👻 36/42
-   9. Stal Mielec                       2  🟢 50%  🔴  👻 36/42
-  10. ŁKS Łódź                          2  🟢 50%  👻 36/42
+   1. Pogoń Siedlce                    16  🟢 56%  👻 35/42
+   2. Ruch Chorzów                      7  🟢 71%  👻 35/42
+   3. TS Podbeskidzie Bielsko-Biała    7+  🟢 71%  👻 35/42
+   4. Odra Opole                        5  🟢 80%  👻 35/42
+   5. Miedź Legnica                     2  🟢 50%  👻 35/42
+   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%  👻 35/42
+   7. Polonia Warszawa                  2  🟢 50%  👻 35/42
+   8. Puszcza Niepołomice               2  🟢 100%  👻 35/42
+   9. Stal Mielec                       2  🟢 50%  🔴  👻 35/42
+  10. ŁKS Łódź                          2  🟢 50%  👻 35/42
 
