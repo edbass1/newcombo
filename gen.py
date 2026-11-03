@@ -1642,7 +1642,7 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ritardi Combo</title>
 <script>(function(){var okt={notte:1,chiaro:1,oceano:1,bordeaux:1,tramonto:1,viola:1,cielo:1,carta:1,foresta:1,stadio:1};var q=null;try{q=new URLSearchParams(location.search)}catch(e){}var t=(q&&q.get('tema'))||localStorage.getItem('themeRC')||'notte';if(!okt[t])t='notte';document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('themeRC',t)}catch(e){}})();</script>
-<style>___CSS___ .repeat-alert{display:inline-block;background:#b71c1c;color:#fff;padding:.12rem .48rem;border-radius:6px;font-weight:900;font-size:.72rem;letter-spacing:.04em;margin-right:.35rem}.repeat-grid{display:grid;grid-template-columns:1fr;gap:.6rem}.repeat-alerts{margin-top:1rem}</style></head><body>
+<style>___CSS___ .repeat-alert{display:inline-block;background:#b71c1c;color:#fff;padding:.12rem .48rem;border-radius:6px;font-weight:900;font-size:.72rem;letter-spacing:.04em;margin-right:.35rem}.repeat-grid{display:grid;grid-template-columns:1fr;gap:.6rem}.repeat-alerts{margin:0 0 1rem}.double-badge{display:inline-block;background:#6b4eff;color:#fff;padding:.12rem .48rem;border-radius:6px;font-weight:900;font-size:.72rem;letter-spacing:.04em;margin-right:.35rem}</style></head><body>
 <div id="topbar">
   <label class="tsel" for="theme">Tema <select id="theme">___THEMEOPTS___</select></label>
 </div>
@@ -1699,8 +1699,9 @@ window.addEventListener('resize',syncBar);syncBar()})();</script>
 
 REPEAT_ALERT_MIN = 10
 
-def render_repeat(data, pools, now):
+def render_repeat(data, pools, now, double_fixtures=None):
     """Ritardi delle coppie consecutive, su tutte le gare casa/trasferta della squadra."""
+    double_fixtures = double_fixtures or set()
     rankings = {name: [] for name, _f in COMBOS["goal"]}
     by_team = {}
     for c, l, r, err in data:
@@ -1789,33 +1790,31 @@ def render_repeat(data, pools, now):
                         alert_rows.append((t, c, l, teams[h], teams[a], team, row))
 
     alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
-    alert_html = ['<div class="repeat-alerts"><h3>🔴 ALERT — prossime partite per doppia ripetizione</h3>']
-    alert_txt = ["", "ALERT — PROSSIME PARTITE PER DOPPIA RIPETIZIONE", ""]
-    if not alert_rows:
-        alert_html.append('<p class="leg">Nessuna squadra con ritardo almeno 10 e ultima uscita utile a completare la coppia consecutiva.</p>')
-        alert_txt.append("Nessun alert al momento.")
-    for t, c, l, hn, an, team, row in alert_rows:
-        lt = t.astimezone(ROME)
-        delay = str(row["delay"]) + ("+" if row["full"] else "")
-        title = (f'Ritardo {delay}: {row["delay"]} mancate doppie ripetizioni; '
-                 f'posizione globale {row["rank"]}/{row["total"]}. '
-                 f'L’ultima partita della squadra ha prodotto {row["name"]}: '
-                 'se la combo esce anche nella prossima partita, si completa la coppia consecutiva.')
+    alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO</h3>']
+    if not alert_map:
+        alert_html.append('<p class="leg">Nessuna partita in arrivo nei prossimi giorni con i requisiti per completare la doppia ripetizione.</p>')
+    for fixture_key, fixture_alerts in sorted(
+        alert_map.items(), key=lambda item: (datetime.datetime.fromisoformat(item[0][0]), item[0][1], item[0][3])
+    ):
+        t_iso, c, l, hn, an = fixture_key
+        lt = datetime.datetime.fromisoformat(t_iso).astimezone(ROME)
+        double_badge = '<span class="double-badge">DOUBLE</span> ' if fixture_key in double_fixtures else ''
+        details = []
+        for team, combo_name, row in fixture_alerts:
+            delay = str(row["delay"]) + ("+" if row["full"] else "")
+            details.append(
+                f'<b>{esc(team)}</b> — {esc(combo_name)} · ritardo {delay} · '
+                f'#{row["rank"]}/{row["total"]}'
+            )
         alert_html.append(
-            f'<div class="fx"><span class="repeat-alert" title="{esc(title)}">ALERT</span> '
-            f'<b>{esc(team)}</b> — {esc(row["name"])} · ritardo <b>{delay}</b> · '
-            f'posizione globale <b>#{row["rank"]}/{row["total"]}</b>'
-            f'<div class="fxh">{lt:%d/%m %H:%M} · {esc(hn)} vs {esc(an)} '
-            f'<span class="lg">{esc(c)} - {esc(l)}</span></div></div>'
-        )
-        alert_txt.append(
-            f'{lt:%d/%m %H:%M}  {hn} vs {an} [{c} - {l}] — ALERT {team}: {row["name"]}, '
-            f'ritardo {delay}, posizione globale {row["rank"]}/{row["total"]}'
+            f'<div class="fx">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
+            f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span>'
+            f'<div class="tagrow">{" &nbsp; | &nbsp; ".join(details)}</div></div>'
         )
     alert_html.append("</div>")
     lines += alert_txt
     return {
-        "html": '<div class="repeat-grid">' + "".join(blocks) + "</div>",
+        "html": "".join(alert_html) + '<div class="repeat-grid">' + "".join(blocks) + "</div>",
         "txt": "\n".join(lines) + "\n",
         "upcoming_html": "".join(alert_html),
         "upcoming_txt": "\n".join(alert_txt) + "\n",
@@ -1849,7 +1848,12 @@ def main():
     for name, rows in LEAGUE_FREQ.items():
         print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
-    repeat = render_repeat(data, pools, now)
+    double_fixtures = set()
+    for venue, _label, _desc in VENUES:
+        for card in chunks[venue]["cards"]:
+            t, c, l, hn, an = card[:5]
+            double_fixtures.add((t.isoformat(), c, l, hn, an))
+    repeat = render_repeat(data, pools, now, double_fixtures)
     prossime = render_prossime(chunks, now, repeat["alert_map"])
     today = datetime.datetime.now(ROME).date()
     tips = render_tips(rank_tips(collect_tip_candidates(data, today)), data, today, now)
