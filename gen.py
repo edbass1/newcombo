@@ -50,6 +50,7 @@ EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"S
          "OLANDA":[9195],"NORVEGIA":[204],"DANIMARCA":[239],"PORTOGALLO":[9112],"POLONIA":[8935],
          "SCOZIA":[124],"FINLANDIA":[8969]}
 _CACHE = {}
+_POOL_TEAM_NAMES = {}
 SOGLIA_GOAL = 6   # ritardo minimo per 'Prossime partite' (combo Goal)
 GIORNI = 5
 MIN_GIORNATE = 7  # giornate giocate minime per la frequenza di campionato
@@ -99,6 +100,7 @@ def country_pool(country):
             cs = d.get("details", {}).get("selectedSeason") or (ss[0] if ss else None)
             idx = ss.index(cs) if cs in ss else 0
             league_info[lid] = (ss[idx:idx + SOTTO_STAGIONI], current_matches, teams)
+            _POOL_TEAM_NAMES.update({str(k): v for k, v in teams.items()})
             if lid in ranked_lids:
                 target_teams.update(teams.keys())
         except Exception:
@@ -113,7 +115,9 @@ def country_pool(country):
                 if season_index == 0:
                     ms = current_matches
                 else:
-                    _, ms, _ = matches(lid, seasons[season_index])
+                    _, ms, season_teams = matches(lid, seasons[season_index])
+                    for tid, tname in season_teams.items():
+                        _POOL_TEAM_NAMES.setdefault(str(tid), tname)
                     time.sleep(0.3)
                 for m in ms:
                     pool[(m[0], m[1], m[2])] = m
@@ -593,12 +597,31 @@ def ad_html(li, name, gol):
         )
     return f'<span class="ads">{"".join(bits)}</span>'
 
-def club_html(li, home, away, name, gol):
-    name_html = tspan(li, home, away, name)
+def club_html(li, home, away, name, gol, venue="all"):
+    name_html = tspan(li, home, away, name, venue)
     badges = ad_html(li, name, gol)
     if not badges:
         return name_html
     return f'<span class="club">{badges}{name_html}</span>'
+
+def build_recent_history(pool, teams):
+    """Ultime cinque gare per squadra, complessive e per sede, dal più recente."""
+    out = {"all": {}, "home": {}, "away": {}}
+    ordered = sorted(pool, key=lambda m: m[0])
+    for tid, team_name in teams.items():
+        tid_s = str(tid)
+        for venue in ("all", "home", "away"):
+            seq = [m for m in ordered if (m[1] == tid or m[2] == tid) and
+                   (venue == "all" or (venue == "home" and m[1] == tid) or (venue == "away" and m[2] == tid))]
+            rows = []
+            for m in reversed(seq[-5:]):
+                opponent_id = m[2] if m[1] == tid else m[1]
+                opponent = _POOL_TEAM_NAMES.get(str(opponent_id), teams.get(opponent_id, teams.get(str(opponent_id), "Squadra")))
+                gf, ga = (m[3], m[4]) if m[1] == tid else (m[4], m[3])
+                result = "W" if gf > ga else ("D" if gf == ga else "L")
+                rows.append([opponent, f"{gf}-{ga}", result])
+            out[venue][team_name] = rows
+    return out
 
 def compute(lid, POOL):
     d, cur, teams = matches(lid)
@@ -617,7 +640,7 @@ def compute(lid, POOL):
     for venue in ("all", "home", "away"):
         venues[venue] = _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms if venue == "all" else None)
     return {"cs": cur_season, "ps": prev, "n": len(cur), "up": d["_upcoming"], "teams": teams, "xg": xg,
-            "gol": goal_strength(d, teams), "venues": venues}
+            "gol": goal_strength(d, teams), "venues": venues, "history": build_recent_history(POOL, teams)}
 
 def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
     sotto, freq, sinfo = [], {}, {}
@@ -1125,9 +1148,9 @@ def bet365_url(lid):
     _B365[lid] = url
     return url
 
-def tspan(li, a, b, t):
+def tspan(li, a, b, t, venue="all"):
     E = lambda x: html.escape(str(x), quote=True)
-    return f'<span class="pt" data-k="{li}" data-a="{E(a)}" data-b="{E(b)}">{E(t)}</span>'
+    return f'<span class="pt" data-k="{li}" data-v="{venue}" data-t="{E(t)}" data-a="{E(a)}" data-b="{E(b)}">{E(t)}</span>'
 
 # Collegamenti ai bookmaker: si colorano solo se viene trovato un URL di evento
 # che contiene riferimenti verificabili a entrambe le squadre. In caso contrario
@@ -1351,6 +1374,7 @@ def render_venue(data, venue, now):
                    "rit": {name: [[t, streak, full, pct, league_badge_txt(lg, name)] for streak, t, full, pct in rows] for name, rows in view["res"]["goal"]},
                    "sotto": {name: [[t, k2, nn] for k2, nn, t in rows] for name, rows in view["sotto"]},
                    "tab": view["tab"],
+                   "history": r["history"][venue],
                    "stot": {k: [val[0], [val[1][2], val[1][0], val[1][1]] if val[1] else None] for k, val in view["sinfo"].items()}}
         if venue == "all" and r.get("gol"):
             pop[LI]["gol"] = r["gol"]
@@ -1366,7 +1390,7 @@ def render_venue(data, venue, now):
                     bdg = league_badge_txt(lg, name)
                     bhtml = league_badge_html(lg, name)
                     parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + "".join(f" 🔴 {x}" for x in rr))
-                    hparts.append(f'{esc(name)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
+                    hparts.append(f'{tspan(LI, hn, an, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
                                   + "".join(f' <span class="pr" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
@@ -1549,7 +1573,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             H.append(
                 f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
-                f'{club_html(LIX, hn, an, hn, gol)} vs {club_html(LIX, hn, an, an, gol)} '
+                f'{club_html(LIX, hn, an, hn, gol, venue)} vs {club_html(LIX, hn, an, an, gol, venue)} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
                 + "".join(hb) + "</div>"
             )
@@ -1681,7 +1705,7 @@ ___SALTATI___
 function forma(r){return (r&&r.length>5&&r[5])?(' <span class="fm">· forma ultime '+r[5]+': '+r[4]+' pnt</span>'):''}
 function pack(el){var v=(el&&el.dataset&&el.dataset.v)||'all';if(el&&el.classList.contains('pt'))return POP.all||{};return POP[v]||POP.all||{}}
 function showAd(el){var d=(POP.all||{})[el.dataset.k],team=el.dataset.t,kind=el.dataset.ad;var titles={sa:'Attacco forte — gol fatti',wa:'Attacco debole — gol fatti',sd:'Pochi gol subiti',wd:'Tanti gol subiti'};var unit=(kind==='sa'||kind==='wa')?'fatti':'subiti';var where=(kind==='sa')?'Prime posizioni':(kind==='wa')?'Ultime posizioni':(kind==='wd')?'Chi subisce di più':'Chi subisce di meno';var rows=null,grp=null,groups=(d&&d.gol&&d.gol.groups)||[];for(var i=0;i<groups.length;i++){var x=groups[i];if(x.mark&&x.mark[team]&&x.band&&x.band[kind]){grp=x;rows=x.band[kind];break}}var h;if(!d||!rows){h='<h4>Classifica gol non disponibile</h4>'}else{h='<h4>'+esc(d.lg)+'<br>'+esc(titles[kind]||'')+'</h4><div class="fm">'+esc(where)+' · '+grp.k+' su '+grp.n+' squadre, 20% per difetto · '+grp.rounds+' giornate. Pari merito sul gol del confine. Stagione intera, non solo casa o trasferta.</div><table>'+rows.map(function(r){return '<tr'+(r[1]==team?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' '+unit+'</td></tr>'}).join('')+'</table>'}pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,ph=pop.offsetHeight,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));var top=b.bottom+window.scrollY+6;if(b.bottom+ph+12>window.innerHeight&&b.top>ph+12)top=b.top+window.scrollY-ph-6;pop.style.left=x+'px';pop.style.top=top+'px';cur=el}
-function show(el){if(el.classList.contains('adb')){if(el.classList.contains('eg'))return;showAd(el);return}if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack(el)[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica totale non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica totale</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pnt</b>'+forma(r)}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'/'+N+'</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' pnt</td><td>'+(r[5]?('ultime '+r[5]+': '+r[4]+' pnt'):'')+'</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
+function show(el){if(el.classList.contains('adb')){if(el.classList.contains('eg'))return;showAd(el);return}if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack(el)[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica totale non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica totale</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pnt</b>'+forma(r)}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'/'+N+'</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' pnt</td><td>'+(r[5]?('ultime '+r[5]+': '+r[4]+' pnt'):'')+'</td></tr>'}).join('')+'</table></details>'})}var hv=(POP[el.dataset.v||'all']||{})[el.dataset.k],hist=(hv&&hv.history&&hv.history[el.dataset.t])||[];h+='<h4 style="margin-top:.65rem">Ultime 5 '+(el.dataset.v==='home'?'in casa':el.dataset.v==='away'?'in trasferta':'partite')+'</h4>';h+=hist.length?'<table>'+hist.map(function(r){var dot=r[2]==='W'?'🟢':r[2]==='D'?'🟡':'🔴';return '<tr><td>'+dot+'</td><td>'+esc(r[0])+'</td><td class="n">'+esc(r[1])+'</td></tr>'}).join('')+'</table>':'<div class="fm">Storico non disponibile</div>'}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}
 function hide(){pop.style.display='none';cur=null}
 document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
