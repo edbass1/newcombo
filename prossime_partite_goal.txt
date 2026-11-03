@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 03/11/2026 11:50 (ora italiana)
+Aggiornato: 03/11/2026 12:45 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -450,3 +450,22 @@ TRASFERTA 01:00  San Diego FC [🔥D] vs Sporting Kansas City [🧊A 🔥D]   [U
            Sporting Kansas City 🟢 GG 60%: X2 + GOAL (9) ❗ 9/42
 TOTALE    10:30  FC Petržalka 1898 [🔥A 🧊D] vs Žilina B [🧊D]   [SLOVACCHIA - 2. LIGA]
            FC Petržalka 1898 🟢 GG 30%: 12 + GOAL (11) 🔴 Žilina B
+TOTALE    12:00  FC Porto B [🧊A 🔥D] vs Portimonense [🧊A]   [PORTOGALLO - LIGA PORTUGAL 2]
+           Portimonense 🟢 GG 20%: 1X + GOAL (6) 👻 39/42
+CASA      12:00  Feirense [🧊A] vs Lusitânia Lourosa [🔥A 🧊D]   [PORTOGALLO - LIGA PORTUGAL 2]
+           Feirense 🟢 GG 30%: 1X + GOAL (11) 👻 39/42 🔴 Lusitânia Lourosa
+TOTALE    12:15  SC Heerenveen [🧊D] vs Feyenoord [🔥A 🧊D]   [OLANDA - EREDIVISIE]
+           xG: SC Heerenveen xG 3,21 (1,62+1,59) · Feyenoord xG 3,71 (2,72+0,99)
+           SC Heerenveen 🟢 GG 40%: 1X + GOAL (7) 🔴 SC Heerenveen
+CASA      12:15  SC Heerenveen [🧊D] vs Feyenoord [🔥A 🧊D]   [OLANDA - EREDIVISIE]
+           xG: SC Heerenveen xG 3,21 (1,62+1,59) · Feyenoord xG 3,71 (2,72+0,99)
+           SC Heerenveen 🟢 GG 30%: 1X + GOAL (7)
+TOTALE    12:15  Vitesse [🧊A 🧊D] vs De Graafschap [🧊A]   [OLANDA - EERSTE DIVISIE]
+           Vitesse 🟢 GG 50%: 12 + GOAL (6) 🔥 2/42 🔴 De Graafschap
+TRASFERTA 12:30  Napoli vs Lazio [🔥A 🧊D]   [ITALIA - SERIE A]
+           xG: Napoli xG 3,03 (1,74+1,29) · Lazio xG 2,78 (1,65+1,13)
+           Lazio 🟢 GG 30%: 1X + GOAL (12)
+TOTALE    12:30  Torres vs Latina   [ITALIA - SERIE C]
+           Latina 🟢 GG 60%: 12 + GOAL (8)
+CASA      12:30  Torres vs Latina   [ITALIA - SERIE C]
+           Torres 🟢 GG 60%: X2 + GOAL (9)
