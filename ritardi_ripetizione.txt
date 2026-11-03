@@ -1,5 +1,5 @@
 RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — STORICO TOTALE CASA + TRASFERTA
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Ogni squadra è valutata su tutte le proprie partite, in casa e in trasferta, in ordine cronologico.
 Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.
 Storico: pool nazionale multi-stagione disponibile (fino a 12 stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.
@@ -110,7 +110,7 @@ Squadre: 823
  101. Casarano                         4  | ITALIA - SERIE C  | 56 gare
  102. Casertana                        4  | ITALIA - SERIE C  | 346 gare
  103. Chapecoense                      4  | BRASILE - SÉRIE A  | 259 gare
- 104. Chrobry Głogów                   4  | POLONIA - I LIGA  | 389 gare
+ 104. Chrobry Głogów                   4  | POLONIA - I LIGA  | 390 gare
  105. Clermont Foot                    4  | FRANCIA - LIGUE 2  | 293 gare
  106. DAC 1904 Dunajska Streda         4  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 363 gare
  107. Dolomiti Bellunesi               4  | ITALIA - SERIE C  | 50 gare
@@ -139,7 +139,7 @@ Squadre: 823
  130. Montpellier                      4  | FRANCIA - LIGUE 2  | 293 gare
  131. Nottingham Forest                4  | INGHILTERRA - PREMIER LEAGUE  | 440 gare
  132. Ospitaletto                      4  | ITALIA - SERIE C  | 50 gare
- 133. Pogoń Siedlce                    4  | POLONIA - I LIGA  | 387 gare
+ 133. Pogoń Siedlce                    4  | POLONIA - I LIGA  | 388 gare
  134. Preussen Münster                 4  | GERMANIA - 3. LIGA  | 342 gare
  135. Red Star                         4  | FRANCIA - LIGUE 2  | 275 gare
  136. Remo                             4  | BRASILE - SÉRIE A  | 33 gare
@@ -403,271 +403,271 @@ Squadre: 823
  394. Amarante FC                      1  | PORTOGALLO - LIGA PORTUGAL 2  | 218 gare
  395. Anderlecht                       1  | BELGIO - FIRST DIVISION A  | 431 gare
  396. Argentinos Juniors               1  | ARGENTINA - PRIMERA DIVISIÓN  | 251 gare
- 397. Arzignano Valchiampo             1  | ITALIA - SERIE C  | 195 gare
- 398. Atalanta                         1  | ITALIA - SERIE A  | 428 gare
- 399. Athlone Town                     1  | IRLANDA - FIRST DIVISION  | 362 gare
- 400. Augsburg                         1  | GERMANIA - BUNDESLIGA  | 314 gare
- 401. Austria Salzburg                 1  | AUSTRIA - 2. LIGA  | 75 gare
- 402. Austria Wien                     1  | AUSTRIA - BUNDESLIGA  | 386 gare
- 403. AZ Picerno                       1  | ITALIA - SERIE C  | 233 gare
- 404. Baník Ostrava B                  1  | REP. CECA - FNL  | 73 gare
- 405. Bayern München                   1  | GERMANIA - BUNDESLIGA  | 314 gare
- 406. Belgrano                         1  | ARGENTINA - PRIMERA DIVISIÓN  | 203 gare
- 407. Benfica                          1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 408. Blackpool                        1  | INGHILTERRA - LEAGUE ONE  | 467 gare
- 409. Boca Juniors                     1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
- 410. Bodø/Glimt                       1  | NORVEGIA - ELITESERIEN  | 355 gare
- 411. Bohemian FC                      1  | IRLANDA - PREMIER DIVISION  | 404 gare
- 412. Brest                            1  | FRANCIA - LIGUE 1  | 291 gare
- 413. Brighton & Hove Albion           1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
- 414. Brommapojkarna                   1  | SVEZIA - ALLSVENSKAN  | 267 gare
- 415. Bryne                            1  | NORVEGIA - OBOS-LIGAEN  | 336 gare
- 416. Brøndby IF                       1  | DANIMARCA - SUPERLIGAEN  | 242 gare
- 417. BW Linz                          1  | AUSTRIA - 2. LIGA  | 329 gare
- 418. Campobasso                       1  | ITALIA - SERIE C  | 125 gare
- 419. Cardiff City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
- 420. Carpi                            1  | ITALIA - SERIE C  | 315 gare
- 421. Carrarese                        1  | ITALIA - SERIE B  | 429 gare
- 422. Cavese                           1  | ITALIA - SERIE C  | 185 gare
- 423. Central Córdoba de Santiago      1  | ARGENTINA - PRIMERA DIVISIÓN  | 194 gare
- 424. Charlotte FC                     1  | USA/CANADA - MLS  | 176 gare
- 425. Charlton Athletic                1  | INGHILTERRA - CHAMPIONSHIP  | 481 gare
- 426. Cheltenham Town                  1  | INGHILTERRA - LEAGUE TWO  | 466 gare
- 427. Club Atlético Platense           1  | ARGENTINA - PRIMERA DIVISIÓN  | 173 gare
- 428. Club Brugge NXT                  1  | BELGIO - FIRST DIVISION B  | 158 gare
- 429. Cobh Ramblers                    1  | IRLANDA - FIRST DIVISION  | 366 gare
- 430. Corinthians                      1  | BRASILE - SÉRIE A  | 451 gare
- 431. Cork City                        1  | IRLANDA - FIRST DIVISION  | 392 gare
- 432. Coventry City                    1  | INGHILTERRA - PREMIER LEAGUE  | 465 gare
- 433. Cracovia                         1  | POLONIA - EKSTRAKLASA  | 398 gare
- 434. Crotone                          1  | ITALIA - SERIE C  | 438 gare
- 435. Córdoba                          1  | SPAGNA - LALIGA 2  | 397 gare
- 436. Darmstadt                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 437. De Graafschap                    1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 438. Deportivo A Coruña               1  | SPAGNA - LALIGA  | 438 gare
- 439. Dijon                            1  | FRANCIA - LIGUE 2  | 289 gare
- 440. Eibar                            1  | SPAGNA - LALIGA 2  | 456 gare
- 441. Eintracht Braunschweig           1  | GERMANIA - 2. BUNDESLIGA  | 326 gare
- 442. Eldense                          1  | SPAGNA - LALIGA 2  | 251 gare
- 443. Energie Cottbus                  1  | GERMANIA - 2. BUNDESLIGA  | 268 gare
- 444. Estrela da Amadora               1  | PORTOGALLO - LIGA PORTUGAL  | 234 gare
- 445. Estudiantes de Río Cuarto        1  | ARGENTINA - PRIMERA DIVISIÓN  | 31 gare
- 446. Falkirk                          1  | SCOZIA - PREMIERSHIP  | 388 gare
- 447. Famalicão                        1  | PORTOGALLO - LIGA PORTUGAL  | 362 gare
- 448. FC Andorra                       1  | SPAGNA - LALIGA 2  | 273 gare
- 449. FC Den Bosch                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 450. FC Dordrecht                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 451. FC Eindhoven                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 452. FC Košice                        1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 215 gare
- 453. FC KTP                           1  | FINLANDIA - YKKOSLIIGA  | 322 gare
- 454. FC København                     1  | DANIMARCA - SUPERLIGAEN  | 243 gare
- 455. FC Lahti                         1  | FINLANDIA - VEIKKAUSLIIGA  | 344 gare
- 456. FC Liefering                     1  | AUSTRIA - 2. LIGA  | 356 gare
- 457. FC Liège                         1  | BELGIO - FIRST DIVISION B  | 101 gare
- 458. FC Petržalka 1898                1  | SLOVACCHIA - 2. LIGA  | 237 gare
- 459. FC Silon Táborsko                1  | REP. CECA - FNL  | 307 gare
- 460. FC STK 1914 Šamorín              1  | SLOVACCHIA - 2. LIGA  | 301 gare
- 461. FC Twente                        1  | OLANDA - EREDIVISIE  | 221 gare
- 462. FC Vlašim                        1  | REP. CECA - FNL  | 337 gare
- 463. FC Volendam                      1  | OLANDA - EERSTE DIVISIE  | 229 gare
- 464. FC Wacker Innsbruck              1  | AUSTRIA - 2. LIGA  | 241 gare
- 465. FC Zürich                        1  | SVIZZERA - SUPER LEAGUE  | 414 gare
- 466. FCV Dender EH                    1  | BELGIO - FIRST DIVISION B  | 146 gare
- 467. FF Jaro                          1  | FINLANDIA - VEIKKAUSLIIGA  | 326 gare
- 468. Fiorentina                       1  | ITALIA - SERIE A  | 428 gare
- 469. Forlì                            1  | ITALIA - SERIE C  | 88 gare
- 470. Fortuna Sittard                  1  | OLANDA - EREDIVISIE  | 215 gare
- 471. Fredrikstad                      1  | NORVEGIA - ELITESERIEN  | 336 gare
- 472. Freiburg                         1  | GERMANIA - BUNDESLIGA  | 314 gare
- 473. Frosinone                        1  | ITALIA - SERIE A  | 447 gare
- 474. Fulham                           1  | INGHILTERRA - PREMIER LEAGUE  | 429 gare
- 475. GAIS                             1  | SVEZIA - ALLSVENSKAN  | 327 gare
- 476. Genoa                            1  | ITALIA - SERIE A  | 428 gare
- 477. Gent                             1  | BELGIO - FIRST DIVISION A  | 441 gare
- 478. Gent U23                         1  | BELGIO - FIRST DIVISION B  | 40 gare
- 479. Giana Erminio                    1  | ITALIA - SERIE C  | 392 gare
- 480. Gil Vicente                      1  | PORTOGALLO - LIGA PORTUGAL  | 328 gare
- 481. Gillingham                       1  | INGHILTERRA - LEAGUE TWO  | 463 gare
- 482. Gimnasia LP                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 279 gare
- 483. Go Ahead Eagles                  1  | OLANDA - EREDIVISIE  | 221 gare
- 484. Grazer AK                        1  | AUSTRIA - BUNDESLIGA  | 225 gare
- 485. Greenock Morton                  1  | SCOZIA - CHAMPIONSHIP  | 391 gare
- 486. Greuther Fürth                   1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 487. Grêmio                           1  | BRASILE - SÉRIE A  | 413 gare
- 488. Gubbio                           1  | ITALIA - SERIE C  | 385 gare
- 489. Guidonia Montecelio              1  | ITALIA - SERIE C  | 48 gare
- 490. Guingamp                         1  | FRANCIA - LIGUE 2  | 297 gare
- 491. Górnik Zabrze                    1  | POLONIA - EKSTRAKLASA  | 394 gare
- 492. Halmstads BK                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
- 493. Hammarby                         1  | SVEZIA - ALLSVENSKAN  | 357 gare
- 494. Hartberg                         1  | AUSTRIA - BUNDESLIGA  | 309 gare
- 495. Hellas Verona                    1  | ITALIA - SERIE B  | 434 gare
- 496. Hoffenheim                       1  | GERMANIA - BUNDESLIGA  | 314 gare
- 497. Hoffenheim II                    1  | GERMANIA - 3. LIGA  | 286 gare
- 498. Houston Dynamo FC                1  | USA/CANADA - MLS  | 408 gare
- 499. Huddersfield Town                1  | INGHILTERRA - LEAGUE ONE  | 463 gare
- 500. Huracán                          1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
- 501. Hødd                             1  | NORVEGIA - OBOS-LIGAEN  | 322 gare
- 502. IFK Göteborg                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
- 503. IK Brage                         1  | SVEZIA - SUPERETTAN  | 269 gare
- 504. Inter Bratislava                 1  | SLOVACCHIA - 2. LIGA  | 105 gare
- 505. Inter U23                        1  | ITALIA - SERIE C  | 50 gare
- 506. Internacional                    1  | BRASILE - SÉRIE A  | 413 gare
- 507. Jagiellonia Białystok            1  | POLONIA - EKSTRAKLASA  | 397 gare
- 508. Jong PSV                         1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 509. Juve Stabia                      1  | ITALIA - SERIE B  | 434 gare
- 510. Kalmar FF                        1  | SVEZIA - ALLSVENSKAN  | 357 gare
- 511. Karviná                          1  | REP. CECA - FNL  | 369 gare
- 512. Kolding IF                       1  | DANIMARCA - 1. DIVISION  | 237 gare
- 513. KuPS                             1  | FINLANDIA - VEIKKAUSLIIGA  | 352 gare
- 514. Las Palmas                       1  | SPAGNA - LALIGA 2  | 457 gare
- 515. LASK                             1  | AUSTRIA - BUNDESLIGA  | 379 gare
- 516. Laval                            1  | FRANCIA - LIGUE 2  | 282 gare
- 517. Leeds United                     1  | INGHILTERRA - PREMIER LEAGUE  | 442 gare
- 518. Levante                          1  | SPAGNA - LALIGA  | 449 gare
- 519. Lille                            1  | FRANCIA - LIGUE 1  | 291 gare
- 520. Lincoln City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
- 521. Liverpool                        1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
- 522. Livorno                          1  | ITALIA - SERIE C  | 283 gare
- 523. Longford Town                    1  | IRLANDA - FIRST DIVISION  | 386 gare
- 524. Lorient                          1  | FRANCIA - LIGUE 1  | 291 gare
- 525. Los Angeles FC                   1  | USA/CANADA - MLS  | 314 gare
- 526. Lugano                           1  | SVIZZERA - SUPER LEAGUE  | 414 gare
- 527. Luton Town                       1  | INGHILTERRA - LEAGUE ONE  | 472 gare
- 528. Lyon                             1  | FRANCIA - LIGUE 1  | 291 gare
- 529. Macarthur FC                     1  | AUSTRALIA - A-LEAGUE MEN  | 163 gare
- 530. Manchester City                  1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
- 531. Manchester United                1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
- 532. Mansfield Town                   1  | INGHILTERRA - LEAGUE ONE  | 467 gare
- 533. Marítimo                         1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 534. Metz                             1  | FRANCIA - LIGUE 2  | 293 gare
- 535. MFK Bytca                        1  | SLOVACCHIA - 2. LIGA  | 15 gare
- 536. MFK Zvolen                       1  | SLOVACCHIA - 2. LIGA  | 161 gare
- 537. Milan                            1  | ITALIA - SERIE A  | 428 gare
- 538. Modena                           1  | ITALIA - SERIE B  | 350 gare
- 539. Moreirense                       1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 540. Moss                             1  | NORVEGIA - OBOS-LIGAEN  | 286 gare
- 541. Motor Lublin                     1  | POLONIA - EKSTRAKLASA  | 224 gare
- 542. MP                               1  | FINLANDIA - YKKOSLIIGA  | 303 gare
- 543. NEC Nijmegen                     1  | OLANDA - EREDIVISIE  | 221 gare
- 544. Newcastle Jets                   1  | AUSTRALIA - A-LEAGUE MEN  | 298 gare
- 545. Newcastle United                 1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
- 546. Newport County                   1  | INGHILTERRA - LEAGUE TWO  | 470 gare
- 547. Nice                             1  | FRANCIA - LIGUE 1  | 291 gare
- 548. Nordsjælland                     1  | DANIMARCA - SUPERLIGAEN  | 241 gare
- 549. OH Leuven                        1  | BELGIO - FIRST DIVISION A  | 397 gare
- 550. Orlando City                     1  | USA/CANADA - MLS  | 413 gare
- 551. Osasuna                          1  | SPAGNA - LALIGA  | 444 gare
- 552. Ostia Mare                       1  | ITALIA - SERIE C  | 12 gare
- 553. Oxford United                    1  | INGHILTERRA - LEAGUE ONE  | 469 gare
- 554. PEC Zwolle                       1  | OLANDA - EREDIVISIE  | 219 gare
- 555. Perth Glory                      1  | AUSTRALIA - A-LEAGUE MEN  | 301 gare
- 556. Perugia                          1  | ITALIA - SERIE C  | 450 gare
- 557. Peterborough United              1  | INGHILTERRA - LEAGUE ONE  | 466 gare
- 558. Pianese                          1  | ITALIA - SERIE C  | 121 gare
- 559. Pineto                           1  | ITALIA - SERIE C  | 127 gare
- 560. Pisa                             1  | ITALIA - SERIE B  | 440 gare
- 561. Portsmouth                       1  | INGHILTERRA - CHAMPIONSHIP  | 466 gare
- 562. Považská Bystrica                1  | SLOVACCHIA - 2. LIGA  | 131 gare
- 563. Preston North End                1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
- 564. PSV Eindhoven                    1  | OLANDA - EREDIVISIE  | 215 gare
- 565. Queens Park Rangers              1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
- 566. Rangers                          1  | SCOZIA - PREMIERSHIP  | 418 gare
- 567. Ranheim                          1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
- 568. Rapid Wien                       1  | AUSTRIA - BUNDESLIGA  | 384 gare
- 569. Raufoss                          1  | NORVEGIA - OBOS-LIGAEN  | 347 gare
- 570. Ravenna                          1  | ITALIA - SERIE C  | 194 gare
- 571. Rayo Vallecano                   1  | SPAGNA - LALIGA  | 448 gare
- 572. RB Bragantino                    1  | BRASILE - SÉRIE A  | 262 gare
- 573. Real Betis                       1  | SPAGNA - LALIGA  | 429 gare
- 574. Real Salt Lake                   1  | USA/CANADA - MLS  | 412 gare
- 575. Reggiana                         1  | ITALIA - SERIE C  | 390 gare
- 576. Reims                            1  | FRANCIA - LIGUE 2  | 293 gare
- 577. Renate                           1  | ITALIA - SERIE C  | 426 gare
- 578. Rennes                           1  | FRANCIA - LIGUE 1  | 291 gare
- 579. RFC Seraing                      1  | BELGIO - FIRST DIVISION B  | 225 gare
- 580. RKC Waalwijk                     1  | OLANDA - EERSTE DIVISIE  | 221 gare
- 581. Rochdale                         1  | INGHILTERRA - LEAGUE TWO  | 465 gare
- 582. Rodez                            1  | FRANCIA - LIGUE 2  | 292 gare
- 583. Roma                             1  | ITALIA - SERIE A  | 427 gare
- 584. Ruch Chorzów                     1  | POLONIA - I LIGA  | 325 gare
- 585. RW Essen                         1  | GERMANIA - 3. LIGA  | 298 gare
- 586. Saint-Étienne                    1  | FRANCIA - LIGUE 2  | 297 gare
- 587. Salzburg                         1  | AUSTRIA - BUNDESLIGA  | 375 gare
- 588. Sambenedettese                   1  | ITALIA - SERIE C  | 232 gare
- 589. San Diego FC                     1  | USA/CANADA - MLS  | 72 gare
- 590. Sandvikens IF                    1  | SVEZIA - SUPERETTAN  | 88 gare
- 591. Sarmiento                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 199 gare
- 592. Sassuolo                         1  | ITALIA - SERIE A  | 427 gare
- 593. SC Verl                          1  | GERMANIA - 3. LIGA  | 296 gare
- 594. Seattle Sounders FC              1  | USA/CANADA - MLS  | 432 gare
- 595. Sevilla                          1  | SPAGNA - LALIGA  | 429 gare
- 596. Shamrock Rovers                  1  | IRLANDA - PREMIER DIVISION  | 405 gare
- 597. Shelbourne                       1  | IRLANDA - PREMIER DIVISION  | 364 gare
- 598. SJK                              1  | FINLANDIA - VEIKKAUSLIIGA  | 351 gare
- 599. SK Prostějov                     1  | REP. CECA - FNL  | 279 gare
- 600. Skierniewice                     1  | POLONIA - I LIGA  | 46 gare
- 601. Sligo Rovers                     1  | IRLANDA - PREMIER DIVISION  | 403 gare
- 602. Slovan Galanta                   1  | SLOVACCHIA - 2. LIGA  | 15 gare
- 603. Sochaux                          1  | FRANCIA - LIGUE 2  | 288 gare
- 604. Sonnenhof Großaspach             1  | GERMANIA - 3. LIGA  | 238 gare
- 605. Southampton                      1  | INGHILTERRA - CHAMPIONSHIP  | 412 gare
- 606. Sparta Rotterdam                 1  | OLANDA - EREDIVISIE  | 221 gare
- 607. Sporting CP                      1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 608. St. Mirren                       1  | SCOZIA - PREMIERSHIP  | 416 gare
- 609. St. Patrick's Athletic           1  | IRLANDA - PREMIER DIVISION  | 405 gare
- 610. St.Truiden                       1  | BELGIO - FIRST DIVISION A  | 414 gare
- 611. Stabæk                           1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
- 612. Stal Mielec                      1  | POLONIA - I LIGA  | 382 gare
- 613. Strasbourg                       1  | FRANCIA - LIGUE 1  | 290 gare
- 614. Strømmen                         1  | NORVEGIA - OBOS-LIGAEN  | 340 gare
- 615. Sturm Graz II                    1  | AUSTRIA - 2. LIGA  | 129 gare
- 616. Tatran Prešov                    1  | SLOVACCHIA - 2. LIGA  | 254 gare
- 617. TOP Oss                          1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 618. Torreense                        1  | PORTOGALLO - LIGA PORTUGAL 2  | 321 gare
- 619. Torres                           1  | ITALIA - SERIE C  | 168 gare
- 620. Tottenham Hotspur                1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
- 621. Toulouse                         1  | FRANCIA - LIGUE 1  | 291 gare
- 622. Tromsø                           1  | NORVEGIA - ELITESERIEN  | 355 gare
- 623. Troyes                           1  | FRANCIA - LIGUE 1  | 294 gare
- 624. Union Brescia                    1  | ITALIA - SERIE C  | 444 gare
- 625. Union St.Gilloise                1  | BELGIO - FIRST DIVISION A  | 407 gare
- 626. VfB Stuttgart                    1  | GERMANIA - BUNDESLIGA  | 314 gare
- 627. VfB Stuttgart II                 1  | GERMANIA - 3. LIGA  | 268 gare
- 628. VfL Osnabrück                    1  | GERMANIA - 2. BUNDESLIGA  | 338 gare
- 629. Viktoria Köln 1904               1  | GERMANIA - 3. LIGA  | 310 gare
- 630. Vitória                          1  | BRASILE - SÉRIE A  | 223 gare
- 631. Vitória de Guimarães             1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 632. Voitsberg                        1  | AUSTRIA - 2. LIGA  | 41 gare
- 633. VPS                              1  | FINLANDIA - VEIKKAUSLIIGA  | 354 gare
- 634. Vysočina Jihlava                 1  | REP. CECA - FNL  | 339 gare
- 635. Vålerenga                        1  | NORVEGIA - ELITESERIEN  | 354 gare
- 636. Vélez Sarsfield                  1  | ARGENTINA - PRIMERA DIVISIÓN  | 276 gare
- 637. Walsall                          1  | INGHILTERRA - LEAGUE TWO  | 466 gare
- 638. Warta Poznań                     1  | POLONIA - I LIGA  | 351 gare
- 639. Waterford FC                     1  | IRLANDA - PREMIER DIVISION  | 390 gare
- 640. Werder Bremen                    1  | GERMANIA - BUNDESLIGA  | 314 gare
- 641. West Bromwich Albion             1  | INGHILTERRA - CHAMPIONSHIP  | 453 gare
- 642. West Ham United                  1  | INGHILTERRA - CHAMPIONSHIP  | 393 gare
- 643. Wexford FC                       1  | IRLANDA - FIRST DIVISION  | 365 gare
- 644. Wigan Athletic                   1  | INGHILTERRA - LEAGUE ONE  | 473 gare
- 645. Wil                              1  | SVIZZERA - CHALLENGE LEAGUE  | 405 gare
- 646. Willem II                        1  | OLANDA - EREDIVISIE  | 227 gare
- 647. Wisła Płock                      1  | POLONIA - EKSTRAKLASA  | 395 gare
- 648. Wolfsburg                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 649. Wycombe Wanderers                1  | INGHILTERRA - LEAGUE ONE  | 469 gare
- 650. Young Boys                       1  | SVIZZERA - SUPER LEAGUE  | 414 gare
- 651. Zeleziarne Podbrezová            1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 350 gare
- 652. Åsane                            1  | NORVEGIA - OBOS-LIGAEN  | 355 gare
- 653. Örebro                           1  | SVEZIA - SUPERETTAN  | 359 gare
- 654. Örgryte                          1  | SVEZIA - ALLSVENSKAN  | 327 gare
- 655. Žižkov                           1  | REP. CECA - FNL  | 279 gare
- 656. AaB                              0  | DANIMARCA - 1. DIVISION  | 243 gare
- 657. AFC Wimbledon                    0  | INGHILTERRA - LEAGUE ONE  | 465 gare
- 658. AIK                              0  | SVEZIA - ALLSVENSKAN  | 357 gare
- 659. Almería                          0  | SPAGNA - LALIGA 2  | 475 gare
- 660. Altach                           0  | AUSTRIA - BUNDESLIGA  | 376 gare
- 661. Arka Gdynia                      0  | POLONIA - I LIGA  | 401 gare
+ 397. Arka Gdynia                      1  | POLONIA - I LIGA  | 402 gare
+ 398. Arzignano Valchiampo             1  | ITALIA - SERIE C  | 195 gare
+ 399. Atalanta                         1  | ITALIA - SERIE A  | 428 gare
+ 400. Athlone Town                     1  | IRLANDA - FIRST DIVISION  | 362 gare
+ 401. Augsburg                         1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 402. Austria Salzburg                 1  | AUSTRIA - 2. LIGA  | 75 gare
+ 403. Austria Wien                     1  | AUSTRIA - BUNDESLIGA  | 386 gare
+ 404. AZ Picerno                       1  | ITALIA - SERIE C  | 233 gare
+ 405. Baník Ostrava B                  1  | REP. CECA - FNL  | 73 gare
+ 406. Bayern München                   1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 407. Belgrano                         1  | ARGENTINA - PRIMERA DIVISIÓN  | 203 gare
+ 408. Benfica                          1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 409. Blackpool                        1  | INGHILTERRA - LEAGUE ONE  | 467 gare
+ 410. Boca Juniors                     1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
+ 411. Bodø/Glimt                       1  | NORVEGIA - ELITESERIEN  | 355 gare
+ 412. Bohemian FC                      1  | IRLANDA - PREMIER DIVISION  | 404 gare
+ 413. Brest                            1  | FRANCIA - LIGUE 1  | 291 gare
+ 414. Brighton & Hove Albion           1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
+ 415. Brommapojkarna                   1  | SVEZIA - ALLSVENSKAN  | 267 gare
+ 416. Bryne                            1  | NORVEGIA - OBOS-LIGAEN  | 336 gare
+ 417. Brøndby IF                       1  | DANIMARCA - SUPERLIGAEN  | 242 gare
+ 418. BW Linz                          1  | AUSTRIA - 2. LIGA  | 329 gare
+ 419. Campobasso                       1  | ITALIA - SERIE C  | 125 gare
+ 420. Cardiff City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
+ 421. Carpi                            1  | ITALIA - SERIE C  | 315 gare
+ 422. Carrarese                        1  | ITALIA - SERIE B  | 429 gare
+ 423. Cavese                           1  | ITALIA - SERIE C  | 185 gare
+ 424. Central Córdoba de Santiago      1  | ARGENTINA - PRIMERA DIVISIÓN  | 194 gare
+ 425. Charlotte FC                     1  | USA/CANADA - MLS  | 176 gare
+ 426. Charlton Athletic                1  | INGHILTERRA - CHAMPIONSHIP  | 481 gare
+ 427. Cheltenham Town                  1  | INGHILTERRA - LEAGUE TWO  | 466 gare
+ 428. Club Atlético Platense           1  | ARGENTINA - PRIMERA DIVISIÓN  | 173 gare
+ 429. Club Brugge NXT                  1  | BELGIO - FIRST DIVISION B  | 158 gare
+ 430. Cobh Ramblers                    1  | IRLANDA - FIRST DIVISION  | 366 gare
+ 431. Corinthians                      1  | BRASILE - SÉRIE A  | 451 gare
+ 432. Cork City                        1  | IRLANDA - FIRST DIVISION  | 392 gare
+ 433. Coventry City                    1  | INGHILTERRA - PREMIER LEAGUE  | 465 gare
+ 434. Cracovia                         1  | POLONIA - EKSTRAKLASA  | 398 gare
+ 435. Crotone                          1  | ITALIA - SERIE C  | 438 gare
+ 436. Córdoba                          1  | SPAGNA - LALIGA 2  | 397 gare
+ 437. Darmstadt                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 438. De Graafschap                    1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 439. Deportivo A Coruña               1  | SPAGNA - LALIGA  | 438 gare
+ 440. Dijon                            1  | FRANCIA - LIGUE 2  | 289 gare
+ 441. Eibar                            1  | SPAGNA - LALIGA 2  | 456 gare
+ 442. Eintracht Braunschweig           1  | GERMANIA - 2. BUNDESLIGA  | 326 gare
+ 443. Eldense                          1  | SPAGNA - LALIGA 2  | 251 gare
+ 444. Energie Cottbus                  1  | GERMANIA - 2. BUNDESLIGA  | 268 gare
+ 445. Estrela da Amadora               1  | PORTOGALLO - LIGA PORTUGAL  | 234 gare
+ 446. Estudiantes de Río Cuarto        1  | ARGENTINA - PRIMERA DIVISIÓN  | 31 gare
+ 447. Falkirk                          1  | SCOZIA - PREMIERSHIP  | 388 gare
+ 448. Famalicão                        1  | PORTOGALLO - LIGA PORTUGAL  | 362 gare
+ 449. FC Andorra                       1  | SPAGNA - LALIGA 2  | 273 gare
+ 450. FC Den Bosch                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 451. FC Dordrecht                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 452. FC Eindhoven                     1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 453. FC Košice                        1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 215 gare
+ 454. FC KTP                           1  | FINLANDIA - YKKOSLIIGA  | 322 gare
+ 455. FC København                     1  | DANIMARCA - SUPERLIGAEN  | 243 gare
+ 456. FC Lahti                         1  | FINLANDIA - VEIKKAUSLIIGA  | 344 gare
+ 457. FC Liefering                     1  | AUSTRIA - 2. LIGA  | 356 gare
+ 458. FC Liège                         1  | BELGIO - FIRST DIVISION B  | 101 gare
+ 459. FC Petržalka 1898                1  | SLOVACCHIA - 2. LIGA  | 237 gare
+ 460. FC Silon Táborsko                1  | REP. CECA - FNL  | 307 gare
+ 461. FC STK 1914 Šamorín              1  | SLOVACCHIA - 2. LIGA  | 301 gare
+ 462. FC Twente                        1  | OLANDA - EREDIVISIE  | 221 gare
+ 463. FC Vlašim                        1  | REP. CECA - FNL  | 337 gare
+ 464. FC Volendam                      1  | OLANDA - EERSTE DIVISIE  | 229 gare
+ 465. FC Wacker Innsbruck              1  | AUSTRIA - 2. LIGA  | 241 gare
+ 466. FC Zürich                        1  | SVIZZERA - SUPER LEAGUE  | 414 gare
+ 467. FCV Dender EH                    1  | BELGIO - FIRST DIVISION B  | 146 gare
+ 468. FF Jaro                          1  | FINLANDIA - VEIKKAUSLIIGA  | 326 gare
+ 469. Fiorentina                       1  | ITALIA - SERIE A  | 428 gare
+ 470. Forlì                            1  | ITALIA - SERIE C  | 88 gare
+ 471. Fortuna Sittard                  1  | OLANDA - EREDIVISIE  | 215 gare
+ 472. Fredrikstad                      1  | NORVEGIA - ELITESERIEN  | 336 gare
+ 473. Freiburg                         1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 474. Frosinone                        1  | ITALIA - SERIE A  | 447 gare
+ 475. Fulham                           1  | INGHILTERRA - PREMIER LEAGUE  | 429 gare
+ 476. GAIS                             1  | SVEZIA - ALLSVENSKAN  | 327 gare
+ 477. Genoa                            1  | ITALIA - SERIE A  | 428 gare
+ 478. Gent                             1  | BELGIO - FIRST DIVISION A  | 441 gare
+ 479. Gent U23                         1  | BELGIO - FIRST DIVISION B  | 40 gare
+ 480. Giana Erminio                    1  | ITALIA - SERIE C  | 392 gare
+ 481. Gil Vicente                      1  | PORTOGALLO - LIGA PORTUGAL  | 328 gare
+ 482. Gillingham                       1  | INGHILTERRA - LEAGUE TWO  | 463 gare
+ 483. Gimnasia LP                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 279 gare
+ 484. Go Ahead Eagles                  1  | OLANDA - EREDIVISIE  | 221 gare
+ 485. Grazer AK                        1  | AUSTRIA - BUNDESLIGA  | 225 gare
+ 486. Greenock Morton                  1  | SCOZIA - CHAMPIONSHIP  | 391 gare
+ 487. Greuther Fürth                   1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 488. Grêmio                           1  | BRASILE - SÉRIE A  | 413 gare
+ 489. Gubbio                           1  | ITALIA - SERIE C  | 385 gare
+ 490. Guidonia Montecelio              1  | ITALIA - SERIE C  | 48 gare
+ 491. Guingamp                         1  | FRANCIA - LIGUE 2  | 297 gare
+ 492. Górnik Zabrze                    1  | POLONIA - EKSTRAKLASA  | 394 gare
+ 493. Halmstads BK                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 494. Hammarby                         1  | SVEZIA - ALLSVENSKAN  | 357 gare
+ 495. Hartberg                         1  | AUSTRIA - BUNDESLIGA  | 309 gare
+ 496. Hellas Verona                    1  | ITALIA - SERIE B  | 434 gare
+ 497. Hoffenheim                       1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 498. Hoffenheim II                    1  | GERMANIA - 3. LIGA  | 286 gare
+ 499. Houston Dynamo FC                1  | USA/CANADA - MLS  | 408 gare
+ 500. Huddersfield Town                1  | INGHILTERRA - LEAGUE ONE  | 463 gare
+ 501. Huracán                          1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
+ 502. Hødd                             1  | NORVEGIA - OBOS-LIGAEN  | 322 gare
+ 503. IFK Göteborg                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 504. IK Brage                         1  | SVEZIA - SUPERETTAN  | 269 gare
+ 505. Inter Bratislava                 1  | SLOVACCHIA - 2. LIGA  | 105 gare
+ 506. Inter U23                        1  | ITALIA - SERIE C  | 50 gare
+ 507. Internacional                    1  | BRASILE - SÉRIE A  | 413 gare
+ 508. Jagiellonia Białystok            1  | POLONIA - EKSTRAKLASA  | 397 gare
+ 509. Jong PSV                         1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 510. Juve Stabia                      1  | ITALIA - SERIE B  | 434 gare
+ 511. Kalmar FF                        1  | SVEZIA - ALLSVENSKAN  | 357 gare
+ 512. Karviná                          1  | REP. CECA - FNL  | 369 gare
+ 513. Kolding IF                       1  | DANIMARCA - 1. DIVISION  | 237 gare
+ 514. KuPS                             1  | FINLANDIA - VEIKKAUSLIIGA  | 352 gare
+ 515. Las Palmas                       1  | SPAGNA - LALIGA 2  | 457 gare
+ 516. LASK                             1  | AUSTRIA - BUNDESLIGA  | 379 gare
+ 517. Laval                            1  | FRANCIA - LIGUE 2  | 282 gare
+ 518. Leeds United                     1  | INGHILTERRA - PREMIER LEAGUE  | 442 gare
+ 519. Levante                          1  | SPAGNA - LALIGA  | 449 gare
+ 520. Lille                            1  | FRANCIA - LIGUE 1  | 291 gare
+ 521. Lincoln City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
+ 522. Liverpool                        1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
+ 523. Livorno                          1  | ITALIA - SERIE C  | 283 gare
+ 524. Longford Town                    1  | IRLANDA - FIRST DIVISION  | 386 gare
+ 525. Lorient                          1  | FRANCIA - LIGUE 1  | 291 gare
+ 526. Los Angeles FC                   1  | USA/CANADA - MLS  | 314 gare
+ 527. Lugano                           1  | SVIZZERA - SUPER LEAGUE  | 414 gare
+ 528. Luton Town                       1  | INGHILTERRA - LEAGUE ONE  | 472 gare
+ 529. Lyon                             1  | FRANCIA - LIGUE 1  | 291 gare
+ 530. Macarthur FC                     1  | AUSTRALIA - A-LEAGUE MEN  | 163 gare
+ 531. Manchester City                  1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
+ 532. Manchester United                1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
+ 533. Mansfield Town                   1  | INGHILTERRA - LEAGUE ONE  | 467 gare
+ 534. Marítimo                         1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 535. Metz                             1  | FRANCIA - LIGUE 2  | 293 gare
+ 536. MFK Bytca                        1  | SLOVACCHIA - 2. LIGA  | 15 gare
+ 537. MFK Zvolen                       1  | SLOVACCHIA - 2. LIGA  | 161 gare
+ 538. Milan                            1  | ITALIA - SERIE A  | 428 gare
+ 539. Modena                           1  | ITALIA - SERIE B  | 350 gare
+ 540. Moreirense                       1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 541. Moss                             1  | NORVEGIA - OBOS-LIGAEN  | 286 gare
+ 542. Motor Lublin                     1  | POLONIA - EKSTRAKLASA  | 224 gare
+ 543. MP                               1  | FINLANDIA - YKKOSLIIGA  | 303 gare
+ 544. NEC Nijmegen                     1  | OLANDA - EREDIVISIE  | 221 gare
+ 545. Newcastle Jets                   1  | AUSTRALIA - A-LEAGUE MEN  | 298 gare
+ 546. Newcastle United                 1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
+ 547. Newport County                   1  | INGHILTERRA - LEAGUE TWO  | 470 gare
+ 548. Nice                             1  | FRANCIA - LIGUE 1  | 291 gare
+ 549. Nordsjælland                     1  | DANIMARCA - SUPERLIGAEN  | 241 gare
+ 550. OH Leuven                        1  | BELGIO - FIRST DIVISION A  | 397 gare
+ 551. Orlando City                     1  | USA/CANADA - MLS  | 413 gare
+ 552. Osasuna                          1  | SPAGNA - LALIGA  | 444 gare
+ 553. Ostia Mare                       1  | ITALIA - SERIE C  | 12 gare
+ 554. Oxford United                    1  | INGHILTERRA - LEAGUE ONE  | 469 gare
+ 555. PEC Zwolle                       1  | OLANDA - EREDIVISIE  | 219 gare
+ 556. Perth Glory                      1  | AUSTRALIA - A-LEAGUE MEN  | 301 gare
+ 557. Perugia                          1  | ITALIA - SERIE C  | 450 gare
+ 558. Peterborough United              1  | INGHILTERRA - LEAGUE ONE  | 466 gare
+ 559. Pianese                          1  | ITALIA - SERIE C  | 121 gare
+ 560. Pineto                           1  | ITALIA - SERIE C  | 127 gare
+ 561. Pisa                             1  | ITALIA - SERIE B  | 440 gare
+ 562. Portsmouth                       1  | INGHILTERRA - CHAMPIONSHIP  | 466 gare
+ 563. Považská Bystrica                1  | SLOVACCHIA - 2. LIGA  | 131 gare
+ 564. Preston North End                1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
+ 565. PSV Eindhoven                    1  | OLANDA - EREDIVISIE  | 215 gare
+ 566. Queens Park Rangers              1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
+ 567. Rangers                          1  | SCOZIA - PREMIERSHIP  | 418 gare
+ 568. Ranheim                          1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
+ 569. Rapid Wien                       1  | AUSTRIA - BUNDESLIGA  | 384 gare
+ 570. Raufoss                          1  | NORVEGIA - OBOS-LIGAEN  | 347 gare
+ 571. Ravenna                          1  | ITALIA - SERIE C  | 194 gare
+ 572. Rayo Vallecano                   1  | SPAGNA - LALIGA  | 448 gare
+ 573. RB Bragantino                    1  | BRASILE - SÉRIE A  | 262 gare
+ 574. Real Betis                       1  | SPAGNA - LALIGA  | 429 gare
+ 575. Real Salt Lake                   1  | USA/CANADA - MLS  | 412 gare
+ 576. Reggiana                         1  | ITALIA - SERIE C  | 390 gare
+ 577. Reims                            1  | FRANCIA - LIGUE 2  | 293 gare
+ 578. Renate                           1  | ITALIA - SERIE C  | 426 gare
+ 579. Rennes                           1  | FRANCIA - LIGUE 1  | 291 gare
+ 580. RFC Seraing                      1  | BELGIO - FIRST DIVISION B  | 225 gare
+ 581. RKC Waalwijk                     1  | OLANDA - EERSTE DIVISIE  | 221 gare
+ 582. Rochdale                         1  | INGHILTERRA - LEAGUE TWO  | 465 gare
+ 583. Rodez                            1  | FRANCIA - LIGUE 2  | 292 gare
+ 584. Roma                             1  | ITALIA - SERIE A  | 427 gare
+ 585. Ruch Chorzów                     1  | POLONIA - I LIGA  | 326 gare
+ 586. RW Essen                         1  | GERMANIA - 3. LIGA  | 298 gare
+ 587. Saint-Étienne                    1  | FRANCIA - LIGUE 2  | 297 gare
+ 588. Salzburg                         1  | AUSTRIA - BUNDESLIGA  | 375 gare
+ 589. Sambenedettese                   1  | ITALIA - SERIE C  | 232 gare
+ 590. San Diego FC                     1  | USA/CANADA - MLS  | 72 gare
+ 591. Sandvikens IF                    1  | SVEZIA - SUPERETTAN  | 88 gare
+ 592. Sarmiento                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 199 gare
+ 593. Sassuolo                         1  | ITALIA - SERIE A  | 427 gare
+ 594. SC Verl                          1  | GERMANIA - 3. LIGA  | 296 gare
+ 595. Seattle Sounders FC              1  | USA/CANADA - MLS  | 432 gare
+ 596. Sevilla                          1  | SPAGNA - LALIGA  | 429 gare
+ 597. Shamrock Rovers                  1  | IRLANDA - PREMIER DIVISION  | 405 gare
+ 598. Shelbourne                       1  | IRLANDA - PREMIER DIVISION  | 364 gare
+ 599. SJK                              1  | FINLANDIA - VEIKKAUSLIIGA  | 351 gare
+ 600. SK Prostějov                     1  | REP. CECA - FNL  | 279 gare
+ 601. Skierniewice                     1  | POLONIA - I LIGA  | 46 gare
+ 602. Sligo Rovers                     1  | IRLANDA - PREMIER DIVISION  | 403 gare
+ 603. Slovan Galanta                   1  | SLOVACCHIA - 2. LIGA  | 15 gare
+ 604. Sochaux                          1  | FRANCIA - LIGUE 2  | 288 gare
+ 605. Sonnenhof Großaspach             1  | GERMANIA - 3. LIGA  | 238 gare
+ 606. Southampton                      1  | INGHILTERRA - CHAMPIONSHIP  | 412 gare
+ 607. Sparta Rotterdam                 1  | OLANDA - EREDIVISIE  | 221 gare
+ 608. Sporting CP                      1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 609. St. Mirren                       1  | SCOZIA - PREMIERSHIP  | 416 gare
+ 610. St. Patrick's Athletic           1  | IRLANDA - PREMIER DIVISION  | 405 gare
+ 611. St.Truiden                       1  | BELGIO - FIRST DIVISION A  | 414 gare
+ 612. Stabæk                           1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
+ 613. Stal Mielec                      1  | POLONIA - I LIGA  | 382 gare
+ 614. Strasbourg                       1  | FRANCIA - LIGUE 1  | 290 gare
+ 615. Strømmen                         1  | NORVEGIA - OBOS-LIGAEN  | 340 gare
+ 616. Sturm Graz II                    1  | AUSTRIA - 2. LIGA  | 129 gare
+ 617. Tatran Prešov                    1  | SLOVACCHIA - 2. LIGA  | 254 gare
+ 618. TOP Oss                          1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 619. Torreense                        1  | PORTOGALLO - LIGA PORTUGAL 2  | 321 gare
+ 620. Torres                           1  | ITALIA - SERIE C  | 168 gare
+ 621. Tottenham Hotspur                1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
+ 622. Toulouse                         1  | FRANCIA - LIGUE 1  | 291 gare
+ 623. Tromsø                           1  | NORVEGIA - ELITESERIEN  | 355 gare
+ 624. Troyes                           1  | FRANCIA - LIGUE 1  | 294 gare
+ 625. Union Brescia                    1  | ITALIA - SERIE C  | 444 gare
+ 626. Union St.Gilloise                1  | BELGIO - FIRST DIVISION A  | 407 gare
+ 627. VfB Stuttgart                    1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 628. VfB Stuttgart II                 1  | GERMANIA - 3. LIGA  | 268 gare
+ 629. VfL Osnabrück                    1  | GERMANIA - 2. BUNDESLIGA  | 338 gare
+ 630. Viktoria Köln 1904               1  | GERMANIA - 3. LIGA  | 310 gare
+ 631. Vitória                          1  | BRASILE - SÉRIE A  | 223 gare
+ 632. Vitória de Guimarães             1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 633. Voitsberg                        1  | AUSTRIA - 2. LIGA  | 41 gare
+ 634. VPS                              1  | FINLANDIA - VEIKKAUSLIIGA  | 354 gare
+ 635. Vysočina Jihlava                 1  | REP. CECA - FNL  | 339 gare
+ 636. Vålerenga                        1  | NORVEGIA - ELITESERIEN  | 354 gare
+ 637. Vélez Sarsfield                  1  | ARGENTINA - PRIMERA DIVISIÓN  | 276 gare
+ 638. Walsall                          1  | INGHILTERRA - LEAGUE TWO  | 466 gare
+ 639. Warta Poznań                     1  | POLONIA - I LIGA  | 351 gare
+ 640. Waterford FC                     1  | IRLANDA - PREMIER DIVISION  | 390 gare
+ 641. Werder Bremen                    1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 642. West Bromwich Albion             1  | INGHILTERRA - CHAMPIONSHIP  | 453 gare
+ 643. West Ham United                  1  | INGHILTERRA - CHAMPIONSHIP  | 393 gare
+ 644. Wexford FC                       1  | IRLANDA - FIRST DIVISION  | 365 gare
+ 645. Wigan Athletic                   1  | INGHILTERRA - LEAGUE ONE  | 473 gare
+ 646. Wil                              1  | SVIZZERA - CHALLENGE LEAGUE  | 405 gare
+ 647. Willem II                        1  | OLANDA - EREDIVISIE  | 227 gare
+ 648. Wisła Płock                      1  | POLONIA - EKSTRAKLASA  | 395 gare
+ 649. Wolfsburg                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 650. Wycombe Wanderers                1  | INGHILTERRA - LEAGUE ONE  | 469 gare
+ 651. Young Boys                       1  | SVIZZERA - SUPER LEAGUE  | 414 gare
+ 652. Zeleziarne Podbrezová            1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 350 gare
+ 653. Åsane                            1  | NORVEGIA - OBOS-LIGAEN  | 355 gare
+ 654. Örebro                           1  | SVEZIA - SUPERETTAN  | 359 gare
+ 655. Örgryte                          1  | SVEZIA - ALLSVENSKAN  | 327 gare
+ 656. Žižkov                           1  | REP. CECA - FNL  | 279 gare
+ 657. AaB                              0  | DANIMARCA - 1. DIVISION  | 243 gare
+ 658. AFC Wimbledon                    0  | INGHILTERRA - LEAGUE ONE  | 465 gare
+ 659. AIK                              0  | SVEZIA - ALLSVENSKAN  | 357 gare
+ 660. Almería                          0  | SPAGNA - LALIGA 2  | 475 gare
+ 661. Altach                           0  | AUSTRIA - BUNDESLIGA  | 376 gare
  662. Aston Villa                      0  | INGHILTERRA - PREMIER LEAGUE  | 419 gare
  663. Atalanta U23                     0  | ITALIA - SERIE C  | 137 gare
  664. Atlanta United                   0  | USA/CANADA - MLS  | 346 gare
@@ -1023,7 +1023,7 @@ Squadre: 823
  188. Queen's Park                     4  | SCOZIA - CHAMPIONSHIP  | 265 gare
  189. RAAL La Louvière                 4  | BELGIO - FIRST DIVISION A  | 74 gare
  190. Real Sociedad                    4  | SPAGNA - LALIGA  | 429 gare
- 191. Ruch Chorzów                     4  | POLONIA - I LIGA  | 325 gare
+ 191. Ruch Chorzów                     4  | POLONIA - I LIGA  | 326 gare
  192. Schalke 04                       4  | GERMANIA - BUNDESLIGA  | 314 gare
  193. Shamrock Rovers                  4  | IRLANDA - PREMIER DIVISION  | 405 gare
  194. Sigma Olomouc                    4  | REP. CECA - 1. LIGA  | 372 gare
@@ -1171,7 +1171,7 @@ Squadre: 823
  336. Alverca                          2  | PORTOGALLO - LIGA PORTUGAL  | 251 gare
  337. Anderlecht                       2  | BELGIO - FIRST DIVISION A  | 431 gare
  338. Angers                           2  | FRANCIA - LIGUE 1  | 295 gare
- 339. Arka Gdynia                      2  | POLONIA - I LIGA  | 401 gare
+ 339. Arka Gdynia                      2  | POLONIA - I LIGA  | 402 gare
  340. Arzignano Valchiampo             2  | ITALIA - SERIE C  | 195 gare
  341. Athletico Paranaense             2  | BRASILE - SÉRIE A  | 413 gare
  342. Atlético Madrid                  2  | SPAGNA - LALIGA  | 429 gare
@@ -1195,7 +1195,7 @@ Squadre: 823
  360. Chapecoense                      2  | BRASILE - SÉRIE A  | 259 gare
  361. Charlotte FC                     2  | USA/CANADA - MLS  | 176 gare
  362. Charlton Athletic                2  | INGHILTERRA - CHAMPIONSHIP  | 481 gare
- 363. Chrobry Głogów                   2  | POLONIA - I LIGA  | 389 gare
+ 363. Chrobry Głogów                   2  | POLONIA - I LIGA  | 390 gare
  364. Club Atlético Platense           2  | ARGENTINA - PRIMERA DIVISIÓN  | 173 gare
  365. Colchester United                2  | INGHILTERRA - LEAGUE TWO  | 466 gare
  366. Coritiba                         2  | BRASILE - SÉRIE A  | 261 gare
@@ -1469,7 +1469,7 @@ Squadre: 823
  634. Pineto                           1  | ITALIA - SERIE C  | 127 gare
  635. Pisa                             1  | ITALIA - SERIE B  | 440 gare
  636. Pogoń Grodzisk Mazowiecki        1  | POLONIA - I LIGA  | 114 gare
- 637. Pogoń Siedlce                    1  | POLONIA - I LIGA  | 387 gare
+ 637. Pogoń Siedlce                    1  | POLONIA - I LIGA  | 388 gare
  638. Považská Bystrica                1  | SLOVACCHIA - 2. LIGA  | 131 gare
  639. Preussen Münster                 1  | GERMANIA - 3. LIGA  | 342 gare
  640. Příbram                          1  | REP. CECA - FNL  | 325 gare
@@ -1854,7 +1854,7 @@ Squadre: 823
  193. Casarano                         3  | ITALIA - SERIE C  | 56 gare
  194. Chapecoense                      3  | BRASILE - SÉRIE A  | 259 gare
  195. Charlton Athletic                3  | INGHILTERRA - CHAMPIONSHIP  | 481 gare
- 196. Chrobry Głogów                   3  | POLONIA - I LIGA  | 389 gare
+ 196. Chrobry Głogów                   3  | POLONIA - I LIGA  | 390 gare
  197. Cittadella                       3  | ITALIA - SERIE C  | 452 gare
  198. Como                             3  | ITALIA - SERIE A  | 347 gare
  199. Derby County                     3  | INGHILTERRA - CHAMPIONSHIP  | 478 gare
@@ -2063,7 +2063,7 @@ Squadre: 823
  402. RAAL La Louvière                 2  | BELGIO - FIRST DIVISION A  | 74 gare
  403. Racing Santander                 2  | SPAGNA - LALIGA  | 453 gare
  404. Reggiana                         2  | ITALIA - SERIE C  | 390 gare
- 405. Ruch Chorzów                     2  | POLONIA - I LIGA  | 325 gare
+ 405. Ruch Chorzów                     2  | POLONIA - I LIGA  | 326 gare
  406. Ružomberok                       2  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 364 gare
  407. Sambenedettese                   2  | ITALIA - SERIE C  | 232 gare
  408. Sigma Olomouc                    2  | REP. CECA - 1. LIGA  | 372 gare
@@ -2121,235 +2121,235 @@ Squadre: 823
  460. Anderlecht Futures               1  | BELGIO - FIRST DIVISION B  | 129 gare
  461. Angers                           1  | FRANCIA - LIGUE 1  | 295 gare
  462. Annecy FC                        1  | FRANCIA - LIGUE 2  | 223 gare
- 463. Atalanta                         1  | ITALIA - SERIE A  | 428 gare
- 464. Athlone Town                     1  | IRLANDA - FIRST DIVISION  | 362 gare
- 465. Atlético Madrid                  1  | SPAGNA - LALIGA  | 429 gare
- 466. Auckland FC                      1  | AUSTRALIA - A-LEAGUE MEN  | 61 gare
- 467. Austria Salzburg                 1  | AUSTRIA - 2. LIGA  | 75 gare
- 468. Austria Wien                     1  | AUSTRIA - BUNDESLIGA  | 386 gare
- 469. Austria Wien II                  1  | AUSTRIA - 2. LIGA  | 189 gare
- 470. Auxerre                          1  | FRANCIA - LIGUE 1  | 295 gare
- 471. Avellino                         1  | ITALIA - SERIE B  | 401 gare
- 472. AZ Alkmaar                       1  | OLANDA - EREDIVISIE  | 221 gare
- 473. AZ Picerno                       1  | ITALIA - SERIE C  | 233 gare
- 474. Bahia                            1  | BRASILE - SÉRIE A  | 337 gare
- 475. Baník Lehota pod Vtacnikom       1  | SLOVACCHIA - 2. LIGA  | 45 gare
- 476. Baník Ostrava B                  1  | REP. CECA - FNL  | 73 gare
- 477. Barnsley                         1  | INGHILTERRA - LEAGUE ONE  | 479 gare
- 478. Basel                            1  | SVIZZERA - SUPER LEAGUE  | 414 gare
- 479. Bayer Leverkusen                 1  | GERMANIA - BUNDESLIGA  | 314 gare
- 480. Bayern München                   1  | GERMANIA - BUNDESLIGA  | 314 gare
- 481. Beerschot                        1  | BELGIO - FIRST DIVISION B  | 318 gare
- 482. Birmingham City                  1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
- 483. Bodø/Glimt                       1  | NORVEGIA - ELITESERIEN  | 355 gare
- 484. Bohemian FC                      1  | IRLANDA - PREMIER DIVISION  | 404 gare
- 485. Borussia Mönchengladbach         1  | GERMANIA - BUNDESLIGA  | 314 gare
- 486. Braga                            1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 487. Brisbane Roar FC                 1  | AUSTRALIA - A-LEAGUE MEN  | 300 gare
- 488. Bristol City                     1  | INGHILTERRA - CHAMPIONSHIP  | 475 gare
- 489. Brøndby IF                       1  | DANIMARCA - SUPERLIGAEN  | 242 gare
- 490. Burnley                          1  | INGHILTERRA - CHAMPIONSHIP  | 409 gare
- 491. Campobasso                       1  | ITALIA - SERIE C  | 125 gare
- 492. Cardiff City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
- 493. Carpi                            1  | ITALIA - SERIE C  | 315 gare
- 494. Carrarese                        1  | ITALIA - SERIE B  | 429 gare
- 495. Casa Pia AC                      1  | PORTOGALLO - LIGA PORTUGAL  | 339 gare
- 496. Celtic                           1  | SCOZIA - PREMIERSHIP  | 422 gare
- 497. CF Montréal                      1  | USA/CANADA - MLS  | 409 gare
- 498. Cheltenham Town                  1  | INGHILTERRA - LEAGUE TWO  | 466 gare
- 499. Club Brugge NXT                  1  | BELGIO - FIRST DIVISION B  | 158 gare
- 500. Coritiba                         1  | BRASILE - SÉRIE A  | 261 gare
- 501. Cork City                        1  | IRLANDA - FIRST DIVISION  | 392 gare
- 502. Cosenza                          1  | ITALIA - SERIE C  | 440 gare
- 503. Coventry City                    1  | INGHILTERRA - PREMIER LEAGUE  | 465 gare
- 504. Crawley Town                     1  | INGHILTERRA - LEAGUE TWO  | 466 gare
- 505. Crotone                          1  | ITALIA - SERIE C  | 438 gare
- 506. Cruzeiro                         1  | BRASILE - SÉRIE A  | 337 gare
- 507. Córdoba                          1  | SPAGNA - LALIGA 2  | 397 gare
- 508. Darmstadt                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 509. De Graafschap                    1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 510. Deportivo Alavés                 1  | SPAGNA - LALIGA  | 441 gare
- 511. Desenzano                        1  | ITALIA - SERIE C  | 12 gare
- 512. Eibar                            1  | SPAGNA - LALIGA 2  | 456 gare
- 513. Eintracht Braunschweig           1  | GERMANIA - 2. BUNDESLIGA  | 326 gare
- 514. Eintracht Frankfurt              1  | GERMANIA - BUNDESLIGA  | 314 gare
- 515. Elche                            1  | SPAGNA - LALIGA  | 462 gare
- 516. Eldense                          1  | SPAGNA - LALIGA 2  | 251 gare
- 517. Estoril                          1  | PORTOGALLO - LIGA PORTUGAL  | 340 gare
- 518. Estudiantes                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
- 519. Falkenbergs FF                   1  | SVEZIA - SUPERETTAN  | 269 gare
- 520. Falkirk                          1  | SCOZIA - PREMIERSHIP  | 388 gare
- 521. Farense                          1  | PORTOGALLO - LIGA PORTUGAL 2  | 338 gare
- 522. FC Andorra                       1  | SPAGNA - LALIGA 2  | 273 gare
- 523. FC Groningen                     1  | OLANDA - EREDIVISIE  | 221 gare
- 524. FC Lahti                         1  | FINLANDIA - VEIKKAUSLIIGA  | 344 gare
- 525. FC Liefering                     1  | AUSTRIA - 2. LIGA  | 356 gare
- 526. FC Liège                         1  | BELGIO - FIRST DIVISION B  | 101 gare
- 527. FC Porto                         1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 528. FC Utrecht                       1  | OLANDA - EREDIVISIE  | 225 gare
- 529. FC Vlašim                        1  | REP. CECA - FNL  | 337 gare
- 530. FC Zlín                          1  | REP. CECA - 1. LIGA  | 374 gare
- 531. Finn Harps                       1  | IRLANDA - FIRST DIVISION  | 394 gare
- 532. Fiorentina                       1  | ITALIA - SERIE A  | 428 gare
- 533. First Vienna FC                  1  | AUSTRIA - 2. LIGA  | 129 gare
- 534. Foggia                           1  | ITALIA - SERIE C  | 406 gare
- 535. Folgore Caratese                 1  | ITALIA - SERIE C  | 12 gare
- 536. Fortuna Düsseldorf               1  | GERMANIA - 3. LIGA  | 318 gare
- 537. Fortuna Sittard                  1  | OLANDA - EREDIVISIE  | 215 gare
- 538. Fredrikstad                      1  | NORVEGIA - ELITESERIEN  | 336 gare
- 539. Genk U23                         1  | BELGIO - FIRST DIVISION B  | 131 gare
- 540. Genoa                            1  | ITALIA - SERIE A  | 428 gare
- 541. GKS Katowice                     1  | POLONIA - EKSTRAKLASA  | 389 gare
- 542. Go Ahead Eagles                  1  | OLANDA - EREDIVISIE  | 221 gare
- 543. Grasshopper                      1  | SVIZZERA - SUPER LEAGUE  | 412 gare
- 544. Greenock Morton                  1  | SCOZIA - CHAMPIONSHIP  | 391 gare
- 545. Grosseto                         1  | ITALIA - SERIE C  | 90 gare
- 546. Hamarkameratene                  1  | NORVEGIA - ELITESERIEN  | 343 gare
- 547. Hamburger SV                     1  | GERMANIA - BUNDESLIGA  | 314 gare
- 548. Hannover 96                      1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 549. Hartberg                         1  | AUSTRIA - BUNDESLIGA  | 309 gare
- 550. Hellas Verona                    1  | ITALIA - SERIE B  | 434 gare
- 551. Hertha BSC                       1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 552. Hibernian                        1  | SCOZIA - PREMIERSHIP  | 417 gare
- 553. Hoffenheim                       1  | GERMANIA - BUNDESLIGA  | 314 gare
- 554. Hoffenheim II                    1  | GERMANIA - 3. LIGA  | 286 gare
- 555. Holstein Kiel                    1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
- 556. Huddersfield Town                1  | INGHILTERRA - LEAGUE ONE  | 463 gare
- 557. Humenné                          1  | SLOVACCHIA - 2. LIGA  | 131 gare
- 558. Hvidovre                         1  | DANIMARCA - 1. DIVISION  | 238 gare
- 559. Hødd                             1  | NORVEGIA - OBOS-LIGAEN  | 322 gare
- 560. IFK Göteborg                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
- 561. IFK Värnamo                      1  | SVEZIA - SUPERETTAN  | 299 gare
- 562. Independiente                    1  | ARGENTINA - PRIMERA DIVISIÓN  | 278 gare
- 563. Independiente Rivadavia          1  | ARGENTINA - PRIMERA DIVISIÓN  | 92 gare
- 564. Instituto                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 118 gare
- 565. Inter                            1  | ITALIA - SERIE A  | 428 gare
- 566. Ipswich Town                     1  | INGHILTERRA - PREMIER LEAGUE  | 451 gare
- 567. Jablonec                         1  | REP. CECA - 1. LIGA  | 382 gare
- 568. Jagiellonia Białystok            1  | POLONIA - EKSTRAKLASA  | 397 gare
- 569. Juventus Next Gen                1  | ITALIA - SERIE C  | 317 gare
- 570. KFUM                             1  | NORVEGIA - ELITESERIEN  | 343 gare
- 571. Kristiansund                     1  | NORVEGIA - ELITESERIEN  | 354 gare
- 572. KuPS                             1  | FINLANDIA - VEIKKAUSLIIGA  | 352 gare
- 573. KäPa                             1  | FINLANDIA - YKKOSLIIGA  | 268 gare
- 574. LA Galaxy                        1  | USA/CANADA - MLS  | 408 gare
- 575. Landskrona BoIS                  1  | SVEZIA - SUPERETTAN  | 209 gare
- 576. Le Mans                          1  | FRANCIA - LIGUE 1  | 272 gare
- 577. Lens                             1  | FRANCIA - LIGUE 1  | 291 gare
- 578. Levante                          1  | SPAGNA - LALIGA  | 449 gare
- 579. Livingston                       1  | SCOZIA - CHAMPIONSHIP  | 415 gare
- 580. Lumezzane                        1  | ITALIA - SERIE C  | 203 gare
- 581. Lusitânia Lourosa                1  | PORTOGALLO - LIGA PORTUGAL 2  | 223 gare
- 582. Luton Town                       1  | INGHILTERRA - LEAGUE ONE  | 472 gare
- 583. Lyon                             1  | FRANCIA - LIGUE 1  | 291 gare
- 584. Manchester City                  1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
- 585. Marseille                        1  | FRANCIA - LIGUE 1  | 291 gare
- 586. Meppen                           1  | GERMANIA - 3. LIGA  | 340 gare
- 587. Metz                             1  | FRANCIA - LIGUE 2  | 293 gare
- 588. MFK Bytca                        1  | SLOVACCHIA - 2. LIGA  | 15 gare
- 589. MFK Zvolen                       1  | SLOVACCHIA - 2. LIGA  | 161 gare
- 590. Miedź Legnica                    1  | POLONIA - I LIGA  | 393 gare
- 591. Monopoli                         1  | ITALIA - SERIE C  | 423 gare
- 592. Motor Lublin                     1  | POLONIA - EKSTRAKLASA  | 224 gare
- 593. NAC Breda                        1  | OLANDA - EERSTE DIVISIE  | 233 gare
- 594. NEC Nijmegen                     1  | OLANDA - EREDIVISIE  | 221 gare
- 595. Newcastle Jets                   1  | AUSTRALIA - A-LEAGUE MEN  | 298 gare
- 596. Newcastle United                 1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
- 597. Odra Opole                       1  | POLONIA - I LIGA  | 355 gare
- 598. Opava                            1  | REP. CECA - FNL  | 353 gare
- 599. Ospitaletto                      1  | ITALIA - SERIE C  | 50 gare
- 600. Paris Saint-Germain              1  | FRANCIA - LIGUE 1  | 290 gare
- 601. Penafiel                         1  | PORTOGALLO - LIGA PORTUGAL 2  | 351 gare
- 602. Perth Glory                      1  | AUSTRALIA - A-LEAGUE MEN  | 301 gare
- 603. Perugia                          1  | ITALIA - SERIE C  | 450 gare
- 604. Pianese                          1  | ITALIA - SERIE C  | 121 gare
- 605. Pineto                           1  | ITALIA - SERIE C  | 127 gare
- 606. Pogoń Siedlce                    1  | POLONIA - I LIGA  | 387 gare
- 607. Polonia Bytom                    1  | POLONIA - I LIGA  | 182 gare
- 608. Potenza                          1  | ITALIA - SERIE C  | 314 gare
- 609. Považská Bystrica                1  | SLOVACCHIA - 2. LIGA  | 131 gare
- 610. Preussen Münster                 1  | GERMANIA - 3. LIGA  | 342 gare
- 611. Příbram                          1  | REP. CECA - FNL  | 325 gare
- 612. Racing Club                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 281 gare
- 613. Rapid Wien                       1  | AUSTRIA - BUNDESLIGA  | 384 gare
- 614. Raufoss                          1  | NORVEGIA - OBOS-LIGAEN  | 347 gare
- 615. Ravenna                          1  | ITALIA - SERIE C  | 194 gare
- 616. Rayo Vallecano                   1  | SPAGNA - LALIGA  | 448 gare
- 617. Real Betis                       1  | SPAGNA - LALIGA  | 429 gare
- 618. Real Madrid                      1  | SPAGNA - LALIGA  | 429 gare
- 619. Real Oviedo                      1  | SPAGNA - LALIGA 2  | 477 gare
- 620. Real Sociedad B                  1  | SPAGNA - LALIGA 2  | 426 gare
- 621. Remo                             1  | BRASILE - SÉRIE A  | 33 gare
- 622. Rennes                           1  | FRANCIA - LIGUE 1  | 291 gare
- 623. RFC Seraing                      1  | BELGIO - FIRST DIVISION B  | 225 gare
- 624. Ried                             1  | AUSTRIA - BUNDESLIGA  | 370 gare
- 625. River Plate                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 281 gare
- 626. Rosenborg                        1  | NORVEGIA - ELITESERIEN  | 355 gare
- 627. RW Essen                         1  | GERMANIA - 3. LIGA  | 298 gare
- 628. Saint-Étienne                    1  | FRANCIA - LIGUE 2  | 297 gare
- 629. Salernitana                      1  | ITALIA - SERIE C  | 450 gare
- 630. Sampdoria                        1  | ITALIA - SERIE B  | 430 gare
- 631. Sandvikens IF                    1  | SVEZIA - SUPERETTAN  | 88 gare
- 632. Santos                           1  | BRASILE - SÉRIE A  | 414 gare
- 633. Sarmiento                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 199 gare
- 634. Seattle Sounders FC              1  | USA/CANADA - MLS  | 432 gare
- 635. Shamrock Rovers                  1  | IRLANDA - PREMIER DIVISION  | 405 gare
- 636. Sheffield Wednesday              1  | INGHILTERRA - LEAGUE ONE  | 480 gare
- 637. Shelbourne                       1  | IRLANDA - PREMIER DIVISION  | 364 gare
- 638. SKN St. Pölten                   1  | AUSTRIA - 2. LIGA  | 363 gare
- 639. Slavia Prague B                  1  | REP. CECA - FNL  | 103 gare
- 640. Slovan Galanta                   1  | SLOVACCHIA - 2. LIGA  | 15 gare
- 641. Sochaux                          1  | FRANCIA - LIGUE 2  | 288 gare
- 642. Sonnenhof Großaspach             1  | GERMANIA - 3. LIGA  | 238 gare
- 643. Spezia                           1  | ITALIA - SERIE C  | 454 gare
- 644. Sporting CP                      1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
- 645. Sporting CP B                    1  | PORTOGALLO - LIGA PORTUGAL 2  | 267 gare
- 646. Sporting Kansas City             1  | USA/CANADA - MLS  | 411 gare
- 647. St. Gallen                       1  | SVIZZERA - SUPER LEAGUE  | 414 gare
- 648. St. Mirren                       1  | SCOZIA - PREMIERSHIP  | 416 gare
- 649. Stal Mielec                      1  | POLONIA - I LIGA  | 382 gare
- 650. Stal Rzeszów                     1  | POLONIA - I LIGA  | 255 gare
- 651. Start                            1  | NORVEGIA - ELITESERIEN  | 355 gare
- 652. Stevenage                        1  | INGHILTERRA - LEAGUE ONE  | 464 gare
- 653. Stoke City                       1  | INGHILTERRA - CHAMPIONSHIP  | 457 gare
- 654. Strasbourg                       1  | FRANCIA - LIGUE 1  | 290 gare
- 655. Strømmen                         1  | NORVEGIA - OBOS-LIGAEN  | 340 gare
- 656. Strømsgodset                     1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
- 657. Swansea City                     1  | INGHILTERRA - CHAMPIONSHIP  | 462 gare
- 658. Talleres                         1  | ARGENTINA - PRIMERA DIVISIÓN  | 276 gare
- 659. Tigre                            1  | ARGENTINA - PRIMERA DIVISIÓN  | 229 gare
- 660. TOP Oss                          1  | OLANDA - EERSTE DIVISIE  | 241 gare
- 661. Torino                           1  | ITALIA - SERIE A  | 428 gare
- 662. Trenčín                          1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 365 gare
- 663. Union Brescia                    1  | ITALIA - SERIE C  | 444 gare
- 664. União de Leiria                  1  | PORTOGALLO - LIGA PORTUGAL 2  | 324 gare
- 665. Varbergs BoIS FC                 1  | SVEZIA - SUPERETTAN  | 359 gare
- 666. Viborg                           1  | DANIMARCA - SUPERLIGAEN  | 240 gare
- 667. Viktoria Plzeň                   1  | REP. CECA - 1. LIGA  | 382 gare
- 668. Voitsberg                        1  | AUSTRIA - 2. LIGA  | 41 gare
- 669. VPS                              1  | FINLANDIA - VEIKKAUSLIIGA  | 354 gare
- 670. Vålerenga                        1  | NORVEGIA - ELITESERIEN  | 354 gare
- 671. Warta Poznań                     1  | POLONIA - I LIGA  | 351 gare
- 672. West Bromwich Albion             1  | INGHILTERRA - CHAMPIONSHIP  | 453 gare
- 673. Wexford FC                       1  | IRLANDA - FIRST DIVISION  | 365 gare
- 674. Wieczysta Kraków                 1  | POLONIA - EKSTRAKLASA  | 85 gare
- 675. Wigan Athletic                   1  | INGHILTERRA - LEAGUE ONE  | 473 gare
- 676. Wil                              1  | SVIZZERA - CHALLENGE LEAGUE  | 405 gare
- 677. Willem II                        1  | OLANDA - EREDIVISIE  | 227 gare
- 678. Wolverhampton Wanderers          1  | INGHILTERRA - CHAMPIONSHIP  | 409 gare
- 679. Wrexham                          1  | INGHILTERRA - CHAMPIONSHIP  | 460 gare
- 680. Zlaté Moravce                    1  | SLOVACCHIA - 2. LIGA  | 355 gare
- 681. Zulte Waregem                    1  | BELGIO - FIRST DIVISION A  | 398 gare
- 682. Östers IF                        1  | SVEZIA - SUPERETTAN  | 299 gare
- 683. Česká Lípa                       1  | REP. CECA - FNL  | 13 gare
- 684. Śląsk Wrocław                    1  | POLONIA - EKSTRAKLASA  | 397 gare
- 685. Aalesund                         0  | NORVEGIA - ELITESERIEN  | 355 gare
- 686. Aarau                            0  | SVIZZERA - CHALLENGE LEAGUE  | 407 gare
- 687. Académico Viseu                  0  | PORTOGALLO - LIGA PORTUGAL  | 352 gare
- 688. Alcione Milano                   0  | ITALIA - SERIE C  | 89 gare
- 689. Alemannia Aachen                 0  | GERMANIA - 3. LIGA  | 291 gare
- 690. Almere City FC                   0  | OLANDA - EERSTE DIVISIE  | 233 gare
- 691. Arka Gdynia                      0  | POLONIA - I LIGA  | 401 gare
+ 463. Arka Gdynia                      1  | POLONIA - I LIGA  | 402 gare
+ 464. Atalanta                         1  | ITALIA - SERIE A  | 428 gare
+ 465. Athlone Town                     1  | IRLANDA - FIRST DIVISION  | 362 gare
+ 466. Atlético Madrid                  1  | SPAGNA - LALIGA  | 429 gare
+ 467. Auckland FC                      1  | AUSTRALIA - A-LEAGUE MEN  | 61 gare
+ 468. Austria Salzburg                 1  | AUSTRIA - 2. LIGA  | 75 gare
+ 469. Austria Wien                     1  | AUSTRIA - BUNDESLIGA  | 386 gare
+ 470. Austria Wien II                  1  | AUSTRIA - 2. LIGA  | 189 gare
+ 471. Auxerre                          1  | FRANCIA - LIGUE 1  | 295 gare
+ 472. Avellino                         1  | ITALIA - SERIE B  | 401 gare
+ 473. AZ Alkmaar                       1  | OLANDA - EREDIVISIE  | 221 gare
+ 474. AZ Picerno                       1  | ITALIA - SERIE C  | 233 gare
+ 475. Bahia                            1  | BRASILE - SÉRIE A  | 337 gare
+ 476. Baník Lehota pod Vtacnikom       1  | SLOVACCHIA - 2. LIGA  | 45 gare
+ 477. Baník Ostrava B                  1  | REP. CECA - FNL  | 73 gare
+ 478. Barnsley                         1  | INGHILTERRA - LEAGUE ONE  | 479 gare
+ 479. Basel                            1  | SVIZZERA - SUPER LEAGUE  | 414 gare
+ 480. Bayer Leverkusen                 1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 481. Bayern München                   1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 482. Beerschot                        1  | BELGIO - FIRST DIVISION B  | 318 gare
+ 483. Birmingham City                  1  | INGHILTERRA - CHAMPIONSHIP  | 473 gare
+ 484. Bodø/Glimt                       1  | NORVEGIA - ELITESERIEN  | 355 gare
+ 485. Bohemian FC                      1  | IRLANDA - PREMIER DIVISION  | 404 gare
+ 486. Borussia Mönchengladbach         1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 487. Braga                            1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 488. Brisbane Roar FC                 1  | AUSTRALIA - A-LEAGUE MEN  | 300 gare
+ 489. Bristol City                     1  | INGHILTERRA - CHAMPIONSHIP  | 475 gare
+ 490. Brøndby IF                       1  | DANIMARCA - SUPERLIGAEN  | 242 gare
+ 491. Burnley                          1  | INGHILTERRA - CHAMPIONSHIP  | 409 gare
+ 492. Campobasso                       1  | ITALIA - SERIE C  | 125 gare
+ 493. Cardiff City                     1  | INGHILTERRA - CHAMPIONSHIP  | 467 gare
+ 494. Carpi                            1  | ITALIA - SERIE C  | 315 gare
+ 495. Carrarese                        1  | ITALIA - SERIE B  | 429 gare
+ 496. Casa Pia AC                      1  | PORTOGALLO - LIGA PORTUGAL  | 339 gare
+ 497. Celtic                           1  | SCOZIA - PREMIERSHIP  | 422 gare
+ 498. CF Montréal                      1  | USA/CANADA - MLS  | 409 gare
+ 499. Cheltenham Town                  1  | INGHILTERRA - LEAGUE TWO  | 466 gare
+ 500. Club Brugge NXT                  1  | BELGIO - FIRST DIVISION B  | 158 gare
+ 501. Coritiba                         1  | BRASILE - SÉRIE A  | 261 gare
+ 502. Cork City                        1  | IRLANDA - FIRST DIVISION  | 392 gare
+ 503. Cosenza                          1  | ITALIA - SERIE C  | 440 gare
+ 504. Coventry City                    1  | INGHILTERRA - PREMIER LEAGUE  | 465 gare
+ 505. Crawley Town                     1  | INGHILTERRA - LEAGUE TWO  | 466 gare
+ 506. Crotone                          1  | ITALIA - SERIE C  | 438 gare
+ 507. Cruzeiro                         1  | BRASILE - SÉRIE A  | 337 gare
+ 508. Córdoba                          1  | SPAGNA - LALIGA 2  | 397 gare
+ 509. Darmstadt                        1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 510. De Graafschap                    1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 511. Deportivo Alavés                 1  | SPAGNA - LALIGA  | 441 gare
+ 512. Desenzano                        1  | ITALIA - SERIE C  | 12 gare
+ 513. Eibar                            1  | SPAGNA - LALIGA 2  | 456 gare
+ 514. Eintracht Braunschweig           1  | GERMANIA - 2. BUNDESLIGA  | 326 gare
+ 515. Eintracht Frankfurt              1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 516. Elche                            1  | SPAGNA - LALIGA  | 462 gare
+ 517. Eldense                          1  | SPAGNA - LALIGA 2  | 251 gare
+ 518. Estoril                          1  | PORTOGALLO - LIGA PORTUGAL  | 340 gare
+ 519. Estudiantes                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 280 gare
+ 520. Falkenbergs FF                   1  | SVEZIA - SUPERETTAN  | 269 gare
+ 521. Falkirk                          1  | SCOZIA - PREMIERSHIP  | 388 gare
+ 522. Farense                          1  | PORTOGALLO - LIGA PORTUGAL 2  | 338 gare
+ 523. FC Andorra                       1  | SPAGNA - LALIGA 2  | 273 gare
+ 524. FC Groningen                     1  | OLANDA - EREDIVISIE  | 221 gare
+ 525. FC Lahti                         1  | FINLANDIA - VEIKKAUSLIIGA  | 344 gare
+ 526. FC Liefering                     1  | AUSTRIA - 2. LIGA  | 356 gare
+ 527. FC Liège                         1  | BELGIO - FIRST DIVISION B  | 101 gare
+ 528. FC Porto                         1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 529. FC Utrecht                       1  | OLANDA - EREDIVISIE  | 225 gare
+ 530. FC Vlašim                        1  | REP. CECA - FNL  | 337 gare
+ 531. FC Zlín                          1  | REP. CECA - 1. LIGA  | 374 gare
+ 532. Finn Harps                       1  | IRLANDA - FIRST DIVISION  | 394 gare
+ 533. Fiorentina                       1  | ITALIA - SERIE A  | 428 gare
+ 534. First Vienna FC                  1  | AUSTRIA - 2. LIGA  | 129 gare
+ 535. Foggia                           1  | ITALIA - SERIE C  | 406 gare
+ 536. Folgore Caratese                 1  | ITALIA - SERIE C  | 12 gare
+ 537. Fortuna Düsseldorf               1  | GERMANIA - 3. LIGA  | 318 gare
+ 538. Fortuna Sittard                  1  | OLANDA - EREDIVISIE  | 215 gare
+ 539. Fredrikstad                      1  | NORVEGIA - ELITESERIEN  | 336 gare
+ 540. Genk U23                         1  | BELGIO - FIRST DIVISION B  | 131 gare
+ 541. Genoa                            1  | ITALIA - SERIE A  | 428 gare
+ 542. GKS Katowice                     1  | POLONIA - EKSTRAKLASA  | 389 gare
+ 543. Go Ahead Eagles                  1  | OLANDA - EREDIVISIE  | 221 gare
+ 544. Grasshopper                      1  | SVIZZERA - SUPER LEAGUE  | 412 gare
+ 545. Greenock Morton                  1  | SCOZIA - CHAMPIONSHIP  | 391 gare
+ 546. Grosseto                         1  | ITALIA - SERIE C  | 90 gare
+ 547. Hamarkameratene                  1  | NORVEGIA - ELITESERIEN  | 343 gare
+ 548. Hamburger SV                     1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 549. Hannover 96                      1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 550. Hartberg                         1  | AUSTRIA - BUNDESLIGA  | 309 gare
+ 551. Hellas Verona                    1  | ITALIA - SERIE B  | 434 gare
+ 552. Hertha BSC                       1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 553. Hibernian                        1  | SCOZIA - PREMIERSHIP  | 417 gare
+ 554. Hoffenheim                       1  | GERMANIA - BUNDESLIGA  | 314 gare
+ 555. Hoffenheim II                    1  | GERMANIA - 3. LIGA  | 286 gare
+ 556. Holstein Kiel                    1  | GERMANIA - 2. BUNDESLIGA  | 316 gare
+ 557. Huddersfield Town                1  | INGHILTERRA - LEAGUE ONE  | 463 gare
+ 558. Humenné                          1  | SLOVACCHIA - 2. LIGA  | 131 gare
+ 559. Hvidovre                         1  | DANIMARCA - 1. DIVISION  | 238 gare
+ 560. Hødd                             1  | NORVEGIA - OBOS-LIGAEN  | 322 gare
+ 561. IFK Göteborg                     1  | SVEZIA - ALLSVENSKAN  | 356 gare
+ 562. IFK Värnamo                      1  | SVEZIA - SUPERETTAN  | 299 gare
+ 563. Independiente                    1  | ARGENTINA - PRIMERA DIVISIÓN  | 278 gare
+ 564. Independiente Rivadavia          1  | ARGENTINA - PRIMERA DIVISIÓN  | 92 gare
+ 565. Instituto                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 118 gare
+ 566. Inter                            1  | ITALIA - SERIE A  | 428 gare
+ 567. Ipswich Town                     1  | INGHILTERRA - PREMIER LEAGUE  | 451 gare
+ 568. Jablonec                         1  | REP. CECA - 1. LIGA  | 382 gare
+ 569. Jagiellonia Białystok            1  | POLONIA - EKSTRAKLASA  | 397 gare
+ 570. Juventus Next Gen                1  | ITALIA - SERIE C  | 317 gare
+ 571. KFUM                             1  | NORVEGIA - ELITESERIEN  | 343 gare
+ 572. Kristiansund                     1  | NORVEGIA - ELITESERIEN  | 354 gare
+ 573. KuPS                             1  | FINLANDIA - VEIKKAUSLIIGA  | 352 gare
+ 574. KäPa                             1  | FINLANDIA - YKKOSLIIGA  | 268 gare
+ 575. LA Galaxy                        1  | USA/CANADA - MLS  | 408 gare
+ 576. Landskrona BoIS                  1  | SVEZIA - SUPERETTAN  | 209 gare
+ 577. Le Mans                          1  | FRANCIA - LIGUE 1  | 272 gare
+ 578. Lens                             1  | FRANCIA - LIGUE 1  | 291 gare
+ 579. Levante                          1  | SPAGNA - LALIGA  | 449 gare
+ 580. Livingston                       1  | SCOZIA - CHAMPIONSHIP  | 415 gare
+ 581. Lumezzane                        1  | ITALIA - SERIE C  | 203 gare
+ 582. Lusitânia Lourosa                1  | PORTOGALLO - LIGA PORTUGAL 2  | 223 gare
+ 583. Luton Town                       1  | INGHILTERRA - LEAGUE ONE  | 472 gare
+ 584. Lyon                             1  | FRANCIA - LIGUE 1  | 291 gare
+ 585. Manchester City                  1  | INGHILTERRA - PREMIER LEAGUE  | 389 gare
+ 586. Marseille                        1  | FRANCIA - LIGUE 1  | 291 gare
+ 587. Meppen                           1  | GERMANIA - 3. LIGA  | 340 gare
+ 588. Metz                             1  | FRANCIA - LIGUE 2  | 293 gare
+ 589. MFK Bytca                        1  | SLOVACCHIA - 2. LIGA  | 15 gare
+ 590. MFK Zvolen                       1  | SLOVACCHIA - 2. LIGA  | 161 gare
+ 591. Miedź Legnica                    1  | POLONIA - I LIGA  | 393 gare
+ 592. Monopoli                         1  | ITALIA - SERIE C  | 423 gare
+ 593. Motor Lublin                     1  | POLONIA - EKSTRAKLASA  | 224 gare
+ 594. NAC Breda                        1  | OLANDA - EERSTE DIVISIE  | 233 gare
+ 595. NEC Nijmegen                     1  | OLANDA - EREDIVISIE  | 221 gare
+ 596. Newcastle Jets                   1  | AUSTRALIA - A-LEAGUE MEN  | 298 gare
+ 597. Newcastle United                 1  | INGHILTERRA - PREMIER LEAGUE  | 397 gare
+ 598. Odra Opole                       1  | POLONIA - I LIGA  | 355 gare
+ 599. Opava                            1  | REP. CECA - FNL  | 353 gare
+ 600. Ospitaletto                      1  | ITALIA - SERIE C  | 50 gare
+ 601. Paris Saint-Germain              1  | FRANCIA - LIGUE 1  | 290 gare
+ 602. Penafiel                         1  | PORTOGALLO - LIGA PORTUGAL 2  | 351 gare
+ 603. Perth Glory                      1  | AUSTRALIA - A-LEAGUE MEN  | 301 gare
+ 604. Perugia                          1  | ITALIA - SERIE C  | 450 gare
+ 605. Pianese                          1  | ITALIA - SERIE C  | 121 gare
+ 606. Pineto                           1  | ITALIA - SERIE C  | 127 gare
+ 607. Pogoń Siedlce                    1  | POLONIA - I LIGA  | 388 gare
+ 608. Polonia Bytom                    1  | POLONIA - I LIGA  | 182 gare
+ 609. Potenza                          1  | ITALIA - SERIE C  | 314 gare
+ 610. Považská Bystrica                1  | SLOVACCHIA - 2. LIGA  | 131 gare
+ 611. Preussen Münster                 1  | GERMANIA - 3. LIGA  | 342 gare
+ 612. Příbram                          1  | REP. CECA - FNL  | 325 gare
+ 613. Racing Club                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 281 gare
+ 614. Rapid Wien                       1  | AUSTRIA - BUNDESLIGA  | 384 gare
+ 615. Raufoss                          1  | NORVEGIA - OBOS-LIGAEN  | 347 gare
+ 616. Ravenna                          1  | ITALIA - SERIE C  | 194 gare
+ 617. Rayo Vallecano                   1  | SPAGNA - LALIGA  | 448 gare
+ 618. Real Betis                       1  | SPAGNA - LALIGA  | 429 gare
+ 619. Real Madrid                      1  | SPAGNA - LALIGA  | 429 gare
+ 620. Real Oviedo                      1  | SPAGNA - LALIGA 2  | 477 gare
+ 621. Real Sociedad B                  1  | SPAGNA - LALIGA 2  | 426 gare
+ 622. Remo                             1  | BRASILE - SÉRIE A  | 33 gare
+ 623. Rennes                           1  | FRANCIA - LIGUE 1  | 291 gare
+ 624. RFC Seraing                      1  | BELGIO - FIRST DIVISION B  | 225 gare
+ 625. Ried                             1  | AUSTRIA - BUNDESLIGA  | 370 gare
+ 626. River Plate                      1  | ARGENTINA - PRIMERA DIVISIÓN  | 281 gare
+ 627. Rosenborg                        1  | NORVEGIA - ELITESERIEN  | 355 gare
+ 628. RW Essen                         1  | GERMANIA - 3. LIGA  | 298 gare
+ 629. Saint-Étienne                    1  | FRANCIA - LIGUE 2  | 297 gare
+ 630. Salernitana                      1  | ITALIA - SERIE C  | 450 gare
+ 631. Sampdoria                        1  | ITALIA - SERIE B  | 430 gare
+ 632. Sandvikens IF                    1  | SVEZIA - SUPERETTAN  | 88 gare
+ 633. Santos                           1  | BRASILE - SÉRIE A  | 414 gare
+ 634. Sarmiento                        1  | ARGENTINA - PRIMERA DIVISIÓN  | 199 gare
+ 635. Seattle Sounders FC              1  | USA/CANADA - MLS  | 432 gare
+ 636. Shamrock Rovers                  1  | IRLANDA - PREMIER DIVISION  | 405 gare
+ 637. Sheffield Wednesday              1  | INGHILTERRA - LEAGUE ONE  | 480 gare
+ 638. Shelbourne                       1  | IRLANDA - PREMIER DIVISION  | 364 gare
+ 639. SKN St. Pölten                   1  | AUSTRIA - 2. LIGA  | 363 gare
+ 640. Slavia Prague B                  1  | REP. CECA - FNL  | 103 gare
+ 641. Slovan Galanta                   1  | SLOVACCHIA - 2. LIGA  | 15 gare
+ 642. Sochaux                          1  | FRANCIA - LIGUE 2  | 288 gare
+ 643. Sonnenhof Großaspach             1  | GERMANIA - 3. LIGA  | 238 gare
+ 644. Spezia                           1  | ITALIA - SERIE C  | 454 gare
+ 645. Sporting CP                      1  | PORTOGALLO - LIGA PORTUGAL  | 350 gare
+ 646. Sporting CP B                    1  | PORTOGALLO - LIGA PORTUGAL 2  | 267 gare
+ 647. Sporting Kansas City             1  | USA/CANADA - MLS  | 411 gare
+ 648. St. Gallen                       1  | SVIZZERA - SUPER LEAGUE  | 414 gare
+ 649. St. Mirren                       1  | SCOZIA - PREMIERSHIP  | 416 gare
+ 650. Stal Mielec                      1  | POLONIA - I LIGA  | 382 gare
+ 651. Stal Rzeszów                     1  | POLONIA - I LIGA  | 255 gare
+ 652. Start                            1  | NORVEGIA - ELITESERIEN  | 355 gare
+ 653. Stevenage                        1  | INGHILTERRA - LEAGUE ONE  | 464 gare
+ 654. Stoke City                       1  | INGHILTERRA - CHAMPIONSHIP  | 457 gare
+ 655. Strasbourg                       1  | FRANCIA - LIGUE 1  | 290 gare
+ 656. Strømmen                         1  | NORVEGIA - OBOS-LIGAEN  | 340 gare
+ 657. Strømsgodset                     1  | NORVEGIA - OBOS-LIGAEN  | 359 gare
+ 658. Swansea City                     1  | INGHILTERRA - CHAMPIONSHIP  | 462 gare
+ 659. Talleres                         1  | ARGENTINA - PRIMERA DIVISIÓN  | 276 gare
+ 660. Tigre                            1  | ARGENTINA - PRIMERA DIVISIÓN  | 229 gare
+ 661. TOP Oss                          1  | OLANDA - EERSTE DIVISIE  | 241 gare
+ 662. Torino                           1  | ITALIA - SERIE A  | 428 gare
+ 663. Trenčín                          1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 365 gare
+ 664. Union Brescia                    1  | ITALIA - SERIE C  | 444 gare
+ 665. União de Leiria                  1  | PORTOGALLO - LIGA PORTUGAL 2  | 324 gare
+ 666. Varbergs BoIS FC                 1  | SVEZIA - SUPERETTAN  | 359 gare
+ 667. Viborg                           1  | DANIMARCA - SUPERLIGAEN  | 240 gare
+ 668. Viktoria Plzeň                   1  | REP. CECA - 1. LIGA  | 382 gare
+ 669. Voitsberg                        1  | AUSTRIA - 2. LIGA  | 41 gare
+ 670. VPS                              1  | FINLANDIA - VEIKKAUSLIIGA  | 354 gare
+ 671. Vålerenga                        1  | NORVEGIA - ELITESERIEN  | 354 gare
+ 672. Warta Poznań                     1  | POLONIA - I LIGA  | 351 gare
+ 673. West Bromwich Albion             1  | INGHILTERRA - CHAMPIONSHIP  | 453 gare
+ 674. Wexford FC                       1  | IRLANDA - FIRST DIVISION  | 365 gare
+ 675. Wieczysta Kraków                 1  | POLONIA - EKSTRAKLASA  | 85 gare
+ 676. Wigan Athletic                   1  | INGHILTERRA - LEAGUE ONE  | 473 gare
+ 677. Wil                              1  | SVIZZERA - CHALLENGE LEAGUE  | 405 gare
+ 678. Willem II                        1  | OLANDA - EREDIVISIE  | 227 gare
+ 679. Wolverhampton Wanderers          1  | INGHILTERRA - CHAMPIONSHIP  | 409 gare
+ 680. Wrexham                          1  | INGHILTERRA - CHAMPIONSHIP  | 460 gare
+ 681. Zlaté Moravce                    1  | SLOVACCHIA - 2. LIGA  | 355 gare
+ 682. Zulte Waregem                    1  | BELGIO - FIRST DIVISION A  | 398 gare
+ 683. Östers IF                        1  | SVEZIA - SUPERETTAN  | 299 gare
+ 684. Česká Lípa                       1  | REP. CECA - FNL  | 13 gare
+ 685. Śląsk Wrocław                    1  | POLONIA - EKSTRAKLASA  | 397 gare
+ 686. Aalesund                         0  | NORVEGIA - ELITESERIEN  | 355 gare
+ 687. Aarau                            0  | SVIZZERA - CHALLENGE LEAGUE  | 407 gare
+ 688. Académico Viseu                  0  | PORTOGALLO - LIGA PORTUGAL  | 352 gare
+ 689. Alcione Milano                   0  | ITALIA - SERIE C  | 89 gare
+ 690. Alemannia Aachen                 0  | GERMANIA - 3. LIGA  | 291 gare
+ 691. Almere City FC                   0  | OLANDA - EERSTE DIVISIE  | 233 gare
  692. Atalanta U23                     0  | ITALIA - SERIE C  | 137 gare
  693. Atlanta United                   0  | USA/CANADA - MLS  | 346 gare
  694. Austin FC                        0  | USA/CANADA - MLS  | 208 gare

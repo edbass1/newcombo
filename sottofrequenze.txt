@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1453,11 +1453,11 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/17 Stal Rzeszów                   43/100
     2/17 Polonia Warszawa               43/100
-    3/17 Termalica Nieciecza            42/100
-    4/17 Pogoń Siedlce                  42/100
+    3/17 Pogoń Siedlce                  43/100
+    4/17 Termalica Nieciecza            42/100
     5/17 Puszcza Niepołomice            38/100
      ...
-   17/17 Arka Gdynia                    25/100  (la fa meno spesso)
+   17/17 Arka Gdynia                    24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Lechia Gdańsk                  51/100
@@ -1473,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2876,7 +2876,7 @@ SOTTOFREQUENZA 1X + GOAL
    14/14 Odra Opole                     30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/14 Pogoń Siedlce                  45/100
+    1/14 Pogoń Siedlce                  46/100
     2/14 Termalica Nieciecza            41/100
     3/14 Stal Rzeszów                   41/100
     4/14 Puszcza Niepołomice            37/100
@@ -2898,7 +2898,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4312,8 +4312,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/14 Termalica Nieciecza            39/100
     3/14 ŁKS Łódź                       38/100
     4/14 TS Podbeskidzie Bielsko-Biała  38/100
-    5/14 Ruch Chorzów                   37/100
-    6/14 Pogoń Siedlce                  37/100
+    5/14 Ruch Chorzów                   38/100
      ...
    14/14 Warta Poznań                   24/100  (la fa meno spesso)
 

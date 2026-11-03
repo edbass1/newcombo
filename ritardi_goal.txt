@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -286,16 +286,16 @@ RITARDI X2 + GOAL
   10. Swindon Town                      2  🟢 50%  ❗ 12/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                12+  🟢 58%  👻 36/42
-   2. Accrington Stanley                3  🟢 100%  👻 36/42
-   3. Oldham Athletic                   3  🟢 67%  👻 36/42
-   4. Crawley Town                      2  🟢 50%  👻 36/42
-   5. Barnet                            1  🟢 100%  🔴  👻 36/42
-   6. Crewe Alexandra                   1  🟢 100%  👻 36/42
-   7. Bristol Rovers                    0  🔴  👻 36/42
-   8. Cheltenham Town                   0  👻 36/42
-   9. Chesterfield                      0  👻 36/42
-  10. Colchester United                 0  👻 36/42
+   1. Northampton Town                12+  🟢 58%  👻 35/42
+   2. Accrington Stanley                3  🟢 100%  👻 35/42
+   3. Oldham Athletic                   3  🟢 67%  👻 35/42
+   4. Crawley Town                      2  🟢 50%  👻 35/42
+   5. Barnet                            1  🟢 100%  🔴  👻 35/42
+   6. Crewe Alexandra                   1  🟢 100%  👻 35/42
+   7. Bristol Rovers                    0  🔴  👻 35/42
+   8. Cheltenham Town                   0  👻 35/42
+   9. Chesterfield                      0  👻 35/42
+  10. Colchester United                 0  👻 35/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -1853,51 +1853,51 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (115 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (117 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
    1. Odra Opole                        6
    2. Pogoń Grodzisk Mazowiecki         5  🟢 60%
-   3. Pogoń Siedlce                     4  🟢 50%
-   4. Ruch Chorzów                      4  🟢 75%
-   5. Stal Mielec                       3  🔴
-   6. Polonia Bytom                     2  🟢 100%
-   7. Chrobry Głogów                    1
-   8. Arka Gdynia                       0
-   9. Lechia Gdańsk                     0  🔴
-  10. Miedź Legnica                     0
+   3. Stal Mielec                       3  🔴
+   4. Chrobry Głogów                    2
+   5. Polonia Bytom                     2  🟢 100%
+   6. Arka Gdynia                       1
+   7. Lechia Gdańsk                     0  🔴
+   8. Miedź Legnica                     0
+   9. Pogoń Siedlce                     0
+  10. Polonia Warszawa                  0
 
 RITARDI X2 + GOAL
    1. Pogoń Grodzisk Mazowiecki         7  🟢 57%
-   2. Odra Opole                        6
-   3. Chrobry Głogów                    5  🟢 60%
+   2. Chrobry Głogów                    6  🟢 50%
+   3. Odra Opole                        6
    4. Stal Mielec                       5  🟢 60%
-   5. Ruch Chorzów                      4  🟢 75%
+   5. Arka Gdynia                       3  🟢 67%
    6. Lechia Gdańsk                     3  🟢 100%
-   7. Arka Gdynia                       2  🟢 100%
-   8. Pogoń Siedlce                     1  🔴
-   9. Polonia Bytom                     1  🟢 100%
-  10. Skierniewice                      1  🟢 100%
+   7. Polonia Bytom                     1  🟢 100%
+   8. Skierniewice                      1  🟢 100%
+   9. Miedź Legnica                     0
+  10. Pogoń Siedlce                     0  🔴
 
 RITARDI 12 + GOAL
-   1. Odra Opole                        9  👻 35/42
-   2. Pogoń Grodzisk Mazowiecki         5  🟢 60%  👻 35/42
-   3. Ruch Chorzów                      5  🟢 80%  👻 35/42
-   4. ŁKS Łódź                          5  🟢 60%  👻 35/42
-   5. Miedź Legnica                     4  🟢 75%  👻 35/42
-   6. Polonia Warszawa                  3  🟢 67%  👻 35/42
-   7. Stal Mielec                       3  🔴  👻 35/42
-   8. Warta Poznań                      3  👻 35/42
-   9. Chrobry Głogów                    1  👻 35/42
-  10. Pogoń Siedlce                     1  👻 35/42
+   1. Odra Opole                        9  👻 36/42
+   2. Ruch Chorzów                      6  🟢 83%  👻 36/42
+   3. Pogoń Grodzisk Mazowiecki         5  🟢 60%  👻 36/42
+   4. ŁKS Łódź                          5  🟢 60%  👻 36/42
+   5. Miedź Legnica                     4  🟢 75%  👻 36/42
+   6. Polonia Warszawa                  3  🟢 67%  👻 36/42
+   7. Stal Mielec                       3  🔴  👻 36/42
+   8. Warta Poznań                      3  👻 36/42
+   9. Chrobry Głogów                    2  👻 36/42
+  10. Pogoń Siedlce                     2  🟢 50%  👻 36/42
 
 ##################################################
 # CASA
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2180,16 +2180,16 @@ RITARDI X2 + GOAL
   10. Bristol Rovers                    1  ❗ 12/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                 6+  👻 36/42
-   2. York City                         5  🟢 100%  👻 36/42
-   3. Rochdale                          4  🟢 75%  👻 36/42
-   4. Rotherham United                  2  🟢 100%  👻 36/42
-   5. Accrington Stanley                1  🟢 100%  👻 36/42
-   6. Bristol Rovers                    1  👻 36/42
-   7. Cheltenham Town                   1  👻 36/42
-   8. Crawley Town                      1  🟢 100%  👻 36/42
-   9. Crewe Alexandra                   1  🟢 100%  👻 36/42
-  10. Oldham Athletic                   1  👻 36/42
+   1. Northampton Town                 6+  👻 35/42
+   2. York City                         5  🟢 100%  👻 35/42
+   3. Rochdale                          4  🟢 75%  👻 35/42
+   4. Rotherham United                  2  🟢 100%  👻 35/42
+   5. Accrington Stanley                1  🟢 100%  👻 35/42
+   6. Bristol Rovers                    1  👻 35/42
+   7. Cheltenham Town                   1  👻 35/42
+   8. Crawley Town                      1  🟢 100%  👻 35/42
+   9. Crewe Alexandra                   1  🟢 100%  👻 35/42
+  10. Oldham Athletic                   1  👻 35/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -3747,25 +3747,25 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (115 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (117 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Chrobry Głogów                    4  🟢 50%
+   1. Chrobry Głogów                    5
    2. Odra Opole                        4
    3. Pogoń Grodzisk Mazowiecki         4
-   4. Pogoń Siedlce                     2  🟢 100%
-   5. Ruch Chorzów                      2  🟢 100%
-   6. Termalica Nieciecza               2  🟢 50%  🔴
-   7. Warta Poznań                      2
-   8. Polonia Bytom                     1  🟢 100%
-   9. Skierniewice                      1  🟢 100%
-  10. Stal Mielec                       1
+   4. Ruch Chorzów                      2  🟢 100%
+   5. Termalica Nieciecza               2  🟢 50%  🔴
+   6. Warta Poznań                      2
+   7. Polonia Bytom                     1  🟢 100%
+   8. Skierniewice                      1  🟢 100%
+   9. Stal Mielec                       1
+  10. Arka Gdynia                       0
 
 RITARDI X2 + GOAL
    1. Lechia Gdańsk                    7+  🟢 86%
    2. Odra Opole                        6
-   3. Chrobry Głogów                    4  🟢 50%
+   3. Chrobry Głogów                    5
    4. Pogoń Grodzisk Mazowiecki         4
    5. Polonia Bytom                     4  🟢 50%
    6. Warta Poznań                     4+  🟢 50%
@@ -3775,23 +3775,23 @@ RITARDI X2 + GOAL
   10. Stal Mielec                       2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Pogoń Grodzisk Mazowiecki         8  👻 35/42
-   2. Chrobry Głogów                    7  🟢 57%  👻 35/42
-   3. Odra Opole                        4  👻 35/42
-   4. ŁKS Łódź                          4  🟢 75%  👻 35/42
-   5. Polonia Warszawa                  3  🟢 100%  👻 35/42
-   6. Ruch Chorzów                      3  🟢 100%  👻 35/42
-   7. Miedź Legnica                     2  🟢 100%  👻 35/42
-   8. Termalica Nieciecza               2  🟢 50%  🔴  👻 35/42
-   9. Warta Poznań                      2  👻 35/42
-  10. Polonia Bytom                     1  🟢 100%  👻 35/42
+   1. Chrobry Głogów                    8  🟢 50%  👻 36/42
+   2. Pogoń Grodzisk Mazowiecki         8  👻 36/42
+   3. Odra Opole                        4  👻 36/42
+   4. ŁKS Łódź                          4  🟢 75%  👻 36/42
+   5. Polonia Warszawa                  3  🟢 100%  👻 36/42
+   6. Ruch Chorzów                      3  🟢 100%  👻 36/42
+   7. Miedź Legnica                     2  🟢 100%  👻 36/42
+   8. Termalica Nieciecza               2  🟢 50%  🔴  👻 36/42
+   9. Warta Poznań                      2  👻 36/42
+  10. Pogoń Siedlce                     1  🟢 100%  🔴  👻 36/42
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 03/11/2026 19:39 (ora italiana)
+Aggiornato: 03/11/2026 20:43 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4074,16 +4074,16 @@ RITARDI X2 + GOAL
   10. York City                         2  🟢 100%  ❗ 12/42
 
 RITARDI 12 + GOAL
-   1. Northampton Town                 6+  🟢 83%  👻 36/42
-   2. Newport County                    5  👻 36/42
-   3. Oldham Athletic                   5  🟢 100%  👻 36/42
-   4. Accrington Stanley                4  🟢 75%  👻 36/42
-   5. Colchester United                 4  🟢 75%  👻 36/42
-   6. Port Vale                         4  🟢 75%  👻 36/42
-   7. Tranmere Rovers                   2  🟢 50%  👻 36/42
-   8. Barnet                            1  🟢 100%  🔴  👻 36/42
-   9. Crawley Town                      1  👻 36/42
-  10. Shrewsbury Town                   1  🟢 100%  👻 36/42
+   1. Northampton Town                 6+  🟢 83%  👻 35/42
+   2. Newport County                    5  👻 35/42
+   3. Oldham Athletic                   5  🟢 100%  👻 35/42
+   4. Accrington Stanley                4  🟢 75%  👻 35/42
+   5. Colchester United                 4  🟢 75%  👻 35/42
+   6. Port Vale                         4  🟢 75%  👻 35/42
+   7. Tranmere Rovers                   2  🟢 50%  👻 35/42
+   8. Barnet                            1  🟢 100%  🔴  👻 35/42
+   9. Crawley Town                      1  👻 35/42
+  10. Shrewsbury Town                   1  🟢 100%  👻 35/42
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -5641,42 +5641,42 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (115 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (117 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
    1. Pogoń Siedlce                     4
-   2. Ruch Chorzów                      4  🟢 50%
-   3. Odra Opole                        3  🟢 67%
-   4. ŁKS Łódź                          3  🟢 67%
-   5. Pogoń Grodzisk Mazowiecki         2  🟢 100%
-   6. Polonia Bytom                     2  🟢 50%
-   7. Stal Mielec                       2  🟢 50%  🔴
+   2. Odra Opole                        3  🟢 67%
+   3. ŁKS Łódź                          3  🟢 67%
+   4. Pogoń Grodzisk Mazowiecki         2  🟢 100%
+   5. Polonia Bytom                     2  🟢 50%
+   6. Stal Mielec                       2  🟢 50%  🔴
+   7. Arka Gdynia                       1
    8. Chrobry Głogów                    1
    9. TS Podbeskidzie Bielsko-Biała     1  🔴
-  10. Arka Gdynia                       0
+  10. Lechia Gdańsk                     0
 
 RITARDI X2 + GOAL
-   1. Arka Gdynia                      6+  🟢 83%
+   1. Arka Gdynia                      7+  🟢 71%
    2. Stal Mielec                       5  🟢 80%
    3. Pogoń Siedlce                     4
-   4. Ruch Chorzów                      4  🟢 50%
-   5. Chrobry Głogów                    3  🟢 67%
-   6. Odra Opole                        3  🟢 67%
-   7. Pogoń Grodzisk Mazowiecki         3  🟢 100%
-   8. Skierniewice                      2  🟢 50%
-   9. ŁKS Łódź                          2  🟢 50%  🔴
-  10. Lechia Gdańsk                     1  🟢 100%
+   4. Chrobry Głogów                    3  🟢 67%
+   5. Odra Opole                        3  🟢 67%
+   6. Pogoń Grodzisk Mazowiecki         3  🟢 100%
+   7. Skierniewice                      2  🟢 50%
+   8. ŁKS Łódź                          2  🟢 50%  🔴
+   9. Lechia Gdańsk                     1  🟢 100%
+  10. Stal Rzeszów                      1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. Pogoń Siedlce                    16  🟢 56%  👻 35/42
-   2. TS Podbeskidzie Bielsko-Biała    7+  🟢 71%  👻 35/42
-   3. Ruch Chorzów                      6  🟢 67%  👻 35/42
-   4. Odra Opole                        5  🟢 80%  👻 35/42
-   5. Miedź Legnica                     2  🟢 50%  👻 35/42
-   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%  👻 35/42
-   7. Polonia Warszawa                  2  🟢 50%  👻 35/42
-   8. Puszcza Niepołomice               2  🟢 100%  👻 35/42
-   9. Stal Mielec                       2  🟢 50%  🔴  👻 35/42
-  10. ŁKS Łódź                          2  🟢 50%  👻 35/42
+   1. Pogoń Siedlce                    16  🟢 56%  👻 36/42
+   2. Ruch Chorzów                      7  🟢 71%  👻 36/42
+   3. TS Podbeskidzie Bielsko-Biała    7+  🟢 71%  👻 36/42
+   4. Odra Opole                        5  🟢 80%  👻 36/42
+   5. Miedź Legnica                     2  🟢 50%  👻 36/42
+   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%  👻 36/42
+   7. Polonia Warszawa                  2  🟢 50%  👻 36/42
+   8. Puszcza Niepołomice               2  🟢 100%  👻 36/42
+   9. Stal Mielec                       2  🟢 50%  🔴  👻 36/42
+  10. ŁKS Łódź                          2  🟢 50%  👻 36/42
 
