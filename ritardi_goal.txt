@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 03/11/2026 01:42 (ora italiana)
+Aggiornato: 03/11/2026 11:50 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -942,16 +942,16 @@ RITARDI X2 + GOAL
   10. Famalicão                         2  🟢 100%  👻 35/42
 
 RITARDI 12 + GOAL
-   1. Arouca                            4  🔴  👻 38/42
-   2. Vitória de Guimarães              4  🟢 75%  👻 38/42
-   3. Casa Pia AC                       3  🟢 67%  👻 38/42
-   4. Alverca                           2  👻 38/42
-   5. Braga                             2  🟢 50%  👻 38/42
-   6. FC Porto                          2  🟢 50%  👻 38/42
-   7. Famalicão                         2  🟢 100%  👻 38/42
-   8. Gil Vicente                       2  👻 38/42
-   9. Marítimo                          2  🟢 100%  👻 38/42
-  10. Nacional                          2  👻 38/42
+   1. Arouca                            4  🔴  👻 39/42
+   2. Vitória de Guimarães              4  🟢 75%  👻 39/42
+   3. Casa Pia AC                       3  🟢 67%  👻 39/42
+   4. Alverca                           2  👻 39/42
+   5. Braga                             2  🟢 50%  👻 39/42
+   6. FC Porto                          2  🟢 50%  👻 39/42
+   7. Famalicão                         2  🟢 100%  👻 39/42
+   8. Gil Vicente                       2  👻 39/42
+   9. Marítimo                          2  🟢 100%  👻 39/42
+  10. Nacional                          2  👻 39/42
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (329 partite giocate) + 2025
+Stagione 2026 (330 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -1576,12 +1576,12 @@ RITARDI 1X + GOAL
    2. Cruzeiro                          3  ❗ 9/42
    3. Grêmio                            3  🟢 67%  🔴  ❗ 9/42
    4. Palmeiras                         3  🟢 67%  ❗ 9/42
-   5. RB Bragantino                     2  🟢 100%  🔴  ❗ 9/42
-   6. Athletico Paranaense              1  🟢 100%  ❗ 9/42
-   7. Atlético-MG                       1  ❗ 9/42
-   8. Chapecoense                       1  🟢 100%  ❗ 9/42
-   9. Corinthians                       1  🟢 100%  🔴  ❗ 9/42
-  10. Flamengo                          1  🟢 100%  ❗ 9/42
+   5. Athletico Paranaense              1  🟢 100%  ❗ 9/42
+   6. Atlético-MG                       1  ❗ 9/42
+   7. Chapecoense                       1  🟢 100%  ❗ 9/42
+   8. Corinthians                       1  🟢 100%  🔴  ❗ 9/42
+   9. Flamengo                          1  🟢 100%  ❗ 9/42
+  10. Mirassol                          1  🟢 100%  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
@@ -1590,36 +1590,36 @@ RITARDI X2 + GOAL
    4. Chapecoense                       3  🟢 67%  🔴
    5. Coritiba                          3
    6. Internacional                     3  🟢 100%  🔴
-   7. Corinthians                       2  🟢 100%
-   8. Cruzeiro                          2
-   9. Fluminense                        2  🟢 100%
-  10. Grêmio                            2  🟢 50%
+   7. RB Bragantino                     3  🟢 100%
+   8. Corinthians                       2  🟢 100%
+   9. Cruzeiro                          2
+  10. Fluminense                        2  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Coritiba                          7  🟢 71%  🔴
+   1. Coritiba                          7  🟢 71%
    2. Mirassol                          7  🟢 86%
    3. Athletico Paranaense              3  🟢 100%
    4. Palmeiras                         3  🟢 67%  🔴
-   5. RB Bragantino                     3  🟢 100%  🔴
-   6. Vitória                           3  🟢 100%
-   7. Cruzeiro                          2
-   8. Grêmio                            2  🟢 50%
-   9. Santos                            2  🟢 50%  🔴
-  10. Atlético-MG                       1
+   5. Vitória                           3  🟢 100%
+   6. Cruzeiro                          2
+   7. Grêmio                            2  🟢 50%
+   8. Atlético-MG                       1
+   9. Chapecoense                       1  🟢 100%
+  10. Corinthians                       1  🟢 100%  🔴
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (223 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Huracán                           6  🟢 83%  👻 33/42
    2. Rosario Central                   4  🟢 100%  👻 33/42
-   3. Club Atlético Platense            3  🟢 67%  👻 33/42
-   4. Gimnasia LP                       3  🟢 100%  👻 33/42
-   5. River Plate                       3  👻 33/42
-   6. Argentinos Juniors                2  👻 33/42
-   7. Atlético Tucumán                  2  🟢 50%  👻 33/42
+   3. Argentinos Juniors                3  👻 33/42
+   4. Atlético Tucumán                  3  🟢 67%  👻 33/42
+   5. Club Atlético Platense            3  🟢 67%  👻 33/42
+   6. Gimnasia LP                       3  🟢 100%  👻 33/42
+   7. River Plate                       3  👻 33/42
    8. Boca Juniors                      2  👻 33/42
    9. Central Córdoba de Santiago       2  🟢 100%  👻 33/42
   10. Deportivo Riestra                 2  🟢 50%  👻 33/42
@@ -1629,24 +1629,24 @@ RITARDI X2 + GOAL
    2. Boca Juniors                      3
    3. Central Córdoba de Santiago       3  🟢 100%
    4. River Plate                       3
-   5. Argentinos Juniors                2
-   6. Deportivo Riestra                 2  🟢 50%
-   7. Huracán                           2  🟢 100%
+   5. Deportivo Riestra                 2  🟢 50%
+   6. Huracán                           2  🟢 100%
+   7. Independiente Rivadavia           2  🟢 50%
    8. Racing Club                       2  🟢 50%
    9. Tigre                             2  🟢 50%
-  10. Atlético Tucumán                  1
+  10. Banfield                          1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Deportivo Riestra                13  🟢 62%  👻 39/42
-   2. Belgrano                          5  🟢 60%  👻 39/42
-   3. Independiente Rivadavia           5  🟢 60%  👻 39/42
-   4. Lanús                             5  🟢 60%  👻 39/42
-   5. River Plate                       5  👻 39/42
-   6. Vélez Sarsfield                   5  🟢 80%  👻 39/42
-   7. Independiente                     4  🟢 50%  👻 39/42
-   8. Instituto                         4  🟢 50%  🔴  👻 39/42
-   9. Argentinos Juniors                3  👻 39/42
-  10. Tigre                             3  🟢 67%  👻 39/42
+   1. Deportivo Riestra                13  🟢 62%  👻 38/42
+   2. Belgrano                          5  🟢 60%  👻 38/42
+   3. Lanús                             5  🟢 60%  👻 38/42
+   4. River Plate                       5  👻 38/42
+   5. Vélez Sarsfield                   5  🟢 80%  👻 38/42
+   6. Independiente                     4  🟢 50%  👻 38/42
+   7. Instituto                         4  🟢 50%  👻 38/42
+   8. Tigre                             3  🟢 67%  👻 38/42
+   9. Boca Juniors                      2  👻 38/42
+  10. Central Córdoba de Santiago       2  🟢 100%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
@@ -1897,7 +1897,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 03/11/2026 01:42 (ora italiana)
+Aggiornato: 03/11/2026 11:50 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2836,16 +2836,16 @@ RITARDI X2 + GOAL
   10. Nacional                          2  🟢 50%  👻 35/42
 
 RITARDI 12 + GOAL
-   1. Vitória de Guimarães              8  🟢 50%  👻 38/42
-   2. Gil Vicente                       6  👻 38/42
-   3. Alverca                           2  👻 38/42
-   4. Arouca                            2  👻 38/42
-   5. Benfica                           2  🟢 50%  🔴  👻 38/42
-   6. Casa Pia AC                       2  🟢 50%  👻 38/42
-   7. Estrela da Amadora                2  🟢 100%  👻 38/42
-   8. Nacional                          2  🟢 50%  🔴  👻 38/42
-   9. Braga                             1  🟢 100%  👻 38/42
-  10. FC Porto                          1  🟢 100%  👻 38/42
+   1. Vitória de Guimarães              8  🟢 50%  👻 39/42
+   2. Gil Vicente                       6  👻 39/42
+   3. Alverca                           2  👻 39/42
+   4. Arouca                            2  👻 39/42
+   5. Benfica                           2  🟢 50%  🔴  👻 39/42
+   6. Casa Pia AC                       2  🟢 50%  👻 39/42
+   7. Estrela da Amadora                2  🟢 100%  👻 39/42
+   8. Nacional                          2  🟢 50%  🔴  👻 39/42
+   9. Braga                             1  🟢 100%  👻 39/42
+  10. FC Porto                          1  🟢 100%  👻 39/42
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -3462,7 +3462,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (329 partite giocate) + 2025
+Stagione 2026 (330 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -3475,7 +3475,7 @@ RITARDI 1X + GOAL
    7. Corinthians                       1  🟢 100%  ❗ 9/42
    8. Internacional                     1  🟢 100%  ❗ 9/42
    9. Palmeiras                         1  🟢 100%  ❗ 9/42
-  10. RB Bragantino                     1  🟢 100%  ❗ 9/42
+  10. Santos                            1  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Flamengo                          7  🟢 86%
@@ -3483,9 +3483,9 @@ RITARDI X2 + GOAL
    3. Cruzeiro                          6  🟢 67%
    4. Palmeiras                         6  🟢 67%
    5. Atlético-MG                       4
-   6. Coritiba                          2  🟢 50%
-   7. Internacional                     2  🟢 100%  🔴
-   8. RB Bragantino                     2  🟢 100%
+   6. RB Bragantino                     3  🟢 100%
+   7. Coritiba                          2  🟢 50%
+   8. Internacional                     2  🟢 100%  🔴
    9. São Paulo                         2  🟢 50%
   10. Athletico Paranaense              1  🟢 100%
 
@@ -3503,12 +3503,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (223 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. San Lorenzo                      11  👻 33/42
-   2. Atlético Tucumán                  7  🟢 57%  👻 33/42
+   2. Atlético Tucumán                  8  🟢 62%  👻 33/42
    3. Tigre                             4  🔴  👻 33/42
    4. Aldosivi                          3  👻 33/42
    5. Gimnasia Mendoza                  3  👻 33/42
@@ -3531,16 +3531,16 @@ RITARDI X2 + GOAL
   10. Central Córdoba de Santiago       1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Deportivo Riestra               16+  🟢 62%  👻 39/42
-   2. Club Atlético Platense           15  🟢 60%  👻 39/42
-   3. Central Córdoba de Santiago       7  🟢 57%  👻 39/42
-   4. San Lorenzo                       7  👻 39/42
-   5. Defensa y Justicia                5  🟢 60%  👻 39/42
-   6. Banfield                          4  🟢 75%  👻 39/42
-   7. Rosario Central                   4  🟢 75%  🔴  👻 39/42
-   8. Gimnasia LP                       3  🟢 100%  👻 39/42
-   9. Vélez Sarsfield                   3  🟢 67%  👻 39/42
-  10. Belgrano                          2  🟢 100%  👻 39/42
+   1. Deportivo Riestra               16+  🟢 62%  👻 38/42
+   2. Club Atlético Platense           15  🟢 60%  👻 38/42
+   3. Central Córdoba de Santiago       7  🟢 57%  👻 38/42
+   4. San Lorenzo                       7  👻 38/42
+   5. Defensa y Justicia                5  🟢 60%  👻 38/42
+   6. Banfield                          4  🟢 75%  👻 38/42
+   7. Rosario Central                   4  🟢 75%  🔴  👻 38/42
+   8. Gimnasia LP                       3  🟢 100%  👻 38/42
+   9. Vélez Sarsfield                   3  🟢 67%  👻 38/42
+  10. Belgrano                          2  🟢 100%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
@@ -3791,7 +3791,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 03/11/2026 01:42 (ora italiana)
+Aggiornato: 03/11/2026 11:50 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4730,16 +4730,16 @@ RITARDI X2 + GOAL
   10. Arouca                            1  👻 35/42
 
 RITARDI 12 + GOAL
-   1. Famalicão                        10  🟢 70%  👻 38/42
-   2. Arouca                            5  👻 38/42
-   3. Braga                             2  🔴  👻 38/42
-   4. Marítimo                          2  🟢 100%  🔴  👻 38/42
-   5. Santa Clara                       2  🟢 50%  👻 38/42
-   6. Vitória de Guimarães              2  🟢 50%  👻 38/42
-   7. Alverca                           1  🔴  👻 38/42
-   8. Casa Pia AC                       1  🟢 100%  👻 38/42
-   9. Estoril                           1  🟢 100%  👻 38/42
-  10. FC Porto                          1  👻 38/42
+   1. Famalicão                        10  🟢 70%  👻 39/42
+   2. Arouca                            5  👻 39/42
+   3. Braga                             2  🔴  👻 39/42
+   4. Marítimo                          2  🟢 100%  🔴  👻 39/42
+   5. Santa Clara                       2  🟢 50%  👻 39/42
+   6. Vitória de Guimarães              2  🟢 50%  👻 39/42
+   7. Alverca                           1  🔴  👻 39/42
+   8. Casa Pia AC                       1  🟢 100%  👻 39/42
+   9. Estoril                           1  🟢 100%  👻 39/42
+  10. FC Porto                          1  👻 39/42
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -5356,7 +5356,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (329 partite giocate) + 2025
+Stagione 2026 (330 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -5397,7 +5397,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (223 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -5406,11 +5406,11 @@ RITARDI 1X + GOAL
    3. Huracán                           3  🟢 100%  👻 33/42
    4. Independiente Rivadavia           3  👻 33/42
    5. Newell's Old Boys                 3  👻 33/42
-   6. Defensa y Justicia                2  🟢 100%  👻 33/42
-   7. Gimnasia LP                       2  🟢 100%  👻 33/42
-   8. Racing Club                       2  🟢 50%  👻 33/42
-   9. River Plate                       2  🟢 50%  👻 33/42
-  10. Rosario Central                   2  🟢 100%  👻 33/42
+   6. Argentinos Juniors                2  🟢 50%  👻 33/42
+   7. Defensa y Justicia                2  🟢 100%  👻 33/42
+   8. Gimnasia LP                       2  🟢 100%  👻 33/42
+   9. Racing Club                       2  🟢 50%  👻 33/42
+  10. River Plate                       2  🟢 50%  👻 33/42
 
 RITARDI X2 + GOAL
    1. Independiente Rivadavia           8  🟢 50%
@@ -5425,16 +5425,16 @@ RITARDI X2 + GOAL
   10. River Plate                       2  🟢 50%  🔴
 
 RITARDI 12 + GOAL
-   1. Boca Juniors                      8  🟢 88%  👻 39/42
-   2. Argentinos Juniors                7  👻 39/42
-   3. Belgrano                          7  👻 39/42
-   4. Deportivo Riestra                 6  👻 39/42
-   5. Lanús                             6  🟢 50%  👻 39/42
-   6. Vélez Sarsfield                   6  🟢 100%  👻 39/42
-   7. Gimnasia Mendoza                  5  🟢 80%  👻 39/42
-   8. Newell's Old Boys                 5  👻 39/42
-   9. Atlético Tucumán                  3  👻 39/42
-  10. Independiente                     3  🟢 67%  👻 39/42
+   1. Boca Juniors                      8  🟢 88%  👻 38/42
+   2. Belgrano                          7  👻 38/42
+   3. Deportivo Riestra                 6  👻 38/42
+   4. Lanús                             6  🟢 50%  👻 38/42
+   5. Vélez Sarsfield                   6  🟢 100%  👻 38/42
+   6. Gimnasia Mendoza                  5  🟢 80%  👻 38/42
+   7. Newell's Old Boys                 5  👻 38/42
+   8. Atlético Tucumán                  3  👻 38/42
+   9. Independiente                     3  🟢 67%  👻 38/42
+  10. Independiente Rivadavia           3  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
