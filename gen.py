@@ -1790,6 +1790,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
                         alert_rows.append((t, c, l, teams[h], teams[a], team, row))
 
     alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
+    alert_txt = ["PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO"]
     alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO</h3>']
     if not alert_map:
         alert_html.append('<p class="leg">Nessuna partita in arrivo nei prossimi giorni con i requisiti per completare la doppia ripetizione.</p>')
@@ -1806,13 +1807,17 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 f'<b>{esc(team)}</b> — {esc(combo_name)} · ritardo {delay} · '
                 f'#{row["rank"]}/{row["total"]}'
             )
+        alert_txt.append(f"{lt:%d/%m %H:%M} — {hn} vs {an}" + (" [DOUBLE]" if fixture_key in double_fixtures else ""))
+        for team, combo_name, row in fixture_alerts:
+            delay = str(row["delay"]) + ("+" if row["full"] else "")
+            alert_txt.append(f"  {team} — {combo_name} · ritardo {delay} · #{row['rank']}/{row['total']}")
         alert_html.append(
             f'<div class="fx">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
             f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span>'
             f'<div class="tagrow">{" &nbsp; | &nbsp; ".join(details)}</div></div>'
         )
     alert_html.append("</div>")
-    lines += alert_txt
+    lines += [""] + alert_txt + [""]
     return {
         "html": "".join(alert_html) + '<div class="repeat-grid">' + "".join(blocks) + "</div>",
         "txt": "\n".join(lines) + "\n",
