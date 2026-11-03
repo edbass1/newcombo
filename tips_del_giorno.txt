@@ -1,41 +1,37 @@
 TIPS DEL GIORNO - 03/11/2026
-Aggiornato: 03/11/2026 00:29 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 03/11/2026 01:42 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. TOTALE    20:45  Charlton Athletic vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 89,7  (Freq 100 · Rit 83 · Lega 100 · GG 96 · xG 67)
+    1X + GOAL  -  punteggio 87,1  (Freq 100 · Rit 80 · Lega 100 · GG 95 · xG 57)
     Per Bolton Wanderers l'1X+GOAL manca da 9 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
  2. CASA      21:00  Birmingham City vs Millwall   [INGHILTERRA - CHAMPIONSHIP]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 71,2  (Freq 62 · Rit 46 · Lega 92 · GG 96 · xG 78)
+    12 + GOAL  -  punteggio 70,1  (Freq 65 · Rit 45 · Lega 90 · GG 95 · xG 71)
     Birmingham City non vede il 12+GOAL da 6 partite in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 31%). Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 6 volte e c'è tanto xG.
 
  3. TOTALE    20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 67,8  (Freq 50 · Rit 92 · Lega 54 · GG 50 · xG 89)
+    X2 + GOAL  -  punteggio 67,0  (Freq 50 · Rit 90 · Lega 55 · GG 50 · xG 86)
     Per Wigan Athletic l'X2+GOAL manca da 18 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 27% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 5 volte e c'è tanto xG.
 
- 4. CASA      01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 63,2  (Freq 88 · Rit 67 · Lega 75 · GG 71 · xG 0)
-    Sono 7 partite che Atlético Tucumán resta senza l'1X+GOAL in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 34%). Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG resta nella media.
-
- 5. TOTALE    20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 53,1  (Freq 75 · Rit 75 · Lega 12 · GG 50 · xG 33)
+ 4. TOTALE    20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 48,6  (Freq 80 · Rit 70 · Lega 5 · GG 50 · xG 14)
     Northampton Town non vede il 12+GOAL da 12 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 34% delle volte. Questo campionato la propone abbastanza spesso, su 10 partite recenti il GG è uscito 5 volte e l'xG è buono.
 
- 6. TRASFERTA 18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 44,1  (Freq 62 · Rit 46 · Lega 42 · GG 17)
+ 5. TRASFERTA 18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 44,9  (Freq 65 · Rit 45 · Lega 40 · GG 20)
     L'X2+GOAL si fa aspettare da Arka Gdynia in trasferta: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. Anche il campionato la vede spesso e nelle ultime 6 hanno segnato entrambe 2 volte.
 
- 7. TOTALE    20:45  Watford vs Lincoln City   [INGHILTERRA - CHAMPIONSHIP]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 40,9  (Freq 38 · Rit 0 · Lega 83 · GG 50 · xG 56)
+ 6. TOTALE    20:45  Watford vs Lincoln City   [INGHILTERRA - CHAMPIONSHIP]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 37,7  (Freq 35 · Rit 0 · Lega 80 · GG 50 · xG 43)
     Per Watford l'X2+GOAL manca da 6 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 30% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 5 volte e l'xG è alto.
 
- 8. TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 40,6  (Freq 25 · Rit 8 · Lega 67 · GG 83 · xG 44)
+ 7. TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 37,4  (Freq 20 · Rit 10 · Lega 70 · GG 80 · xG 29)
     Il 12+GOAL si fa aspettare da Mirassol: 7 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 30%). In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 6 volte e l'xG è alto.
 
- 9. TRASFERTA 18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 19,3  (Freq 8 · Rit 17 · Lega 29 · GG 29)
+ 8. TRASFERTA 18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 17,3  (Freq 0 · Rit 20 · Lega 25 · GG 30)
     Ruch Chorzów non vede il 12+GOAL da 6 partite in trasferta: in media ne restano fuori circa 4, e la fa meno spesso, circa il 23% delle volte. In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 4 volte.
 
 

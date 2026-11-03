@@ -1,17 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 03/11/2026 00:29 (ora italiana)
+Aggiornato: 03/11/2026 01:42 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 03/11/2026
 ==================================================
-CASA      01:15  Atlético Tucumán [🧊A 🧊D] vs Argentinos Juniors [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,42 (1,25+1,17)
-           Atlético Tucumán 🟢 GG 50%: 1X + GOAL (7) 👻 34/42
-TRASFERTA 01:15  Atlético Tucumán [🧊A 🧊D] vs Argentinos Juniors [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,42 (1,25+1,17)
-           Argentinos Juniors 🟢 GG 40%: 12 + GOAL (7) 👻 38/42
 CASA      18:00  Chrobry Głogów [🧊A] vs Arka Gdynia   [POLONIA - I LIGA]
            Chrobry Głogów 🟢 GG 50%: 12 + GOAL (7) 👻 35/42
 TRASFERTA 18:00  Chrobry Głogów [🧊A] vs Arka Gdynia   [POLONIA - I LIGA]
@@ -368,7 +362,7 @@ CASA      18:30  Nottingham Forest [🧊A] vs Manchester City [🔥A]   [INGHILT
            Nottingham Forest 🟢 GG 40%: 12 + GOAL (6) 👻 41/42 🔴 Manchester City
 ALERT     18:30  Córdoba vs AD Ceuta FC   [SPAGNA - LALIGA 2]
 TRASFERTA 18:30  Osasuna [🔥D] vs Athletic Club [🧊D]   [SPAGNA - LALIGA]
-           xG: Osasuna xG 2,94 (1,45+1,49) · Athletic Club xG 2,85 (1,55+1,30)
+           xG: Osasuna xG 2,95 (1,46+1,49) · Athletic Club xG 2,85 (1,55+1,30)
            Athletic Club 🟢 GG 40%: X2 + GOAL (6)
 CASA      18:45  Aberdeen [🧊A] vs Hibernian [🧊A]   [SCOZIA - PREMIERSHIP]
            xG: Aberdeen xG 2,86 (1,30+1,56) · Hibernian xG 3,07 (1,51+1,56)
@@ -420,3 +414,43 @@ TRASFERTA 22:00  Philadelphia Union [🔥A] vs Toronto FC [🔥D]   [USA/CANADA 
 TOTALE    22:00  Red Bull New York vs Atlanta United [🧊A]   [USA/CANADA - MLS]
            xG: Red Bull New York xG 3,87 (1,89+1,98) · Atlanta United xG 3,14 (1,48+1,66)
            Red Bull New York 🟢 GG 40%: X2 + GOAL (11) ❗ 9/42
+
+==================================================
+08/11/2026
+==================================================
+TOTALE    01:00  Argentinos Juniors [🧊D] vs Huracán [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Argentinos Juniors xG 2,27 (1,18+1,09) · Huracán xG 2,58 (1,17+1,41)
+           Huracán 🟢 GG 50%: 1X + GOAL (6) 👻 33/42
+CASA      01:00  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,40 (1,39+1,01)
+           Central Córdoba de Santiago 🟢 GG 50%: 12 + GOAL (7) 👻 39/42
+TRASFERTA 01:00  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,40 (1,39+1,01)
+           Lanús 🟢 GG 30%: 12 + GOAL (6) 👻 39/42
+TRASFERTA 01:00  Gimnasia LP [🔥A] vs Belgrano [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Gimnasia LP xG 2,83 (1,63+1,20) · Belgrano xG 2,60 (1,35+1,25)
+           Belgrano 🟢 GG 30%: 12 + GOAL (7) 👻 39/42
+TRASFERTA 01:00  Gimnasia Mendoza [🔥D] vs Independiente Rivadavia [🔥D]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Gimnasia Mendoza xG 2,88 (1,19+1,69) · Independiente Rivadavia xG 2,50 (1,39+1,11)
+           Independiente Rivadavia 🟢 GG 30%: X2 + GOAL (8)
+TOTALE    01:00  Independiente [🔥A] vs Deportivo Riestra [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Independiente xG 2,06 (0,97+1,09) · Deportivo Riestra xG 1,80 (0,93+0,87)
+           Deportivo Riestra 🟢 GG 40%: 12 + GOAL (13) 👻 39/42
+TRASFERTA 01:00  Independiente [🔥A] vs Deportivo Riestra [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Independiente xG 2,06 (0,97+1,09) · Deportivo Riestra xG 1,80 (0,93+0,87)
+           Deportivo Riestra 🟢 GG 20%: 12 + GOAL (6) 👻 39/42
+CASA      01:00  San Lorenzo [🧊A] vs Club Atlético Platense [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: San Lorenzo xG 2,21 (0,86+1,35) · Club Atlético Platense xG 2,61 (1,31+1,30)
+           San Lorenzo 🟢 GG 10%: 1X + GOAL (11) 👻 33/42; X2 + GOAL (7); 12 + GOAL (7) 👻 39/42
+TRASFERTA 01:00  Unión [🔥D] vs Vélez Sarsfield [🔥A]   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Unión xG 2,38 (1,24+1,14) · Vélez Sarsfield xG 2,70 (1,26+1,44)
+           Vélez Sarsfield 🟢 GG 60%: 12 + GOAL (6) 👻 39/42
+CASA      01:00  FC Dallas [🔥A] vs Colorado Rapids   [USA/CANADA - MLS]
+           xG: FC Dallas xG 2,86 (1,55+1,31) · Colorado Rapids xG 2,70 (1,41+1,29)
+           FC Dallas 🟢 GG 40%: X2 + GOAL (7) ❗ 9/42
+CASA      01:00  Real Salt Lake vs LA Galaxy   [USA/CANADA - MLS]
+           xG: Real Salt Lake xG 3,08 (1,64+1,44) · LA Galaxy xG 3,33 (1,52+1,81)
+           Real Salt Lake 🟢 GG 50%: 12 + GOAL (6) ❗ 10/42
+TRASFERTA 01:00  San Diego FC [🔥D] vs Sporting Kansas City [🧊A 🔥D]   [USA/CANADA - MLS]
+           xG: San Diego FC xG 3,44 (1,67+1,77) · Sporting Kansas City xG 3,13 (1,10+2,03)
+           Sporting Kansas City 🟢 GG 60%: X2 + GOAL (9) ❗ 9/42

@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 03/11/2026 00:29 (ora italiana)
+Aggiornato: 03/11/2026 01:42 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1263,8 +1263,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/26 Barracas Central               36/100
-    2/26 Newell's Old Boys              34/100
-    3/26 Defensa y Justicia             34/100
+    2/26 Defensa y Justicia             35/100
+    3/26 Newell's Old Boys              34/100
     4/26 Talleres                       32/100
     5/26 Banfield                       32/100
      ...
@@ -1274,8 +1274,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/26 Racing Club                    36/100
     2/26 Banfield                       32/100
     3/26 Instituto                      30/100
-    4/26 Defensa y Justicia             30/100
-    5/26 Atlético Tucumán               30/100
+    4/26 Atlético Tucumán               30/100
+    5/26 Defensa y Justicia             29/100
+    6/26 Aldosivi                       29/100
      ...
    26/26 Vélez Sarsfield                16/100  (la fa meno spesso)
 
@@ -1471,7 +1472,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 03/11/2026 00:29 (ora italiana)
+Aggiornato: 03/11/2026 01:42 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2696,9 +2697,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/21 Racing Club                    35/100
     2/21 River Plate                    32/100
     3/21 Rosario Central                31/100
-    4/21 Defensa y Justicia             30/100
-    5/21 Talleres                       29/100
-    6/21 Sarmiento                      29/100
+    4/21 Talleres                       29/100
+    5/21 Sarmiento                      29/100
+    6/21 Defensa y Justicia             29/100
      ...
    21/21 Vélez Sarsfield                16/100  (la fa meno spesso)
 
@@ -2896,7 +2897,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 03/11/2026 00:29 (ora italiana)
+Aggiornato: 03/11/2026 01:42 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4115,12 +4116,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Estudiantes                    40/100
     3/20 Vélez Sarsfield                38/100
     4/20 Rosario Central                36/100
-    5/20 Unión                          35/100
-    6/20 Racing Club                    35/100
-    7/20 Newell's Old Boys              35/100
-    8/20 Independiente                  35/100
-    9/20 Huracán                        35/100
-   10/20 Banfield                       35/100
+    5/20 Independiente                  36/100
      ...
    20/20 Argentinos Juniors             23/100  (la fa meno spesso)
 
