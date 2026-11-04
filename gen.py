@@ -1321,15 +1321,82 @@ def _ritardo_line(venue):
         return "Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta."
     return "Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente)."
 
+def build_global_top30(data, venue):
+    """Top 30 globale dei ritardi per contesto e combo, pari merito sul confine inclusi."""
+    label = next(x[1] for x in VENUES if x[0] == venue)
+    rankings = {name: [] for name, _f in COMBOS["goal"]}
+    for country, league, result, err in data:
+        if not result:
+            continue
+        view = result["venues"][venue]
+        for team, records in view["allr"].items():
+            for rec in records:
+                key, combo_name, delay, team_name, full, pct = rec
+                if key != "goal" or combo_name not in rankings:
+                    continue
+                rankings[combo_name].append({
+                    "country": country, "league": league, "team": team_name,
+                    "delay": delay, "full": full, "pct": pct,
+                })
+    lines = [
+        f"TOP 30 GLOBALE DEI RITARDI — {label.upper()}",
+        "Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.",
+        "Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.",
+        "",
+    ]
+    cards = []
+    members = set()
+    for combo_name, _f in COMBOS["goal"]:
+        rows = sorted(rankings[combo_name], key=lambda x: (
+            -x["delay"], x["team"].casefold(), x["country"].casefold(), x["league"].casefold()
+        ))
+        cutoff = rows[29]["delay"] if len(rows) > 30 else (rows[-1]["delay"] if rows else None)
+        selected = [x for x in rows if cutoff is not None and x["delay"] >= cutoff]
+        lines.append(f"TOP 30 — {combo_name}")
+        card_rows = []
+        previous, rank = None, 0
+        for i, row in enumerate(selected, 1):
+            if row["delay"] != previous:
+                rank, previous = i, row["delay"]
+            members.add((row["country"], row["league"], row["team"], combo_name))
+            delay_label = str(row["delay"]) + ("+" if row["full"] else "")
+            lines.append(
+                f"  {rank:>2}. {row['team']:<28.28} {delay_label:>4}  | "
+                f"{row['country']} - {row['league']}"
+            )
+            card_rows.append(
+                '<div class="top30-row">'
+                f'<b class="top30-rank">{rank}.</b> <strong>{esc(row["team"])}</strong>'
+                f'<span class="top30-delay">{esc(delay_label)}</span>'
+                f'<small>{esc(row["country"])} - {esc(row["league"])}</small>'
+                '</div>'
+            )
+        lines.append("")
+        cards.append(
+            '<section class="top30-card">'
+            f'<h3>{esc(combo_name)}</h3>'
+            + ("".join(card_rows) if card_rows else '<p class="leg">Nessun dato disponibile</p>')
+            + '</section>'
+        )
+    html_block = (
+        '<div class="top30-section">'
+        f'<h3 class="top30-title">TOP 30 GLOBALI — {esc(label.upper())}</h3>'
+        '<p class="leg">Classifica tra tutti i campionati · pari merito inclusi</p>'
+        '<div class="top30-grid">' + "".join(cards) + '</div></div>'
+    )
+    return lines, html_block, members
+
 def render_venue(data, venue, now):
     label = next(x[1] for x in VENUES if x[0] == venue)
     scope = _scope_phrase(venue)
+    top30_lines, top30_html, top30_members = build_global_top30(data, venue)
     goal_L = [f"RITARDI DOPPIA CHANCE + GOAL — {label.upper()}", f"Aggiornato: {now} (ora italiana)",
               _ritardo_line(venue),
               "Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.",
               "🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.",
               "🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).",
-              "Fonte: FotMob", ""]
+              "🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.",
+              "Fonte: FotMob", ""] + top30_lines + ["=" * 50, ""]
     sotto_L = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali {scope})",
                f"Aggiornato: {now} (ora italiana)",
                "Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali " + scope + " (N<100 = storico insufficiente). Fonte: FotMob", ""]
@@ -1390,8 +1457,11 @@ def render_venue(data, venue, now):
                     rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
                     bdg = league_badge_txt(lg, name)
                     bhtml = league_badge_html(lg, name)
-                    parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + "".join(f" 🔴 {x}" for x in rr))
-                    hparts.append(f'{tspan(LI, h, a, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span> <span class="combo-label" style="display:inline!important;color:var(--accent2);font-weight:800;white-space:nowrap">{esc(name)}</span>{bhtml}'
+                    top30 = (c, l, tn, name) in top30_members
+                    top30_txt = " [TOP 30]" if top30 else ""
+                    top30_badge = (' <span class="top30-badge" title="Questa squadra è nella top 30 globale dei ritardi per questa combo e questo contesto">TOP 30</span>' if top30 else "")
+                    parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + top30_txt + "".join(f" 🔴 {x}" for x in rr))
+                    hparts.append(f'{tspan(LI, h, a, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span> <span class="combo-label" style="display:inline!important;color:var(--accent2);font-weight:800;white-space:nowrap">{esc(name)}</span>{bhtml}{top30_badge}'
                                   + "".join(f' <span class="pr" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
@@ -1427,7 +1497,7 @@ def render_venue(data, venue, now):
         "cards": cf,
         "saltati": "\n".join(ST) + "\n",
         "saltati_html": vwrap(venue, '<div class="fxlist">' + "\n".join(SH) + "</div>"),
-        "goal_html": vwrap(venue, "<pre>" + html.escape("\n".join(goal_L) + "\n") + "</pre>"),
+        "goal_html": vwrap(venue, top30_html + "<pre>" + html.escape("\n".join(goal_L) + "\n") + "</pre>"),
         "sotto_html": vwrap(venue, "<pre>" + html.escape("\n".join(sotto_L) + "\n") + "</pre>"),
         "pop": pop,
     }
@@ -1663,6 +1733,15 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 #topbar .tsel{margin-left:auto;display:flex;align-items:center;gap:.35rem;color:var(--muted);font-size:.8rem;font-weight:700}
 #topbar select{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:.32rem .45rem;font-weight:700;font-size:.84rem}
 .venue{display:block;margin:0 0 1.4rem}
+.top30-section{margin:.8rem 0 1.2rem}.top30-title{margin:.5rem 0;color:var(--accent);font-size:1.12rem}
+.top30-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.65rem}
+.top30-card{min-width:0;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:.65rem .75rem;box-shadow:var(--glow)}
+.top30-card h3{margin:.1rem 0 .55rem;color:var(--accent2);font-size:.98rem}
+.top30-row{display:grid;grid-template-columns:2rem minmax(0,1fr) auto;gap:.2rem .4rem;align-items:baseline;padding:.22rem 0;border-bottom:1px solid var(--line);font-size:.84rem}
+.top30-row:last-child{border-bottom:0}.top30-rank{color:var(--accent);font-variant-numeric:tabular-nums}
+.top30-delay{font-weight:900;color:var(--accent2);font-variant-numeric:tabular-nums}.top30-row small{grid-column:2/4;color:var(--muted);font-size:.76rem}
+.top30-badge{display:inline-block;background:#7048d8;color:#fff!important;padding:.08rem .38rem;border-radius:5px;font-size:.68rem;font-weight:900;letter-spacing:.025em;white-space:nowrap;vertical-align:middle}
+@media(max-width:800px){.top30-grid{grid-template-columns:1fr}}
 """
 
 PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
