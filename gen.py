@@ -1322,7 +1322,7 @@ def _ritardo_line(venue):
     return "Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente)."
 
 def build_global_top30(data, venue):
-    """Top 30 globale dei ritardi per contesto e combo, pari merito sul confine inclusi."""
+    """Top 20 globale dei ritardi per contesto e combo, pari merito sul confine inclusi."""
     label = next(x[1] for x in VENUES if x[0] == venue)
     rankings = {name: [] for name, _f in COMBOS["goal"]}
     for country, league, result, err in data:
@@ -1339,8 +1339,8 @@ def build_global_top30(data, venue):
                     "delay": delay, "full": full, "pct": pct,
                 })
     lines = [
-        f"TOP 30 GLOBALE DEI RITARDI — {label.upper()}",
-        "Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.",
+        f"TOP 20 GLOBALE DEI RITARDI — {label.upper()}",
+        "Classifica unica tra tutti i campionati del sito. I pari merito al 20º posto sono inclusi.",
         "Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.",
         "",
     ]
@@ -1350,9 +1350,9 @@ def build_global_top30(data, venue):
         rows = sorted(rankings[combo_name], key=lambda x: (
             -x["delay"], x["team"].casefold(), x["country"].casefold(), x["league"].casefold()
         ))
-        cutoff = rows[29]["delay"] if len(rows) > 30 else (rows[-1]["delay"] if rows else None)
+        cutoff = rows[19]["delay"] if len(rows) > 30 else (rows[-1]["delay"] if rows else None)
         selected = [x for x in rows if cutoff is not None and x["delay"] >= cutoff]
-        lines.append(f"TOP 30 — {combo_name}")
+        lines.append(f"TOP 20 — {combo_name}")
         card_rows = []
         previous, rank = None, 0
         for i, row in enumerate(selected, 1):
@@ -1380,8 +1380,8 @@ def build_global_top30(data, venue):
         )
     html_block = (
         '<div class="top30-section">'
-        f'<h3 class="top30-title">TOP 30 GLOBALI — {esc(label.upper())}</h3>'
-        '<p class="leg">Classifica tra tutti i campionati · pari merito inclusi</p>'
+        f'<h3 class="top30-title">TOP 20 GLOBALI — {esc(label.upper())}</h3>'
+        '<p class="leg">Classifica tra tutti i campionati · pari merito al 20º posto inclusi</p>'
         '<div class="top30-grid">' + "".join(cards) + '</div></div>'
     )
     return lines, html_block, members
@@ -1395,7 +1395,7 @@ def render_venue(data, venue, now):
               "Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.",
               "🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.",
               "🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).",
-              "🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.",
+              "🏅 TOP 20 = squadra presente nella top 20 globale della stessa combo e dello stesso contesto, pari merito inclusi.",
               "Fonte: FotMob", ""] + top30_lines + ["=" * 50, ""]
     sotto_L = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali {scope})",
                f"Aggiornato: {now} (ora italiana)",
@@ -1458,8 +1458,8 @@ def render_venue(data, venue, now):
                     bdg = league_badge_txt(lg, name)
                     bhtml = league_badge_html(lg, name)
                     top30 = (c, l, tn, name) in top30_members
-                    top30_txt = " [TOP 30]" if top30 else ""
-                    top30_badge = (' <span class="top30-badge" title="Questa squadra è nella top 30 globale dei ritardi per questa combo e questo contesto">TOP 30</span>' if top30 else "")
+                    top30_txt = " [TOP 20]" if top30 else ""
+                    top30_badge = (' <span class="top30-badge" title="Questa squadra è nella top 20 globale dei ritardi per questa combo e questo contesto">TOP 20</span>' if top30 else "")
                     parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + top30_txt + "".join(f" 🔴 {x}" for x in rr))
                     hparts.append(f'{tspan(LI, h, a, tn, venue)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span> <span class="combo-label" style="display:inline!important;color:var(--accent2);font-weight:800;white-space:nowrap">{esc(name)}</span>{bhtml}{top30_badge}'
                                   + "".join(f' <span class="pr" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
