@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 04/11/2026 16:48 (ora italiana)
+Aggiornato: 04/11/2026 17:47 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -26,18 +26,17 @@ TOP 20 — 1X + GOAL
    7. Casa Pia AC                    10  | PORTOGALLO - LIGA PORTUGAL
    7. Moss                           10  | NORVEGIA - OBOS-LIGAEN
    7. St. Patrick's Athletic         10  | IRLANDA - PREMIER DIVISION
-  11. FC Andorra                      9  | SPAGNA - LALIGA 2
   11. Troyes                         9+  | FRANCIA - LIGUE 1
-  13. Reggiana                        8  | ITALIA - SERIE C
-  13. Slovan Liberec                  8  | REP. CECA - 1. LIGA
-  13. Sporting Hasselt               8+  | BELGIO - FIRST DIVISION B
-  16. Fortuna Köln                    7  | GERMANIA - 3. LIGA
-  16. Greenock Morton                 7  | SCOZIA - CHAMPIONSHIP
-  16. Gubbio                          7  | ITALIA - SERIE C
-  16. IFK Värnamo                     7  | SVEZIA - SUPERETTAN
-  16. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
-  16. SC Heerenveen                   7  | OLANDA - EREDIVISIE
-  16. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
+  12. Reggiana                        8  | ITALIA - SERIE C
+  12. Slovan Liberec                  8  | REP. CECA - 1. LIGA
+  12. Sporting Hasselt               8+  | BELGIO - FIRST DIVISION B
+  15. Fortuna Köln                    7  | GERMANIA - 3. LIGA
+  15. Greenock Morton                 7  | SCOZIA - CHAMPIONSHIP
+  15. Gubbio                          7  | ITALIA - SERIE C
+  15. IFK Värnamo                     7  | SVEZIA - SUPERETTAN
+  15. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
+  15. SC Heerenveen                   7  | OLANDA - EREDIVISIE
+  15. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
 
 TOP 20 — X2 + GOAL
    1. Sparta Prague                  28  | REP. CECA - 1. LIGA
@@ -629,20 +628,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (131 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 2,7
+Stagione 2026/2027 (132 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Andorra                        9  🟢 56%
-   2. Eldense                           3  🟢 100%
-   3. Las Palmas                        3  🟢 67%
-   4. Real Sociedad B                   3
-   5. Sporting Gijón                    2  🟢 100%
-   6. AD Ceuta FC                       1  🟢 100%  🔴
-   7. Girona                            1
-   8. Granada                           1  🟢 100%
-   9. Real Oviedo                       1  🟢 100%
-  10. Albacete                          0
+   1. Eldense                           3  🟢 100%
+   2. Las Palmas                        3  🟢 67%
+   3. Real Sociedad B                   3
+   4. Sporting Gijón                    2  🟢 100%
+   5. AD Ceuta FC                       1  🟢 100%  🔴
+   6. Girona                            1
+   7. Granada                           1  🟢 100%
+   8. Real Oviedo                       1  🟢 100%
+   9. Albacete                          0
+  10. Almería                           0  🔴
 
 RITARDI X2 + GOAL
    1. Sporting Gijón                    6  🟢 83%  👻 36/42
@@ -658,9 +657,9 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Castellón                         7  🟢 86%  🔴
-   2. Córdoba                           3  🟢 67%  🔴
-   3. Eibar                             3  🟢 100%
-   4. Tenerife                          3  🟢 100%
+   2. Tenerife                          4  🟢 100%
+   3. Córdoba                           3  🟢 67%  🔴
+   4. Eibar                             3  🟢 100%
    5. Almería                           2  🟢 100%  🔴
    6. Eldense                           2  🟢 100%
    7. Real Sociedad B                   2
@@ -1981,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 04/11/2026 16:48 (ora italiana)
+Aggiornato: 04/11/2026 17:47 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2611,8 +2610,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (131 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 2,7
+Stagione 2026/2027 (132 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
    1. FC Andorra                        5  🟢 60%
@@ -2640,7 +2639,7 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Castellón                         6  🟢 83%  🔴
-   2. Tenerife                         5+  🟢 60%
+   2. Tenerife                         6+  🟢 67%
    3. Burgos CF                         4
    4. Las Palmas                        3  🟢 67%
    5. Leganés                           3  🟢 67%
@@ -3963,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 04/11/2026 16:48 (ora italiana)
+Aggiornato: 04/11/2026 17:47 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4587,20 +4586,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (131 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 2,7
+Stagione 2026/2027 (132 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
    1. Sporting Gijón                    8  🟢 75%
    2. Eldense                          6+  🟢 50%
-   3. FC Andorra                        4  🟢 50%
-   4. Granada                           3  🟢 67%
-   5. Burgos CF                         1  🟢 100%
-   6. Eibar                             1  🟢 100%
-   7. Girona                            1  🔴
-   8. Las Palmas                        1  🟢 100%
-   9. Real Sociedad B                   1
-  10. AD Ceuta FC                       0
+   3. Granada                           3  🟢 67%
+   4. Burgos CF                         1  🟢 100%
+   5. Eibar                             1  🟢 100%
+   6. Girona                            1  🔴
+   7. Las Palmas                        1  🟢 100%
+   8. Real Sociedad B                   1
+   9. AD Ceuta FC                       0
+  10. Albacete                          0  🔴
 
 RITARDI X2 + GOAL
    1. Leganés                           6  🟢 67%  👻 36/42
@@ -4610,16 +4609,16 @@ RITARDI X2 + GOAL
    5. Real Sociedad B                   3  🟢 67%  🔴  👻 36/42
    6. Cádiz                             2  🟢 100%  👻 36/42
    7. Eibar                             2  🟢 100%  👻 36/42
-   8. FC Andorra                        2  🟢 50%  👻 36/42
-   9. Granada                           2  🟢 50%  👻 36/42
-  10. Sabadell                          2  🟢 50%  👻 36/42
+   8. Granada                           2  🟢 50%  👻 36/42
+   9. Sabadell                          2  🟢 50%  👻 36/42
+  10. AD Ceuta FC                       1  🟢 100%  👻 36/42
 
 RITARDI 12 + GOAL
    1. Mallorca                         6+  🟢 50%
    2. Castellón                         4  🟢 75%  🔴
    3. Sporting Gijón                    4  🟢 75%
-   4. Córdoba                           2  🟢 50%
-   5. FC Andorra                        2  🟢 50%
+   4. FC Andorra                        3  🟢 67%
+   5. Córdoba                           2  🟢 50%
    6. Girona                            2  🟢 50%  🔴
    7. Granada                           2  🟢 50%
    8. Tenerife                          2  🟢 100%
