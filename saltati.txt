@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 04/11/2026 18:53 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 03/11 23:30  [GOAL] Mirassol: 12 + GOAL uscita, era a 7  -  Chapecoense 1-2 Mirassol   [BRASILE - SÉRIE A]
 02/11 19:00  [GOAL] Kongsvinger: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
@@ -54,7 +54,7 @@ Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 04/11/2026 18:53 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 02/11 23:00  [GOAL] Defensa y Justicia: X2 + GOAL uscita, era a 6  -  Defensa y Justicia 1-1 Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
 02/11 20:30  [GOAL] Casarano: X2 + GOAL uscita, era a 7  -  Casarano 2-2 Foggia   [ITALIA - SERIE C]
@@ -93,7 +93,7 @@ Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 04/11/2026 18:53 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 03/11 01:15  [GOAL] Argentinos Juniors: 12 + GOAL uscita, era a 7 👻 38/42  -  Atlético Tucumán 1-2 Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
 02/11 20:30  [GOAL] Foggia: X2 + GOAL uscita, era a 15  -  Casarano 2-2 Foggia   [ITALIA - SERIE C]
@@ -118,6 +118,4 @@ Aggiornato: 04/11/2026 18:27 (ora italiana). Dal più recente. Ritardo = partite
 30/10 19:30  [GOAL] Stade Nyonnais: X2 + GOAL uscita, era a 11 ❗ 13/42  -  FC Rapperswil-Jona 1-4 Stade Nyonnais   [SVIZZERA - CHALLENGE LEAGUE]
 29/10 18:30  [GOAL] Lecce: 1X + GOAL uscita, era a 9  -  Frosinone 5-1 Lecce   [ITALIA - SERIE A]
 29/10 01:30  [GOAL] Botafogo: 12 + GOAL uscita, era a 6  -  Remo 2-1 Botafogo   [BRASILE - SÉRIE A]
-28/10 19:00  [GOAL] Djurgården: 1X + GOAL uscita, era a 10 👻 38/42  -  IFK Göteborg 1-1 Djurgården   [SVEZIA - ALLSVENSKAN]
-28/10 19:00  [GOAL] Djurgården: X2 + GOAL uscita, era a 8  -  IFK Göteborg 1-1 Djurgården   [SVEZIA - ALLSVENSKAN]
 

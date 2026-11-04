@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 04/11/2026 18:27 (ora italiana)
+Aggiornato: 04/11/2026 18:53 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -377,7 +377,7 @@ CASA      20:30  Hertha BSC [🔥A 🧊D] vs Wolfsburg [🔥A]   [GERMANIA - 2. 
            xG: Hertha BSC xG 3,57 (2,34+1,23) · Wolfsburg xG 3,86 (2,20+1,66)
            Hertha BSC: X2 + GOAL (7) 🔴 Wolfsburg
 TRASFERTA 20:30  Grasshopper [🧊A 🔥D] vs Lausanne [🧊A]   [SVIZZERA - SUPER LEAGUE]
-           xG: Grasshopper xG 4,00 (1,87+2,13) · Lausanne xG 2,86 (1,04+1,82)
+           xG: Grasshopper xG 3,99 (1,87+2,12) · Lausanne xG 2,86 (1,04+1,82)
            Lausanne: X2 + GOAL (10) ❗ 8/42 [TOP 20]
 TOTALE    20:45  Royal Antwerp [🔥D] vs Lommel   [BELGIO - FIRST DIVISION A]
            xG: Royal Antwerp xG 3,63 (1,43+2,20) · Lommel xG 2,85 (1,04+1,81)
@@ -671,3 +671,5 @@ TRASFERTA 23:30  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   
 ==================================================
 TRASFERTA 17:00  Liptovský Mikuláš [🧊D] vs MFK Bytca [🧊A 🔥D]   [SLOVACCHIA - 2. LIGA]
            MFK Bytca: X2 + GOAL (7+) 👻 34/42 🔴 Liptovský Mikuláš
+TOTALE    19:00  Hvidovre [🔥A] vs Aarhus Fremad [🧊A 🧊D]   [DANIMARCA - 1. DIVISION]
+           Aarhus Fremad: 1X + GOAL (6) 🔥 3/42
