@@ -1,5 +1,5 @@
 RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — STORICO TOTALE CASA + TRASFERTA
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Ogni squadra è valutata su tutte le proprie partite, in casa e in trasferta, in ordine cronologico.
 Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.
 Storico: pool nazionale multi-stagione disponibile (fino a 12 stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.
@@ -109,7 +109,7 @@ Squadre: 823
  100. Burton Albion                    4  | INGHILTERRA - LEAGUE ONE  | 463 gare
  101. Casarano                         4  | ITALIA - SERIE C  | 56 gare
  102. Casertana                        4  | ITALIA - SERIE C  | 346 gare
- 103. Chapecoense                      4  | BRASILE - SÉRIE A  | 259 gare
+ 103. Chapecoense                      4  | BRASILE - SÉRIE A  | 260 gare
  104. Chrobry Głogów                   4  | POLONIA - I LIGA  | 390 gare
  105. Clermont Foot                    4  | FRANCIA - LIGUE 2  | 293 gare
  106. DAC 1904 Dunajska Streda         4  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 363 gare
@@ -135,7 +135,7 @@ Squadre: 823
  126. Leixões                          4  | PORTOGALLO - LIGA PORTUGAL 2  | 351 gare
  127. Malmö FF                         4  | SVEZIA - ALLSVENSKAN  | 356 gare
  128. Marseille                        4  | FRANCIA - LIGUE 1  | 291 gare
- 129. Mirassol                         4  | BRASILE - SÉRIE A  | 71 gare
+ 129. Mirassol                         4  | BRASILE - SÉRIE A  | 72 gare
  130. Montpellier                      4  | FRANCIA - LIGUE 2  | 293 gare
  131. Nottingham Forest                4  | INGHILTERRA - PREMIER LEAGUE  | 440 gare
  132. Ospitaletto                      4  | ITALIA - SERIE C  | 50 gare
@@ -1116,7 +1116,7 @@ Squadre: 823
  281. Luton Town                       3  | INGHILTERRA - LEAGUE ONE  | 473 gare
  282. Lyn                              3  | NORVEGIA - OBOS-LIGAEN  | 141 gare
  283. Milan                            3  | ITALIA - SERIE A  | 428 gare
- 284. Mirassol                         3  | BRASILE - SÉRIE A  | 71 gare
+ 284. Mirassol                         3  | BRASILE - SÉRIE A  | 72 gare
  285. Mjällby                          3  | SVEZIA - ALLSVENSKAN  | 267 gare
  286. Mladá Boleslav                   3  | REP. CECA - 1. LIGA  | 379 gare
  287. Monaco                           3  | FRANCIA - LIGUE 1  | 291 gare
@@ -1194,7 +1194,7 @@ Squadre: 823
  359. Carpi                            2  | ITALIA - SERIE C  | 315 gare
  360. Catania                          2  | ITALIA - SERIE C  | 356 gare
  361. Cesena                           2  | ITALIA - SERIE B  | 276 gare
- 362. Chapecoense                      2  | BRASILE - SÉRIE A  | 259 gare
+ 362. Chapecoense                      2  | BRASILE - SÉRIE A  | 260 gare
  363. Charlotte FC                     2  | USA/CANADA - MLS  | 176 gare
  364. Charlton Athletic                2  | INGHILTERRA - CHAMPIONSHIP  | 482 gare
  365. Chrobry Głogów                   2  | POLONIA - I LIGA  | 390 gare
@@ -1853,7 +1853,7 @@ Squadre: 823
  192. Burgos CF                        3  | SPAGNA - LALIGA 2  | 430 gare
  193. Burton Albion                    3  | INGHILTERRA - LEAGUE ONE  | 463 gare
  194. Casarano                         3  | ITALIA - SERIE C  | 56 gare
- 195. Chapecoense                      3  | BRASILE - SÉRIE A  | 259 gare
+ 195. Chapecoense                      3  | BRASILE - SÉRIE A  | 260 gare
  196. Charlton Athletic                3  | INGHILTERRA - CHAMPIONSHIP  | 482 gare
  197. Chrobry Głogów                   3  | POLONIA - I LIGA  | 390 gare
  198. Cittadella                       3  | ITALIA - SERIE C  | 452 gare
@@ -2041,7 +2041,7 @@ Squadre: 823
  380. Mantova                          2  | ITALIA - SERIE B  | 317 gare
  381. Melbourne City FC                2  | AUSTRALIA - A-LEAGUE MEN  | 314 gare
  382. Melbourne Victory                2  | AUSTRALIA - A-LEAGUE MEN  | 313 gare
- 383. Mirassol                         2  | BRASILE - SÉRIE A  | 71 gare
+ 383. Mirassol                         2  | BRASILE - SÉRIE A  | 72 gare
  384. Modena                           2  | ITALIA - SERIE B  | 350 gare
  385. MSV Duisburg                     2  | GERMANIA - 3. LIGA  | 336 gare
  386. Nancy                            2  | FRANCIA - LIGUE 2  | 285 gare

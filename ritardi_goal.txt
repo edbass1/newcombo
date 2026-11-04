@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (330 partite giocate) + 2025
+Stagione 2026 (331 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -1576,36 +1576,36 @@ RITARDI 1X + GOAL
    2. Cruzeiro                          3  ❗ 9/42
    3. Grêmio                            3  🟢 67%  🔴  ❗ 9/42
    4. Palmeiras                         3  🟢 67%  ❗ 9/42
-   5. Athletico Paranaense              1  🟢 100%  ❗ 9/42
-   6. Atlético-MG                       1  ❗ 9/42
-   7. Chapecoense                       1  🟢 100%  ❗ 9/42
-   8. Corinthians                       1  🟢 100%  🔴  ❗ 9/42
-   9. Flamengo                          1  🟢 100%  ❗ 9/42
-  10. Mirassol                          1  🟢 100%  ❗ 9/42
+   5. Chapecoense                       2  🟢 100%  ❗ 9/42
+   6. Mirassol                          2  🟢 100%  ❗ 9/42
+   7. Athletico Paranaense              1  🟢 100%  ❗ 9/42
+   8. Atlético-MG                       1  ❗ 9/42
+   9. Corinthians                       1  🟢 100%  🔴  ❗ 9/42
+  10. Flamengo                          1  🟢 100%  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
    2. Atlético-MG                       4  🟢 50%
    3. Botafogo                          3  🟢 67%
-   4. Chapecoense                       3  🟢 67%  🔴
-   5. Coritiba                          3
-   6. Internacional                     3  🟢 100%  🔴
-   7. RB Bragantino                     3  🟢 100%
-   8. Corinthians                       2  🟢 100%
-   9. Cruzeiro                          2
-  10. Fluminense                        2  🟢 100%
+   4. Coritiba                          3
+   5. Internacional                     3  🟢 100%  🔴
+   6. RB Bragantino                     3  🟢 100%
+   7. Corinthians                       2  🟢 100%
+   8. Cruzeiro                          2
+   9. Fluminense                        2  🟢 100%
+  10. Grêmio                            2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Coritiba                          7  🟢 71%
-   2. Mirassol                          7  🟢 86%
-   3. Athletico Paranaense              3  🟢 100%
-   4. Palmeiras                         3  🟢 67%  🔴
-   5. Vitória                           3  🟢 100%
-   6. Cruzeiro                          2
-   7. Grêmio                            2  🟢 50%
-   8. Atlético-MG                       1
-   9. Chapecoense                       1  🟢 100%
-  10. Corinthians                       1  🟢 100%  🔴
+   2. Athletico Paranaense              3  🟢 100%
+   3. Palmeiras                         3  🟢 67%  🔴
+   4. Vitória                           3  🟢 100%
+   5. Cruzeiro                          2
+   6. Grêmio                            2  🟢 50%
+   7. Atlético-MG                       1
+   8. Corinthians                       1  🟢 100%  🔴
+   9. Bahia                             0
+  10. Botafogo                          0
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1897,7 +1897,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3462,7 +3462,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (330 partite giocate) + 2025
+Stagione 2026 (331 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -3472,10 +3472,10 @@ RITARDI 1X + GOAL
    4. Cruzeiro                          2  🟢 50%  ❗ 9/42
    5. Grêmio                            2  🟢 100%  ❗ 9/42
    6. Athletico Paranaense              1  🟢 100%  🔴  ❗ 9/42
-   7. Corinthians                       1  🟢 100%  ❗ 9/42
-   8. Internacional                     1  🟢 100%  ❗ 9/42
-   9. Palmeiras                         1  🟢 100%  ❗ 9/42
-  10. Santos                            1  ❗ 9/42
+   7. Chapecoense                       1  🟢 100%  ❗ 9/42
+   8. Corinthians                       1  🟢 100%  ❗ 9/42
+   9. Internacional                     1  🟢 100%  ❗ 9/42
+  10. Palmeiras                         1  🟢 100%  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Flamengo                          7  🟢 86%
@@ -3791,7 +3791,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5356,7 +5356,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (330 partite giocate) + 2025
+Stagione 2026 (331 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -5364,9 +5364,9 @@ RITARDI 1X + GOAL
    2. Palmeiras                         4  ❗ 9/42
    3. Vasco da Gama                     4  🟢 50%  ❗ 9/42
    4. Chapecoense                       3  🟢 67%  ❗ 9/42
-   5. Cruzeiro                          2  🟢 50%  ❗ 9/42
-   6. Flamengo                          2  🟢 100%  ❗ 9/42
-   7. Mirassol                          2  🟢 50%  ❗ 9/42
+   5. Mirassol                          3  🟢 67%  ❗ 9/42
+   6. Cruzeiro                          2  🟢 50%  ❗ 9/42
+   7. Flamengo                          2  🟢 100%  ❗ 9/42
    8. Remo                              2  ❗ 9/42
    9. Athletico Paranaense              1  🟢 100%  ❗ 9/42
   10. Grêmio                            1  ❗ 9/42
@@ -5380,20 +5380,20 @@ RITARDI X2 + GOAL
    6. Botafogo                          2  🟢 100%
    7. Fluminense                        2  🟢 50%
    8. Internacional                     2  🟢 100%  🔴
-   9. Mirassol                          2  🟢 50%
-  10. Athletico Paranaense              1  🟢 100%
+   9. Athletico Paranaense              1  🟢 100%
+  10. Atlético-MG                       1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Palmeiras                         5
    2. Chapecoense                       4  🟢 75%
    3. Coritiba                          3  🟢 67%  🔴
-   4. Mirassol                          3  🟢 67%
-   5. RB Bragantino                     3  🟢 67%
-   6. Athletico Paranaense              2  🟢 100%
-   7. Bahia                             2  🟢 50%
-   8. Grêmio                            2  🟢 50%
-   9. Remo                              2
-  10. Vitória                           2  🟢 100%  🔴
+   4. RB Bragantino                     3  🟢 67%
+   5. Athletico Paranaense              2  🟢 100%
+   6. Bahia                             2  🟢 50%
+   7. Grêmio                            2  🟢 50%
+   8. Remo                              2
+   9. Vitória                           2  🟢 100%  🔴
+  10. Cruzeiro                          1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN

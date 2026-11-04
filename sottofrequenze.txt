@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1245,7 +1245,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 RB Bragantino                  36/100
     5/18 Coritiba                       36/100
      ...
-   18/18 Chapecoense                    26/100  (la fa meno spesso)
+   18/18 Athletico Paranaense           27/100  (la fa meno spesso)
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2651,7 +2651,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Coritiba                       27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Chapecoense                    42/100
+    1/18 Chapecoense                    43/100
     2/18 Vitória                        35/100
     3/18 Internacional                  34/100
     4/18 Corinthians                    34/100
@@ -2895,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 03/11/2026 23:33 (ora italiana)
+Aggiornato: 04/11/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
