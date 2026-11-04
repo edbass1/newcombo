@@ -1350,7 +1350,7 @@ def build_global_top30(data, venue):
         rows = sorted(rankings[combo_name], key=lambda x: (
             -x["delay"], x["team"].casefold(), x["country"].casefold(), x["league"].casefold()
         ))
-        cutoff = rows[19]["delay"] if len(rows) > 30 else (rows[-1]["delay"] if rows else None)
+        cutoff = rows[19]["delay"] if len(rows) > 20 else (rows[-1]["delay"] if rows else None)
         selected = [x for x in rows if cutoff is not None and x["delay"] >= cutoff]
         lines.append(f"TOP 20 — {combo_name}")
         card_rows = []
