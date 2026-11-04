@@ -615,11 +615,12 @@ def build_recent_history(pool, teams):
                    (venue == "all" or (venue == "home" and m[1] == tid) or (venue == "away" and m[2] == tid))]
             rows = []
             for m in reversed(seq[-5:]):
-                opponent_id = m[2] if m[1] == tid else m[1]
-                opponent = _POOL_TEAM_NAMES.get(str(opponent_id), teams.get(opponent_id, teams.get(str(opponent_id), "Squadra")))
-                gf, ga = (m[3], m[4]) if m[1] == tid else (m[4], m[3])
+                home_id, away_id = m[1], m[2]
+                home_name = _POOL_TEAM_NAMES.get(str(home_id), teams.get(home_id, teams.get(str(home_id), "Squadra casa")))
+                away_name = _POOL_TEAM_NAMES.get(str(away_id), teams.get(away_id, teams.get(str(away_id), "Squadra ospite")))
+                gf, ga = (m[3], m[4]) if home_id == tid else (m[4], m[3])
                 result = "W" if gf > ga else ("D" if gf == ga else "L")
-                rows.append([opponent, f"{gf}-{ga}", result])
+                rows.append([f"{home_name} vs {away_name}", f"{m[3]}-{m[4]}", result])
             out[venue][team_name] = rows
     return out
 
