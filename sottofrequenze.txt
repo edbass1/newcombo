@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -149,8 +149,8 @@ SOTTOFREQUENZA 1X + GOAL
    24/24 Sheffield United               30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Preston North End              41/100
-    2/24 Wolverhampton Wanderers        40/100
+    1/24 Wolverhampton Wanderers        41/100
+    2/24 Preston North End              41/100
     3/24 West Ham United                39/100
     4/24 Southampton                    39/100
     5/24 Wrexham                        38/100
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2895,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================

@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -259,20 +259,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (167 partite giocate) + 2025/2026
+Stagione 2026/2027 (168 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Bolton Wanderers                 10  🟢 70%
    2. Birmingham City                   6  🟢 67%
    3. Stoke City                        6  🟢 67%
-   4. Bristol City                      4
+   4. Bristol City                      5
    5. Charlton Athletic                 4  🟢 75%
    6. Blackburn Rovers                  3  🟢 100%
    7. Middlesbrough                     3  🟢 100%
-   8. Wrexham                           3  🟢 67%
-   9. Lincoln City                      2  🟢 50%
-  10. Preston North End                 2  🟢 100%  🔴
+   8. Wolverhampton Wanderers           3  🟢 67%
+   9. Wrexham                           3  🟢 67%
+  10. Lincoln City                      2  🟢 50%
 
 RITARDI X2 + GOAL
    1. Watford                           7  🟢 57%  ❗ 9/42
@@ -284,19 +284,19 @@ RITARDI X2 + GOAL
    7. Derby County                      2  🟢 100%  ❗ 9/42
    8. Middlesbrough                     2  🟢 100%  ❗ 9/42
    9. Norwich City                      2  🟢 100%  ❗ 9/42
-  10. Wolverhampton Wanderers           2  🟢 50%  🔴  ❗ 9/42
+  10. Birmingham City                   1  🟢 100%  ❗ 9/42
 
 RITARDI 12 + GOAL
    1. Cardiff City                      4  🟢 75%  ❗ 12/42
-   2. Wolverhampton Wanderers           3  🟢 67%  ❗ 12/42
-   3. Wrexham                           3  🟢 67%  ❗ 12/42
-   4. Burnley                           2  🟢 50%  ❗ 12/42
-   5. Charlton Athletic                 2  🟢 50%  ❗ 12/42
-   6. Middlesbrough                     2  🟢 100%  ❗ 12/42
-   7. Birmingham City                   1  🟢 100%  ❗ 12/42
-   8. Bolton Wanderers                  1  ❗ 12/42
-   9. Derby County                      1  🟢 100%  ❗ 12/42
-  10. Lincoln City                      1  ❗ 12/42
+   2. Wrexham                           3  🟢 67%  ❗ 12/42
+   3. Burnley                           2  🟢 50%  ❗ 12/42
+   4. Charlton Athletic                 2  🟢 50%  ❗ 12/42
+   5. Middlesbrough                     2  🟢 100%  ❗ 12/42
+   6. Birmingham City                   1  🟢 100%  ❗ 12/42
+   7. Bolton Wanderers                  1  ❗ 12/42
+   8. Derby County                      1  🟢 100%  ❗ 12/42
+   9. Lincoln City                      1  ❗ 12/42
+  10. Millwall                          1  🟢 100%  ❗ 12/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -1980,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2241,12 +2241,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (167 partite giocate) + 2025/2026
+Stagione 2026/2027 (168 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Bolton Wanderers                  6  🟢 67%  🔴
-   2. Bristol City                      4
+   2. Bristol City                      5
    3. Watford                           4  🟢 75%
    4. Birmingham City                   3  🟢 100%
    5. Stoke City                        3  🟢 67%
@@ -2258,27 +2258,27 @@ RITARDI 1X + GOAL
 
 RITARDI X2 + GOAL
    1. Swansea City                      8  🟢 62%  ❗ 9/42
-   2. Bristol City                      7  ❗ 9/42
-   3. Southampton                       7  🟢 71%  ❗ 9/42
-   4. Birmingham City                   3  🟢 100%  ❗ 9/42
-   5. Norwich City                      3  ❗ 9/42
-   6. Portsmouth                        3  🟢 100%  ❗ 9/42
-   7. Watford                           3  🟢 67%  ❗ 9/42
-   8. Derby County                      2  🟢 50%  ❗ 9/42
-   9. Stoke City                        2  🟢 50%  ❗ 9/42
-  10. Wolverhampton Wanderers           2  🟢 50%  ❗ 9/42
+   2. Southampton                       7  🟢 71%  ❗ 9/42
+   3. Birmingham City                   3  🟢 100%  ❗ 9/42
+   4. Norwich City                      3  ❗ 9/42
+   5. Portsmouth                        3  🟢 100%  ❗ 9/42
+   6. Watford                           3  🟢 67%  ❗ 9/42
+   7. Derby County                      2  🟢 50%  ❗ 9/42
+   8. Stoke City                        2  🟢 50%  ❗ 9/42
+   9. Wolverhampton Wanderers           2  🟢 50%  ❗ 9/42
+  10. Wrexham                           2  🟢 100%  ❗ 9/42
 
 RITARDI 12 + GOAL
    1. Birmingham City                   7  🟢 100%  ❗ 12/42
-   2. Bristol City                      4  ❗ 12/42
-   3. Middlesbrough                     4  🟢 75%  ❗ 12/42
-   4. Sheffield United                  4  🟢 50%  ❗ 12/42
-   5. Derby County                      3  🟢 67%  ❗ 12/42
-   6. Watford                           3  🟢 67%  ❗ 12/42
-   7. Wolverhampton Wanderers           3  🟢 67%  ❗ 12/42
-   8. Cardiff City                      2  🟢 50%  ❗ 12/42
-   9. Queens Park Rangers               2  🟢 100%  🔴  ❗ 12/42
-  10. Stoke City                        2  🟢 50%  ❗ 12/42
+   2. Middlesbrough                     4  🟢 75%  ❗ 12/42
+   3. Sheffield United                  4  🟢 50%  ❗ 12/42
+   4. Derby County                      3  🟢 67%  ❗ 12/42
+   5. Watford                           3  🟢 67%  ❗ 12/42
+   6. Wolverhampton Wanderers           3  🟢 67%  ❗ 12/42
+   7. Cardiff City                      2  🟢 50%  ❗ 12/42
+   8. Queens Park Rangers               2  🟢 100%  🔴  ❗ 12/42
+   9. Stoke City                        2  🟢 50%  ❗ 12/42
+  10. Swansea City                      2  🟢 50%  ❗ 12/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -3962,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 04/11/2026 22:41 (ora italiana)
+Aggiornato: 04/11/2026 23:40 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4216,15 +4216,15 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (167 partite giocate) + 2025/2026
+Stagione 2026/2027 (168 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Bolton Wanderers                  5  🟢 60%
    2. Birmingham City                   4  🟢 50%
    3. Stoke City                        4  🟢 75%
-   4. Middlesbrough                     3  🟢 100%
-   5. Wolverhampton Wanderers           3
+   4. Wolverhampton Wanderers           4  🟢 50%
+   5. Middlesbrough                     3  🟢 100%
    6. Bristol City                      2  🟢 50%
    7. Charlton Athletic                 2  🟢 100%
    8. Norwich City                      2  🟢 100%  🔴
