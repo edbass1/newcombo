@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -981,8 +981,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/16 Sigma Olomouc                  42/100
     2/16 Teplice                        37/100
     3/16 Mladá Boleslav                 37/100
-    4/16 Bohemians 1905                 36/100
-    5/16 Artis Brno                     36/100
+    4/16 Bohemians 1905                 37/100
+    5/16 Artis Brno                     37/100
      ...
    16/16 Slavia Prague                  24/100  (la fa meno spesso)
 
@@ -994,7 +994,7 @@ SOTTOFREQUENZA 12 + GOAL
     5/16 Mladá Boleslav                 35/100
     6/16 FC Zbrojovka Brno              35/100
      ...
-   16/16 Bohemians 1905                 28/100  (la fa meno spesso)
+   16/16 Slovan Liberec                 28/100  (la fa meno spesso)
 
 ==================================================
 REP. CECA - FNL
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2894,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3834,8 +3834,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/16 Teplice                        46/100
     2/16 FC Zlín                        44/100
     3/16 Mladá Boleslav                 41/100
-    4/16 Bohemians 1905                 41/100
-    5/16 FC Zbrojovka Brno              40/100
+    4/16 FC Zbrojovka Brno              40/100
+    5/16 Bohemians 1905                 40/100
     6/16 Baník Ostrava                  40/100
      ...
    16/16 Sparta Prague                  25/100  (la fa meno spesso)

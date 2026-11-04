@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1247,16 +1247,16 @@ Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      19  🟢 63%  👻 38/42
-   2. Kalmar FF                        11  👻 38/42
-   3. Brommapojkarna                    6  🟢 50%  🔴  👻 38/42
-   4. Hammarby                          6  🟢 50%  👻 38/42
-   5. Häcken                            6  🟢 50%  👻 38/42
-   6. Malmö FF                          6  🟢 50%  👻 38/42
-   7. Halmstads BK                      5  🟢 80%  👻 38/42
-   8. Mjällby                           4  🟢 50%  👻 38/42
-   9. Sirius                            3  🟢 100%  🔴  👻 38/42
-  10. IFK Göteborg                      1  👻 38/42
+   1. Västerås SK                      19  🟢 63%  👻 37/42
+   2. Kalmar FF                        11  👻 37/42
+   3. Brommapojkarna                    6  🟢 50%  🔴  👻 37/42
+   4. Hammarby                          6  🟢 50%  👻 37/42
+   5. Häcken                            6  🟢 50%  👻 37/42
+   6. Malmö FF                          6  🟢 50%  👻 37/42
+   7. Halmstads BK                      5  🟢 80%  👻 37/42
+   8. Mjällby                           4  🟢 50%  👻 37/42
+   9. Sirius                            3  🟢 100%  🔴  👻 37/42
+  10. IFK Göteborg                      1  👻 37/42
 
 RITARDI X2 + GOAL
    1. Häcken                            6  🟢 50%
@@ -1325,44 +1325,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (102 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (103 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Liberec                    8  🟢 62%  👻 37/42
-   2. Jablonec                          4  🟢 75%  👻 37/42
-   3. Pardubice                         4  🟢 100%  👻 37/42
-   4. Viktoria Plzeň                    4  🟢 100%  👻 37/42
-   5. Baník Ostrava                     3  👻 37/42
-   6. Teplice                           3  👻 37/42
-   7. Bohemians 1905                    1  👻 37/42
-   8. FC Zbrojovka Brno                 1  🟢 100%  👻 37/42
-   9. Sigma Olomouc                     1  🟢 100%  👻 37/42
-  10. Slavia Prague                     1  🟢 100%  👻 37/42
+   1. Slovan Liberec                    8  🟢 62%  👻 38/42
+   2. Jablonec                          4  🟢 75%  👻 38/42
+   3. Pardubice                         4  🟢 100%  👻 38/42
+   4. Viktoria Plzeň                    4  🟢 100%  👻 38/42
+   5. Baník Ostrava                     3  👻 38/42
+   6. Teplice                           3  👻 38/42
+   7. Bohemians 1905                    2  🟢 50%  👻 38/42
+   8. Artis Brno                        1  🟢 100%  👻 38/42
+   9. FC Zbrojovka Brno                 1  🟢 100%  👻 38/42
+  10. Sigma Olomouc                     1  🟢 100%  👻 38/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    28  🟢 82%
    2. Baník Ostrava                     3
-   3. Bohemians 1905                    1
-   4. FC Zbrojovka Brno                 1  🟢 100%
-   5. Hradec Králové                    1  🟢 100%
-   6. Jablonec                          1  🟢 100%
-   7. Mladá Boleslav                    1  🟢 100%  🔴
-   8. Sigma Olomouc                     1  🟢 100%  🔴
-   9. Slavia Prague                     1  🟢 100%
-  10. Viktoria Plzeň                    1  🟢 100%
+   3. FC Zbrojovka Brno                 1  🟢 100%
+   4. Hradec Králové                    1  🟢 100%
+   5. Jablonec                          1  🟢 100%
+   6. Mladá Boleslav                    1  🟢 100%  🔴
+   7. Sigma Olomouc                     1  🟢 100%  🔴
+   8. Slavia Prague                     1  🟢 100%
+   9. Viktoria Plzeň                    1  🟢 100%
+  10. Artis Brno                        0  🔴
 
 RITARDI 12 + GOAL
    1. FC Zlín                           5  🟢 80%
    2. Sigma Olomouc                     5  🟢 80%  🔴
    3. Baník Ostrava                     4  🟢 50%
-   4. Bohemians 1905                    4
-   5. Slavia Prague                     4  🟢 50%
-   6. Artis Brno                        2  🟢 50%
-   7. FC Zbrojovka Brno                 2  🟢 100%
-   8. Jablonec                          1  🟢 100%
-   9. Sparta Prague                     1  🔴
-  10. Viktoria Plzeň                    1  🟢 100%
+   4. Slavia Prague                     4  🟢 50%
+   5. FC Zbrojovka Brno                 2  🟢 100%
+   6. Jablonec                          1  🟢 100%
+   7. Sparta Prague                     1  🔴
+   8. Viktoria Plzeň                    1  🟢 100%
+   9. Artis Brno                        0
+  10. Bohemians 1905                    0
 
 ==================================================
 REP. CECA - FNL
@@ -1980,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3229,16 +3229,16 @@ Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      10  🟢 50%  👻 38/42
-   2. Degerfors                         7  🟢 57%  👻 38/42
-   3. Kalmar FF                         5  🟢 60%  👻 38/42
-   4. Brommapojkarna                    3  👻 38/42
-   5. Häcken                            3  🟢 67%  🔴  👻 38/42
-   6. Malmö FF                          3  👻 38/42
-   7. Halmstads BK                      2  🟢 50%  👻 38/42
-   8. Hammarby                          2  🟢 50%  🔴  👻 38/42
-   9. Mjällby                           2  🟢 50%  👻 38/42
-  10. Sirius                            2  🟢 100%  👻 38/42
+   1. Västerås SK                      10  🟢 50%  👻 37/42
+   2. Degerfors                         7  🟢 57%  👻 37/42
+   3. Kalmar FF                         5  🟢 60%  👻 37/42
+   4. Brommapojkarna                    3  👻 37/42
+   5. Häcken                            3  🟢 67%  🔴  👻 37/42
+   6. Malmö FF                          3  👻 37/42
+   7. Halmstads BK                      2  🟢 50%  👻 37/42
+   8. Hammarby                          2  🟢 50%  🔴  👻 37/42
+   9. Mjällby                           2  🟢 50%  👻 37/42
+  10. Sirius                            2  🟢 100%  👻 37/42
 
 RITARDI X2 + GOAL
    1. Halmstads BK                      7  🟢 71%
@@ -3307,20 +3307,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (102 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (103 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Baník Ostrava                    11  🟢 55%  👻 37/42
-   2. Bohemians 1905                    4  👻 37/42
-   3. Hradec Králové                    4  🟢 75%  👻 37/42
-   4. Sigma Olomouc                     4  🟢 75%  👻 37/42
-   5. Slovan Liberec                    3  🟢 100%  👻 37/42
-   6. Viktoria Plzeň                    3  🟢 100%  🔴  👻 37/42
-   7. Jablonec                          2  🟢 100%  🔴  👻 37/42
-   8. Pardubice                         2  🟢 100%  👻 37/42
-   9. Slovácko                          2  🟢 100%  👻 37/42
-  10. Teplice                           1  👻 37/42
+   1. Baník Ostrava                    11  🟢 55%  👻 38/42
+   2. Bohemians 1905                    4  👻 38/42
+   3. Hradec Králové                    4  🟢 75%  👻 38/42
+   4. Sigma Olomouc                     4  🟢 75%  👻 38/42
+   5. Slovan Liberec                    3  🟢 100%  👻 38/42
+   6. Viktoria Plzeň                    3  🟢 100%  🔴  👻 38/42
+   7. Jablonec                          2  🟢 100%  🔴  👻 38/42
+   8. Pardubice                         2  🟢 100%  👻 38/42
+   9. Slovácko                          2  🟢 100%  👻 38/42
+  10. Artis Brno                        1  🟢 100%  👻 38/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    14  🟢 93%
@@ -3338,13 +3338,13 @@ RITARDI 12 + GOAL
    1. Bohemians 1905                    6
    2. Slovan Liberec                    6  🟢 83%
    3. Teplice                           6  🟢 83%
-   4. Artis Brno                        4  🟢 75%
-   5. Sigma Olomouc                     4  🟢 75%
-   6. Baník Ostrava                     2  🟢 50%
-   7. FC Zbrojovka Brno                 2  🟢 50%  🔴
-   8. FC Zlín                           2  🟢 50%
-   9. Slavia Prague                     2  🟢 50%
-  10. Jablonec                          1  🟢 100%
+   4. Sigma Olomouc                     4  🟢 75%
+   5. Baník Ostrava                     2  🟢 50%
+   6. FC Zbrojovka Brno                 2  🟢 50%  🔴
+   7. FC Zlín                           2  🟢 50%
+   8. Slavia Prague                     2  🟢 50%
+   9. Jablonec                          1  🟢 100%
+  10. Artis Brno                        0
 
 ==================================================
 REP. CECA - FNL
@@ -3962,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 04/11/2026 19:47 (ora italiana)
+Aggiornato: 04/11/2026 20:50 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5205,16 +5205,16 @@ Stagione 2026 (216 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      11  🟢 82%  👻 38/42
-   2. Häcken                            7  🟢 57%  👻 38/42
-   3. Kalmar FF                         6  👻 38/42
-   4. Malmö FF                          6  🟢 50%  👻 38/42
-   5. Hammarby                          4  🟢 50%  👻 38/42
-   6. Sirius                            4  🟢 50%  🔴  👻 38/42
-   7. Brommapojkarna                    3  🟢 67%  🔴  👻 38/42
-   8. Halmstads BK                      3  🟢 100%  👻 38/42
-   9. Mjällby                           2  🟢 50%  👻 38/42
-  10. GAIS                              1  👻 38/42
+   1. Västerås SK                      11  🟢 82%  👻 37/42
+   2. Häcken                            7  🟢 57%  👻 37/42
+   3. Kalmar FF                         6  👻 37/42
+   4. Malmö FF                          6  🟢 50%  👻 37/42
+   5. Hammarby                          4  🟢 50%  👻 37/42
+   6. Sirius                            4  🟢 50%  🔴  👻 37/42
+   7. Brommapojkarna                    3  🟢 67%  🔴  👻 37/42
+   8. Halmstads BK                      3  🟢 100%  👻 37/42
+   9. Mjällby                           2  🟢 50%  👻 37/42
+  10. GAIS                              1  👻 37/42
 
 RITARDI X2 + GOAL
    1. Häcken                            8  🟢 62%  🔴
@@ -5283,20 +5283,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (102 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (103 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,8
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Liberec                    7  👻 37/42
-   2. FC Zbrojovka Brno                 5  🟢 100%  👻 37/42
-   3. Pardubice                         4  🟢 75%  👻 37/42
-   4. Slavia Prague                     4  🟢 75%  👻 37/42
-   5. Teplice                           4  🟢 75%  🔴  👻 37/42
-   6. Jablonec                          3  🟢 67%  👻 37/42
-   7. Sparta Prague                     3  👻 37/42
-   8. Artis Brno                        2  🟢 50%  👻 37/42
-   9. Viktoria Plzeň                    2  🟢 100%  👻 37/42
-  10. Baník Ostrava                     1  👻 37/42
+   1. Slovan Liberec                    7  👻 38/42
+   2. FC Zbrojovka Brno                 5  🟢 100%  👻 38/42
+   3. Pardubice                         4  🟢 75%  👻 38/42
+   4. Slavia Prague                     4  🟢 75%  👻 38/42
+   5. Teplice                           4  🟢 75%  🔴  👻 38/42
+   6. Jablonec                          3  🟢 67%  👻 38/42
+   7. Sparta Prague                     3  👻 38/42
+   8. Artis Brno                        2  🟢 50%  👻 38/42
+   9. Viktoria Plzeň                    2  🟢 100%  👻 38/42
+  10. Baník Ostrava                     1  👻 38/42
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    15  🟢 67%  🔴
@@ -5318,9 +5318,9 @@ RITARDI 12 + GOAL
    5. Sparta Prague                     3
    6. Sigma Olomouc                     2  🟢 100%
    7. Artis Brno                        1
-   8. Bohemians 1905                    1  🟢 100%
-   9. FC Zbrojovka Brno                 1  🟢 100%
-  10. Viktoria Plzeň                    1  🟢 100%
+   8. FC Zbrojovka Brno                 1  🟢 100%
+   9. Viktoria Plzeň                    1  🟢 100%
+  10. Bohemians 1905                    0
 
 ==================================================
 REP. CECA - FNL
