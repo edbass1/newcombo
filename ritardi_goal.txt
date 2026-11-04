@@ -3,19 +3,19 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 04/11/2026 13:48 (ora italiana)
+Aggiornato: 04/11/2026 14:32 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
-🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
+🏅 TOP 20 = squadra presente nella top 20 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
 
-TOP 30 GLOBALE DEI RITARDI — TOTALI
-Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+TOP 20 GLOBALE DEI RITARDI — TOTALI
+Classifica unica tra tutti i campionati del sito. I pari merito al 20º posto sono inclusi.
 Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
 
-TOP 30 — 1X + GOAL
+TOP 20 — 1X + GOAL
    1. Kaiserslautern                 19  | GERMANIA - 2. BUNDESLIGA
    1. Västerås SK                    19  | SVEZIA - ALLSVENSKAN
    3. AC Oulu                        14  | FINLANDIA - VEIKKAUSLIIGA
@@ -38,29 +38,8 @@ TOP 30 — 1X + GOAL
   16. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
   16. SC Heerenveen                   7  | OLANDA - EREDIVISIE
   16. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
-  23. Aarhus Fremad                   6  | DANIMARCA - 1. DIVISION
-  23. Alverca                         6  | PORTOGALLO - LIGA PORTUGAL
-  23. Birmingham City                 6  | INGHILTERRA - CHAMPIONSHIP
-  23. Braga                           6  | PORTOGALLO - LIGA PORTUGAL
-  23. Brighton & Hove Albion          6  | INGHILTERRA - PREMIER LEAGUE
-  23. Brommapojkarna                  6  | SVEZIA - ALLSVENSKAN
-  23. Como                            6  | ITALIA - SERIE A
-  23. Elche                           6  | SPAGNA - LALIGA
-  23. Hammarby                        6  | SVEZIA - ALLSVENSKAN
-  23. Huracán                         6  | ARGENTINA - PRIMERA DIVISIÓN
-  23. Häcken                          6  | SVEZIA - ALLSVENSKAN
-  23. Jagiellonia Białystok           6  | POLONIA - EKSTRAKLASA
-  23. Livingston                      6  | SCOZIA - CHAMPIONSHIP
-  23. Malmö FF                        6  | SVEZIA - ALLSVENSKAN
-  23. Odra Opole                      6  | POLONIA - I LIGA
-  23. Portimonense                    6  | PORTOGALLO - LIGA PORTUGAL 2
-  23. Rodez                           6  | FRANCIA - LIGUE 2
-  23. Santa Clara                     6  | PORTOGALLO - LIGA PORTUGAL
-  23. Stoke City                      6  | INGHILTERRA - CHAMPIONSHIP
-  23. Torreense                       6  | PORTOGALLO - LIGA PORTUGAL 2
-  23. Zulte Waregem                   6  | BELGIO - FIRST DIVISION A
 
-TOP 30 — X2 + GOAL
+TOP 20 — X2 + GOAL
    1. Sparta Prague                  28  | REP. CECA - 1. LIGA
    2. Wigan Athletic                 19  | INGHILTERRA - LEAGUE ONE
    3. RB Leipzig                     12  | GERMANIA - BUNDESLIGA
@@ -82,24 +61,8 @@ TOP 30 — X2 + GOAL
   16. FC Vlašim                       8  | REP. CECA - FNL
   16. Palmeiras                       8  | BRASILE - SÉRIE A
   16. Shamrock Rovers                 8  | IRLANDA - PREMIER DIVISION
-  22. Austria Lustenau                7  | AUSTRIA - BUNDESLIGA
-  22. Cheltenham Town                 7  | INGHILTERRA - LEAGUE TWO
-  22. DC United                       7  | USA/CANADA - MLS
-  22. FC Stade Lausanne-Ouchy         7  | SVIZZERA - CHALLENGE LEAGUE
-  22. JIPPO                           7  | FINLANDIA - YKKOSLIIGA
-  22. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
-  22. Leyton Orient                   7  | INGHILTERRA - LEAGUE ONE
-  22. Lyon                            7  | FRANCIA - LIGUE 1
-  22. Manchester City                 7  | INGHILTERRA - PREMIER LEAGUE
-  22. Parma                           7  | ITALIA - SERIE A
-  22. Pogoń Grodzisk Mazowiecki       7  | POLONIA - I LIGA
-  22. Reggiana                        7  | ITALIA - SERIE C
-  22. Treviso                         7  | ITALIA - SERIE C
-  22. Watford                         7  | INGHILTERRA - CHAMPIONSHIP
-  22. Wellington Phoenix              7  | AUSTRALIA - A-LEAGUE MEN
-  22. Western Sydney Wanderers FC     7  | AUSTRALIA - A-LEAGUE MEN
 
-TOP 30 — 12 + GOAL
+TOP 20 — 12 + GOAL
    1. Deportivo Riestra              13  | ARGENTINA - PRIMERA DIVISIÓN
    1. Northampton Town              13+  | INGHILTERRA - LEAGUE TWO
    3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
@@ -128,22 +91,6 @@ TOP 30 — 12 + GOAL
   20. Reggiana                        7  | ITALIA - SERIE C
   20. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
   20. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
-  29. AZ Alkmaar                      6  | OLANDA - EREDIVISIE
-  29. Benevento                       6  | ITALIA - SERIE B
-  29. Borussia Dortmund               6  | GERMANIA - BUNDESLIGA
-  29. Central Coast Mariners          6  | AUSTRALIA - A-LEAGUE MEN
-  29. FC Košice                       6  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
-  29. Genk U23                        6  | BELGIO - FIRST DIVISION B
-  29. Helsingborg                     6  | SVEZIA - SUPERETTAN
-  29. IFK Göteborg                    6  | SVEZIA - ALLSVENSKAN
-  29. Juventus                        6  | ITALIA - SERIE A
-  29. Kortrijk                        6  | BELGIO - FIRST DIVISION A
-  29. Meppen                          6  | GERMANIA - 3. LIGA
-  29. Ruch Chorzów                    6  | POLONIA - I LIGA
-  29. RW Essen                        6  | GERMANIA - 3. LIGA
-  29. Slovan Bratislava B             6  | SLOVACCHIA - 2. LIGA
-  29. Stevenage                       6  | INGHILTERRA - LEAGUE ONE
-  29. Vitesse                         6  | OLANDA - EERSTE DIVISIE
 
 ==================================================
 
@@ -2034,19 +1981,19 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 04/11/2026 13:48 (ora italiana)
+Aggiornato: 04/11/2026 14:32 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
-🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
+🏅 TOP 20 = squadra presente nella top 20 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
 
-TOP 30 GLOBALE DEI RITARDI — CASA
-Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+TOP 20 GLOBALE DEI RITARDI — CASA
+Classifica unica tra tutti i campionati del sito. I pari merito al 20º posto sono inclusi.
 Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
 
-TOP 30 — 1X + GOAL
+TOP 20 — 1X + GOAL
    1. Nacional                       14  | PORTOGALLO - LIGA PORTUGAL
    2. JäPS                           13  | FINLANDIA - YKKOSLIIGA
    3. Kaiserslautern                 12  | GERMANIA - 2. BUNDESLIGA
@@ -2073,17 +2020,8 @@ TOP 30 — 1X + GOAL
   16. SC Heerenveen                   7  | OLANDA - EREDIVISIE
   16. Thun                            7  | SVIZZERA - SUPER LEAGUE
   16. TPS                             7  | FINLANDIA - VEIKKAUSLIIGA
-  27. Bolton Wanderers                6  | INGHILTERRA - CHAMPIONSHIP
-  27. Borussia Mönchengladbach        6  | GERMANIA - BUNDESLIGA
-  27. Bristol Rovers                  6  | INGHILTERRA - LEAGUE TWO
-  27. Elche                           6  | SPAGNA - LALIGA
-  27. Greenock Morton                 6  | SCOZIA - CHAMPIONSHIP
-  27. Le Havre                        6  | FRANCIA - LIGUE 1
-  27. Sorrento                        6  | ITALIA - SERIE C
-  27. Valencia                        6  | SPAGNA - LALIGA
-  27. Zlaté Moravce                   6  | SLOVACCHIA - 2. LIGA
 
-TOP 30 — X2 + GOAL
+TOP 20 — X2 + GOAL
    1. Bodø/Glimt                     18  | NORVEGIA - ELITESERIEN
    1. Viking                         18  | NORVEGIA - ELITESERIEN
    3. Wigan Athletic                 16  | INGHILTERRA - LEAGUE ONE
@@ -2104,38 +2042,8 @@ TOP 30 — X2 + GOAL
   12. Sunderland                      9  | INGHILTERRA - PREMIER LEAGUE
   12. Torres                          9  | ITALIA - SERIE C
   12. Zagłębie Lubin                  9  | POLONIA - EKSTRAKLASA
-  21. FC Porto                        8  | PORTOGALLO - LIGA PORTUGAL
-  21. Haka                            8  | FINLANDIA - YKKOSLIIGA
-  21. Portimonense                    8  | PORTOGALLO - LIGA PORTUGAL 2
-  21. Potenza                         8  | ITALIA - SERIE C
-  21. Real Madrid                     8  | SPAGNA - LALIGA
-  21. Swansea City                    8  | INGHILTERRA - CHAMPIONSHIP
-  21. Vizela                          8  | PORTOGALLO - LIGA PORTUGAL 2
-  28. Arsenal                         7  | INGHILTERRA - PREMIER LEAGUE
-  28. Austria Wien                    7  | AUSTRIA - BUNDESLIGA
-  28. Bristol City                    7  | INGHILTERRA - CHAMPIONSHIP
-  28. Brøndby IF                      7  | DANIMARCA - SUPERLIGAEN
-  28. Charlotte FC                    7  | USA/CANADA - MLS
-  28. FC Dallas                       7  | USA/CANADA - MLS
-  28. FK Haugesund                    7  | NORVEGIA - OBOS-LIGAEN
-  28. Flamengo                        7  | BRASILE - SÉRIE A
-  28. Halmstads BK                    7  | SVEZIA - ALLSVENSKAN
-  28. Hammarby                        7  | SVEZIA - ALLSVENSKAN
-  28. Hertha BSC                      7  | GERMANIA - 2. BUNDESLIGA
-  28. JIPPO                           7  | FINLANDIA - YKKOSLIIGA
-  28. Lech Poznań                     7  | POLONIA - EKSTRAKLASA
-  28. Lechia Gdańsk                  7+  | POLONIA - I LIGA
-  28. Longford Town                   7  | IRLANDA - FIRST DIVISION
-  28. Mladá Boleslav                  7  | REP. CECA - 1. LIGA
-  28. Ravenna                         7  | ITALIA - SERIE C
-  28. Salford City                    7  | INGHILTERRA - LEAGUE TWO
-  28. San Lorenzo                     7  | ARGENTINA - PRIMERA DIVISIÓN
-  28. Shamrock Rovers                 7  | IRLANDA - PREMIER DIVISION
-  28. Southampton                     7  | INGHILTERRA - CHAMPIONSHIP
-  28. Sporting Gijón                  7  | SPAGNA - LALIGA 2
-  28. Strømsgodset                    7  | NORVEGIA - OBOS-LIGAEN
 
-TOP 30 — 12 + GOAL
+TOP 20 — 12 + GOAL
    1. Sandefjord                     17  | NORVEGIA - ELITESERIEN
    2. Deportivo Riestra             16+  | ARGENTINA - PRIMERA DIVISIÓN
    2. Juventus                       16  | ITALIA - SERIE A
@@ -2165,25 +2073,6 @@ TOP 30 — 12 + GOAL
   20. Novara                          7  | ITALIA - SERIE C
   20. San Lorenzo                     7  | ARGENTINA - PRIMERA DIVISIÓN
   20. Standard Liège                  7  | BELGIO - FIRST DIVISION A
-  30. AB                             6+  | DANIMARCA - 1. DIVISION
-  30. Bochum                          6  | GERMANIA - 2. BUNDESLIGA
-  30. Bohemians 1905                  6  | REP. CECA - 1. LIGA
-  30. Castellón                       6  | SPAGNA - LALIGA 2
-  30. Cobh Ramblers                   6  | IRLANDA - FIRST DIVISION
-  30. DAC 1904 Dunajska Streda        6  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
-  30. Feyenoord                       6  | OLANDA - EREDIVISIE
-  30. Gil Vicente                     6  | PORTOGALLO - LIGA PORTUGAL
-  30. Inter Miami CF                  6  | USA/CANADA - MLS
-  30. Inverness Caledonian Thistle   6+  | SCOZIA - CHAMPIONSHIP
-  30. Motherwell                      6  | SCOZIA - PREMIERSHIP
-  30. Nottingham Forest               6  | INGHILTERRA - PREMIER LEAGUE
-  30. Raith Rovers                    6  | SCOZIA - CHAMPIONSHIP
-  30. Real Salt Lake                  6  | USA/CANADA - MLS
-  30. Slovan Bratislava B             6  | SLOVACCHIA - 2. LIGA
-  30. Slovan Liberec                  6  | REP. CECA - 1. LIGA
-  30. Teplice                         6  | REP. CECA - 1. LIGA
-  30. Vado                           6+  | ITALIA - SERIE C
-  30. VPS                             6  | FINLANDIA - VEIKKAUSLIIGA
 
 ==================================================
 
@@ -4074,19 +3963,19 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 04/11/2026 13:48 (ora italiana)
+Aggiornato: 04/11/2026 14:32 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
-🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
+🏅 TOP 20 = squadra presente nella top 20 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
 
-TOP 30 GLOBALE DEI RITARDI — TRASFERTA
-Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+TOP 20 GLOBALE DEI RITARDI — TRASFERTA
+Classifica unica tra tutti i campionati del sito. I pari merito al 20º posto sono inclusi.
 Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
 
-TOP 30 — 1X + GOAL
+TOP 20 — 1X + GOAL
    1. PK-35                          19  | FINLANDIA - YKKOSLIIGA
    2. Getafe                         13  | SPAGNA - LALIGA
    3. Bologna                        12  | ITALIA - SERIE A
@@ -4110,24 +3999,8 @@ TOP 30 — 1X + GOAL
   16. Slovan Liberec                  7  | REP. CECA - 1. LIGA
   16. Sporting CP B                   7  | PORTOGALLO - LIGA PORTUGAL 2
   16. Union St.Gilloise               7  | BELGIO - FIRST DIVISION A
-  24. Atlético Madrid                 6  | SPAGNA - LALIGA
-  24. Casa Pia AC                     6  | PORTOGALLO - LIGA PORTUGAL
-  24. Casertana                       6  | ITALIA - SERIE C
-  24. EIF                             6  | FINLANDIA - YKKOSLIIGA
-  24. Eldense                        6+  | SPAGNA - LALIGA 2
-  24. Francs Borains                  6  | BELGIO - FIRST DIVISION B
-  24. Hertha BSC                      6  | GERMANIA - 2. BUNDESLIGA
-  24. Kalmar FF                       6  | SVEZIA - ALLSVENSKAN
-  24. Lecco                           6  | ITALIA - SERIE C
-  24. Livingston                     6+  | SCOZIA - CHAMPIONSHIP
-  24. Malmö FF                        6  | SVEZIA - ALLSVENSKAN
-  24. Philadelphia Union              6  | USA/CANADA - MLS
-  24. Plymouth Argyle                 6  | INGHILTERRA - LEAGUE ONE
-  24. St. Patrick's Athletic          6  | IRLANDA - PREMIER DIVISION
-  24. Virtus Entella                  6  | ITALIA - SERIE B
-  24. VPS                             6  | FINLANDIA - VEIKKAUSLIIGA
 
-TOP 30 — X2 + GOAL
+TOP 20 — X2 + GOAL
    1. GIF Sundsvall                  15  | SVEZIA - SUPERETTAN
    1. Sparta Prague                  15  | REP. CECA - 1. LIGA
    3. Floridsdorfer AC               13  | AUSTRIA - 2. LIGA
@@ -4152,23 +4025,8 @@ TOP 30 — X2 + GOAL
   18. RAAL La Louvière                8  | BELGIO - FIRST DIVISION A
   18. TOP Oss                         8  | OLANDA - EERSTE DIVISIE
   18. Vitória de Guimarães            8  | PORTOGALLO - LIGA PORTUGAL
-  25. Aldosivi                        7  | ARGENTINA - PRIMERA DIVISIÓN
-  25. Arka Gdynia                    7+  | POLONIA - I LIGA
-  25. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
-  25. Bristol Rovers                  7  | INGHILTERRA - LEAGUE TWO
-  25. Bryne                           7  | NORVEGIA - OBOS-LIGAEN
-  25. Columbus Crew                   7  | USA/CANADA - MLS
-  25. EIF                             7  | FINLANDIA - YKKOSLIIGA
-  25. Exeter City                    7+  | INGHILTERRA - LEAGUE TWO
-  25. FC Den Bosch                    7  | OLANDA - EERSTE DIVISIE
-  25. GAIS                            7  | SVEZIA - ALLSVENSKAN
-  25. MFK Bytca                      7+  | SLOVACCHIA - 2. LIGA
-  25. Queen's Park                    7  | SCOZIA - CHAMPIONSHIP
-  25. Royal Antwerp                   7  | BELGIO - FIRST DIVISION A
-  25. Talleres                        7  | ARGENTINA - PRIMERA DIVISIÓN
-  25. Wolfsberger AC                  7  | AUSTRIA - BUNDESLIGA
 
-TOP 30 — 12 + GOAL
+TOP 20 — 12 + GOAL
    1. Pogoń Siedlce                  16  | POLONIA - I LIGA
    2. Dunfermline Athletic           12  | SCOZIA - CHAMPIONSHIP
    3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
@@ -4191,31 +4049,6 @@ TOP 30 — 12 + GOAL
   13. Trento                          7  | ITALIA - SERIE C
   13. TS Podbeskidzie Bielsko-Biał   7+  | POLONIA - I LIGA
   13. Wrexham                         7  | INGHILTERRA - CHAMPIONSHIP
-  23. Boulogne                        6  | FRANCIA - LIGUE 2
-  23. Brentford                       6  | INGHILTERRA - PREMIER LEAGUE
-  23. Deportivo Riestra               6  | ARGENTINA - PRIMERA DIVISIÓN
-  23. EIF                             6  | FINLANDIA - YKKOSLIIGA
-  23. Excelsior                       6  | OLANDA - EREDIVISIE
-  23. FF Jaro                         6  | FINLANDIA - VEIKKAUSLIIGA
-  23. Gent U23                        6  | BELGIO - FIRST DIVISION B
-  23. Ingolstadt                      6  | GERMANIA - 3. LIGA
-  23. KuPS                            6  | FINLANDIA - VEIKKAUSLIIGA
-  23. Lanús                           6  | ARGENTINA - PRIMERA DIVISIÓN
-  23. Lincoln City                    6  | INGHILTERRA - CHAMPIONSHIP
-  23. Mallorca                       6+  | SPAGNA - LALIGA 2
-  23. Mladá Boleslav                  6  | REP. CECA - 1. LIGA
-  23. Northampton Town               6+  | INGHILTERRA - LEAGUE TWO
-  23. Notts County                   6+  | INGHILTERRA - LEAGUE ONE
-  23. Oldham Athletic                 6  | INGHILTERRA - LEAGUE TWO
-  23. Piast Gliwice                   6  | POLONIA - EKSTRAKLASA
-  23. RKC Waalwijk                    6  | OLANDA - EERSTE DIVISIE
-  23. Slavia Prague                   6  | REP. CECA - 1. LIGA
-  23. Stenhousemuir                  6+  | SCOZIA - CHAMPIONSHIP
-  23. Stockport County                6  | INGHILTERRA - LEAGUE ONE
-  23. Toulouse                        6  | FRANCIA - LIGUE 1
-  23. Vélez Sarsfield                 6  | ARGENTINA - PRIMERA DIVISIÓN
-  23. Winterthur                     6+  | SVIZZERA - CHALLENGE LEAGUE
-  23. Ústí nad Labem                  6  | REP. CECA - FNL
 
 ==================================================
 
