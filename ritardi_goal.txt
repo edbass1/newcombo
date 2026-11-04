@@ -3,12 +3,149 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
+🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
+
+TOP 30 GLOBALE DEI RITARDI — TOTALI
+Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
+
+TOP 30 — 1X + GOAL
+   1. Kaiserslautern                 19  | GERMANIA - 2. BUNDESLIGA
+   1. Västerås SK                    19  | SVEZIA - ALLSVENSKAN
+   3. AC Oulu                        14  | FINLANDIA - VEIKKAUSLIIGA
+   3. VPS                            14  | FINLANDIA - VEIKKAUSLIIGA
+   5. Kalmar FF                      11  | SVEZIA - ALLSVENSKAN
+   5. Nancy                          11  | FRANCIA - LIGUE 2
+   7. Bolton Wanderers               10  | INGHILTERRA - CHAMPIONSHIP
+   7. Casa Pia AC                    10  | PORTOGALLO - LIGA PORTUGAL
+   7. Moss                           10  | NORVEGIA - OBOS-LIGAEN
+   7. St. Patrick's Athletic         10  | IRLANDA - PREMIER DIVISION
+  11. FC Andorra                      9  | SPAGNA - LALIGA 2
+  11. Troyes                         9+  | FRANCIA - LIGUE 1
+  13. Reggiana                        8  | ITALIA - SERIE C
+  13. Slovan Liberec                  8  | REP. CECA - 1. LIGA
+  13. Sporting Hasselt               8+  | BELGIO - FIRST DIVISION B
+  16. Fortuna Köln                    7  | GERMANIA - 3. LIGA
+  16. Greenock Morton                 7  | SCOZIA - CHAMPIONSHIP
+  16. Gubbio                          7  | ITALIA - SERIE C
+  16. IFK Värnamo                     7  | SVEZIA - SUPERETTAN
+  16. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
+  16. SC Heerenveen                   7  | OLANDA - EREDIVISIE
+  16. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
+  23. Aarhus Fremad                   6  | DANIMARCA - 1. DIVISION
+  23. Alverca                         6  | PORTOGALLO - LIGA PORTUGAL
+  23. Birmingham City                 6  | INGHILTERRA - CHAMPIONSHIP
+  23. Braga                           6  | PORTOGALLO - LIGA PORTUGAL
+  23. Brighton & Hove Albion          6  | INGHILTERRA - PREMIER LEAGUE
+  23. Brommapojkarna                  6  | SVEZIA - ALLSVENSKAN
+  23. Como                            6  | ITALIA - SERIE A
+  23. Elche                           6  | SPAGNA - LALIGA
+  23. Hammarby                        6  | SVEZIA - ALLSVENSKAN
+  23. Huracán                         6  | ARGENTINA - PRIMERA DIVISIÓN
+  23. Häcken                          6  | SVEZIA - ALLSVENSKAN
+  23. Jagiellonia Białystok           6  | POLONIA - EKSTRAKLASA
+  23. Livingston                      6  | SCOZIA - CHAMPIONSHIP
+  23. Malmö FF                        6  | SVEZIA - ALLSVENSKAN
+  23. Odra Opole                      6  | POLONIA - I LIGA
+  23. Portimonense                    6  | PORTOGALLO - LIGA PORTUGAL 2
+  23. Rodez                           6  | FRANCIA - LIGUE 2
+  23. Santa Clara                     6  | PORTOGALLO - LIGA PORTUGAL
+  23. Stoke City                      6  | INGHILTERRA - CHAMPIONSHIP
+  23. Torreense                       6  | PORTOGALLO - LIGA PORTUGAL 2
+  23. Zulte Waregem                   6  | BELGIO - FIRST DIVISION A
+
+TOP 30 — X2 + GOAL
+   1. Sparta Prague                  28  | REP. CECA - 1. LIGA
+   2. Wigan Athletic                 19  | INGHILTERRA - LEAGUE ONE
+   3. RB Leipzig                     12  | GERMANIA - BUNDESLIGA
+   4. Columbus Crew                  11  | USA/CANADA - MLS
+   4. Giugliano                      11  | ITALIA - SERIE C
+   4. Queen's Park                   11  | SCOZIA - CHAMPIONSHIP
+   4. Ravenna                        11  | ITALIA - SERIE C
+   4. Red Bull New York              11  | USA/CANADA - MLS
+   4. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
+  10. Exeter City                    10  | INGHILTERRA - LEAGUE TWO
+  10. GIF Sundsvall                  10  | SVEZIA - SUPERETTAN
+  12. Arsenal                         9  | INGHILTERRA - PREMIER LEAGUE
+  12. Coventry City                  9+  | INGHILTERRA - PREMIER LEAGUE
+  12. Rapid Wien                      9  | AUSTRIA - BUNDESLIGA
+  12. Tondela                        9+  | PORTOGALLO - LIGA PORTUGAL 2
+  16. Académica                       8  | PORTOGALLO - LIGA PORTUGAL 2
+  16. Carrarese                       8  | ITALIA - SERIE B
+  16. Doncaster Rovers                8  | INGHILTERRA - LEAGUE ONE
+  16. FC Vlašim                       8  | REP. CECA - FNL
+  16. Palmeiras                       8  | BRASILE - SÉRIE A
+  16. Shamrock Rovers                 8  | IRLANDA - PREMIER DIVISION
+  22. Austria Lustenau                7  | AUSTRIA - BUNDESLIGA
+  22. Cheltenham Town                 7  | INGHILTERRA - LEAGUE TWO
+  22. DC United                       7  | USA/CANADA - MLS
+  22. FC Stade Lausanne-Ouchy         7  | SVIZZERA - CHALLENGE LEAGUE
+  22. JIPPO                           7  | FINLANDIA - YKKOSLIIGA
+  22. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
+  22. Leyton Orient                   7  | INGHILTERRA - LEAGUE ONE
+  22. Lyon                            7  | FRANCIA - LIGUE 1
+  22. Manchester City                 7  | INGHILTERRA - PREMIER LEAGUE
+  22. Parma                           7  | ITALIA - SERIE A
+  22. Pogoń Grodzisk Mazowiecki       7  | POLONIA - I LIGA
+  22. Reggiana                        7  | ITALIA - SERIE C
+  22. Treviso                         7  | ITALIA - SERIE C
+  22. Watford                         7  | INGHILTERRA - CHAMPIONSHIP
+  22. Wellington Phoenix              7  | AUSTRALIA - A-LEAGUE MEN
+  22. Western Sydney Wanderers FC     7  | AUSTRALIA - A-LEAGUE MEN
+
+TOP 30 — 12 + GOAL
+   1. Deportivo Riestra              13  | ARGENTINA - PRIMERA DIVISIÓN
+   1. Northampton Town              13+  | INGHILTERRA - LEAGUE TWO
+   3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
+   3. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
+   5. Everton                        10  | INGHILTERRA - PREMIER LEAGUE
+   5. Holstein Kiel                  10  | GERMANIA - 2. BUNDESLIGA
+   5. KuPS                           10  | FINLANDIA - VEIKKAUSLIIGA
+   5. Wil                            10  | SVIZZERA - CHALLENGE LEAGUE
+   9. Bradford City                   9  | INGHILTERRA - LEAGUE ONE
+   9. Odra Opole                      9  | POLONIA - I LIGA
+   9. Stenhousemuir                   9  | SCOZIA - CHAMPIONSHIP
+  12. Coritiba                        8  | BRASILE - SÉRIE A
+  12. FF Jaro                         8  | FINLANDIA - VEIKKAUSLIIGA
+  12. Häcken                          8  | SVEZIA - ALLSVENSKAN
+  12. Juve Stabia                     8  | ITALIA - SERIE B
+  12. Latina                          8  | ITALIA - SERIE C
+  12. Newcastle Jets                  8  | AUSTRALIA - A-LEAGUE MEN
+  12. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
+  12. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
+  20. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
+  20. Castellón                       7  | SPAGNA - LALIGA 2
+  20. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
+  20. Lecco                           7  | ITALIA - SERIE C
+  20. Manchester United               7  | INGHILTERRA - PREMIER LEAGUE
+  20. NEC Nijmegen                    7  | OLANDA - EREDIVISIE
+  20. Reggiana                        7  | ITALIA - SERIE C
+  20. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  20. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
+  29. AZ Alkmaar                      6  | OLANDA - EREDIVISIE
+  29. Benevento                       6  | ITALIA - SERIE B
+  29. Borussia Dortmund               6  | GERMANIA - BUNDESLIGA
+  29. Central Coast Mariners          6  | AUSTRALIA - A-LEAGUE MEN
+  29. FC Košice                       6  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  29. Genk U23                        6  | BELGIO - FIRST DIVISION B
+  29. Helsingborg                     6  | SVEZIA - SUPERETTAN
+  29. IFK Göteborg                    6  | SVEZIA - ALLSVENSKAN
+  29. Juventus                        6  | ITALIA - SERIE A
+  29. Kortrijk                        6  | BELGIO - FIRST DIVISION A
+  29. Meppen                          6  | GERMANIA - 3. LIGA
+  29. Ruch Chorzów                    6  | POLONIA - I LIGA
+  29. RW Essen                        6  | GERMANIA - 3. LIGA
+  29. Slovan Bratislava B             6  | SLOVACCHIA - 2. LIGA
+  29. Stevenage                       6  | INGHILTERRA - LEAGUE ONE
+  29. Vitesse                         6  | OLANDA - EERSTE DIVISIE
+
+==================================================
 
 ==================================================
 ITALIA - SERIE A
@@ -1041,16 +1178,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                             10  🟢 80%  ❗ 10/42
-   2. Stabæk                            3  🟢 67%  ❗ 10/42
-   3. Strømsgodset                      3  🟢 67%  ❗ 10/42
-   4. Åsane                             3  🟢 67%  ❗ 10/42
-   5. Raufoss                           2  🟢 100%  ❗ 10/42
-   6. Bryne                             1  🟢 100%  ❗ 10/42
-   7. FK Haugesund                      1  🟢 100%  ❗ 10/42
-   8. Hødd                              1  🟢 100%  🔴  ❗ 10/42
-   9. Kongsvinger                       1  🟢 100%  🔴  ❗ 10/42
-  10. Lyn                               1  🟢 100%  ❗ 10/42
+   1. Moss                             10  🟢 80%  ❗ 9/42
+   2. Stabæk                            3  🟢 67%  ❗ 9/42
+   3. Strømsgodset                      3  🟢 67%  ❗ 9/42
+   4. Åsane                             3  🟢 67%  ❗ 9/42
+   5. Raufoss                           2  🟢 100%  ❗ 9/42
+   6. Bryne                             1  🟢 100%  ❗ 9/42
+   7. FK Haugesund                      1  🟢 100%  ❗ 9/42
+   8. Hødd                              1  🟢 100%  🔴  ❗ 9/42
+   9. Kongsvinger                       1  🟢 100%  🔴  ❗ 9/42
+  10. Lyn                               1  🟢 100%  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Lyn                               4  🟢 75%
@@ -1568,27 +1705,27 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (331 partite giocate) + 2025
+Stagione 2026 (332 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          3  ❗ 9/42
-   2. Cruzeiro                          3  ❗ 9/42
-   3. Grêmio                            3  🟢 67%  🔴  ❗ 9/42
-   4. Palmeiras                         3  🟢 67%  ❗ 9/42
-   5. Chapecoense                       2  🟢 100%  ❗ 9/42
-   6. Mirassol                          2  🟢 100%  ❗ 9/42
-   7. Athletico Paranaense              1  🟢 100%  ❗ 9/42
-   8. Atlético-MG                       1  ❗ 9/42
-   9. Corinthians                       1  🟢 100%  🔴  ❗ 9/42
-  10. Flamengo                          1  🟢 100%  ❗ 9/42
+   1. Coritiba                          4  ❗ 10/42
+   2. Cruzeiro                          3  ❗ 10/42
+   3. Grêmio                            3  🟢 67%  🔴  ❗ 10/42
+   4. Palmeiras                         3  🟢 67%  ❗ 10/42
+   5. Chapecoense                       2  🟢 100%  ❗ 10/42
+   6. Mirassol                          2  🟢 100%  ❗ 10/42
+   7. Athletico Paranaense              1  🟢 100%  ❗ 10/42
+   8. Atlético-MG                       1  ❗ 10/42
+   9. Corinthians                       1  🟢 100%  🔴  ❗ 10/42
+  10. Flamengo                          1  🟢 100%  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
    2. Atlético-MG                       4  🟢 50%
-   3. Botafogo                          3  🟢 67%
-   4. Coritiba                          3
-   5. Internacional                     3  🟢 100%  🔴
+   3. Coritiba                          4
+   4. Internacional                     4  🟢 75%  🔴
+   5. Botafogo                          3  🟢 67%
    6. RB Bragantino                     3  🟢 100%
    7. Corinthians                       2  🟢 100%
    8. Cruzeiro                          2
@@ -1596,7 +1733,7 @@ RITARDI X2 + GOAL
   10. Grêmio                            2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Coritiba                          7  🟢 71%
+   1. Coritiba                          8  🟢 62%
    2. Athletico Paranaense              3  🟢 100%
    3. Palmeiras                         3  🟢 67%  🔴
    4. Vitória                           3  🟢 100%
@@ -1604,8 +1741,8 @@ RITARDI 12 + GOAL
    6. Grêmio                            2  🟢 50%
    7. Atlético-MG                       1
    8. Corinthians                       1  🟢 100%  🔴
-   9. Bahia                             0
-  10. Botafogo                          0
+   9. Internacional                     1
+  10. Bahia                             0
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1897,12 +2034,158 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
+🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
+
+TOP 30 GLOBALE DEI RITARDI — CASA
+Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
+
+TOP 30 — 1X + GOAL
+   1. Nacional                       14  | PORTOGALLO - LIGA PORTUGAL
+   2. JäPS                           13  | FINLANDIA - YKKOSLIIGA
+   3. Kaiserslautern                 12  | GERMANIA - 2. BUNDESLIGA
+   4. Baník Ostrava                  11  | REP. CECA - 1. LIGA
+   4. Feirense                       11  | PORTOGALLO - LIGA PORTUGAL 2
+   4. Komárno                        11  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+   4. San Lorenzo                    11  | ARGENTINA - PRIMERA DIVISIÓN
+   8. AC Oulu                        10  | FINLANDIA - VEIKKAUSLIIGA
+   8. VPS                            10  | FINLANDIA - VEIKKAUSLIIGA
+   8. Västerås SK                    10  | SVEZIA - ALLSVENSKAN
+  11. Dolomiti Bellunesi              9  | ITALIA - SERIE C
+  11. Finn Harps                      9  | IRLANDA - FIRST DIVISION
+  13. Anderlecht Futures              8  | BELGIO - FIRST DIVISION B
+  13. Atlético Tucumán                8  | ARGENTINA - PRIMERA DIVISIÓN
+  13. Rapid Wien II                   8  | AUSTRIA - 2. LIGA
+  16. Bradford City                   7  | INGHILTERRA - LEAGUE ONE
+  16. Degerfors                       7  | SVEZIA - ALLSVENSKAN
+  16. Drogheda United                 7  | IRLANDA - PREMIER DIVISION
+  16. FC Hertha Wels                  7  | AUSTRIA - 2. LIGA
+  16. Leyton Orient                   7  | INGHILTERRA - LEAGUE ONE
+  16. Mainz 05                        7  | GERMANIA - BUNDESLIGA
+  16. Motherwell                      7  | SCOZIA - PREMIERSHIP
+  16. Partick Thistle                 7  | SCOZIA - CHAMPIONSHIP
+  16. SC Heerenveen                   7  | OLANDA - EREDIVISIE
+  16. Thun                            7  | SVIZZERA - SUPER LEAGUE
+  16. TPS                             7  | FINLANDIA - VEIKKAUSLIIGA
+  27. Bolton Wanderers                6  | INGHILTERRA - CHAMPIONSHIP
+  27. Borussia Mönchengladbach        6  | GERMANIA - BUNDESLIGA
+  27. Bristol Rovers                  6  | INGHILTERRA - LEAGUE TWO
+  27. Elche                           6  | SPAGNA - LALIGA
+  27. Greenock Morton                 6  | SCOZIA - CHAMPIONSHIP
+  27. Le Havre                        6  | FRANCIA - LIGUE 1
+  27. Sorrento                        6  | ITALIA - SERIE C
+  27. Valencia                        6  | SPAGNA - LALIGA
+  27. Zlaté Moravce                   6  | SLOVACCHIA - 2. LIGA
+
+TOP 30 — X2 + GOAL
+   1. Bodø/Glimt                     18  | NORVEGIA - ELITESERIEN
+   1. Viking                         18  | NORVEGIA - ELITESERIEN
+   3. Wigan Athletic                 16  | INGHILTERRA - LEAGUE ONE
+   4. Rapid Wien                     14  | AUSTRIA - BUNDESLIGA
+   4. Saint-Étienne                  14  | FRANCIA - LIGUE 2
+   4. Sparta Prague                  14  | REP. CECA - 1. LIGA
+   7. Nashville SC                   12  | USA/CANADA - MLS
+   7. Paris FC                       12  | FRANCIA - LIGUE 1
+   7. SKN St. Pölten                 12  | AUSTRIA - 2. LIGA
+  10. Club Brugge                    11  | BELGIO - FIRST DIVISION A
+  11. Aberdeen                       10  | SCOZIA - PREMIERSHIP
+  12. Admira Wacker                   9  | AUSTRIA - 2. LIGA
+  12. FC Stade Lausanne-Ouchy         9  | SVIZZERA - CHALLENGE LEAGUE
+  12. Kaiserslautern                  9  | GERMANIA - 2. BUNDESLIGA
+  12. Lens                            9  | FRANCIA - LIGUE 1
+  12. Palermo                         9  | ITALIA - SERIE B
+  12. RB Leipzig                      9  | GERMANIA - BUNDESLIGA
+  12. Sunderland                      9  | INGHILTERRA - PREMIER LEAGUE
+  12. Torres                          9  | ITALIA - SERIE C
+  12. Zagłębie Lubin                  9  | POLONIA - EKSTRAKLASA
+  21. FC Porto                        8  | PORTOGALLO - LIGA PORTUGAL
+  21. Haka                            8  | FINLANDIA - YKKOSLIIGA
+  21. Portimonense                    8  | PORTOGALLO - LIGA PORTUGAL 2
+  21. Potenza                         8  | ITALIA - SERIE C
+  21. Real Madrid                     8  | SPAGNA - LALIGA
+  21. Swansea City                    8  | INGHILTERRA - CHAMPIONSHIP
+  21. Vizela                          8  | PORTOGALLO - LIGA PORTUGAL 2
+  28. Arsenal                         7  | INGHILTERRA - PREMIER LEAGUE
+  28. Austria Wien                    7  | AUSTRIA - BUNDESLIGA
+  28. Bristol City                    7  | INGHILTERRA - CHAMPIONSHIP
+  28. Brøndby IF                      7  | DANIMARCA - SUPERLIGAEN
+  28. Charlotte FC                    7  | USA/CANADA - MLS
+  28. FC Dallas                       7  | USA/CANADA - MLS
+  28. FK Haugesund                    7  | NORVEGIA - OBOS-LIGAEN
+  28. Flamengo                        7  | BRASILE - SÉRIE A
+  28. Halmstads BK                    7  | SVEZIA - ALLSVENSKAN
+  28. Hammarby                        7  | SVEZIA - ALLSVENSKAN
+  28. Hertha BSC                      7  | GERMANIA - 2. BUNDESLIGA
+  28. JIPPO                           7  | FINLANDIA - YKKOSLIIGA
+  28. Lech Poznań                     7  | POLONIA - EKSTRAKLASA
+  28. Lechia Gdańsk                  7+  | POLONIA - I LIGA
+  28. Longford Town                   7  | IRLANDA - FIRST DIVISION
+  28. Mladá Boleslav                  7  | REP. CECA - 1. LIGA
+  28. Ravenna                         7  | ITALIA - SERIE C
+  28. Salford City                    7  | INGHILTERRA - LEAGUE TWO
+  28. San Lorenzo                     7  | ARGENTINA - PRIMERA DIVISIÓN
+  28. Shamrock Rovers                 7  | IRLANDA - PREMIER DIVISION
+  28. Southampton                     7  | INGHILTERRA - CHAMPIONSHIP
+  28. Sporting Gijón                  7  | SPAGNA - LALIGA 2
+  28. Strømsgodset                    7  | NORVEGIA - OBOS-LIGAEN
+
+TOP 30 — 12 + GOAL
+   1. Sandefjord                     17  | NORVEGIA - ELITESERIEN
+   2. Deportivo Riestra             16+  | ARGENTINA - PRIMERA DIVISIÓN
+   2. Juventus                       16  | ITALIA - SERIE A
+   4. Club Atlético Platense         15  | ARGENTINA - PRIMERA DIVISIÓN
+   5. IFK Mariehamn                  14  | FINLANDIA - VEIKKAUSLIIGA
+   6. AFC Bournemouth                12  | INGHILTERRA - PREMIER LEAGUE
+   6. Floridsdorfer AC               12  | AUSTRIA - 2. LIGA
+   6. Lille                          12  | FRANCIA - LIGUE 1
+   9. Südtirol                       10  | ITALIA - SERIE B
+  10. Kaiserslautern                  9  | GERMANIA - 2. BUNDESLIGA
+  11. AaB                             8  | DANIMARCA - 1. DIVISION
+  11. Chrobry Głogów                  8  | POLONIA - I LIGA
+  11. FC Silon Táborsko               8  | REP. CECA - FNL
+  11. Juve Stabia                     8  | ITALIA - SERIE B
+  11. Latina                          8  | ITALIA - SERIE C
+  11. Lecco                           8  | ITALIA - SERIE C
+  11. Monopoli                        8  | ITALIA - SERIE C
+  11. Pogoń Grodzisk Mazowiecki       8  | POLONIA - I LIGA
+  11. Vitória de Guimarães            8  | PORTOGALLO - LIGA PORTUGAL
+  20. AFC Wimbledon                   7  | INGHILTERRA - LEAGUE ONE
+  20. Bari                           7+  | ITALIA - SERIE C
+  20. Birmingham City                 7  | INGHILTERRA - CHAMPIONSHIP
+  20. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
+  20. Central Córdoba de Santiago     7  | ARGENTINA - PRIMERA DIVISIÓN
+  20. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
+  20. Northampton Town               7+  | INGHILTERRA - LEAGUE TWO
+  20. Novara                          7  | ITALIA - SERIE C
+  20. San Lorenzo                     7  | ARGENTINA - PRIMERA DIVISIÓN
+  20. Standard Liège                  7  | BELGIO - FIRST DIVISION A
+  30. AB                             6+  | DANIMARCA - 1. DIVISION
+  30. Bochum                          6  | GERMANIA - 2. BUNDESLIGA
+  30. Bohemians 1905                  6  | REP. CECA - 1. LIGA
+  30. Castellón                       6  | SPAGNA - LALIGA 2
+  30. Cobh Ramblers                   6  | IRLANDA - FIRST DIVISION
+  30. DAC 1904 Dunajska Streda        6  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  30. Feyenoord                       6  | OLANDA - EREDIVISIE
+  30. Gil Vicente                     6  | PORTOGALLO - LIGA PORTUGAL
+  30. Inter Miami CF                  6  | USA/CANADA - MLS
+  30. Inverness Caledonian Thistle   6+  | SCOZIA - CHAMPIONSHIP
+  30. Motherwell                      6  | SCOZIA - PREMIERSHIP
+  30. Nottingham Forest               6  | INGHILTERRA - PREMIER LEAGUE
+  30. Raith Rovers                    6  | SCOZIA - CHAMPIONSHIP
+  30. Real Salt Lake                  6  | USA/CANADA - MLS
+  30. Slovan Bratislava B             6  | SLOVACCHIA - 2. LIGA
+  30. Slovan Liberec                  6  | REP. CECA - 1. LIGA
+  30. Teplice                         6  | REP. CECA - 1. LIGA
+  30. Vado                           6+  | ITALIA - SERIE C
+  30. VPS                             6  | FINLANDIA - VEIKKAUSLIIGA
+
+==================================================
 
 ==================================================
 ITALIA - SERIE A
@@ -2935,16 +3218,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              5  🟢 80%  ❗ 10/42
-   2. Lyn                               4  🟢 75%  ❗ 10/42
-   3. Raufoss                           3  🟢 100%  ❗ 10/42
-   4. Kongsvinger                       2  🟢 100%  🔴  ❗ 10/42
-   5. Strømsgodset                      2  🟢 100%  ❗ 10/42
-   6. Åsane                             2  🟢 50%  ❗ 10/42
-   7. Hødd                              1  🟢 100%  🔴  ❗ 10/42
-   8. Stabæk                            1  🟢 100%  ❗ 10/42
-   9. Strømmen                          1  ❗ 10/42
-  10. Bryne                             0  🔴  ❗ 10/42
+   1. Moss                              5  🟢 80%  ❗ 9/42
+   2. Lyn                               4  🟢 75%  ❗ 9/42
+   3. Raufoss                           3  🟢 100%  ❗ 9/42
+   4. Kongsvinger                       2  🟢 100%  🔴  ❗ 9/42
+   5. Strømsgodset                      2  🟢 100%  ❗ 9/42
+   6. Åsane                             2  🟢 50%  ❗ 9/42
+   7. Hødd                              1  🟢 100%  🔴  ❗ 9/42
+   8. Stabæk                            1  🟢 100%  ❗ 9/42
+   9. Strømmen                          1  ❗ 9/42
+  10. Bryne                             0  🔴  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. FK Haugesund                      7  🟢 100%
@@ -3462,20 +3745,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (331 partite giocate) + 2025
+Stagione 2026 (332 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Atlético-MG                       2  🔴  ❗ 9/42
-   2. Botafogo                          2  🟢 50%  ❗ 9/42
-   3. Coritiba                          2  🟢 50%  ❗ 9/42
-   4. Cruzeiro                          2  🟢 50%  ❗ 9/42
-   5. Grêmio                            2  🟢 100%  ❗ 9/42
-   6. Athletico Paranaense              1  🟢 100%  🔴  ❗ 9/42
-   7. Chapecoense                       1  🟢 100%  ❗ 9/42
-   8. Corinthians                       1  🟢 100%  ❗ 9/42
-   9. Internacional                     1  🟢 100%  ❗ 9/42
-  10. Palmeiras                         1  🟢 100%  ❗ 9/42
+   1. Atlético-MG                       2  🔴  ❗ 10/42
+   2. Botafogo                          2  🟢 50%  ❗ 10/42
+   3. Coritiba                          2  🟢 50%  ❗ 10/42
+   4. Cruzeiro                          2  🟢 50%  ❗ 10/42
+   5. Grêmio                            2  🟢 100%  ❗ 10/42
+   6. Internacional                     2  🟢 50%  ❗ 10/42
+   7. Athletico Paranaense              1  🟢 100%  🔴  ❗ 10/42
+   8. Chapecoense                       1  🟢 100%  ❗ 10/42
+   9. Corinthians                       1  🟢 100%  ❗ 10/42
+  10. Palmeiras                         1  🟢 100%  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Flamengo                          7  🟢 86%
@@ -3483,9 +3766,9 @@ RITARDI X2 + GOAL
    3. Cruzeiro                          6  🟢 67%
    4. Palmeiras                         6  🟢 67%
    5. Atlético-MG                       4
-   6. RB Bragantino                     3  🟢 100%
-   7. Coritiba                          2  🟢 50%
-   8. Internacional                     2  🟢 100%  🔴
+   6. Internacional                     3  🟢 67%  🔴
+   7. RB Bragantino                     3  🟢 100%
+   8. Coritiba                          2  🟢 50%
    9. São Paulo                         2  🟢 50%
   10. Athletico Paranaense              1  🟢 100%
 
@@ -3497,9 +3780,9 @@ RITARDI 12 + GOAL
    5. Atlético-MG                       2
    6. Corinthians                       2  🟢 100%
    7. Cruzeiro                          2  🟢 50%
-   8. Vitória                           2  🟢 100%
-   9. Botafogo                          1
-  10. Grêmio                            1  🟢 100%  🔴
+   8. Internacional                     2  🟢 50%  🔴
+   9. Vitória                           2  🟢 100%
+  10. Botafogo                          1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -3791,12 +4074,150 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
 🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
+🏅 TOP 30 = squadra presente nella top 30 globale della stessa combo e dello stesso contesto, pari merito inclusi.
 Fonte: FotMob
+
+TOP 30 GLOBALE DEI RITARDI — TRASFERTA
+Classifica unica tra tutti i campionati del sito. I pari merito al 30º posto sono inclusi.
+Il ritardo è il numero di partite consecutive senza la combo nel contesto indicato.
+
+TOP 30 — 1X + GOAL
+   1. PK-35                          19  | FINLANDIA - YKKOSLIIGA
+   2. Getafe                         13  | SPAGNA - LALIGA
+   3. Bologna                        12  | ITALIA - SERIE A
+   3. IFK Norrköping                 12  | SVEZIA - SUPERETTAN
+   3. Lazio                          12  | ITALIA - SERIE A
+   6. Celtic                         11  | SCOZIA - PREMIERSHIP
+   6. Västerås SK                    11  | SVEZIA - ALLSVENSKAN
+   8. Kaiserslautern                 10  | GERMANIA - 2. BUNDESLIGA
+   9. Arbroath                        9  | SCOZIA - CHAMPIONSHIP
+   9. Benfica B                       9  | PORTOGALLO - LIGA PORTUGAL 2
+   9. Swindon Town                    9  | INGHILTERRA - LEAGUE TWO
+  12. Ajax                            8  | OLANDA - EREDIVISIE
+  12. IFK Värnamo                     8  | SVEZIA - SUPERETTAN
+  12. Sporting Charleroi              8  | BELGIO - FIRST DIVISION A
+  12. Sporting Gijón                  8  | SPAGNA - LALIGA 2
+  16. Arsenal                         7  | INGHILTERRA - PREMIER LEAGUE
+  16. DAC 1904 Dunajska Streda        7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  16. Häcken                          7  | SVEZIA - ALLSVENSKAN
+  16. Marseille                       7  | FRANCIA - LIGUE 1
+  16. Nancy                           7  | FRANCIA - LIGUE 2
+  16. Slovan Liberec                  7  | REP. CECA - 1. LIGA
+  16. Sporting CP B                   7  | PORTOGALLO - LIGA PORTUGAL 2
+  16. Union St.Gilloise               7  | BELGIO - FIRST DIVISION A
+  24. Atlético Madrid                 6  | SPAGNA - LALIGA
+  24. Casa Pia AC                     6  | PORTOGALLO - LIGA PORTUGAL
+  24. Casertana                       6  | ITALIA - SERIE C
+  24. EIF                             6  | FINLANDIA - YKKOSLIIGA
+  24. Eldense                        6+  | SPAGNA - LALIGA 2
+  24. Francs Borains                  6  | BELGIO - FIRST DIVISION B
+  24. Hertha BSC                      6  | GERMANIA - 2. BUNDESLIGA
+  24. Kalmar FF                       6  | SVEZIA - ALLSVENSKAN
+  24. Lecco                           6  | ITALIA - SERIE C
+  24. Livingston                     6+  | SCOZIA - CHAMPIONSHIP
+  24. Malmö FF                        6  | SVEZIA - ALLSVENSKAN
+  24. Philadelphia Union              6  | USA/CANADA - MLS
+  24. Plymouth Argyle                 6  | INGHILTERRA - LEAGUE ONE
+  24. St. Patrick's Athletic          6  | IRLANDA - PREMIER DIVISION
+  24. Virtus Entella                  6  | ITALIA - SERIE B
+  24. VPS                             6  | FINLANDIA - VEIKKAUSLIIGA
+
+TOP 30 — X2 + GOAL
+   1. GIF Sundsvall                  15  | SVEZIA - SUPERETTAN
+   1. Sparta Prague                  15  | REP. CECA - 1. LIGA
+   3. Floridsdorfer AC               13  | AUSTRIA - 2. LIGA
+   4. Radomiak Radom                 11  | POLONIA - EKSTRAKLASA
+   4. Ružomberok                     11  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+   4. WSG Tirol                      11  | AUSTRIA - BUNDESLIGA
+   7. Lausanne                       10  | SVIZZERA - SUPER LEAGUE
+   8. FC Eindhoven                    9  | OLANDA - EERSTE DIVISIE
+   8. Getafe                          9  | SPAGNA - LALIGA
+   8. Helmond Sport                   9  | OLANDA - EERSTE DIVISIE
+   8. Norrby                          9  | SVEZIA - SUPERETTAN
+   8. Randers FC                      9  | DANIMARCA - SUPERLIGAEN
+   8. Red Bull New York               9  | USA/CANADA - MLS
+   8. Sporting Kansas City            9  | USA/CANADA - MLS
+   8. St. Mirren                      9  | SCOZIA - PREMIERSHIP
+   8. Westerlo                        9  | BELGIO - FIRST DIVISION A
+   8. Wigan Athletic                  9  | INGHILTERRA - LEAGUE ONE
+  18. Grenoble                        8  | FRANCIA - LIGUE 2
+  18. Häcken                          8  | SVEZIA - ALLSVENSKAN
+  18. Independiente Rivadavia         8  | ARGENTINA - PRIMERA DIVISIÓN
+  18. Parma                           8  | ITALIA - SERIE A
+  18. RAAL La Louvière                8  | BELGIO - FIRST DIVISION A
+  18. TOP Oss                         8  | OLANDA - EERSTE DIVISIE
+  18. Vitória de Guimarães            8  | PORTOGALLO - LIGA PORTUGAL
+  25. Aldosivi                        7  | ARGENTINA - PRIMERA DIVISIÓN
+  25. Arka Gdynia                    7+  | POLONIA - I LIGA
+  25. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
+  25. Bristol Rovers                  7  | INGHILTERRA - LEAGUE TWO
+  25. Bryne                           7  | NORVEGIA - OBOS-LIGAEN
+  25. Columbus Crew                   7  | USA/CANADA - MLS
+  25. EIF                             7  | FINLANDIA - YKKOSLIIGA
+  25. Exeter City                    7+  | INGHILTERRA - LEAGUE TWO
+  25. FC Den Bosch                    7  | OLANDA - EERSTE DIVISIE
+  25. GAIS                            7  | SVEZIA - ALLSVENSKAN
+  25. MFK Bytca                      7+  | SLOVACCHIA - 2. LIGA
+  25. Queen's Park                    7  | SCOZIA - CHAMPIONSHIP
+  25. Royal Antwerp                   7  | BELGIO - FIRST DIVISION A
+  25. Talleres                        7  | ARGENTINA - PRIMERA DIVISIÓN
+  25. Wolfsberger AC                  7  | AUSTRIA - BUNDESLIGA
+
+TOP 30 — 12 + GOAL
+   1. Pogoń Siedlce                  16  | POLONIA - I LIGA
+   2. Dunfermline Athletic           12  | SCOZIA - CHAMPIONSHIP
+   3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
+   3. Östersunds FK                  11  | SVEZIA - SUPERETTAN
+   5. Famalicão                      10  | PORTOGALLO - LIGA PORTUGAL
+   6. Djurgården                      9  | SVEZIA - ALLSVENSKAN
+   6. Dundee United                   9  | SCOZIA - PREMIERSHIP
+   6. Getafe                          9  | SPAGNA - LALIGA
+   6. Manchester United               9  | INGHILTERRA - PREMIER LEAGUE
+  10. Altach                          8  | AUSTRIA - BUNDESLIGA
+  10. Boca Juniors                    8  | ARGENTINA - PRIMERA DIVISIÓN
+  10. Bradford City                   8  | INGHILTERRA - LEAGUE ONE
+  13. Belgrano                        7  | ARGENTINA - PRIMERA DIVISIÓN
+  13. Celta Vigo                      7  | SPAGNA - LALIGA
+  13. Dukla Banská Bystrica          7+  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  13. Everton                         7  | INGHILTERRA - PREMIER LEAGUE
+  13. Häcken                          7  | SVEZIA - ALLSVENSKAN
+  13. KV Mechelen                     7  | BELGIO - FIRST DIVISION A
+  13. Ruch Chorzów                    7  | POLONIA - I LIGA
+  13. Trento                          7  | ITALIA - SERIE C
+  13. TS Podbeskidzie Bielsko-Biał   7+  | POLONIA - I LIGA
+  13. Wrexham                         7  | INGHILTERRA - CHAMPIONSHIP
+  23. Boulogne                        6  | FRANCIA - LIGUE 2
+  23. Brentford                       6  | INGHILTERRA - PREMIER LEAGUE
+  23. Deportivo Riestra               6  | ARGENTINA - PRIMERA DIVISIÓN
+  23. EIF                             6  | FINLANDIA - YKKOSLIIGA
+  23. Excelsior                       6  | OLANDA - EREDIVISIE
+  23. FF Jaro                         6  | FINLANDIA - VEIKKAUSLIIGA
+  23. Gent U23                        6  | BELGIO - FIRST DIVISION B
+  23. Ingolstadt                      6  | GERMANIA - 3. LIGA
+  23. KuPS                            6  | FINLANDIA - VEIKKAUSLIIGA
+  23. Lanús                           6  | ARGENTINA - PRIMERA DIVISIÓN
+  23. Lincoln City                    6  | INGHILTERRA - CHAMPIONSHIP
+  23. Mallorca                       6+  | SPAGNA - LALIGA 2
+  23. Mladá Boleslav                  6  | REP. CECA - 1. LIGA
+  23. Northampton Town               6+  | INGHILTERRA - LEAGUE TWO
+  23. Notts County                   6+  | INGHILTERRA - LEAGUE ONE
+  23. Oldham Athletic                 6  | INGHILTERRA - LEAGUE TWO
+  23. Piast Gliwice                   6  | POLONIA - EKSTRAKLASA
+  23. RKC Waalwijk                    6  | OLANDA - EERSTE DIVISIE
+  23. Slavia Prague                   6  | REP. CECA - 1. LIGA
+  23. Stenhousemuir                  6+  | SCOZIA - CHAMPIONSHIP
+  23. Stockport County                6  | INGHILTERRA - LEAGUE ONE
+  23. Toulouse                        6  | FRANCIA - LIGUE 1
+  23. Vélez Sarsfield                 6  | ARGENTINA - PRIMERA DIVISIÓN
+  23. Winterthur                     6+  | SVIZZERA - CHALLENGE LEAGUE
+  23. Ústí nad Labem                  6  | REP. CECA - FNL
+
+==================================================
 
 ==================================================
 ITALIA - SERIE A
@@ -4829,16 +5250,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              5  🟢 80%  ❗ 10/42
-   2. Stabæk                            4  🟢 75%  🔴  ❗ 10/42
-   3. Odds Ballklubb                    3  🟢 67%  ❗ 10/42
-   4. Strømsgodset                      3  🟢 67%  ❗ 10/42
-   5. FK Haugesund                      2  🟢 100%  ❗ 10/42
-   6. Bryne                             1  🟢 100%  ❗ 10/42
-   7. Ranheim                           1  🟢 100%  ❗ 10/42
-   8. Raufoss                           1  🟢 100%  🔴  ❗ 10/42
-   9. Åsane                             1  🟢 100%  🔴  ❗ 10/42
-  10. Egersund                          0  ❗ 10/42
+   1. Moss                              5  🟢 80%  ❗ 9/42
+   2. Stabæk                            4  🟢 75%  🔴  ❗ 9/42
+   3. Odds Ballklubb                    3  🟢 67%  ❗ 9/42
+   4. Strømsgodset                      3  🟢 67%  ❗ 9/42
+   5. FK Haugesund                      2  🟢 100%  ❗ 9/42
+   6. Bryne                             1  🟢 100%  ❗ 9/42
+   7. Ranheim                           1  🟢 100%  ❗ 9/42
+   8. Raufoss                           1  🟢 100%  🔴  ❗ 9/42
+   9. Åsane                             1  🟢 100%  🔴  ❗ 9/42
+  10. Egersund                          0  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Bryne                             7  🟢 86%
@@ -5356,27 +5777,27 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (331 partite giocate) + 2025
+Stagione 2026 (332 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          4  🟢 75%  🔴  ❗ 9/42
-   2. Palmeiras                         4  ❗ 9/42
-   3. Vasco da Gama                     4  🟢 50%  ❗ 9/42
-   4. Chapecoense                       3  🟢 67%  ❗ 9/42
-   5. Mirassol                          3  🟢 67%  ❗ 9/42
-   6. Cruzeiro                          2  🟢 50%  ❗ 9/42
-   7. Flamengo                          2  🟢 100%  ❗ 9/42
-   8. Remo                              2  ❗ 9/42
-   9. Athletico Paranaense              1  🟢 100%  ❗ 9/42
-  10. Grêmio                            1  ❗ 9/42
+   1. Coritiba                          5  🟢 60%  🔴  ❗ 10/42
+   2. Palmeiras                         4  ❗ 10/42
+   3. Vasco da Gama                     4  🟢 50%  ❗ 10/42
+   4. Chapecoense                       3  🟢 67%  ❗ 10/42
+   5. Mirassol                          3  🟢 67%  ❗ 10/42
+   6. Cruzeiro                          2  🟢 50%  ❗ 10/42
+   7. Flamengo                          2  🟢 100%  ❗ 10/42
+   8. Remo                              2  ❗ 10/42
+   9. Athletico Paranaense              1  🟢 100%  ❗ 10/42
+  10. Grêmio                            1  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Corinthians                       6  🟢 100%
-   2. Palmeiras                         4  🔴
-   3. Remo                              4  🟢 50%
-   4. Chapecoense                       3  🟢 67%
-   5. Coritiba                          3  🟢 67%
+   2. Coritiba                          4  🟢 50%
+   3. Palmeiras                         4  🔴
+   4. Remo                              4  🟢 50%
+   5. Chapecoense                       3  🟢 67%
    6. Botafogo                          2  🟢 100%
    7. Fluminense                        2  🟢 50%
    8. Internacional                     2  🟢 100%  🔴
@@ -5386,7 +5807,7 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Palmeiras                         5
    2. Chapecoense                       4  🟢 75%
-   3. Coritiba                          3  🟢 67%  🔴
+   3. Coritiba                          4  🟢 50%  🔴
    4. RB Bragantino                     3  🟢 67%
    5. Athletico Paranaense              2  🟢 100%
    6. Bahia                             2  🟢 50%

@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1230,7 +1230,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Palmeiras                      35/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Internacional                  42/100
+    1/18 Internacional                  41/100
     2/18 Athletico Paranaense           40/100
     3/18 Chapecoense                    39/100
     4/18 Santos                         38/100
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2644,9 +2644,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 Athletico Paranaense           46/100
     2/18 Fluminense                     43/100
     3/18 Atlético-MG                    43/100
-    4/18 Internacional                  42/100
-    5/18 Grêmio                         42/100
-    6/18 Corinthians                    42/100
+    4/18 Grêmio                         42/100
+    5/18 Corinthians                    42/100
      ...
    18/18 Coritiba                       27/100  (la fa meno spesso)
 
@@ -2663,7 +2662,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/18 Vasco da Gama                  38/100
     2/18 Grêmio                         38/100
-    3/18 Internacional                  36/100
+    3/18 Internacional                  35/100
     4/18 Fluminense                     35/100
     5/18 São Paulo                      34/100
      ...
@@ -2895,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 04/11/2026 01:40 (ora italiana)
+Aggiornato: 04/11/2026 12:43 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
