@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 04/11/2026 14:32 (ora italiana)
+Aggiornato: 04/11/2026 15:00 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -135,10 +135,10 @@ TOTALE    21:00  Everton [🧊A 🧊D] vs Coventry City [🧊A 🔥D]   [INGHILT
            Everton: 12 + GOAL (10) 👻 41/42 [TOP 20]
            Coventry City: X2 + GOAL (9+) 👻 38/42 [TOP 20]
 TOTALE    23:15  Independiente [🔥A] vs Deportivo Riestra [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Independiente xG 2,06 (0,97+1,09) · Deportivo Riestra xG 1,80 (0,93+0,87)
+           xG: Independiente xG 2,10 (0,98+1,12) · Deportivo Riestra xG 1,80 (0,93+0,87)
            Deportivo Riestra: 12 + GOAL (13) 👻 38/42 [TOP 20]
 TRASFERTA 23:15  Independiente [🔥A] vs Deportivo Riestra [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Independiente xG 2,06 (0,97+1,09) · Deportivo Riestra xG 1,80 (0,93+0,87)
+           xG: Independiente xG 2,10 (0,98+1,12) · Deportivo Riestra xG 1,80 (0,93+0,87)
            Deportivo Riestra: 12 + GOAL (6) 👻 38/42
 CASA      23:15  San Lorenzo [🧊A] vs Club Atlético Platense [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: San Lorenzo xG 2,21 (0,86+1,35) · Club Atlético Platense xG 2,61 (1,31+1,30)
@@ -302,9 +302,6 @@ TOTALE    17:00  Zlaté Moravce vs Slovan Bratislava B [🔥D]   [SLOVACCHIA - 2
            Slovan Bratislava B: 12 + GOAL (6)
 CASA      17:00  Zlaté Moravce vs Slovan Bratislava B [🔥D]   [SLOVACCHIA - 2. LIGA]
            Zlaté Moravce: 1X + GOAL (6) ❗ 12/42 🔴 Slovan Bratislava B
-TOTALE    17:15  Auxerre [🔥D] vs Paris FC   [FRANCIA - LIGUE 1]
-           xG: Auxerre xG 3,51 (1,47+2,04) · Paris FC xG 2,78 (1,78+1,00)
-           Paris FC: X2 + GOAL (6)
 TRASFERTA 17:30  BW Linz [🔥A 🧊D] vs Floridsdorfer AC   [AUSTRIA - 2. LIGA]
            Floridsdorfer AC: X2 + GOAL (13) 👻 39/42 [TOP 20]
 TOTALE    17:30  Forlì vs Gubbio [🧊A 🔥D]   [ITALIA - SERIE C]
@@ -367,6 +364,9 @@ TOTALE    19:00  Alverca vs Casa Pia AC [🧊A 🔥D]   [PORTOGALLO - LIGA PORTU
 TRASFERTA 19:00  Alverca vs Casa Pia AC [🧊A 🔥D]   [PORTOGALLO - LIGA PORTUGAL]
            xG: Alverca xG 3,06 (1,38+1,68) · Casa Pia AC xG 2,65 (0,88+1,77)
            Casa Pia AC: 1X + GOAL (6) 👻 41/42
+TOTALE    19:15  Auxerre [🔥D] vs Paris FC   [FRANCIA - LIGUE 1]
+           xG: Auxerre xG 3,51 (1,47+2,04) · Paris FC xG 2,78 (1,78+1,00)
+           Paris FC: X2 + GOAL (6)
 TOTALE    19:30  Benevento [🧊D] vs Avellino [🧊D]   [ITALIA - SERIE B]
            xG: Benevento xG 2,86 (1,61+1,25) · Avellino xG 2,45 (1,33+1,12)
            Benevento: 12 + GOAL (6)
@@ -382,13 +382,13 @@ TRASFERTA 20:30  Grasshopper [🧊A 🔥D] vs Lausanne [🧊A]   [SVIZZERA - SUP
 TOTALE    20:45  Royal Antwerp [🔥D] vs Lommel   [BELGIO - FIRST DIVISION A]
            xG: Royal Antwerp xG 3,63 (1,43+2,20) · Lommel xG 2,85 (1,04+1,81)
            Royal Antwerp: X2 + GOAL (6) 👻 41/42 🔴 Lommel
-TOTALE    20:45  Paris Saint-Germain [🔥A] vs Troyes [🧊A]   [FRANCIA - LIGUE 1]
-           xG: Paris Saint-Germain xG 3,94 (2,66+1,28) · Troyes xG 2,81 (1,31+1,50)
-           Troyes: 1X + GOAL (9+) [TOP 20]
 ALERT     20:45  Roma vs Sassuolo   [ITALIA - SERIE A]
 CASA      21:00  Valencia [🧊A] vs Real Madrid [🔥A 🧊D]   [SPAGNA - LALIGA]
            xG: Valencia xG 2,51 (1,04+1,47) · Real Madrid xG 3,52 (2,50+1,02)
            Valencia: 1X + GOAL (6) 🔴 Real Madrid
+TOTALE    21:05  Paris Saint-Germain [🔥A] vs Troyes [🧊A]   [FRANCIA - LIGUE 1]
+           xG: Paris Saint-Germain xG 3,94 (2,66+1,28) · Troyes xG 2,81 (1,31+1,50)
+           Troyes: 1X + GOAL (9+) [TOP 20]
 TOTALE    21:30  Argentinos Juniors [🧊D] vs Huracán [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Argentinos Juniors xG 2,36 (1,19+1,17) · Huracán xG 2,63 (1,18+1,45)
            Huracán: 1X + GOAL (6) 👻 33/42
@@ -630,7 +630,7 @@ TRASFERTA 18:30  Villarreal vs Getafe [🧊A]   [SPAGNA - LALIGA]
 TOTALE    19:00  Sporting CP B [🔥A 🧊D] vs Tondela   [PORTOGALLO - LIGA PORTUGAL 2]
            Tondela: X2 + GOAL (9+) 👻 37/42 [TOP 20]
 CASA      19:00  Vitória de Guimarães vs FC Porto [🔥A 🧊D]   [PORTOGALLO - LIGA PORTUGAL]
-           xG: Vitória de Guimarães xG 2,47 (1,55+0,92) · FC Porto xG 3,08 (2,28+0,80)
+           xG: Vitória de Guimarães xG 2,46 (1,54+0,92) · FC Porto xG 3,08 (2,28+0,80)
            Vitória de Guimarães: 12 + GOAL (8) 👻 39/42 [TOP 20]
 TOTALE    19:15  St.Truiden vs Zulte Waregem   [BELGIO - FIRST DIVISION A]
            xG: St.Truiden xG 4,03 (2,16+1,87) · Zulte Waregem xG 2,91 (1,31+1,60)
