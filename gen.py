@@ -1544,20 +1544,17 @@ def render_prossime(chunks, now, repeat_alerts=None):
     full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. {note} "
-                   "🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto (totale, casa o trasferta). "
                    "xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. "
                    "🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. "
                    "[ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
     goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Soglia ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. {note} "
-                   "🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. "
                    "xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. "
                    "🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob", ""]
     leg = (f'<p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani '
            f'&middot; <span class="tag goal">GOAL</span> &middot; 🔴 = prime 3 per frequenza (più uscite) '
-           f'&middot; <span class="gg">🟢 GG</span> = segnano entrambe nelle ultime 10 partite di quel contesto '
-           f'(se sono meno di 10 si vede il rapporto) &middot; xG = media a partita, fatti + subiti, '
+           f'&middot; xG = media a partita, fatti + subiti, '
            f'della fase o stagione FotMob. Se il campionato non pubblica l&rsquo;xG, la riga non compare. '
            f'L&rsquo;xG è di stagione e non è diviso tra casa e trasferta. '
            f'La stessa partita può uscire più volte, in ordine: '
@@ -1628,9 +1625,9 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 PG.append(f"           xG: {line}")
             hb = []
             for KEY, tn, parts, hparts, ggv in tags:
-                P.append(f"           [{LAB[KEY]}] {tn}{gg_txt(ggv)}: " + "; ".join(parts))
-                PG.append(f"           {tn}{gg_txt(ggv)}: " + "; ".join(parts))
-                hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>{gg_html(ggv)}: ' + "; ".join(hparts) + "</div>")
+                P.append(f"           [{LAB[KEY]}] {tn}: " + "; ".join(parts))
+                PG.append(f"           {tn}: " + "; ".join(parts))
+                hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>: ' + "; ".join(hparts) + "</div>")
             xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
             alert_badge = ""
             alert_note = ""
