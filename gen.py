@@ -597,30 +597,38 @@ def ad_html(li, name, gol):
         )
     return f'<span class="ads">{"".join(bits)}</span>'
 
-def club_html(li, home, away, name, gol, venue="all"):
-    name_html = tspan(li, home, away, name, venue)
+def club_html(li, home, away, name, gol, venue="all", side=None):
+    name_html = tspan(li, home, away, name, venue, side)
     badges = ad_html(li, name, gol)
     if not badges:
         return name_html
     return f'<span class="club">{badges}{name_html}</span>'
 
 def build_recent_history(pool, teams):
-    """Ultime cinque gare per squadra, complessive e per sede, dal più recente."""
+    """Ultime cinque gare per squadra: totali oppure filtrate per il suo ruolo, dalla più vecchia alla più recente."""
     out = {"all": {}, "home": {}, "away": {}}
     ordered = sorted(pool, key=lambda m: m[0])
     for tid, team_name in teams.items():
         tid_s = str(tid)
         for venue in ("all", "home", "away"):
-            seq = [m for m in ordered if (m[1] == tid or m[2] == tid) and
-                   (venue == "all" or (venue == "home" and m[1] == tid) or (venue == "away" and m[2] == tid))]
+            seq = [
+                m for m in ordered
+                if (str(m[1]) == tid_s or str(m[2]) == tid_s)
+                and (
+                    venue == "all"
+                    or (venue == "home" and str(m[1]) == tid_s)
+                    or (venue == "away" and str(m[2]) == tid_s)
+                )
+            ]
             rows = []
-            for m in reversed(seq[-5:]):
+            # Mantiene l'ordine cronologico: dalla partita meno recente alla più recente.
+            for m in seq[-5:]:
                 home_id, away_id = m[1], m[2]
                 home_name = _POOL_TEAM_NAMES.get(str(home_id), teams.get(home_id, teams.get(str(home_id), "Squadra casa")))
                 away_name = _POOL_TEAM_NAMES.get(str(away_id), teams.get(away_id, teams.get(str(away_id), "Squadra ospite")))
-                gf, ga = (m[3], m[4]) if home_id == tid else (m[4], m[3])
-                result = "W" if gf > ga else ("D" if gf == ga else "L")
-                rows.append([home_name, away_name, f"{m[3]}-{m[4]}", result, home_id == tid])
+                is_home = str(home_id) == tid_s
+                result = "W" if (m[3] > m[4] if is_home else m[4] > m[3]) else ("D" if m[3] == m[4] else "L")
+                rows.append([home_name, away_name, f"{m[3]}-{m[4]}", result, is_home])
             out[venue][team_name] = rows
     return out
 
@@ -1644,7 +1652,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             H.append(
                 f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
-                f'{club_html(LIX, hn, an, hn, gol, venue)} vs {club_html(LIX, hn, an, an, gol, venue)} '
+                f'{club_html(LIX, hn, an, hn, gol, venue, "home")} vs {club_html(LIX, hn, an, an, gol, venue, "away")} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
                 + "".join(hb) + "</div>"
             )
