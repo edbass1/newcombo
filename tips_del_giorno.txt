@@ -1,13 +1,9 @@
 TIPS DEL GIORNO - 04/11/2026
-Aggiornato: 04/11/2026 20:50 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 04/11/2026 21:43 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      21:00  Bristol City vs Wolverhampton Wanderers   [INGHILTERRA - CHAMPIONSHIP]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 84,0  (Freq 100 · Rit 100 · Lega 100 · GG 0 · xG 100)
-    Bristol City non vede l'X2+GOAL da 7 partite in casa: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 28% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 2 volte e l'xG è alto.
-
- 2. CASA      23:30  Flamengo vs Grêmio   [BRASILE - SÉRIE A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 16,0  (Freq 0 · Rit 0 · Lega 0 · GG 100 · xG 0)
+ 1. CASA      23:30  Flamengo vs Grêmio   [BRASILE - SÉRIE A]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 100,0  (Freq 100 · Rit 100 · Lega 100 · GG 100 · xG 100)
     Per Flamengo in casa l'X2+GOAL manca da 7 partite: in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 22%). Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG è alto.
 
 

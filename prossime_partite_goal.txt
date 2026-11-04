@@ -1,14 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 04/11/2026 20:50 (ora italiana)
+Aggiornato: 04/11/2026 21:43 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 04/11/2026
 ==================================================
-CASA      21:00  Bristol City vs Wolverhampton Wanderers [🧊D]   [INGHILTERRA - CHAMPIONSHIP]
-           xG: Bristol City xG 2,78 (1,47+1,31) · Wolverhampton Wanderers xG 2,68 (1,76+0,92)
-           Bristol City: X2 + GOAL (7) ❗ 9/42
 CASA      23:30  Flamengo [🔥A 🧊D] vs Grêmio   [BRASILE - SÉRIE A]
            xG: Flamengo xG 2,78 (1,79+0,99) · Grêmio xG 2,75 (1,11+1,64)
            Flamengo: X2 + GOAL (7)
@@ -169,7 +166,7 @@ TRASFERTA 13:00  VfL Osnabrück vs Kaiserslautern [🧊A 🧊D]   [GERMANIA - 2.
 TOTALE    13:00  MFK Zvolen [🧊A] vs Slovan Galanta [🧊A]   [SLOVACCHIA - 2. LIGA]
            MFK Zvolen: X2 + GOAL (6) 👻 34/42
 CASA      13:30  Bristol City vs Norwich City [🔥A]   [INGHILTERRA - CHAMPIONSHIP]
-           xG: Bristol City xG 2,78 (1,47+1,31) · Norwich City xG 3,02 (1,55+1,47)
+           xG: Bristol City xG 2,63 (1,40+1,23) · Norwich City xG 3,02 (1,55+1,47)
            Bristol City: X2 + GOAL (7) ❗ 9/42
 TOTALE    13:30  Portsmouth [🧊D] vs Stoke City   [INGHILTERRA - CHAMPIONSHIP]
            xG: Portsmouth xG 2,48 (1,22+1,26) · Stoke City xG 2,59 (1,06+1,53)
@@ -229,10 +226,10 @@ TOTALE    15:30  Termalica Nieciecza [🔥A] vs Chrobry Głogów [🧊A]   [POLO
 TOTALE    15:30  Slovan Bratislava [🧊D] vs Trenčín [🧊A 🔥D]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
            Trenčín: X2 + GOAL (6) 🔥 3/42 🔴 Slovan Bratislava
 CASA      16:00  Anderlecht Futures [🧊A 🔥D] vs Club Brugge NXT [🔥D]   [BELGIO - FIRST DIVISION B]
-           xG: Anderlecht Futures xG 2,69 (0,88+1,81) · Club Brugge NXT xG 2,99 (1,14+1,85)
+           xG: Anderlecht Futures xG 2,85 (1,00+1,85) · Club Brugge NXT xG 2,99 (1,14+1,85)
            Anderlecht Futures: 1X + GOAL (8) 👻 40/42 [TOP 20]
 TOTALE    16:00  Francs Borains [🧊A] vs RFC Seraing   [BELGIO - FIRST DIVISION B]
-           xG: Francs Borains xG 3,08 (1,73+1,35) · RFC Seraing xG 2,52 (1,26+1,26)
+           xG: Francs Borains xG 3,30 (1,81+1,49) · RFC Seraing xG 2,52 (1,26+1,26)
            Francs Borains: X2 + GOAL (6) 🔴 RFC Seraing
 TRASFERTA 16:00  Westerlo [🔥A 🔥D] vs Sporting Charleroi   [BELGIO - FIRST DIVISION A]
            xG: Westerlo xG 3,49 (1,56+1,93) · Sporting Charleroi xG 3,09 (1,91+1,18)
@@ -257,7 +254,7 @@ TRASFERTA 16:00  Queens Park Rangers vs Lincoln City   [INGHILTERRA - CHAMPIONSH
            xG: Queens Park Rangers xG 2,79 (1,71+1,08) · Lincoln City xG 2,78 (1,32+1,46)
            Lincoln City: 12 + GOAL (6) ❗ 13/42
 TOTALE    16:00  Watford [🧊A] vs Middlesbrough [🔥A]   [INGHILTERRA - CHAMPIONSHIP]
-           xG: Watford xG 2,78 (1,03+1,75) · Middlesbrough xG 2,91 (2,00+0,91)
+           xG: Watford xG 2,78 (1,03+1,75) · Middlesbrough xG 3,00 (2,05+0,95)
            Watford: X2 + GOAL (7) ❗ 9/42
 TOTALE    16:00  Greenock Morton vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
            Greenock Morton: 1X + GOAL (7) 👻 42/42 [TOP 20]
@@ -327,7 +324,7 @@ CASA      18:00  DAC 1904 Dunajska Streda [🔥A 🧊D] vs FC Košice   [SLOVACC
 TOTALE    18:00  Winterthur [🔥A 🧊D] vs Etoile Carouge [🧊A]   [SVIZZERA - CHALLENGE LEAGUE]
            Winterthur: X2 + GOAL (6) ❗ 13/42
 TRASFERTA 18:15  OH Leuven [🧊A] vs KV Mechelen [🧊A]   [BELGIO - FIRST DIVISION A]
-           xG: OH Leuven xG 3,35 (1,42+1,93) · KV Mechelen xG 2,40 (1,04+1,36)
+           xG: OH Leuven xG 3,35 (1,42+1,93) · KV Mechelen xG 2,57 (1,11+1,46)
            KV Mechelen: 12 + GOAL (7) [TOP 20]
 TOTALE    18:30  Nottingham Forest [🧊A] vs Manchester City [🔥A]   [INGHILTERRA - PREMIER LEAGUE]
            xG: Nottingham Forest xG 2,66 (1,63+1,03) · Manchester City xG 3,34 (2,04+1,30)
@@ -526,7 +523,7 @@ TOTALE    15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A 🔥D]   [SLOVACCH
 TRASFERTA 15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A 🔥D]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
            Ružomberok: X2 + GOAL (11) 🔥 3/42 [TOP 20]
 TOTALE    16:00  Gent [🧊D] vs Kortrijk [🧊A]   [BELGIO - FIRST DIVISION A]
-           xG: Gent xG 2,23 (1,41+0,82) · Kortrijk xG 2,58 (0,94+1,64)
+           xG: Gent xG 2,23 (1,41+0,82) · Kortrijk xG 2,76 (1,04+1,72)
            Kortrijk: 12 + GOAL (6)
 TOTALE    16:30  Santa Clara [🧊D] vs Gil Vicente [🧊A 🧊D]   [PORTOGALLO - LIGA PORTUGAL]
            xG: Santa Clara xG 2,36 (1,41+0,95) · Gil Vicente xG 2,28 (1,25+1,03)
@@ -666,3 +663,5 @@ TOTALE    20:30  Pineto [🧊A] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
            Pineto: X2 + GOAL (6)
 TRASFERTA 20:30  Pineto [🧊A] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
            Vis Pesaro: X2 + GOAL (6)
+TOTALE    21:15  Torreense [🧊A] vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
+           Torreense: 1X + GOAL (6) 👻 39/42; X2 + GOAL (6) 👻 37/42 🔴 União de Leiria; 12 + GOAL (8) 👻 33/42 [TOP 20]
