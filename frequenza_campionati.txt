@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 05/11/2026 01:46 (ora italiana)
+Aggiornato: 05/11/2026 11:22 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -18,9 +18,9 @@ Fonte: FotMob
    7/42  INGHILTERRA - LEAGUE TWO         1 ogni 2,1       (77/164, 14 giornate)
    8/42  POLONIA - EKSTRAKLASA            1 ogni 2,2       (53/115, 13 giornate)
    9/42  NORVEGIA - OBOS-LIGAEN           1 ogni 2,2       (105/232, 29 giornate)
-  10/42  BRASILE - SÉRIE A                1 ogni 2,2       (151/334, 34 giornate)
-  11/42  ITALIA - SERIE B                 1 ogni 2,2       (45/100, 10 giornate)
-  12/42  SLOVACCHIA - 2. LIGA             1 ogni 2,2       (54/120, 15 giornate)
+  10/42  ITALIA - SERIE B                 1 ogni 2,2       (45/100, 10 giornate)
+  11/42  SLOVACCHIA - 2. LIGA             1 ogni 2,2       (54/120, 15 giornate)
+  12/42  BRASILE - SÉRIE A                1 ogni 2,2       (151/336, 34 giornate)
   13/42  GERMANIA - 2. BUNDESLIGA         1 ogni 2,2       (40/90, 10 giornate)
   14/42  SVIZZERA - SUPER LEAGUE          1 ogni 2,2       (32/72, 12 giornate)
   15/42  NORVEGIA - ELITESERIEN           1 ogni 2,3       (87/200, 25 giornate)
@@ -72,7 +72,7 @@ X2 + GOAL
   15/42  OLANDA - EERSTE DIVISIE          1 ogni 2,8       (47/130, 13 giornate)
   16/42  DANIMARCA - SUPERLIGAEN          1 ogni 2,8       (28/78, 13 giornate)
   17/42  SVEZIA - ALLSVENSKAN             1 ogni 2,8       (77/216, 27 giornate)
-  18/42  BRASILE - SÉRIE A                1 ogni 2,8       (118/334, 34 giornate)
+  18/42  BRASILE - SÉRIE A                1 ogni 2,8       (118/336, 34 giornate)
   19/42  POLONIA - I LIGA                 1 ogni 2,9       (41/117, 17 giornate)
   20/42  NORVEGIA - OBOS-LIGAEN           1 ogni 2,9       (81/232, 29 giornate)
   21/42  POLONIA - EKSTRAKLASA            1 ogni 2,9       (40/115, 13 giornate)
@@ -120,7 +120,7 @@ X2 + GOAL
   17/42  SVEZIA - SUPERETTAN              1 ogni 2,5       (91/231, 29 giornate)
   18/42  SLOVACCHIA - 2. LIGA             1 ogni 2,6       (46/120, 15 giornate)
   19/42  AUSTRIA - BUNDESLIGA             1 ogni 2,6       (25/66, 11 giornate)
-  20/42  BRASILE - SÉRIE A                1 ogni 2,7       (125/334, 34 giornate)
+  20/42  BRASILE - SÉRIE A                1 ogni 2,7       (125/336, 34 giornate)
   21/42  DANIMARCA - SUPERLIGAEN          1 ogni 2,7       (29/78, 13 giornate)
   22/42  SPAGNA - LALIGA 2                1 ogni 2,7       (49/132, 12 giornate)
   23/42  FRANCIA - LIGUE 2                1 ogni 2,8       (36/99, 11 giornate)

@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 05/11/2026 01:46 (ora italiana)
+Aggiornato: 05/11/2026 11:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -140,16 +140,16 @@ Stagione 2026/2027 (100 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. Ascoli                            3  🟢 67%  ❗ 11/42
-   2. Cremonese                         3  🟢 67%  ❗ 11/42
-   3. Hellas Verona                     2  🟢 50%  ❗ 11/42
-   4. Sampdoria                         2  🟢 100%  ❗ 11/42
-   5. Arezzo                            1  ❗ 11/42
-   6. Avellino                          1  🟢 100%  ❗ 11/42
-   7. Benevento                         1  🟢 100%  ❗ 11/42
-   8. Carrarese                         1  🟢 100%  ❗ 11/42
-   9. Pisa                              1  🟢 100%  ❗ 11/42
-  10. Virtus Entella                    1  🟢 100%  🔴  ❗ 11/42
+   1. Ascoli                            3  🟢 67%  ❗ 10/42
+   2. Cremonese                         3  🟢 67%  ❗ 10/42
+   3. Hellas Verona                     2  🟢 50%  ❗ 10/42
+   4. Sampdoria                         2  🟢 100%  ❗ 10/42
+   5. Arezzo                            1  ❗ 10/42
+   6. Avellino                          1  🟢 100%  ❗ 10/42
+   7. Benevento                         1  🟢 100%  ❗ 10/42
+   8. Carrarese                         1  🟢 100%  ❗ 10/42
+   9. Pisa                              1  🟢 100%  ❗ 10/42
+  10. Virtus Entella                    1  🟢 100%  🔴  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Carrarese                         8  🟢 62%  🔥 6/42
@@ -1452,16 +1452,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Baník Lehota pod Vtacnikom        4  ❗ 12/42
-   2. FC Petržalka 1898                 2  ❗ 12/42
-   3. MFK Bytca                         2  🟢 100%  ❗ 12/42
-   4. Tatran Prešov                     2  🟢 100%  ❗ 12/42
-   5. Zlaté Moravce                     2  🟢 50%  ❗ 12/42
-   6. FC STK 1914 Šamorín               1  ❗ 12/42
-   7. Inter Bratislava                  1  🟢 100%  ❗ 12/42
-   8. MFK Zvolen                        1  🟢 100%  ❗ 12/42
-   9. Považská Bystrica                 1  🔴  ❗ 12/42
-  10. Slovan Galanta                    1  🟢 100%  ❗ 12/42
+   1. Baník Lehota pod Vtacnikom        4  ❗ 11/42
+   2. FC Petržalka 1898                 2  ❗ 11/42
+   3. MFK Bytca                         2  🟢 100%  ❗ 11/42
+   4. Tatran Prešov                     2  🟢 100%  ❗ 11/42
+   5. Zlaté Moravce                     2  🟢 50%  ❗ 11/42
+   6. FC STK 1914 Šamorín               1  ❗ 11/42
+   7. Inter Bratislava                  1  🟢 100%  ❗ 11/42
+   8. MFK Zvolen                        1  🟢 100%  ❗ 11/42
+   9. Považská Bystrica                 1  🔴  ❗ 11/42
+  10. Slovan Galanta                    1  🟢 100%  ❗ 11/42
 
 RITARDI X2 + GOAL
    1. MFK Zvolen                        6  🟢 83%  👻 34/42
@@ -1651,30 +1651,30 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (334 partite giocate) + 2025
+Stagione 2026 (336 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          4  ❗ 10/42
-   2. Cruzeiro                          3  ❗ 10/42
-   3. Palmeiras                         3  🟢 67%  ❗ 10/42
-   4. Athletico Paranaense              2  🟢 100%  ❗ 10/42
-   5. Chapecoense                       2  🟢 100%  ❗ 10/42
-   6. Mirassol                          2  🟢 100%  ❗ 10/42
-   7. Vasco da Gama                     2  🟢 100%  ❗ 10/42
-   8. Atlético-MG                       1  ❗ 10/42
-   9. Corinthians                       1  🟢 100%  🔴  ❗ 10/42
-  10. Internacional                     1  ❗ 10/42
+   1. Coritiba                          4  ❗ 12/42
+   2. Cruzeiro                          3  ❗ 12/42
+   3. Palmeiras                         3  🟢 67%  ❗ 12/42
+   4. Athletico Paranaense              2  🟢 100%  ❗ 12/42
+   5. Atlético-MG                       2  ❗ 12/42
+   6. Chapecoense                       2  🟢 100%  ❗ 12/42
+   7. Corinthians                       2  🟢 50%  🔴  ❗ 12/42
+   8. Mirassol                          2  🟢 100%  ❗ 12/42
+   9. Vasco da Gama                     2  🟢 100%  ❗ 12/42
+  10. Botafogo                          1  ❗ 12/42
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
-   2. Atlético-MG                       4  🟢 50%
-   3. Coritiba                          4
-   4. Internacional                     4  🟢 75%  🔴
-   5. Botafogo                          3  🟢 67%
-   6. Grêmio                            3  🟢 67%
-   7. RB Bragantino                     3  🟢 100%
-   8. Corinthians                       2  🟢 100%
+   2. Atlético-MG                       5
+   3. Botafogo                          4  🟢 50%
+   4. Coritiba                          4
+   5. Internacional                     4  🟢 75%  🔴
+   6. Corinthians                       3  🟢 67%
+   7. Grêmio                            3  🟢 67%
+   8. RB Bragantino                     3  🟢 100%
    9. Cruzeiro                          2
   10. Fluminense                        2  🟢 100%
 
@@ -1682,13 +1682,13 @@ RITARDI 12 + GOAL
    1. Coritiba                          8  🟢 62%
    2. Palmeiras                         3  🟢 67%  🔴
    3. Vitória                           3  🟢 100%
-   4. Cruzeiro                          2
-   5. Atlético-MG                       1
-   6. Corinthians                       1  🟢 100%  🔴
-   7. Internacional                     1
-   8. Athletico Paranaense              0
-   9. Bahia                             0
-  10. Botafogo                          0
+   4. Atlético-MG                       2
+   5. Corinthians                       2  🟢 50%  🔴
+   6. Cruzeiro                          2
+   7. Botafogo                          1
+   8. Internacional                     1
+   9. São Paulo                         1
+  10. Athletico Paranaense              0
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1980,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 05/11/2026 01:46 (ora italiana)
+Aggiornato: 05/11/2026 11:22 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2122,16 +2122,16 @@ Stagione 2026/2027 (100 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. Arezzo                           5+  🟢 60%  ❗ 11/42
-   2. Padova                            4  🟢 75%  🔴  ❗ 11/42
-   3. Cremonese                         3  ❗ 11/42
-   4. Avellino                          2  🟢 50%  ❗ 11/42
-   5. Juve Stabia                       2  🟢 50%  ❗ 11/42
-   6. LR Vicenza                        2  🟢 100%  ❗ 11/42
-   7. Mantova                           2  🟢 100%  ❗ 11/42
-   8. Sampdoria                         2  🟢 100%  ❗ 11/42
-   9. Ascoli                            1  🟢 100%  ❗ 11/42
-  10. Hellas Verona                     1  🟢 100%  ❗ 11/42
+   1. Arezzo                           5+  🟢 60%  ❗ 10/42
+   2. Padova                            4  🟢 75%  🔴  ❗ 10/42
+   3. Cremonese                         3  ❗ 10/42
+   4. Avellino                          2  🟢 50%  ❗ 10/42
+   5. Juve Stabia                       2  🟢 50%  ❗ 10/42
+   6. LR Vicenza                        2  🟢 100%  ❗ 10/42
+   7. Mantova                           2  🟢 100%  ❗ 10/42
+   8. Sampdoria                         2  🟢 100%  ❗ 10/42
+   9. Ascoli                            1  🟢 100%  ❗ 10/42
+  10. Hellas Verona                     1  🟢 100%  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Palermo                           9  🟢 89%  🔥 6/42
@@ -3434,16 +3434,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Zlaté Moravce                     6  🟢 50%  ❗ 12/42
-   2. Baník Lehota pod Vtacnikom        5  ❗ 12/42
-   3. Malženice                         4  🟢 75%  ❗ 12/42
-   4. FC Petržalka 1898                 1  ❗ 12/42
-   5. Inter Bratislava                  1  🟢 100%  ❗ 12/42
-   6. MFK Bytca                         1  🟢 100%  ❗ 12/42
-   7. MFK Zvolen                        1  🟢 100%  ❗ 12/42
-   8. Tatran Prešov                     1  🟢 100%  ❗ 12/42
-   9. FC STK 1914 Šamorín               0  ❗ 12/42
-  10. FK Pohronie                       0  🔴  ❗ 12/42
+   1. Zlaté Moravce                     6  🟢 50%  ❗ 11/42
+   2. Baník Lehota pod Vtacnikom        5  ❗ 11/42
+   3. Malženice                         4  🟢 75%  ❗ 11/42
+   4. FC Petržalka 1898                 1  ❗ 11/42
+   5. Inter Bratislava                  1  🟢 100%  ❗ 11/42
+   6. MFK Bytca                         1  🟢 100%  ❗ 11/42
+   7. MFK Zvolen                        1  🟢 100%  ❗ 11/42
+   8. Tatran Prešov                     1  🟢 100%  ❗ 11/42
+   9. FC STK 1914 Šamorín               0  ❗ 11/42
+  10. FK Pohronie                       0  🔴  ❗ 11/42
 
 RITARDI X2 + GOAL
    1. Liptovský Mikuláš                 4  🟢 50%  👻 34/42
@@ -3633,20 +3633,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (334 partite giocate) + 2025
+Stagione 2026 (336 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Athletico Paranaense              2  🟢 100%  🔴  ❗ 10/42
-   2. Atlético-MG                       2  🔴  ❗ 10/42
-   3. Botafogo                          2  🟢 50%  ❗ 10/42
-   4. Coritiba                          2  🟢 50%  ❗ 10/42
-   5. Cruzeiro                          2  🟢 50%  ❗ 10/42
-   6. Grêmio                            2  🟢 100%  ❗ 10/42
-   7. Internacional                     2  🟢 50%  ❗ 10/42
-   8. Chapecoense                       1  🟢 100%  ❗ 10/42
-   9. Corinthians                       1  🟢 100%  ❗ 10/42
-  10. Palmeiras                         1  🟢 100%  ❗ 10/42
+   1. Botafogo                          3  ❗ 12/42
+   2. Athletico Paranaense              2  🟢 100%  🔴  ❗ 12/42
+   3. Atlético-MG                       2  🔴  ❗ 12/42
+   4. Coritiba                          2  🟢 50%  ❗ 12/42
+   5. Cruzeiro                          2  🟢 50%  ❗ 12/42
+   6. Grêmio                            2  🟢 100%  ❗ 12/42
+   7. Internacional                     2  🟢 50%  ❗ 12/42
+   8. São Paulo                         2  ❗ 12/42
+   9. Chapecoense                       1  🟢 100%  ❗ 12/42
+  10. Corinthians                       1  🟢 100%  ❗ 12/42
 
 RITARDI X2 + GOAL
    1. Flamengo                          8  🟢 88%
@@ -3656,21 +3656,21 @@ RITARDI X2 + GOAL
    5. Atlético-MG                       4
    6. Internacional                     3  🟢 67%  🔴
    7. RB Bragantino                     3  🟢 100%
-   8. Coritiba                          2  🟢 50%
-   9. São Paulo                         2  🟢 50%
-  10. Botafogo                          1
+   8. São Paulo                         3
+   9. Botafogo                          2
+  10. Coritiba                          2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Mirassol                          5  🟢 100%
    2. Coritiba                          4  🟢 75%
    3. Santos                            3  🟢 67%
    4. Atlético-MG                       2
-   5. Corinthians                       2  🟢 100%
-   6. Cruzeiro                          2  🟢 50%
-   7. Internacional                     2  🟢 50%  🔴
-   8. Vitória                           2  🟢 100%
-   9. Botafogo                          1
-  10. Grêmio                            1  🟢 100%  🔴
+   5. Botafogo                          2
+   6. Corinthians                       2  🟢 100%
+   7. Cruzeiro                          2  🟢 50%
+   8. Internacional                     2  🟢 50%  🔴
+   9. São Paulo                         2
+  10. Vitória                           2  🟢 100%
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -3962,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 05/11/2026 01:46 (ora italiana)
+Aggiornato: 05/11/2026 11:22 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4097,16 +4097,16 @@ Stagione 2026/2027 (100 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. Virtus Entella                    6  🟢 67%  ❗ 11/42
-   2. Ascoli                           5+  ❗ 11/42
-   3. Benevento                        4+  🟢 50%  ❗ 11/42
-   4. Südtirol                          3  🟢 100%  ❗ 11/42
-   5. Carrarese                         1  🟢 100%  ❗ 11/42
-   6. Cremonese                         1  🟢 100%  ❗ 11/42
-   7. Hellas Verona                     1  🔴  ❗ 11/42
-   8. Modena                            1  🟢 100%  ❗ 11/42
-   9. Pisa                              1  🟢 100%  ❗ 11/42
-  10. Sampdoria                         1  🟢 100%  🔴  ❗ 11/42
+   1. Virtus Entella                    6  🟢 67%  ❗ 10/42
+   2. Ascoli                           5+  ❗ 10/42
+   3. Benevento                        4+  🟢 50%  ❗ 10/42
+   4. Südtirol                          3  🟢 100%  ❗ 10/42
+   5. Carrarese                         1  🟢 100%  ❗ 10/42
+   6. Cremonese                         1  🟢 100%  ❗ 10/42
+   7. Hellas Verona                     1  🔴  ❗ 10/42
+   8. Modena                            1  🟢 100%  ❗ 10/42
+   9. Pisa                              1  🟢 100%  ❗ 10/42
+  10. Sampdoria                         1  🟢 100%  🔴  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Benevento                        4+  🟢 50%  🔥 6/42
@@ -5409,16 +5409,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Galanta                    3  🟢 100%  ❗ 12/42
-   2. Baník Lehota pod Vtacnikom        2  🟢 50%  ❗ 12/42
-   3. FC Petržalka 1898                 1  ❗ 12/42
-   4. FC STK 1914 Šamorín               1  ❗ 12/42
-   5. MFK Bytca                         1  🟢 100%  ❗ 12/42
-   6. Považská Bystrica                 1  ❗ 12/42
-   7. Tatran Prešov                     1  🟢 100%  ❗ 12/42
-   8. Zlaté Moravce                     1  🟢 100%  🔴  ❗ 12/42
-   9. FK Pohronie                       0  🔴  ❗ 12/42
-  10. Humenné                           0  ❗ 12/42
+   1. Slovan Galanta                    3  🟢 100%  ❗ 11/42
+   2. Baník Lehota pod Vtacnikom        2  🟢 50%  ❗ 11/42
+   3. FC Petržalka 1898                 1  ❗ 11/42
+   4. FC STK 1914 Šamorín               1  ❗ 11/42
+   5. MFK Bytca                         1  🟢 100%  ❗ 11/42
+   6. Považská Bystrica                 1  ❗ 11/42
+   7. Tatran Prešov                     1  🟢 100%  ❗ 11/42
+   8. Zlaté Moravce                     1  🟢 100%  🔴  ❗ 11/42
+   9. FK Pohronie                       0  🔴  ❗ 11/42
+  10. Humenné                           0  ❗ 11/42
 
 RITARDI X2 + GOAL
    1. MFK Bytca                        7+  🟢 100%  👻 34/42
@@ -5608,32 +5608,32 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (334 partite giocate) + 2025
+Stagione 2026 (336 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          5  🟢 60%  🔴  ❗ 10/42
-   2. Vasco da Gama                     5  🟢 60%  ❗ 10/42
-   3. Palmeiras                         4  ❗ 10/42
-   4. Chapecoense                       3  🟢 67%  ❗ 10/42
-   5. Mirassol                          3  🟢 67%  ❗ 10/42
-   6. Cruzeiro                          2  🟢 50%  ❗ 10/42
-   7. Flamengo                          2  🟢 100%  ❗ 10/42
-   8. Remo                              2  ❗ 10/42
-   9. Athletico Paranaense              1  🟢 100%  ❗ 10/42
-  10. RB Bragantino                     1  🟢 100%  🔴  ❗ 10/42
+   1. Coritiba                          5  🟢 60%  🔴  ❗ 12/42
+   2. Vasco da Gama                     5  🟢 60%  ❗ 12/42
+   3. Palmeiras                         4  ❗ 12/42
+   4. Chapecoense                       3  🟢 67%  ❗ 12/42
+   5. Mirassol                          3  🟢 67%  ❗ 12/42
+   6. Cruzeiro                          2  🟢 50%  ❗ 12/42
+   7. Flamengo                          2  🟢 100%  ❗ 12/42
+   8. Remo                              2  ❗ 12/42
+   9. Athletico Paranaense              1  🟢 100%  ❗ 12/42
+  10. Atlético-MG                       1  ❗ 12/42
 
 RITARDI X2 + GOAL
-   1. Corinthians                       6  🟢 100%
+   1. Corinthians                       7  🟢 86%
    2. Coritiba                          4  🟢 50%
    3. Palmeiras                         4  🔴
    4. Remo                              4  🟢 50%
    5. Chapecoense                       3  🟢 67%
-   6. Botafogo                          2  🟢 100%
-   7. Fluminense                        2  🟢 50%
-   8. Grêmio                            2  🟢 50%
-   9. Internacional                     2  🟢 100%  🔴
-  10. Athletico Paranaense              1  🟢 100%
+   6. Atlético-MG                       2  🟢 50%
+   7. Botafogo                          2  🟢 100%
+   8. Fluminense                        2  🟢 50%
+   9. Grêmio                            2  🟢 50%
+  10. Internacional                     2  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. Palmeiras                         5
@@ -5644,8 +5644,8 @@ RITARDI 12 + GOAL
    6. Bahia                             2  🟢 50%
    7. Remo                              2
    8. Vitória                           2  🟢 100%  🔴
-   9. Cruzeiro                          1
-  10. Atlético-MG                       0
+   9. Atlético-MG                       1
+  10. Corinthians                       1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
