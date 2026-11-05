@@ -605,7 +605,7 @@ def club_html(li, home, away, name, gol, venue="all", side=None):
     return f'<span class="club">{badges}{name_html}</span>'
 
 def build_recent_history(pool, teams):
-    """Ultime cinque gare per squadra: totali oppure filtrate per il suo ruolo, dalla più vecchia alla più recente."""
+    """Ultime cinque gare per squadra, dalla più recente alla più vecchia."""
     out = {"all": {}, "home": {}, "away": {}}
     ordered = sorted(pool, key=lambda m: m[0])
     for tid, team_name in teams.items():
@@ -621,8 +621,8 @@ def build_recent_history(pool, teams):
                 )
             ]
             rows = []
-            # Mantiene l'ordine cronologico: dalla partita meno recente alla più recente.
-            for m in seq[-5:]:
+            # Mostra prima la partita più recente, poi a ritroso fino alla quinta.
+            for m in reversed(seq[-5:]):
                 home_id, away_id = m[1], m[2]
                 home_name = _POOL_TEAM_NAMES.get(str(home_id), teams.get(home_id, teams.get(str(home_id), "Squadra casa")))
                 away_name = _POOL_TEAM_NAMES.get(str(away_id), teams.get(away_id, teams.get(str(away_id), "Squadra ospite")))
