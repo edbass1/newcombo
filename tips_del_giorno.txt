@@ -1,8 +1,47 @@
-TIPS DEL GIORNO - 05/11/2026
-Aggiornato: 05/11/2026 23:40 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 06/11/2026
+Aggiornato: 06/11/2026 00:37 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
-Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
+ 1. TRASFERTA 20:00  TOP Oss vs RKC Waalwijk   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 89,3  (Freq 89 · Rit 81 · Lega 100 · GG 91)
+    RKC Waalwijk non vede il 12+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). In questo campionato la combo esce quasi una partita sì e una no e su 10 partite recenti il GG è uscito 7 volte.
+
+ 2. TOTALE    21:00  Derby County vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 86,7  (Freq 100 · Rit 86 · Lega 94 · GG 76 · xG 70)
+    Sono 10 partite che Bolton Wanderers resta senza l'1X+GOAL: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 45% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
+
+ 3. TRASFERTA 19:00  Silkeborg vs Lyngby   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 76,6  (Freq 66 · Rit 73 · Lega 75 · GG 85 · xG 91)
+    Lyngby non vede l'X2+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e la fa meno spesso, circa il 35% delle volte. Anche il campionato la vede spesso, nelle ultime 6 hanno segnato entrambe 4 volte e c'è tanto xG.
+
+ 4. TOTALE    20:00  Genk U23 vs Gent U23   [BELGIO - FIRST DIVISION B]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 73,1  (Freq 97 · Rit 57 · Lega 89 · GG 62 · xG 57)
+    Il 12+GOAL si fa aspettare da Genk U23: 6 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
+
+ 5. TOTALE    20:15  Aarau vs Wil   [SVIZZERA - CHALLENGE LEAGUE]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 72,6  (Freq 95 · Rit 46 · Lega 61 · GG 96)
+    Per Wil il 12+GOAL manca da 10 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%), e anche Aarau la trova spesso. In questo campionato non è una rarità e nelle ultime 10 hanno segnato entrambe 10 volte.
+
+ 6. TOTALE    20:30  Odra Opole vs Skierniewice   [POLONIA - I LIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 69,5  (Freq 78 · Rit 77 · Lega 92 · GG 19)
+    Sono 6 partite che Odra Opole resta senza l'1X+GOAL: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 3 volte.
+
+ 7. TOTALE    18:00  Opava vs FC Vlašim   [REP. CECA - FNL]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 67,6  (Freq 62 · Rit 38 · Lega 97 · GG 91)
+    Sono 8 partite che FC Vlašim resta senza l'X2+GOAL: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). In questo campionato la combo esce quasi una partita sì e una no e nelle ultime 10 hanno segnato entrambe 8 volte.
+
+ 8. TRASFERTA 19:30  Rapid Wien vs Wolfsberger AC   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 66,5  (Freq 78 · Rit 89 · Lega 11 · GG 62 · xG 78)
+    Per Wolfsberger AC in trasferta l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG è alto.
+
+ 9. TOTALE    20:00  Nancy vs Sochaux   [FRANCIA - LIGUE 2]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 64,2  (Freq 70 · Rit 70 · Lega 86 · GG 50 · xG 35)
+    Sono 11 partite che Nancy resta senza l'1X+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG è alto.
+
+10. CASA      19:00  AB vs Vendsyssel FF   [DANIMARCA - 1. DIVISION]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 63,2  (Freq 78 · Rit 77 · Lega 44 · GG 39)
+    Il 12+GOAL si fa aspettare da AB in casa: 6 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. Anche il campionato la vede spesso e nelle ultime 6 hanno segnato entrambe 2 volte.
+
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
