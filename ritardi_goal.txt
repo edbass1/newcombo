@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1411,16 +1411,16 @@ Stagione 2026/2027 (78 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. DAC 1904 Dunajska Streda          5  🟢 80%  👻 34/42
-   2. Trenčín                           5  🟢 60%  👻 34/42
-   3. Zeleziarne Podbrezová             5  🟢 60%  👻 34/42
-   4. Komárno                           3  👻 34/42
-   5. Ružomberok                        3  👻 34/42
-   6. FC Košice                         2  🟢 50%  🔴  👻 34/42
-   7. Slovan Bratislava                 2  🟢 100%  👻 34/42
-   8. Dukla Banská Bystrica             1  🟢 100%  👻 34/42
-   9. Skalica                           1  👻 34/42
-  10. Spartak Trnava                    1  🟢 100%  👻 34/42
+   1. DAC 1904 Dunajska Streda          5  🟢 80%  👻 33/42
+   2. Trenčín                           5  🟢 60%  👻 33/42
+   3. Zeleziarne Podbrezová             5  🟢 60%  👻 33/42
+   4. Komárno                           3  👻 33/42
+   5. Ružomberok                        3  👻 33/42
+   6. FC Košice                         2  🟢 50%  🔴  👻 33/42
+   7. Slovan Bratislava                 2  🟢 100%  👻 33/42
+   8. Dukla Banská Bystrica             1  🟢 100%  👻 33/42
+   9. Skalica                           1  👻 33/42
+  10. Spartak Trnava                    1  🟢 100%  👻 33/42
 
 RITARDI X2 + GOAL
    1. Trenčín                           6  🟢 67%  🔥 3/42
@@ -1692,26 +1692,26 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (226 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Huracán                           6  🟢 83%  👻 33/42
-   2. Rosario Central                   4  🟢 100%  👻 33/42
-   3. Argentinos Juniors                3  👻 33/42
-   4. Atlético Tucumán                  3  🟢 67%  👻 33/42
-   5. Club Atlético Platense            3  🟢 67%  👻 33/42
-   6. Gimnasia LP                       3  🟢 100%  👻 33/42
-   7. River Plate                       3  👻 33/42
-   8. Boca Juniors                      2  👻 33/42
-   9. Central Córdoba de Santiago       2  🟢 100%  👻 33/42
-  10. Deportivo Riestra                 2  🟢 50%  👻 33/42
+   1. Huracán                           6  🟢 83%  👻 34/42
+   2. River Plate                       4  🟢 50%  👻 34/42
+   3. Rosario Central                   4  🟢 100%  👻 34/42
+   4. Argentinos Juniors                3  👻 34/42
+   5. Atlético Tucumán                  3  🟢 67%  👻 34/42
+   6. Club Atlético Platense            3  🟢 67%  👻 34/42
+   7. Gimnasia LP                       3  🟢 100%  👻 34/42
+   8. Boca Juniors                      2  👻 34/42
+   9. Central Córdoba de Santiago       2  🟢 100%  👻 34/42
+  10. Deportivo Riestra                 2  🟢 50%  👻 34/42
 
 RITARDI X2 + GOAL
-   1. Aldosivi                          3  🟢 67%
-   2. Boca Juniors                      3
-   3. Central Córdoba de Santiago       3  🟢 100%
-   4. River Plate                       3
+   1. Aldosivi                          4  🟢 75%
+   2. River Plate                       4  🟢 50%
+   3. Boca Juniors                      3
+   4. Central Córdoba de Santiago       3  🟢 100%
    5. Deportivo Riestra                 2  🟢 50%
    6. Huracán                           2  🟢 100%
    7. Independiente Rivadavia           2  🟢 50%
@@ -1721,9 +1721,9 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra                13  🟢 62%  👻 38/42
-   2. Belgrano                          5  🟢 60%  👻 38/42
-   3. Lanús                             5  🟢 60%  👻 38/42
-   4. River Plate                       5  👻 38/42
+   2. River Plate                       6  🟢 50%  👻 38/42
+   3. Belgrano                          5  🟢 60%  👻 38/42
+   4. Lanús                             5  🟢 60%  👻 38/42
    5. Vélez Sarsfield                   5  🟢 80%  👻 38/42
    6. Independiente                     4  🟢 50%  👻 38/42
    7. Instituto                         4  🟢 50%  👻 38/42
@@ -1980,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3393,16 +3393,16 @@ Stagione 2026/2027 (78 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Komárno                          11  🟢 55%  👻 34/42
-   2. Trenčín                           4  🟢 75%  👻 34/42
-   3. Dukla Banská Bystrica             2  🟢 50%  👻 34/42
-   4. Spartak Trnava                    2  🟢 100%  👻 34/42
-   5. Zeleziarne Podbrezová             2  🟢 100%  👻 34/42
-   6. DAC 1904 Dunajska Streda          1  🟢 100%  🔴  👻 34/42
-   7. FC Košice                         1  👻 34/42
-   8. Ružomberok                        1  👻 34/42
-   9. Zemplín Michalovce                1  🟢 100%  👻 34/42
-  10. Skalica                           0  👻 34/42
+   1. Komárno                          11  🟢 55%  👻 33/42
+   2. Trenčín                           4  🟢 75%  👻 33/42
+   3. Dukla Banská Bystrica             2  🟢 50%  👻 33/42
+   4. Spartak Trnava                    2  🟢 100%  👻 33/42
+   5. Zeleziarne Podbrezová             2  🟢 100%  👻 33/42
+   6. DAC 1904 Dunajska Streda          1  🟢 100%  🔴  👻 33/42
+   7. FC Košice                         1  👻 33/42
+   8. Ružomberok                        1  👻 33/42
+   9. Zemplín Michalovce                1  🟢 100%  👻 33/42
+  10. Skalica                           0  👻 33/42
 
 RITARDI X2 + GOAL
    1. Dukla Banská Bystrica             3  🟢 67%  🔴  🔥 3/42
@@ -3674,31 +3674,31 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (226 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
-   1. San Lorenzo                      11  👻 33/42
-   2. Atlético Tucumán                  8  🟢 62%  👻 33/42
-   3. Tigre                             4  🔴  👻 33/42
-   4. Aldosivi                          3  👻 33/42
-   5. Gimnasia Mendoza                  3  👻 33/42
-   6. Huracán                           3  🟢 67%  👻 33/42
-   7. River Plate                       3  👻 33/42
-   8. Rosario Central                   3  🟢 67%  🔴  👻 33/42
-   9. Talleres                          3  👻 33/42
-  10. Club Atlético Platense            2  🟢 50%  👻 33/42
+   1. San Lorenzo                      11  👻 34/42
+   2. Atlético Tucumán                  8  🟢 62%  👻 34/42
+   3. Aldosivi                          4  🟢 50%  👻 34/42
+   4. Tigre                             4  🔴  👻 34/42
+   5. Gimnasia Mendoza                  3  👻 34/42
+   6. Huracán                           3  🟢 67%  👻 34/42
+   7. River Plate                       3  👻 34/42
+   8. Rosario Central                   3  🟢 67%  🔴  👻 34/42
+   9. Talleres                          3  👻 34/42
+  10. Club Atlético Platense            2  🟢 50%  👻 34/42
 
 RITARDI X2 + GOAL
    1. San Lorenzo                       7
    2. Boca Juniors                      5  🟢 60%
    3. Barracas Central                  4  🟢 50%
    4. Rosario Central                   3  🟢 67%
-   5. Argentinos Juniors                2  🟢 50%
-   6. Club Atlético Platense            2  🟢 50%
-   7. River Plate                       2
-   8. Unión                             2  🟢 100%
-   9. Aldosivi                          1
+   5. Aldosivi                          2  🟢 50%
+   6. Argentinos Juniors                2  🟢 50%
+   7. Club Atlético Platense            2  🟢 50%
+   8. River Plate                       2
+   9. Unión                             2  🟢 100%
   10. Central Córdoba de Santiago       1  🟢 100%
 
 RITARDI 12 + GOAL
@@ -3711,7 +3711,7 @@ RITARDI 12 + GOAL
    7. Rosario Central                   4  🟢 75%  🔴  👻 38/42
    8. Gimnasia LP                       3  🟢 100%  👻 38/42
    9. Vélez Sarsfield                   3  🟢 67%  👻 38/42
-  10. Belgrano                          2  🟢 100%  👻 38/42
+  10. Aldosivi                          2  🟢 50%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
@@ -3962,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5368,16 +5368,16 @@ Stagione 2026/2027 (78 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. DAC 1904 Dunajska Streda          7  🟢 86%  👻 34/42
-   2. Ružomberok                        3  🟢 67%  👻 34/42
-   3. Slovan Bratislava                 3  🟢 100%  👻 34/42
-   4. Zeleziarne Podbrezová             3  👻 34/42
-   5. Trenčín                           2  🟢 50%  👻 34/42
-   6. FC Košice                         1  🟢 100%  👻 34/42
-   7. Komárno                           1  🟢 100%  👻 34/42
-   8. Skalica                           1  🔴  👻 34/42
-   9. Dukla Banská Bystrica             0  👻 34/42
-  10. Spartak Trnava                    0  👻 34/42
+   1. DAC 1904 Dunajska Streda          7  🟢 86%  👻 33/42
+   2. Ružomberok                        3  🟢 67%  👻 33/42
+   3. Slovan Bratislava                 3  🟢 100%  👻 33/42
+   4. Zeleziarne Podbrezová             3  👻 33/42
+   5. Trenčín                           2  🟢 50%  👻 33/42
+   6. FC Košice                         1  🟢 100%  👻 33/42
+   7. Komárno                           1  🟢 100%  👻 33/42
+   8. Skalica                           1  🔴  👻 33/42
+   9. Dukla Banská Bystrica             0  👻 33/42
+  10. Spartak Trnava                    0  👻 33/42
 
 RITARDI X2 + GOAL
    1. Ružomberok                       11  🟢 73%  🔥 3/42
@@ -5649,20 +5649,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (225 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (226 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Belgrano                          3  👻 33/42
-   2. Deportivo Riestra                 3  👻 33/42
-   3. Huracán                           3  🟢 100%  👻 33/42
-   4. Independiente Rivadavia           3  👻 33/42
-   5. Newell's Old Boys                 3  👻 33/42
-   6. Argentinos Juniors                2  🟢 50%  👻 33/42
-   7. Defensa y Justicia                2  🟢 100%  👻 33/42
-   8. Gimnasia LP                       2  🟢 100%  👻 33/42
-   9. Racing Club                       2  🟢 50%  👻 33/42
-  10. River Plate                       2  🟢 50%  👻 33/42
+   1. Belgrano                          3  👻 34/42
+   2. Deportivo Riestra                 3  👻 34/42
+   3. Huracán                           3  🟢 100%  👻 34/42
+   4. Independiente Rivadavia           3  👻 34/42
+   5. Newell's Old Boys                 3  👻 34/42
+   6. River Plate                       3  🟢 67%  👻 34/42
+   7. Argentinos Juniors                2  🟢 50%  👻 34/42
+   8. Defensa y Justicia                2  🟢 100%  👻 34/42
+   9. Gimnasia LP                       2  🟢 100%  👻 34/42
+  10. Racing Club                       2  🟢 50%  👻 34/42
 
 RITARDI X2 + GOAL
    1. Independiente Rivadavia           8  🟢 50%
@@ -5672,9 +5672,9 @@ RITARDI X2 + GOAL
    5. Belgrano                          3
    6. Deportivo Riestra                 3
    7. Newell's Old Boys                 3  🔴
-   8. Central Córdoba de Santiago       2  🟢 100%
-   9. Huracán                           2  🟢 100%
-  10. River Plate                       2  🟢 50%  🔴
+   8. River Plate                       3  🟢 67%  🔴
+   9. Central Córdoba de Santiago       2  🟢 100%
+  10. Huracán                           2  🟢 100%
 
 RITARDI 12 + GOAL
    1. Boca Juniors                      8  🟢 88%  👻 38/42
@@ -5684,9 +5684,9 @@ RITARDI 12 + GOAL
    5. Vélez Sarsfield                   6  🟢 100%  👻 38/42
    6. Gimnasia Mendoza                  5  🟢 80%  👻 38/42
    7. Newell's Old Boys                 5  👻 38/42
-   8. Atlético Tucumán                  3  👻 38/42
-   9. Independiente                     3  🟢 67%  👻 38/42
-  10. Independiente Rivadavia           3  👻 38/42
+   8. River Plate                       4  🟢 75%  👻 38/42
+   9. Atlético Tucumán                  3  👻 38/42
+  10. Independiente                     3  🟢 67%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS

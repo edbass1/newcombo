@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1469,7 +1469,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2895,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 05/11/2026 20:46 (ora italiana)
+Aggiornato: 05/11/2026 21:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4119,8 +4119,8 @@ SOTTOFREQUENZA 1X + GOAL
    20/20 Argentinos Juniors             23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 River Plate                    36/100
-    2/20 Unión                          35/100
+    1/20 Unión                          35/100
+    2/20 River Plate                    35/100
     3/20 Talleres                       34/100
     4/20 Rosario Central                34/100
     5/20 Newell's Old Boys              34/100
