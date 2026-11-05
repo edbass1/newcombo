@@ -1,17 +1,13 @@
 TIPS DEL GIORNO - 05/11/2026
-Aggiornato: 05/11/2026 00:36 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 05/11/2026 01:46 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. TOTALE    23:30  Palmeiras vs Remo   [BRASILE - SÉRIE A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 63,3  (Freq 100 · Rit 33 · Lega 67 · GG 50 · xG 67)
+    X2 + GOAL  -  punteggio 70,5  (Freq 100 · Rit 50 · Lega 75 · GG 75 · xG 50)
     Palmeiras non vede l'X2+GOAL da 8 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 26%). Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 7 volte e l'xG dà una mano.
 
- 2. TRASFERTA 01:30  São Paulo vs Corinthians   [BRASILE - SÉRIE A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 61,3  (Freq 67 · Rit 67 · Lega 67 · GG 100 · xG 0)
-    L'X2+GOAL si fa aspettare da Corinthians in trasferta: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 28%). Anche il campionato la vede spesso, il GG nelle ultime 10 è uscito 9 volte e l'xG dà una mano.
-
- 3. TRASFERTA 23:15  Gimnasia LP vs Belgrano   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 50,0  (Freq 33 · Rit 100 · Lega 0 · GG 0 · xG 100)
+ 2. TRASFERTA 23:15  Gimnasia LP vs Belgrano   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 54,0  (Freq 50 · Rit 100 · Lega 0 · GG 0 · xG 100)
     Per Belgrano in trasferta il 12+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 24%). Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 3 volte e l'xG è buono.
 
 
