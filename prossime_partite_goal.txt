@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 05/11/2026 12:48 (ora italiana)
+Aggiornato: 05/11/2026 13:53 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -293,10 +293,10 @@ TRASFERTA 17:30  Degerfors [🧊A] vs GAIS [🧊D]   [SVEZIA - ALLSVENSKAN]
            xG: Degerfors xG 2,63 (0,93+1,70) · GAIS xG 2,93 (1,52+1,41)
            GAIS: X2 + GOAL (7)
 TOTALE    17:30  Örgryte [🔥D] vs Västerås SK   [SVEZIA - ALLSVENSKAN]
-           xG: Örgryte xG 3,13 (1,10+2,03) · Västerås SK xG 2,85 (1,31+1,54)
+           xG: Örgryte xG 3,13 (1,10+2,03) · Västerås SK xG 2,90 (1,33+1,57)
            Västerås SK: 1X + GOAL (19) 👻 37/42 [TOP 20] 🔴 Örgryte
 TRASFERTA 17:30  Örgryte [🔥D] vs Västerås SK   [SVEZIA - ALLSVENSKAN]
-           xG: Örgryte xG 3,13 (1,10+2,03) · Västerås SK xG 2,85 (1,31+1,54)
+           xG: Örgryte xG 3,13 (1,10+2,03) · Västerås SK xG 2,90 (1,33+1,57)
            Västerås SK: 1X + GOAL (11) 👻 37/42 [TOP 20] 🔴 Örgryte
 TOTALE    18:00  Parma [🧊A] vs Bologna   [ITALIA - SERIE A]
            xG: Parma xG 2,57 (0,78+1,79) · Bologna xG 2,82 (1,47+1,35)
@@ -516,10 +516,10 @@ TRASFERTA 16:30  AIK [🔥D] vs Häcken   [SVEZIA - ALLSVENSKAN]
            xG: AIK xG 3,27 (1,47+1,80) · Häcken xG 3,00 (1,84+1,16)
            Häcken: 1X + GOAL (7) 👻 37/42 [TOP 20]; X2 + GOAL (8) [TOP 20] 🔴 AIK 🔴 Häcken; 12 + GOAL (7) 👻 37/42 [TOP 20] 🔴 AIK
 TOTALE    16:30  Brommapojkarna vs Mjällby   [SVEZIA - ALLSVENSKAN]
-           xG: Brommapojkarna xG 2,71 (1,33+1,38) · Mjällby xG 2,96 (1,17+1,79)
+           xG: Brommapojkarna xG 2,75 (1,35+1,40) · Mjällby xG 2,96 (1,17+1,79)
            Brommapojkarna: 1X + GOAL (6) 👻 37/42 🔴 Brommapojkarna
 CASA      16:30  Brommapojkarna vs Mjällby   [SVEZIA - ALLSVENSKAN]
-           xG: Brommapojkarna xG 2,71 (1,33+1,38) · Mjällby xG 2,96 (1,17+1,79)
+           xG: Brommapojkarna xG 2,75 (1,35+1,40) · Mjällby xG 2,96 (1,17+1,79)
            Brommapojkarna: X2 + GOAL (6)
 TOTALE    16:30  Kalmar FF [🧊A] vs Sirius [🔥A]   [SVEZIA - ALLSVENSKAN]
            xG: Kalmar FF xG 2,56 (1,34+1,22) · Sirius xG 3,08 (1,95+1,13)
