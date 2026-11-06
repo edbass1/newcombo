@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 06/11/2026 21:39 (ora italiana)
+Aggiornato: 06/11/2026 21:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -557,7 +557,7 @@ SOTTOFREQUENZA 12 + GOAL
 OLANDA - EERSTE DIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 RKC Waalwijk                   50/100
+    1/20 RKC Waalwijk                   51/100
     2/20 Helmond Sport                  47/100
     3/20 De Graafschap                  47/100
     4/20 Jong FC Utrecht                44/100
@@ -571,7 +571,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Roda JC Kerkrade               45/100
-    2/20 RKC Waalwijk                   43/100
+    2/20 RKC Waalwijk                   44/100
     3/20 De Graafschap                  43/100
     4/20 Vitesse                        42/100
     5/20 NAC Breda                      42/100
@@ -580,9 +580,9 @@ SOTTOFREQUENZA X2 + GOAL
    20/20 Jong Ajax                      25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Jong AZ Alkmaar                54/100
-    2/20 Jong PSV                       52/100
-    3/20 De Graafschap                  52/100
+    1/20 Jong AZ Alkmaar                55/100
+    2/20 De Graafschap                  52/100
+    3/20 Jong PSV                       51/100
     4/20 FC Volendam                    48/100
     5/20 Jong FC Utrecht                43/100
      ...
@@ -1473,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 06/11/2026 21:39 (ora italiana)
+Aggiornato: 06/11/2026 21:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2013,8 +2013,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 Helmond Sport                  47/100
     2/20 Jong PSV                       45/100
     3/20 Vitesse                        43/100
-    4/20 RKC Waalwijk                   42/100
-    5/20 TOP Oss                        41/100
+    4/20 TOP Oss                        42/100
+    5/20 RKC Waalwijk                   42/100
      ...
    20/20 FC Emmen                       30/100  (la fa meno spesso)
 
@@ -2024,6 +2024,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/20 RKC Waalwijk                   46/100
     4/20 De Graafschap                  44/100
     5/20 TOP Oss                        43/100
+    6/20 Jong AZ Alkmaar                43/100
      ...
    20/20 FC Dordrecht                   31/100  (la fa meno spesso)
 
@@ -2895,7 +2896,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 06/11/2026 21:39 (ora italiana)
+Aggiornato: 06/11/2026 21:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3432,7 +3433,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 FC Dordrecht                   52/100
     3/20 RKC Waalwijk                   51/100
     4/20 Jong FC Utrecht                49/100
-    5/20 FC Volendam                    47/100
+    5/20 Jong PSV                       47/100
+    6/20 FC Volendam                    47/100
      ...
    20/20 FC Emmen                       32/100  (la fa meno spesso)
 
@@ -3441,7 +3443,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/20 De Graafschap                  41/100
     3/20 FC Volendam                    39/100
     4/20 NAC Breda                      38/100
-    5/20 Jong PSV                       37/100
+    5/20 Jong PSV                       38/100
      ...
    20/20 Helmond Sport                  20/100  (la fa meno spesso)
 

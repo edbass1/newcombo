@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 06/11/2026 21:39 (ora italiana)
+Aggiornato: 06/11/2026 21:50 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -9,7 +9,7 @@ Fonte: FotMob
 ==================================================
 1X + GOAL
 ==================================================
-   1/42  OLANDA - EERSTE DIVISIE          1 ogni 2,0       (66/130, 13 giornate)
+   1/42  OLANDA - EERSTE DIVISIE          1 ogni 2,0       (68/133, 14 giornate)
    2/42  DANIMARCA - SUPERLIGAEN          1 ogni 2,0       (39/79, 14 giornate)
    3/42  DANIMARCA - 1. DIVISION          1 ogni 2,1       (39/81, 14 giornate)
    4/42  USA/CANADA - MLS                 1 ogni 2,1       (235/495, 33 giornate)
@@ -65,11 +65,11 @@ X2 + GOAL
    8/42  SVIZZERA - SUPER LEAGUE          1 ogni 2,5       (29/72, 12 giornate)
    9/42  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,6       (65/168, 14 giornate)
   10/42  USA/CANADA - MLS                 1 ogni 2,6       (188/495, 33 giornate)
-  11/42  SVEZIA - SUPERETTAN              1 ogni 2,7       (86/231, 29 giornate)
-  12/42  SVIZZERA - CHALLENGE LEAGUE      1 ogni 2,7       (23/62, 13 giornate)
-  13/42  INGHILTERRA - LEAGUE ONE         1 ogni 2,7       (58/158, 14 giornate)
-  14/42  INGHILTERRA - LEAGUE TWO         1 ogni 2,7       (60/164, 14 giornate)
-  15/42  OLANDA - EERSTE DIVISIE          1 ogni 2,8       (47/130, 13 giornate)
+  11/42  OLANDA - EERSTE DIVISIE          1 ogni 2,7       (50/133, 14 giornate)
+  12/42  SVEZIA - SUPERETTAN              1 ogni 2,7       (86/231, 29 giornate)
+  13/42  SVIZZERA - CHALLENGE LEAGUE      1 ogni 2,7       (23/62, 13 giornate)
+  14/42  INGHILTERRA - LEAGUE ONE         1 ogni 2,7       (58/158, 14 giornate)
+  15/42  INGHILTERRA - LEAGUE TWO         1 ogni 2,7       (60/164, 14 giornate)
   16/42  POLONIA - I LIGA                 1 ogni 2,8       (42/118, 18 giornate)
   17/42  SVEZIA - ALLSVENSKAN             1 ogni 2,8       (77/217, 28 giornate)
   18/42  DANIMARCA - SUPERLIGAEN          1 ogni 2,8       (28/79, 14 giornate)
@@ -103,7 +103,7 @@ X2 + GOAL
 ==================================================
    1/42  SVIZZERA - SUPER LEAGUE          1 ogni 1,8       (39/72, 12 giornate)
    2/42  POLONIA - EKSTRAKLASA            1 ogni 1,9       (60/116, 14 giornate)
-   3/42  OLANDA - EERSTE DIVISIE          1 ogni 1,9       (67/130, 13 giornate)
+   3/42  OLANDA - EERSTE DIVISIE          1 ogni 2,0       (68/133, 14 giornate)
    4/42  NORVEGIA - OBOS-LIGAEN           1 ogni 2,0       (114/232, 29 giornate)
    5/42  GERMANIA - 3. LIGA               1 ogni 2,2       (54/121, 13 giornate)
    6/42  FRANCIA - LIGUE 1                1 ogni 2,2       (36/81, 9 giornate)
