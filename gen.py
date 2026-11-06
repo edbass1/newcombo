@@ -1812,97 +1812,118 @@ window.addEventListener('resize',syncBar);syncBar()})();</script>
 REPEAT_ALERT_MIN = 10
 
 def render_repeat(data, pools, now, double_fixtures=None):
-    """Ritardi delle coppie consecutive, su tutte le gare casa/trasferta della squadra."""
+    """Ritardi delle coppie consecutive: totale, sole gare in casa e sole gare in trasferta."""
     double_fixtures = double_fixtures or set()
-    rankings = {name: [] for name, _f in COMBOS["goal"]}
+    scopes = ("TOTALE", "CASA", "TRASFERTA")
+    rankings = {
+        scope: {name: [] for name, _f in COMBOS["goal"]}
+        for scope in scopes
+    }
     by_team = {}
+
     for c, l, r, err in data:
         if not r:
             continue
         pool = (pools.get(c) or ([], []))[0]
         teams = r["teams"]
         for tid, tname in teams.items():
-            seq = sorted((m for m in pool if tid in (m[1], m[2])), key=lambda m: m[0])
-            if not seq:
-                continue
-            team_rows = {}
-            for name, f in COMBOS["goal"]:
-                delay = 0
-                previous_hit = False
-                last_hit = False
-                had_pair = False
-                for m in seq:
-                    hit = bool(f(m[3], m[4]))
-                    if previous_hit:
-                        if hit:
-                            delay = 0
-                            had_pair = True
-                        else:
-                            delay += 1
-                    previous_hit = hit
-                    last_hit = hit
-                row = {
-                    "name": name, "team": tname, "country": c, "league": l,
-                    "delay": delay, "full": not had_pair, "last_hit": last_hit,
-                    "matches": len(seq), "rank": 0, "total": 0,
-                }
-                rankings[name].append(row)
-                team_rows[name] = row
-            by_team[(c, l, tname)] = team_rows
+            for scope in scopes:
+                if scope == "TOTALE":
+                    selected = lambda m: tid in (m[1], m[2])
+                elif scope == "CASA":
+                    selected = lambda m: m[1] == tid
+                else:
+                    selected = lambda m: m[2] == tid
+                seq = sorted(
+                    (m for m in pool if selected(m)),
+                    key=lambda m: m[0]
+                )
+                if not seq:
+                    continue
+                team_rows = {}
+                for name, f in COMBOS["goal"]:
+                    delay = 0
+                    previous_hit = False
+                    last_hit = False
+                    had_pair = False
+                    for m in seq:
+                        hit = bool(f(m[3], m[4]))
+                        if previous_hit:
+                            if hit:
+                                delay = 0
+                                had_pair = True
+                            else:
+                                delay += 1
+                        previous_hit = hit
+                        last_hit = hit
+                    row = {
+                        "name": name, "team": tname, "country": c, "league": l,
+                        "scope": scope, "delay": delay, "full": not had_pair,
+                        "last_hit": last_hit, "matches": len(seq),
+                        "rank": 0, "total": 0,
+                    }
+                    rankings[scope][name].append(row)
+                    team_rows[name] = row
+                by_team[(c, l, tname, scope)] = team_rows
 
-    for name, rows in rankings.items():
-        rows.sort(key=lambda x: (-x["delay"], x["team"].casefold(),
-                                 x["country"].casefold(), x["league"].casefold()))
-        for i, row in enumerate(rows, 1):
-            row["rank"] = i
-            row["total"] = len(rows)
+    for scope in scopes:
+        for name, rows in rankings[scope].items():
+            rows.sort(key=lambda x: (-x["delay"], x["team"].casefold(),
+                                     x["country"].casefold(), x["league"].casefold()))
+            for i, row in enumerate(rows, 1):
+                row["rank"] = i
+                row["total"] = len(rows)
 
     lines = [
-        "RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — STORICO TOTALE CASA + TRASFERTA",
+        "RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — TOTALE / CASA / TRASFERTA",
         f"Aggiornato: {now} (ora italiana)",
-        "Ogni squadra è valutata su tutte le proprie partite, in casa e in trasferta, in ordine cronologico.",
+        "TOTALE considera tutte le partite della squadra; CASA soltanto le gare giocate in casa; TRASFERTA soltanto le gare giocate fuori casa.",
+        "Ogni categoria ha una sequenza cronologica e un ritardo indipendenti.",
         "Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.",
         f"Storico: pool nazionale multi-stagione disponibile (fino a {SOTTO_STAGIONI} stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.",
-        "La posizione è globale per ciascuna combo, non limitata al campionato.", ""
+        "La posizione è globale per ciascuna combo all'interno della categoria indicata.", ""
     ]
     blocks = []
-    for name, _f in COMBOS["goal"]:
-        rows = rankings[name]
-        lines += [f"CLASSIFICA GLOBALE — {name}", f"Squadre: {len(rows)}"]
-        table = []
-        for row in rows:
-            delay = str(row["delay"]) + ("+" if row["full"] else "")
-            table.append(f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | {row["country"]} - {row["league"]}  | {row["matches"]} gare')
-        lines += table + [""]
-        visible = "\n".join(table[:30])
-        complete = "\n".join(table)
-        blocks.append(
-            f'<div class="fx"><h3>{esc(name)}</h3>'
-            f'<pre>{html.escape(visible or "Nessun dato disponibile")}</pre>'
-            f'<details><summary>Classifica globale completa ({len(rows)} squadre)</summary>'
-            f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
-        )
+    for scope in scopes:
+        for name, _f in COMBOS["goal"]:
+            rows = rankings[scope][name]
+            lines += [f"CLASSIFICA {scope} — {name}", f"Squadre: {len(rows)}"]
+            table = []
+            for row in rows:
+                delay = str(row["delay"]) + ("+" if row["full"] else "")
+                table.append(
+                    f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | '
+                    f'{row["country"]} - {row["league"]}  | {row["matches"]} gare'
+                )
+            lines += table + [""]
+            visible = "\\n".join(table[:30])
+            complete = "\\n".join(table)
+            blocks.append(
+                f'<div class="fx"><h3>{esc(scope)} · {esc(name)}</h3>'
+                f'<pre>{html.escape(visible or "Nessun dato disponibile")}</pre>'
+                f'<details><summary>Classifica {scope.lower()} completa ({len(rows)} squadre)</summary>'
+                f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
+            )
 
-    alert_rows = []
     alert_map = {}
     for c, l, r, err in data:
         if not r:
             continue
         teams = r["teams"]
         for t, h, a in r["up"]:
-            for tid in (h, a):
+            fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
+            for tid, scope in ((h, "CASA"), (a, "TRASFERTA")):
                 team = teams.get(tid)
                 if not team:
                     continue
-                state = by_team.get((c, l, team), {})
-                for name, row in state.items():
-                    if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
-                        fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
-                        alert_map.setdefault(fixture_key, []).append((team, row["name"], row))
-                        alert_rows.append((t, c, l, teams[h], teams[a], team, row))
+                for current_scope in ("TOTALE", scope):
+                    state = by_team.get((c, l, team, current_scope), {})
+                    for name, row in state.items():
+                        if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
+                            alert_map.setdefault(fixture_key, []).append(
+                                (team, row["name"], current_scope, row)
+                            )
 
-    alert_rows.sort(key=lambda x: (x[0], x[1], x[5], x[6]["name"]))
-    alert_txt = ["PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO"]
     alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO</h3>']
     if not alert_map:
         alert_html.append('<p class="leg">Nessuna partita in arrivo nei prossimi giorni con i requisiti per completare la doppia ripetizione.</p>')
@@ -1913,30 +1934,25 @@ def render_repeat(data, pools, now, double_fixtures=None):
         lt = datetime.datetime.fromisoformat(t_iso).astimezone(ROME)
         double_badge = '<span class="double-badge">DOUBLE</span> ' if fixture_key in double_fixtures else ''
         details = []
-        for team, combo_name, row in fixture_alerts:
+        for team, combo_name, scope, row in fixture_alerts:
             delay = str(row["delay"]) + ("+" if row["full"] else "")
             details.append(
-                f'<b>{esc(team)}</b> — {esc(combo_name)} · ritardo {delay} · '
+                f'<b>{esc(team)}</b> — {esc(combo_name)} · {scope} · ritardo {delay} · '
                 f'#{row["rank"]}/{row["total"]}'
             )
-        alert_txt.append(f"{lt:%d/%m %H:%M} — {hn} vs {an}" + (" [DOUBLE]" if fixture_key in double_fixtures else ""))
-        for team, combo_name, row in fixture_alerts:
-            delay = str(row["delay"]) + ("+" if row["full"] else "")
-            alert_txt.append(f"  {team} — {combo_name} · ritardo {delay} · #{row['rank']}/{row['total']}")
         alert_html.append(
             f'<div class="fx">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
             f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span>'
             f'<div class="tagrow">{" &nbsp; | &nbsp; ".join(details)}</div></div>'
         )
     alert_html.append("</div>")
-    lines += [""] + alert_txt + [""]
     return {
         "html": "".join(alert_html) + '<div class="repeat-grid">' + "".join(blocks) + "</div>",
-        "txt": "\n".join(lines) + "\n",
-        "upcoming_html": "".join(alert_html),
-        "upcoming_txt": "\n".join(alert_txt) + "\n",
-        "alert_map": alert_map,
+        "txt": "\\n".join(lines) + "\\n",
+        "by_team": by_team,
+        "alerts": alert_map,
     }
+
 
 def main():
     now = datetime.datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
