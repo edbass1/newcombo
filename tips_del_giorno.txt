@@ -1,19 +1,8 @@
 TIPS DEL GIORNO - 06/11/2026
-Aggiornato: 06/11/2026 22:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 06/11/2026 23:38 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      23:15  San Lorenzo vs Club Atlético Platense   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 77,0  (Freq 88 · Rit 100 · Lega 100 · GG 25 · xG 50)
-    L'1X+GOAL si fa aspettare da San Lorenzo in casa: 11 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, nelle ultime 10 il GG è uscito 1 volte e l'xG dà una mano.
-
- 2. TRASFERTA 23:15  Unión vs Vélez Sarsfield   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 55,0  (Freq 50 · Rit 25 · Lega 25 · GG 100 · xG 100)
-    Sono 6 partite che Vélez Sarsfield resta senza il 12+GOAL in trasferta: in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 21%). Nel campionato esce con regolarità, su 10 partite recenti il GG è uscito 6 volte e l'xG è alto.
-
- 3. TOTALE    23:15  Independiente vs Deportivo Riestra   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 16,5  (Freq 0 · Rit 0 · Lega 25 · GG 75 · xG 0)
-    Il 12+GOAL si fa aspettare da Independiente: 4 gare, in media ne restano fuori circa 5, e non è tra le sue giocate più solite (circa il 20%). Nel campionato esce con regolarità, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG non spicca, ma c'è.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.

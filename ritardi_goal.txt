@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -22,22 +22,21 @@ TOP 20 — 1X + GOAL
    3. VPS                            14  | FINLANDIA - VEIKKAUSLIIGA
    5. Nancy                          12  | FRANCIA - LIGUE 2
    6. Kalmar FF                      11  | SVEZIA - ALLSVENSKAN
-   7. Bolton Wanderers               10  | INGHILTERRA - CHAMPIONSHIP
    7. Casa Pia AC                    10  | PORTOGALLO - LIGA PORTUGAL
    7. Moss                           10  | NORVEGIA - OBOS-LIGAEN
    7. St. Patrick's Athletic         10  | IRLANDA - PREMIER DIVISION
-  11. Sporting Hasselt               9+  | BELGIO - FIRST DIVISION B
-  11. Troyes                         9+  | FRANCIA - LIGUE 1
-  13. Reggiana                        8  | ITALIA - SERIE C
-  13. Slovan Liberec                  8  | REP. CECA - 1. LIGA
-  15. Fortuna Köln                    7  | GERMANIA - 3. LIGA
-  15. Greenock Morton                 7  | SCOZIA - CHAMPIONSHIP
-  15. Gubbio                          7  | ITALIA - SERIE C
-  15. IFK Värnamo                     7  | SVEZIA - SUPERETTAN
-  15. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
-  15. Odra Opole                      7  | POLONIA - I LIGA
-  15. SC Heerenveen                   7  | OLANDA - EREDIVISIE
-  15. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
+  10. Sporting Hasselt               9+  | BELGIO - FIRST DIVISION B
+  10. Troyes                         9+  | FRANCIA - LIGUE 1
+  12. Reggiana                        8  | ITALIA - SERIE C
+  12. Slovan Liberec                  8  | REP. CECA - 1. LIGA
+  14. Fortuna Köln                    7  | GERMANIA - 3. LIGA
+  14. Greenock Morton                 7  | SCOZIA - CHAMPIONSHIP
+  14. Gubbio                          7  | ITALIA - SERIE C
+  14. IFK Värnamo                     7  | SVEZIA - SUPERETTAN
+  14. Liverpool                       7  | INGHILTERRA - PREMIER LEAGUE
+  14. Odra Opole                      7  | POLONIA - I LIGA
+  14. SC Heerenveen                   7  | OLANDA - EREDIVISIE
+  14. Xamax                           7  | SVIZZERA - CHALLENGE LEAGUE
 
 TOP 20 — X2 + GOAL
    1. Sparta Prague                  28  | REP. CECA - 1. LIGA
@@ -49,14 +48,14 @@ TOP 20 — X2 + GOAL
    4. Ravenna                        11  | ITALIA - SERIE C
    4. Red Bull New York              11  | USA/CANADA - MLS
    4. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
+  10. Coventry City                 10+  | INGHILTERRA - PREMIER LEAGUE
   10. Exeter City                    10  | INGHILTERRA - LEAGUE TWO
   10. GIF Sundsvall                  10  | SVEZIA - SUPERETTAN
   10. Rapid Wien                     10  | AUSTRIA - BUNDESLIGA
-  13. Arsenal                         9  | INGHILTERRA - PREMIER LEAGUE
-  13. Coventry City                  9+  | INGHILTERRA - PREMIER LEAGUE
-  13. FC Vlašim                       9  | REP. CECA - FNL
-  13. Palmeiras                       9  | BRASILE - SÉRIE A
-  13. Tondela                        9+  | PORTOGALLO - LIGA PORTUGAL 2
+  14. Arsenal                         9  | INGHILTERRA - PREMIER LEAGUE
+  14. FC Vlašim                       9  | REP. CECA - FNL
+  14. Palmeiras                       9  | BRASILE - SÉRIE A
+  14. Tondela                        9+  | PORTOGALLO - LIGA PORTUGAL 2
   18. Académica                       8  | PORTOGALLO - LIGA PORTUGAL 2
   18. Carrarese                       8  | ITALIA - SERIE B
   18. Doncaster Rovers                8  | INGHILTERRA - LEAGUE ONE
@@ -68,29 +67,28 @@ TOP 20 — 12 + GOAL
    3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
    3. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
    3. Wil                            11  | SVIZZERA - CHALLENGE LEAGUE
-   6. Everton                        10  | INGHILTERRA - PREMIER LEAGUE
    6. Holstein Kiel                  10  | GERMANIA - 2. BUNDESLIGA
    6. KuPS                           10  | FINLANDIA - VEIKKAUSLIIGA
-   9. Bradford City                   9  | INGHILTERRA - LEAGUE ONE
-   9. Stenhousemuir                   9  | SCOZIA - CHAMPIONSHIP
-  11. Coritiba                        8  | BRASILE - SÉRIE A
-  11. FF Jaro                         8  | FINLANDIA - VEIKKAUSLIIGA
-  11. Häcken                          8  | SVEZIA - ALLSVENSKAN
-  11. Juve Stabia                     8  | ITALIA - SERIE B
-  11. Latina                          8  | ITALIA - SERIE C
-  11. Newcastle Jets                  8  | AUSTRALIA - A-LEAGUE MEN
-  11. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
-  11. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
-  19. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
-  19. Castellón                       7  | SPAGNA - LALIGA 2
-  19. Genk U23                        7  | BELGIO - FIRST DIVISION B
-  19. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
-  19. Lecco                           7  | ITALIA - SERIE C
-  19. Manchester United               7  | INGHILTERRA - PREMIER LEAGUE
-  19. NEC Nijmegen                    7  | OLANDA - EREDIVISIE
-  19. Reggiana                        7  | ITALIA - SERIE C
-  19. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
-  19. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
+   8. Bradford City                   9  | INGHILTERRA - LEAGUE ONE
+   8. Stenhousemuir                   9  | SCOZIA - CHAMPIONSHIP
+  10. Coritiba                        8  | BRASILE - SÉRIE A
+  10. FF Jaro                         8  | FINLANDIA - VEIKKAUSLIIGA
+  10. Häcken                          8  | SVEZIA - ALLSVENSKAN
+  10. Juve Stabia                     8  | ITALIA - SERIE B
+  10. Latina                          8  | ITALIA - SERIE C
+  10. Newcastle Jets                  8  | AUSTRALIA - A-LEAGUE MEN
+  10. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
+  10. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
+  18. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
+  18. Castellón                       7  | SPAGNA - LALIGA 2
+  18. Genk U23                        7  | BELGIO - FIRST DIVISION B
+  18. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
+  18. Lecco                           7  | ITALIA - SERIE C
+  18. Manchester United               7  | INGHILTERRA - PREMIER LEAGUE
+  18. NEC Nijmegen                    7  | OLANDA - EREDIVISIE
+  18. Reggiana                        7  | ITALIA - SERIE C
+  18. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  18. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
 
 ==================================================
 
@@ -219,8 +217,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,8
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,6
 ==================================================
 RITARDI 1X + GOAL
    1. Liverpool                         7  🟢 57%  🔴
@@ -229,75 +227,75 @@ RITARDI 1X + GOAL
    4. Arsenal                           3
    5. Chelsea                           3  🟢 100%
    6. Crystal Palace                    3  🟢 100%
-   7. Everton                           3  🟢 67%
-   8. Newcastle United                  3
-   9. Leeds United                      2  🟢 50%
-  10. Manchester United                 2  🟢 100%
+   7. Newcastle United                  3
+   8. Leeds United                      2  🟢 50%
+   9. Manchester United                 2  🟢 100%
+  10. Tottenham Hotspur                 2  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Arsenal                           9  🟢 67%  👻 39/42
-   2. Coventry City                    9+  🟢 56%  👻 39/42
-   3. Manchester City                   7  🟢 57%  👻 39/42
-   4. Brighton & Hove Albion            6  🟢 83%  👻 39/42
-   5. Newcastle United                  6  🟢 67%  👻 39/42
-   6. Sunderland                        6  🟢 83%  👻 39/42
-   7. AFC Bournemouth                   5  🟢 80%  🔴  👻 39/42
-   8. Chelsea                           5  🟢 100%  🔴  👻 39/42
-   9. Crystal Palace                    5  🟢 80%  👻 39/42
-  10. Everton                           3  🟢 67%  👻 39/42
+   1. Coventry City                   10+  🟢 60%  👻 40/42
+   2. Arsenal                           9  🟢 67%  👻 40/42
+   3. Manchester City                   7  🟢 57%  👻 40/42
+   4. Brighton & Hove Albion            6  🟢 83%  👻 40/42
+   5. Newcastle United                  6  🟢 67%  👻 40/42
+   6. Sunderland                        6  🟢 83%  👻 40/42
+   7. AFC Bournemouth                   5  🟢 80%  🔴  👻 40/42
+   8. Chelsea                           5  🟢 100%  🔴  👻 40/42
+   9. Crystal Palace                    5  🟢 80%  👻 40/42
+  10. Everton                           4  🟢 75%  👻 40/42
 
 RITARDI 12 + GOAL
-   1. Everton                          10  🟢 60%  👻 41/42
-   2. Brighton & Hove Albion            7  🟢 86%  👻 41/42
-   3. Manchester United                 7  🟢 86%  👻 41/42
-   4. Hull City                         4  🟢 75%  👻 41/42
-   5. AFC Bournemouth                   3  🟢 100%  👻 41/42
-   6. Arsenal                           3  👻 41/42
-   7. Chelsea                           3  🟢 100%  🔴  👻 41/42
-   8. Crystal Palace                    3  🟢 100%  👻 41/42
-   9. Fulham                            3  🔴  👻 41/42
-  10. Leeds United                      3  🟢 67%  👻 41/42
+   1. Brighton & Hove Albion            7  🟢 86%  👻 41/42
+   2. Manchester United                 7  🟢 86%  👻 41/42
+   3. Hull City                         4  🟢 75%  👻 41/42
+   4. AFC Bournemouth                   3  🟢 100%  👻 41/42
+   5. Arsenal                           3  👻 41/42
+   6. Chelsea                           3  🟢 100%  🔴  👻 41/42
+   7. Crystal Palace                    3  🟢 100%  👻 41/42
+   8. Fulham                            3  🔴  👻 41/42
+   9. Leeds United                      3  🟢 67%  👻 41/42
+  10. Newcastle United                  3  🔴  👻 41/42
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (168 partite giocate) + 2025/2026
+Stagione 2026/2027 (169 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                 10  🟢 70%
-   2. Birmingham City                   6  🟢 67%
-   3. Stoke City                        6  🟢 67%
-   4. Bristol City                      5
-   5. Charlton Athletic                 4  🟢 75%
-   6. Blackburn Rovers                  3  🟢 100%
-   7. Middlesbrough                     3  🟢 100%
-   8. Wolverhampton Wanderers           3  🟢 67%
-   9. Wrexham                           3  🟢 67%
-  10. Lincoln City                      2  🟢 50%
+   1. Birmingham City                   6  🟢 67%
+   2. Stoke City                        6  🟢 67%
+   3. Bristol City                      5
+   4. Charlton Athletic                 4  🟢 75%
+   5. Blackburn Rovers                  3  🟢 100%
+   6. Middlesbrough                     3  🟢 100%
+   7. Wolverhampton Wanderers           3  🟢 67%
+   8. Wrexham                           3  🟢 67%
+   9. Lincoln City                      2  🟢 50%
+  10. Preston North End                 2  🟢 100%  🔴
 
 RITARDI X2 + GOAL
    1. Watford                           7  🟢 57%  ❗ 9/42
    2. Swansea City                      6  🟢 67%  ❗ 9/42
    3. Wrexham                           4  🟢 75%  ❗ 9/42
-   4. Millwall                          3  🟢 100%  ❗ 9/42
-   5. Portsmouth                        3  🟢 67%  ❗ 9/42
-   6. Charlton Athletic                 2  🟢 50%  ❗ 9/42
-   7. Derby County                      2  🟢 100%  ❗ 9/42
-   8. Middlesbrough                     2  🟢 100%  ❗ 9/42
-   9. Norwich City                      2  🟢 100%  ❗ 9/42
-  10. Birmingham City                   1  🟢 100%  ❗ 9/42
+   4. Derby County                      3  🟢 100%  ❗ 9/42
+   5. Millwall                          3  🟢 100%  ❗ 9/42
+   6. Portsmouth                        3  🟢 67%  ❗ 9/42
+   7. Bolton Wanderers                  2  🟢 50%  ❗ 9/42
+   8. Charlton Athletic                 2  🟢 50%  ❗ 9/42
+   9. Middlesbrough                     2  🟢 100%  ❗ 9/42
+  10. Norwich City                      2  🟢 100%  ❗ 9/42
 
 RITARDI 12 + GOAL
-   1. Cardiff City                      4  🟢 75%  ❗ 12/42
-   2. Wrexham                           3  🟢 67%  ❗ 12/42
-   3. Burnley                           2  🟢 50%  ❗ 12/42
-   4. Charlton Athletic                 2  🟢 50%  ❗ 12/42
-   5. Middlesbrough                     2  🟢 100%  ❗ 12/42
-   6. Birmingham City                   1  🟢 100%  ❗ 12/42
-   7. Bolton Wanderers                  1  ❗ 12/42
-   8. Derby County                      1  🟢 100%  ❗ 12/42
-   9. Lincoln City                      1  ❗ 12/42
-  10. Millwall                          1  🟢 100%  ❗ 12/42
+   1. Cardiff City                      4  🟢 75%  ❗ 11/42
+   2. Wrexham                           3  🟢 67%  ❗ 11/42
+   3. Burnley                           2  🟢 50%  ❗ 11/42
+   4. Charlton Athletic                 2  🟢 50%  ❗ 11/42
+   5. Middlesbrough                     2  🟢 100%  ❗ 11/42
+   6. Birmingham City                   1  🟢 100%  ❗ 11/42
+   7. Lincoln City                      1  ❗ 11/42
+   8. Millwall                          1  🟢 100%  ❗ 11/42
+   9. Norwich City                      1  🟢 100%  🔴  ❗ 11/42
+  10. Queens Park Rangers               1  🟢 100%  🔴  ❗ 11/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -588,8 +586,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (109 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (110 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             6  🟢 50%  🔴
@@ -599,20 +597,20 @@ RITARDI 1X + GOAL
    5. Celta Vigo                        2  🟢 50%
    6. Rayo Vallecano                    2  🟢 100%
    7. Real Madrid                       2  🟢 100%
-   8. Espanyol                          1
-   9. Levante                           1  🟢 100%
-  10. Racing Santander                  1  🟢 100%  🔴
+   8. Deportivo Alavés                  1
+   9. Espanyol                          1
+  10. Levante                           1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Athletic Club                     5  🟢 60%
    2. Celta Vigo                        5  🟢 60%
    3. Elche                             4
    4. Osasuna                           4  🟢 100%
-   5. Atlético Madrid                   3
-   6. Espanyol                          3
-   7. Levante                           3  🟢 100%
-   8. Racing Santander                  3  🟢 100%
-   9. Sevilla                           3  🟢 100%
+   5. Sevilla                           4  🟢 75%
+   6. Atlético Madrid                   3
+   7. Espanyol                          3
+   8. Levante                           3  🟢 100%
+   9. Racing Santander                  3  🟢 100%
   10. Deportivo A Coruña                2  🟢 50%  🔴
 
 RITARDI 12 + GOAL
@@ -620,12 +618,12 @@ RITARDI 12 + GOAL
    2. Rayo Vallecano                    4  🟢 100%
    3. Atlético Madrid                   3
    4. Celta Vigo                        2  🟢 50%
-   5. Espanyol                          1
-   6. Levante                           1  🟢 100%
-   7. Racing Santander                  1  🟢 100%  🔴
-   8. Real Madrid                       1  🟢 100%
-   9. Valencia                          1
-  10. Villarreal                        1  🔴
+   5. Deportivo Alavés                  1
+   6. Espanyol                          1
+   7. Levante                           1  🟢 100%
+   8. Racing Santander                  1  🟢 100%  🔴
+   9. Real Madrid                       1  🟢 100%
+  10. Sevilla                           1
 
 ==================================================
 SPAGNA - LALIGA 2
@@ -645,16 +643,16 @@ RITARDI 1X + GOAL
   10. Almería                           0  🔴
 
 RITARDI X2 + GOAL
-   1. Sporting Gijón                    6  🟢 83%  👻 36/42
-   2. Cádiz                             5  🟢 80%  👻 36/42
-   3. Albacete                          4  🟢 100%  👻 36/42
-   4. Granada                           4  🟢 75%  👻 36/42
-   5. Girona                            3  🟢 67%  🔴  👻 36/42
-   6. AD Ceuta FC                       2  🟢 100%  👻 36/42
-   7. Eldense                           2  🟢 100%  🔴  👻 36/42
-   8. Real Sociedad B                   2  👻 36/42
-   9. Real Valladolid                   2  🟢 100%  👻 36/42
-  10. Leganés                           1  🟢 100%  👻 36/42
+   1. Sporting Gijón                    6  🟢 83%  👻 35/42
+   2. Cádiz                             5  🟢 80%  👻 35/42
+   3. Albacete                          4  🟢 100%  👻 35/42
+   4. Granada                           4  🟢 75%  👻 35/42
+   5. Girona                            3  🟢 67%  🔴  👻 35/42
+   6. AD Ceuta FC                       2  🟢 100%  👻 35/42
+   7. Eldense                           2  🟢 100%  🔴  👻 35/42
+   8. Real Sociedad B                   2  👻 35/42
+   9. Real Valladolid                   2  🟢 100%  👻 35/42
+  10. Leganés                           1  🟢 100%  👻 35/42
 
 RITARDI 12 + GOAL
    1. Castellón                         7  🟢 86%  🔴
@@ -686,16 +684,16 @@ RITARDI 1X + GOAL
   10. St.Truiden                        1  🟢 100%  🔴  👻 38/42
 
 RITARDI X2 + GOAL
-   1. Royal Antwerp                     6  🟢 83%  👻 40/42
-   2. Sporting Charleroi                5  🟢 60%  👻 40/42
-   3. Genk                              4  🟢 75%  👻 40/42
-   4. Gent                              4  🟢 100%  👻 40/42
-   5. Anderlecht                        2  🟢 100%  👻 40/42
-   6. Cercle Brugge                     2  🟢 100%  🔴  👻 40/42
-   7. RAAL La Louvière                  2  🟢 100%  👻 40/42
-   8. Lommel                            1  🟢 100%  🔴  👻 40/42
-   9. SK Beveren                        1  🟢 100%  👻 40/42
-  10. Standard Liège                    1  🟢 100%  👻 40/42
+   1. Royal Antwerp                     6  🟢 83%  👻 39/42
+   2. Sporting Charleroi                5  🟢 60%  👻 39/42
+   3. Genk                              4  🟢 75%  👻 39/42
+   4. Gent                              4  🟢 100%  👻 39/42
+   5. Anderlecht                        2  🟢 100%  👻 39/42
+   6. Cercle Brugge                     2  🟢 100%  🔴  👻 39/42
+   7. RAAL La Louvière                  2  🟢 100%  👻 39/42
+   8. Lommel                            1  🟢 100%  🔴  👻 39/42
+   9. SK Beveren                        1  🟢 100%  👻 39/42
+  10. Standard Liège                    1  🟢 100%  👻 39/42
 
 RITARDI 12 + GOAL
    1. Gent                              3  🟢 100%
@@ -780,16 +778,16 @@ RITARDI X2 + GOAL
   10. NEC Nijmegen                      1  🔴  🔥 1/42
 
 RITARDI 12 + GOAL
-   1. NEC Nijmegen                      7  🟢 86%  ❗ 11/42
-   2. AZ Alkmaar                        6  🟢 67%  ❗ 11/42
-   3. Fortuna Sittard                   5  🟢 60%  ❗ 11/42
-   4. Excelsior                         3  🟢 67%  ❗ 11/42
-   5. PEC Zwolle                        3  🟢 67%  ❗ 11/42
-   6. FC Twente                         2  🟢 100%  ❗ 11/42
-   7. Feyenoord                         2  🟢 100%  ❗ 11/42
-   8. PSV Eindhoven                     2  🟢 100%  🔴  ❗ 11/42
-   9. Willem II                         2  🟢 100%  ❗ 11/42
-  10. ADO Den Haag                      1  🔴  ❗ 11/42
+   1. NEC Nijmegen                      7  🟢 86%  ❗ 12/42
+   2. AZ Alkmaar                        6  🟢 67%  ❗ 12/42
+   3. Fortuna Sittard                   5  🟢 60%  ❗ 12/42
+   4. Excelsior                         3  🟢 67%  ❗ 12/42
+   5. PEC Zwolle                        3  🟢 67%  ❗ 12/42
+   6. FC Twente                         2  🟢 100%  ❗ 12/42
+   7. Feyenoord                         2  🟢 100%  ❗ 12/42
+   8. PSV Eindhoven                     2  🟢 100%  🔴  ❗ 12/42
+   9. Willem II                         2  🟢 100%  ❗ 12/42
+  10. ADO Den Haag                      1  🔴  ❗ 12/42
 
 ==================================================
 OLANDA - EERSTE DIVISIE
@@ -998,7 +996,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 3,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -1006,33 +1004,33 @@ RITARDI 1X + GOAL
    2. Alverca                           6  🟢 50%  🔴  👻 41/42
    3. Braga                             6  🟢 50%  👻 41/42
    4. Santa Clara                       6  🟢 67%  👻 41/42
-   5. Famalicão                         4  🟢 100%  👻 41/42
-   6. Gil Vicente                       4  👻 41/42
-   7. Arouca                            3  👻 41/42
+   5. Famalicão                         5  🟢 80%  👻 41/42
+   6. Arouca                            4  👻 41/42
+   7. Gil Vicente                       4  👻 41/42
    8. Benfica                           3  🟢 67%  👻 41/42
    9. FC Porto                          3  🟢 67%  👻 41/42
   10. Marítimo                          3  🟢 100%  👻 41/42
 
 RITARDI X2 + GOAL
-   1. Estrela da Amadora                4  🟢 75%  👻 35/42
-   2. Nacional                          4  🟢 50%  👻 35/42
-   3. Rio Ave                           4  🟢 75%  🔴  👻 35/42
-   4. Arouca                            3  👻 35/42
-   5. Casa Pia AC                       3  🟢 67%  👻 35/42
-   6. Vitória de Guimarães              3  🟢 67%  👻 35/42
-   7. Alverca                           2  🔴  👻 35/42
-   8. Braga                             2  🟢 50%  👻 35/42
-   9. FC Porto                          2  🟢 50%  👻 35/42
-  10. Famalicão                         2  🟢 100%  👻 35/42
+   1. Arouca                            4  👻 36/42
+   2. Estrela da Amadora                4  🟢 75%  👻 36/42
+   3. Nacional                          4  🟢 50%  👻 36/42
+   4. Rio Ave                           4  🟢 75%  🔴  👻 36/42
+   5. Casa Pia AC                       3  🟢 67%  👻 36/42
+   6. Famalicão                         3  🟢 67%  👻 36/42
+   7. Vitória de Guimarães              3  🟢 67%  👻 36/42
+   8. Alverca                           2  🔴  👻 36/42
+   9. Braga                             2  🟢 50%  👻 36/42
+  10. FC Porto                          2  🟢 50%  👻 36/42
 
 RITARDI 12 + GOAL
-   1. Arouca                            4  🔴  👻 39/42
+   1. Arouca                            5  🔴  👻 39/42
    2. Vitória de Guimarães              4  🟢 75%  👻 39/42
    3. Casa Pia AC                       3  🟢 67%  👻 39/42
-   4. Alverca                           2  👻 39/42
-   5. Braga                             2  🟢 50%  👻 39/42
-   6. FC Porto                          2  🟢 50%  👻 39/42
-   7. Famalicão                         2  🟢 100%  👻 39/42
+   4. Famalicão                         3  🟢 67%  👻 39/42
+   5. Alverca                           2  👻 39/42
+   6. Braga                             2  🟢 50%  👻 39/42
+   7. FC Porto                          2  🟢 50%  👻 39/42
    8. Gil Vicente                       2  👻 39/42
    9. Marítimo                          2  🟢 100%  👻 39/42
   10. Nacional                          2  👻 39/42
@@ -1981,7 +1979,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2200,8 +2198,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,8
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,6
 ==================================================
 RITARDI 1X + GOAL
    1. Liverpool                         4  🟢 50%  🔴
@@ -2211,21 +2209,21 @@ RITARDI 1X + GOAL
    5. Brentford                         3  🟢 100%
    6. Brighton & Hove Albion            2  🟢 100%
    7. Chelsea                           2  🟢 100%
-   8. Everton                           2  🟢 50%
-   9. Newcastle United                  2
-  10. Arsenal                           1  🟢 100%
+   8. Newcastle United                  2
+   9. Arsenal                           1  🟢 100%
+  10. Crystal Palace                    1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Sunderland                        9  👻 39/42
-   2. Arsenal                           7  🟢 71%  👻 39/42
-   3. Coventry City                    5+  🟢 60%  👻 39/42
-   4. Manchester City                   5  🟢 60%  👻 39/42
-   5. Liverpool                         4  🟢 50%  👻 39/42
-   6. Nottingham Forest                 4  👻 39/42
-   7. AFC Bournemouth                   3  🟢 67%  👻 39/42
-   8. Chelsea                           3  🟢 100%  👻 39/42
-   9. Newcastle United                  3  👻 39/42
-  10. Brighton & Hove Albion            2  🟢 100%  👻 39/42
+   1. Sunderland                        9  👻 40/42
+   2. Arsenal                           7  🟢 71%  👻 40/42
+   3. Coventry City                    5+  🟢 60%  👻 40/42
+   4. Manchester City                   5  🟢 60%  👻 40/42
+   5. Liverpool                         4  🟢 50%  👻 40/42
+   6. Nottingham Forest                 4  👻 40/42
+   7. AFC Bournemouth                   3  🟢 67%  👻 40/42
+   8. Chelsea                           3  🟢 100%  👻 40/42
+   9. Everton                           3  🟢 67%  👻 40/42
+  10. Newcastle United                  3  👻 40/42
 
 RITARDI 12 + GOAL
    1. AFC Bournemouth                  12  🟢 83%  👻 41/42
@@ -2233,15 +2231,15 @@ RITARDI 12 + GOAL
    3. Liverpool                         7  🟢 71%  👻 41/42
    4. Nottingham Forest                 6  👻 41/42
    5. Hull City                        5+  🟢 80%  👻 41/42
-   6. Everton                           4  🟢 75%  👻 41/42
-   7. Sunderland                        4  🟢 50%  👻 41/42
-   8. Manchester United                 3  🟢 67%  👻 41/42
-   9. Chelsea                           2  🟢 100%  👻 41/42
-  10. Fulham                            2  🟢 50%  🔴  👻 41/42
+   6. Sunderland                        4  🟢 50%  👻 41/42
+   7. Manchester United                 3  🟢 67%  👻 41/42
+   8. Chelsea                           2  🟢 100%  👻 41/42
+   9. Fulham                            2  🟢 50%  🔴  👻 41/42
+  10. Leeds United                      2  🟢 50%  👻 41/42
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (168 partite giocate) + 2025/2026
+Stagione 2026/2027 (169 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
@@ -2253,32 +2251,32 @@ RITARDI 1X + GOAL
    6. Blackburn Rovers                  2  🟢 100%
    7. Burnley                           2  🟢 50%
    8. Charlton Athletic                 2  🟢 50%
-   9. Derby County                      2  🟢 50%
-  10. Swansea City                      2  🟢 50%
+   9. Swansea City                      2  🟢 50%
+  10. West Ham United                   2  🟢 100%
 
 RITARDI X2 + GOAL
    1. Swansea City                      8  🟢 62%  ❗ 9/42
    2. Southampton                       7  🟢 71%  ❗ 9/42
    3. Birmingham City                   3  🟢 100%  ❗ 9/42
-   4. Norwich City                      3  ❗ 9/42
-   5. Portsmouth                        3  🟢 100%  ❗ 9/42
-   6. Watford                           3  🟢 67%  ❗ 9/42
-   7. Derby County                      2  🟢 50%  ❗ 9/42
+   4. Derby County                      3  🟢 67%  ❗ 9/42
+   5. Norwich City                      3  ❗ 9/42
+   6. Portsmouth                        3  🟢 100%  ❗ 9/42
+   7. Watford                           3  🟢 67%  ❗ 9/42
    8. Stoke City                        2  🟢 50%  ❗ 9/42
    9. Wolverhampton Wanderers           2  🟢 50%  ❗ 9/42
   10. Wrexham                           2  🟢 100%  ❗ 9/42
 
 RITARDI 12 + GOAL
-   1. Birmingham City                   7  🟢 100%  ❗ 12/42
-   2. Middlesbrough                     4  🟢 75%  ❗ 12/42
-   3. Sheffield United                  4  🟢 50%  ❗ 12/42
-   4. Derby County                      3  🟢 67%  ❗ 12/42
-   5. Watford                           3  🟢 67%  ❗ 12/42
-   6. Wolverhampton Wanderers           3  🟢 67%  ❗ 12/42
-   7. Cardiff City                      2  🟢 50%  ❗ 12/42
-   8. Queens Park Rangers               2  🟢 100%  🔴  ❗ 12/42
-   9. Stoke City                        2  🟢 50%  ❗ 12/42
-  10. Swansea City                      2  🟢 50%  ❗ 12/42
+   1. Birmingham City                   7  🟢 100%  ❗ 11/42
+   2. Middlesbrough                     4  🟢 75%  ❗ 11/42
+   3. Sheffield United                  4  🟢 50%  ❗ 11/42
+   4. Watford                           3  🟢 67%  ❗ 11/42
+   5. Wolverhampton Wanderers           3  🟢 67%  ❗ 11/42
+   6. Cardiff City                      2  🟢 50%  ❗ 11/42
+   7. Queens Park Rangers               2  🟢 100%  🔴  ❗ 11/42
+   8. Stoke City                        2  🟢 50%  ❗ 11/42
+   9. Swansea City                      2  🟢 50%  ❗ 11/42
+  10. Burnley                           1  ❗ 11/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -2569,13 +2567,13 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (109 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (110 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             6  🟢 50%
    2. Valencia                          6  🟢 50%
-   3. Sevilla                           4  🟢 75%
+   3. Sevilla                           5  🟢 60%
    4. Espanyol                          2  🟢 50%
    5. Rayo Vallecano                    2  🟢 100%
    6. Villarreal                        2  🔴
@@ -2600,13 +2598,13 @@ RITARDI 12 + GOAL
    1. Osasuna                           5  🟢 60%
    2. Elche                             2
    3. Rayo Vallecano                    2  🟢 100%
-   4. Villarreal                        2  🔴
-   5. Atlético Madrid                   1  🔴
-   6. Celta Vigo                        1
-   7. Deportivo Alavés                  1  🟢 100%
-   8. Espanyol                          1
-   9. Levante                           1  🟢 100%
-  10. Racing Santander                  1  🟢 100%
+   4. Sevilla                           2  🟢 50%
+   5. Villarreal                        2  🔴
+   6. Atlético Madrid                   1  🔴
+   7. Celta Vigo                        1
+   8. Deportivo Alavés                  1  🟢 100%
+   9. Espanyol                          1
+  10. Levante                           1  🟢 100%
 
 ==================================================
 SPAGNA - LALIGA 2
@@ -2626,16 +2624,16 @@ RITARDI 1X + GOAL
   10. Almería                           0  🔴
 
 RITARDI X2 + GOAL
-   1. Sporting Gijón                    7  🟢 57%  👻 36/42
-   2. Mallorca                         6+  🟢 83%  👻 36/42
-   3. Girona                            4  🟢 75%  👻 36/42
-   4. Cádiz                             3  🟢 67%  👻 36/42
-   5. Córdoba                           3  🟢 100%  🔴  👻 36/42
-   6. Eldense                           3  🟢 100%  👻 36/42
-   7. Albacete                          2  🟢 100%  🔴  👻 36/42
-   8. Granada                           2  🟢 100%  👻 36/42
-   9. Las Palmas                        2  🟢 50%  👻 36/42
-  10. AD Ceuta FC                       1  🟢 100%  👻 36/42
+   1. Sporting Gijón                    7  🟢 57%  👻 35/42
+   2. Mallorca                         6+  🟢 83%  👻 35/42
+   3. Girona                            4  🟢 75%  👻 35/42
+   4. Cádiz                             3  🟢 67%  👻 35/42
+   5. Córdoba                           3  🟢 100%  🔴  👻 35/42
+   6. Eldense                           3  🟢 100%  👻 35/42
+   7. Albacete                          2  🟢 100%  🔴  👻 35/42
+   8. Granada                           2  🟢 100%  👻 35/42
+   9. Las Palmas                        2  🟢 50%  👻 35/42
+  10. AD Ceuta FC                       1  🟢 100%  👻 35/42
 
 RITARDI 12 + GOAL
    1. Castellón                         6  🟢 83%  🔴
@@ -2667,16 +2665,16 @@ RITARDI 1X + GOAL
   10. Standard Liège                    1  🟢 100%  👻 38/42
 
 RITARDI X2 + GOAL
-   1. Club Brugge                      11  🟢 91%  👻 40/42
-   2. Anderlecht                        6  🟢 67%  👻 40/42
-   3. Gent                              5  🟢 80%  👻 40/42
-   4. Lommel                           5+  👻 40/42
-   5. KV Mechelen                       4  🟢 50%  🔴  👻 40/42
-   6. Genk                              2  🟢 100%  👻 40/42
-   7. Royal Antwerp                     2  🟢 100%  👻 40/42
-   8. Sporting Charleroi                2  🟢 100%  👻 40/42
-   9. Cercle Brugge                     1  🟢 100%  🔴  👻 40/42
-  10. RAAL La Louvière                  1  🟢 100%  👻 40/42
+   1. Club Brugge                      11  🟢 91%  👻 39/42
+   2. Anderlecht                        6  🟢 67%  👻 39/42
+   3. Gent                              5  🟢 80%  👻 39/42
+   4. Lommel                           5+  👻 39/42
+   5. KV Mechelen                       4  🟢 50%  🔴  👻 39/42
+   6. Genk                              2  🟢 100%  👻 39/42
+   7. Royal Antwerp                     2  🟢 100%  👻 39/42
+   8. Sporting Charleroi                2  🟢 100%  👻 39/42
+   9. Cercle Brugge                     1  🟢 100%  🔴  👻 39/42
+  10. RAAL La Louvière                  1  🟢 100%  👻 39/42
 
 RITARDI 12 + GOAL
    1. Standard Liège                    8  🟢 62%
@@ -2761,16 +2759,16 @@ RITARDI X2 + GOAL
   10. Telstar                           1  🟢 100%  🔴  🔥 1/42
 
 RITARDI 12 + GOAL
-   1. Feyenoord                         6  🟢 100%  ❗ 11/42
-   2. NEC Nijmegen                      4  🟢 100%  ❗ 11/42
-   3. AZ Alkmaar                        3  🟢 67%  ❗ 11/42
-   4. Ajax                              3  🟢 67%  ❗ 11/42
-   5. Cambuur                           3  🟢 100%  🔴  ❗ 11/42
-   6. PSV Eindhoven                     3  🟢 100%  🔴  ❗ 11/42
-   7. SC Heerenveen                     3  ❗ 11/42
-   8. Fortuna Sittard                   2  🟢 50%  ❗ 11/42
-   9. Excelsior                         1  🟢 100%  ❗ 11/42
-  10. FC Utrecht                        1  🟢 100%  ❗ 11/42
+   1. Feyenoord                         6  🟢 100%  ❗ 12/42
+   2. NEC Nijmegen                      4  🟢 100%  ❗ 12/42
+   3. AZ Alkmaar                        3  🟢 67%  ❗ 12/42
+   4. Ajax                              3  🟢 67%  ❗ 12/42
+   5. Cambuur                           3  🟢 100%  🔴  ❗ 12/42
+   6. PSV Eindhoven                     3  🟢 100%  🔴  ❗ 12/42
+   7. SC Heerenveen                     3  ❗ 12/42
+   8. Fortuna Sittard                   2  🟢 50%  ❗ 12/42
+   9. Excelsior                         1  🟢 100%  ❗ 12/42
+  10. FC Utrecht                        1  🟢 100%  ❗ 12/42
 
 ==================================================
 OLANDA - EERSTE DIVISIE
@@ -2979,7 +2977,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 3,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -2995,16 +2993,16 @@ RITARDI 1X + GOAL
   10. Estrela da Amadora                2  🟢 100%  👻 41/42
 
 RITARDI X2 + GOAL
-   1. FC Porto                          8  🟢 75%  👻 35/42
-   2. Académico Viseu                  5+  🟢 80%  👻 35/42
-   3. Benfica                           4  🟢 75%  👻 35/42
-   4. Moreirense                        4  🟢 75%  👻 35/42
-   5. Estrela da Amadora                3  🟢 100%  👻 35/42
-   6. Alverca                           2  👻 35/42
-   7. Arouca                            2  👻 35/42
-   8. Casa Pia AC                       2  🟢 50%  👻 35/42
-   9. Gil Vicente                       2  🔴  👻 35/42
-  10. Nacional                          2  🟢 50%  👻 35/42
+   1. FC Porto                          8  🟢 75%  👻 36/42
+   2. Académico Viseu                  5+  🟢 80%  👻 36/42
+   3. Benfica                           4  🟢 75%  👻 36/42
+   4. Moreirense                        4  🟢 75%  👻 36/42
+   5. Estrela da Amadora                3  🟢 100%  👻 36/42
+   6. Alverca                           2  👻 36/42
+   7. Arouca                            2  👻 36/42
+   8. Casa Pia AC                       2  🟢 50%  👻 36/42
+   9. Gil Vicente                       2  🔴  👻 36/42
+  10. Nacional                          2  🟢 50%  👻 36/42
 
 RITARDI 12 + GOAL
    1. Vitória de Guimarães              8  🟢 50%  👻 39/42
@@ -3962,7 +3960,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4177,8 +4175,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,8
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,5 · 12 + GOAL 1 ogni 3,6
 ==================================================
 RITARDI 1X + GOAL
    1. Arsenal                           7
@@ -4193,16 +4191,16 @@ RITARDI 1X + GOAL
   10. Hull City                         1
 
 RITARDI X2 + GOAL
-   1. Brighton & Hove Albion            7  🟢 71%  👻 39/42
-   2. Arsenal                           5  👻 39/42
-   3. Newcastle United                  5  🟢 100%  👻 39/42
-   4. Coventry City                    4+  🟢 50%  👻 39/42
-   5. Chelsea                           3  🟢 100%  👻 39/42
-   6. Crystal Palace                    3  🟢 67%  👻 39/42
-   7. Leeds United                      3  🟢 67%  👻 39/42
-   8. Manchester City                   3  🟢 67%  🔴  👻 39/42
-   9. Sunderland                        3  🟢 100%  👻 39/42
-  10. AFC Bournemouth                   2  🟢 100%  👻 39/42
+   1. Brighton & Hove Albion            7  🟢 71%  👻 40/42
+   2. Arsenal                           5  👻 40/42
+   3. Coventry City                    5+  🟢 60%  👻 40/42
+   4. Newcastle United                  5  🟢 100%  👻 40/42
+   5. Chelsea                           3  🟢 100%  👻 40/42
+   6. Crystal Palace                    3  🟢 67%  👻 40/42
+   7. Leeds United                      3  🟢 67%  👻 40/42
+   8. Manchester City                   3  🟢 67%  🔴  👻 40/42
+   9. Sunderland                        3  🟢 100%  👻 40/42
+  10. AFC Bournemouth                   2  🟢 100%  👻 40/42
 
 RITARDI 12 + GOAL
    1. Manchester United                 9  🟢 78%  👻 41/42
@@ -4218,44 +4216,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (168 partite giocate) + 2025/2026
+Stagione 2026/2027 (169 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                  5  🟢 60%
-   2. Birmingham City                   4  🟢 50%
-   3. Stoke City                        4  🟢 75%
-   4. Wolverhampton Wanderers           4  🟢 50%
-   5. Middlesbrough                     3  🟢 100%
-   6. Bristol City                      2  🟢 50%
-   7. Charlton Athletic                 2  🟢 100%
-   8. Norwich City                      2  🟢 100%  🔴
-   9. Sheffield United                  2  🟢 50%
-  10. Wrexham                           2  🟢 50%
+   1. Birmingham City                   4  🟢 50%
+   2. Stoke City                        4  🟢 75%
+   3. Wolverhampton Wanderers           4  🟢 50%
+   4. Middlesbrough                     3  🟢 100%
+   5. Bristol City                      2  🟢 50%
+   6. Charlton Athletic                 2  🟢 100%
+   7. Norwich City                      2  🟢 100%  🔴
+   8. Sheffield United                  2  🟢 50%
+   9. Wrexham                           2  🟢 50%
+  10. Blackburn Rovers                  1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Watford                           6  🟢 50%  ❗ 9/42
    2. Blackburn Rovers                  3  🟢 67%  ❗ 9/42
-   3. Millwall                          3  🟢 67%  ❗ 9/42
-   4. Preston North End                 3  🟢 100%  ❗ 9/42
-   5. Swansea City                      3  🟢 67%  ❗ 9/42
-   6. Bolton Wanderers                  2  ❗ 9/42
+   3. Bolton Wanderers                  3  ❗ 9/42
+   4. Millwall                          3  🟢 67%  ❗ 9/42
+   5. Preston North End                 3  🟢 100%  ❗ 9/42
+   6. Swansea City                      3  🟢 67%  ❗ 9/42
    7. Charlton Athletic                 2  🟢 100%  🔴  ❗ 9/42
    8. Queens Park Rangers               2  🟢 100%  ❗ 9/42
    9. Wrexham                           2  🟢 50%  🔴  ❗ 9/42
   10. Cardiff City                      1  🟢 100%  ❗ 9/42
 
 RITARDI 12 + GOAL
-   1. Wrexham                           7  🟢 71%  ❗ 12/42
-   2. Lincoln City                      6  ❗ 12/42
-   3. Portsmouth                        5  ❗ 12/42
-   4. West Ham United                   4  🟢 75%  ❗ 12/42
-   5. Charlton Athletic                 3  🟢 100%  ❗ 12/42
-   6. Bolton Wanderers                  2  ❗ 12/42
-   7. Cardiff City                      2  🟢 100%  ❗ 12/42
-   8. Blackburn Rovers                  1  🟢 100%  ❗ 12/42
-   9. Burnley                           1  🟢 100%  ❗ 12/42
-  10. Middlesbrough                     1  🟢 100%  🔴  ❗ 12/42
+   1. Wrexham                           7  🟢 71%  ❗ 11/42
+   2. Lincoln City                      6  ❗ 11/42
+   3. Portsmouth                        5  ❗ 11/42
+   4. West Ham United                   4  🟢 75%  ❗ 11/42
+   5. Charlton Athletic                 3  🟢 100%  ❗ 11/42
+   6. Cardiff City                      2  🟢 100%  ❗ 11/42
+   7. Blackburn Rovers                  1  🟢 100%  ❗ 11/42
+   8. Burnley                           1  🟢 100%  ❗ 11/42
+   9. Middlesbrough                     1  🟢 100%  🔴  ❗ 11/42
+  10. Millwall                          1  🟢 100%  ❗ 11/42
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -4546,8 +4544,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (109 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (110 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Getafe                           13
@@ -4559,14 +4557,14 @@ RITARDI 1X + GOAL
    7. Racing Santander                  2  🟢 100%
    8. Real Madrid                       2  🟢 100%
    9. Deportivo A Coruña                1
-  10. Espanyol                          1  🔴
+  10. Deportivo Alavés                  1
 
 RITARDI X2 + GOAL
    1. Getafe                            9
    2. Athletic Club                     6  🟢 83%
-   3. Osasuna                           5  🟢 100%
-   4. Racing Santander                 5+  🟢 80%
-   5. Deportivo Alavés                  4  🟢 75%
+   3. Deportivo Alavés                  5  🟢 60%
+   4. Osasuna                           5  🟢 100%
+   5. Racing Santander                 5+  🟢 80%
    6. Atlético Madrid                   2  🟢 50%
    7. Celta Vigo                        2  🟢 50%
    8. Deportivo A Coruña                2  🟢 50%  🔴
@@ -4583,7 +4581,7 @@ RITARDI 12 + GOAL
    7. Rayo Vallecano                    2  🟢 100%
    8. Real Betis                        2  🟢 50%
    9. Deportivo A Coruña                1
-  10. Espanyol                          1  🔴
+  10. Deportivo Alavés                  1
 
 ==================================================
 SPAGNA - LALIGA 2
@@ -4603,16 +4601,16 @@ RITARDI 1X + GOAL
   10. Albacete                          0  🔴
 
 RITARDI X2 + GOAL
-   1. Leganés                           6  🟢 67%  👻 36/42
-   2. Celta Fortuna                    5+  🟢 80%  👻 36/42
-   3. Sporting Gijón                    4  🟢 75%  👻 36/42
-   4. Albacete                          3  🟢 100%  👻 36/42
-   5. Real Sociedad B                   3  🟢 67%  🔴  👻 36/42
-   6. Cádiz                             2  🟢 100%  👻 36/42
-   7. Eibar                             2  🟢 100%  👻 36/42
-   8. Granada                           2  🟢 50%  👻 36/42
-   9. Sabadell                          2  🟢 50%  👻 36/42
-  10. AD Ceuta FC                       1  🟢 100%  👻 36/42
+   1. Leganés                           6  🟢 67%  👻 35/42
+   2. Celta Fortuna                    5+  🟢 80%  👻 35/42
+   3. Sporting Gijón                    4  🟢 75%  👻 35/42
+   4. Albacete                          3  🟢 100%  👻 35/42
+   5. Real Sociedad B                   3  🟢 67%  🔴  👻 35/42
+   6. Cádiz                             2  🟢 100%  👻 35/42
+   7. Eibar                             2  🟢 100%  👻 35/42
+   8. Granada                           2  🟢 50%  👻 35/42
+   9. Sabadell                          2  🟢 50%  👻 35/42
+  10. AD Ceuta FC                       1  🟢 100%  👻 35/42
 
 RITARDI 12 + GOAL
    1. Mallorca                         6+  🟢 50%
@@ -4644,16 +4642,16 @@ RITARDI 1X + GOAL
   10. SK Beveren                        1  🟢 100%  👻 38/42
 
 RITARDI X2 + GOAL
-   1. Westerlo                          9  🟢 89%  👻 40/42
-   2. RAAL La Louvière                  8  🟢 100%  👻 40/42
-   3. Royal Antwerp                     7  🟢 71%  👻 40/42
-   4. Genk                              3  🔴  👻 40/42
-   5. Sporting Charleroi                3  👻 40/42
-   6. St.Truiden                        3  🟢 100%  👻 40/42
-   7. Standard Liège                    3  🟢 100%  👻 40/42
-   8. Zulte Waregem                     3  🟢 100%  👻 40/42
-   9. Cercle Brugge                     2  🟢 100%  👻 40/42
-  10. Gent                              2  🟢 100%  👻 40/42
+   1. Westerlo                          9  🟢 89%  👻 39/42
+   2. RAAL La Louvière                  8  🟢 100%  👻 39/42
+   3. Royal Antwerp                     7  🟢 71%  👻 39/42
+   4. Genk                              3  🔴  👻 39/42
+   5. Sporting Charleroi                3  👻 39/42
+   6. St.Truiden                        3  🟢 100%  👻 39/42
+   7. Standard Liège                    3  🟢 100%  👻 39/42
+   8. Zulte Waregem                     3  🟢 100%  👻 39/42
+   9. Cercle Brugge                     2  🟢 100%  👻 39/42
+  10. Gent                              2  🟢 100%  👻 39/42
 
 RITARDI 12 + GOAL
    1. Kortrijk                         5+  🟢 80%
@@ -4738,16 +4736,16 @@ RITARDI X2 + GOAL
   10. NEC Nijmegen                      1  🔥 1/42
 
 RITARDI 12 + GOAL
-   1. Excelsior                         6  🟢 83%  🔴  ❗ 11/42
-   2. PEC Zwolle                        5  🟢 100%  ❗ 11/42
-   3. ADO Den Haag                      4  🟢 75%  ❗ 11/42
-   4. FC Twente                         4  🟢 100%  ❗ 11/42
-   5. AZ Alkmaar                        3  🟢 67%  🔴  ❗ 11/42
-   6. Fortuna Sittard                   3  🟢 67%  ❗ 11/42
-   7. NEC Nijmegen                      3  🟢 67%  ❗ 11/42
-   8. FC Groningen                      1  🟢 100%  ❗ 11/42
-   9. Feyenoord                         1  🟢 100%  🔴  ❗ 11/42
-  10. Go Ahead Eagles                   1  🟢 100%  ❗ 11/42
+   1. Excelsior                         6  🟢 83%  🔴  ❗ 12/42
+   2. PEC Zwolle                        5  🟢 100%  ❗ 12/42
+   3. ADO Den Haag                      4  🟢 75%  ❗ 12/42
+   4. FC Twente                         4  🟢 100%  ❗ 12/42
+   5. AZ Alkmaar                        3  🟢 67%  🔴  ❗ 12/42
+   6. Fortuna Sittard                   3  🟢 67%  ❗ 12/42
+   7. NEC Nijmegen                      3  🟢 67%  ❗ 12/42
+   8. FC Groningen                      1  🟢 100%  ❗ 12/42
+   9. Feyenoord                         1  🟢 100%  🔴  ❗ 12/42
+  10. Go Ahead Eagles                   1  🟢 100%  ❗ 12/42
 
 ==================================================
 OLANDA - EERSTE DIVISIE
@@ -4956,7 +4954,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 3,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -4966,26 +4964,26 @@ RITARDI 1X + GOAL
    4. Alverca                           3  🟢 67%  👻 41/42
    5. Famalicão                         3  🟢 100%  👻 41/42
    6. Santa Clara                       3  🟢 67%  👻 41/42
-   7. Braga                             2  👻 41/42
-   8. Gil Vicente                       2  🟢 50%  🔴  👻 41/42
-   9. Sporting CP                       2  🟢 100%  👻 41/42
-  10. Vitória de Guimarães              2  🟢 50%  👻 41/42
+   7. Arouca                            2  👻 41/42
+   8. Braga                             2  👻 41/42
+   9. Gil Vicente                       2  🟢 50%  🔴  👻 41/42
+  10. Sporting CP                       2  🟢 100%  👻 41/42
 
 RITARDI X2 + GOAL
-   1. Vitória de Guimarães              8  🟢 62%  👻 35/42
-   2. Estoril                           5  🟢 80%  👻 35/42
-   3. Rio Ave                           5  🟢 60%  👻 35/42
-   4. Nacional                          4  🟢 50%  👻 35/42
-   5. Braga                             3  👻 35/42
-   6. Famalicão                         3  🟢 100%  👻 35/42
-   7. Estrela da Amadora                2  🟢 50%  👻 35/42
-   8. Santa Clara                       2  🟢 50%  👻 35/42
-   9. Alverca                           1  🔴  👻 35/42
-  10. Arouca                            1  👻 35/42
+   1. Vitória de Guimarães              8  🟢 62%  👻 36/42
+   2. Estoril                           5  🟢 80%  👻 36/42
+   3. Rio Ave                           5  🟢 60%  👻 36/42
+   4. Nacional                          4  🟢 50%  👻 36/42
+   5. Braga                             3  👻 36/42
+   6. Famalicão                         3  🟢 100%  👻 36/42
+   7. Arouca                            2  👻 36/42
+   8. Estrela da Amadora                2  🟢 50%  👻 36/42
+   9. Santa Clara                       2  🟢 50%  👻 36/42
+  10. Alverca                           1  🔴  👻 36/42
 
 RITARDI 12 + GOAL
    1. Famalicão                        10  🟢 70%  👻 39/42
-   2. Arouca                            5  👻 39/42
+   2. Arouca                            6  👻 39/42
    3. Braga                             2  🔴  👻 39/42
    4. Marítimo                          2  🟢 100%  🔴  👻 39/42
    5. Santa Clara                       2  🟢 50%  👻 39/42

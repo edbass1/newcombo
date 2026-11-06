@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -114,7 +114,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 Manchester United              48/100
     5/20 AFC Bournemouth                48/100
      ...
-   20/20 Everton                        33/100  (la fa meno spesso)
+   20/20 Arsenal                        34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 AFC Bournemouth                42/100
@@ -130,11 +130,12 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Fulham                         44/100
     3/20 Tottenham Hotspur              41/100
     4/20 Liverpool                      41/100
-    5/20 Chelsea                        41/100
-    6/20 Brentford                      41/100
-    7/20 Aston Villa                    41/100
+    5/20 Coventry City                  41/100
+    6/20 Chelsea                        41/100
+    7/20 Brentford                      41/100
+    8/20 Aston Villa                    41/100
      ...
-   20/20 Everton                        20/100  (la fa meno spesso)
+   20/20 Everton                        21/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -155,7 +156,6 @@ SOTTOFREQUENZA X2 + GOAL
     3/24 West Ham United                39/100
     4/24 Southampton                    39/100
     5/24 Wrexham                        38/100
-    6/24 Derby County                   38/100
      ...
    24/24 Lincoln City                   26/100  (la fa meno spesso)
 
@@ -725,7 +725,6 @@ SOTTOFREQUENZA 1X + GOAL
     3/18 Académico Viseu                44/100
     4/18 Moreirense                     41/100
     5/18 Estoril                        40/100
-    6/18 Arouca                         40/100
      ...
    18/18 Santa Clara                    26/100  (la fa meno spesso)
 
@@ -1477,7 +1476,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1583,7 +1582,7 @@ SOTTOFREQUENZA 1X + GOAL
     5/20 Chelsea                        47/100
     6/20 Brighton & Hove Albion         47/100
      ...
-   20/20 Everton                        24/100  (la fa meno spesso)
+   20/20 Everton                        25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Hull City                      39/100
@@ -1601,7 +1600,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Arsenal                        44/100
     5/20 Aston Villa                    43/100
      ...
-   20/20 Everton                        26/100  (la fa meno spesso)
+   20/20 Nottingham Forest              26/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -2164,9 +2163,8 @@ SOTTOFREQUENZA X2 + GOAL
     3/18 Rio Ave                        34/100
     4/18 Gil Vicente                    34/100
     5/18 Nacional                       33/100
-    6/18 Famalicão                      33/100
-    7/18 Estrela da Amadora             33/100
-    8/18 Académico Viseu                33/100
+    6/18 Estrela da Amadora             33/100
+    7/18 Académico Viseu                33/100
      ...
    18/18 FC Porto                       15/100  (la fa meno spesso)
 
@@ -2899,7 +2897,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 06/11/2026 22:39 (ora italiana)
+Aggiornato: 06/11/2026 23:38 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3007,7 +3005,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Ipswich Town                   43/100
     3/20 AFC Bournemouth                43/100
     4/20 Manchester United              42/100
-    5/20 Brentford                      42/100
+    5/20 Coventry City                  42/100
+    6/20 Brentford                      42/100
      ...
    20/20 Arsenal                        23/100  (la fa meno spesso)
 
@@ -3299,7 +3298,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Sevilla                        50/100
     3/20 Elche                          48/100
     4/20 Valencia                       45/100
-    5/20 Deportivo Alavés               44/100
+    5/20 Deportivo Alavés               43/100
      ...
    20/20 Barcelona                      26/100  (la fa meno spesso)
 
@@ -3585,7 +3584,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Académico Viseu                44/100
     3/18 Rio Ave                        41/100
     4/18 Gil Vicente                    41/100
-    5/18 Arouca                         41/100
+    5/18 Arouca                         40/100
      ...
    18/18 Benfica                        18/100  (la fa meno spesso)
 
