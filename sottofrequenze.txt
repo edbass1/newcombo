@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1320,7 +1320,7 @@ SOTTOFREQUENZA 1X + GOAL
     5/11 Wellington Phoenix             44/100
     6/11 Brisbane Roar FC               44/100
      ...
-   11/11 Sydney FC                      38/100  (la fa meno spesso)
+   11/11 Western Sydney Wanderers FC    38/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/11 Adelaide United                50/100
@@ -1469,7 +1469,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2895,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4102,7 +4102,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Flamengo                       39/100
     3/18 Vitória                        37/100
     4/18 Grêmio                         35/100
-    5/18 Bahia                          34/100
+    5/18 Bahia                          35/100
      ...
    18/18 Cruzeiro                       23/100  (la fa meno spesso)
 

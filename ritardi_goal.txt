@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1124,16 +1124,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                             10  🟢 80%  ❗ 9/42
-   2. Stabæk                            3  🟢 67%  ❗ 9/42
-   3. Strømsgodset                      3  🟢 67%  ❗ 9/42
-   4. Åsane                             3  🟢 67%  ❗ 9/42
-   5. Raufoss                           2  🟢 100%  ❗ 9/42
-   6. Bryne                             1  🟢 100%  ❗ 9/42
-   7. FK Haugesund                      1  🟢 100%  ❗ 9/42
-   8. Hødd                              1  🟢 100%  🔴  ❗ 9/42
-   9. Kongsvinger                       1  🟢 100%  🔴  ❗ 9/42
-  10. Lyn                               1  🟢 100%  ❗ 9/42
+   1. Moss                             10  🟢 80%  ❗ 10/42
+   2. Stabæk                            3  🟢 67%  ❗ 10/42
+   3. Strømsgodset                      3  🟢 67%  ❗ 10/42
+   4. Åsane                             3  🟢 67%  ❗ 10/42
+   5. Raufoss                           2  🟢 100%  ❗ 10/42
+   6. Bryne                             1  🟢 100%  ❗ 10/42
+   7. FK Haugesund                      1  🟢 100%  ❗ 10/42
+   8. Hødd                              1  🟢 100%  🔴  ❗ 10/42
+   9. Kongsvinger                       1  🟢 100%  🔴  ❗ 10/42
+  10. Lyn                               1  🟢 100%  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Lyn                               4  🟢 75%
@@ -1651,20 +1651,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (337 partite giocate) + 2025
+Stagione 2026 (338 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          4  ❗ 10/42
-   2. Cruzeiro                          3  ❗ 10/42
-   3. Athletico Paranaense              2  🟢 100%  ❗ 10/42
-   4. Atlético-MG                       2  ❗ 10/42
-   5. Chapecoense                       2  🟢 100%  ❗ 10/42
-   6. Corinthians                       2  🟢 50%  🔴  ❗ 10/42
-   7. Mirassol                          2  🟢 100%  ❗ 10/42
-   8. Vasco da Gama                     2  🟢 100%  ❗ 10/42
-   9. Botafogo                          1  ❗ 10/42
-  10. Internacional                     1  ❗ 10/42
+   1. Coritiba                          4  ❗ 9/42
+   2. Athletico Paranaense              2  🟢 100%  ❗ 9/42
+   3. Atlético-MG                       2  ❗ 9/42
+   4. Chapecoense                       2  🟢 100%  ❗ 9/42
+   5. Corinthians                       2  🟢 50%  🔴  ❗ 9/42
+   6. Mirassol                          2  🟢 100%  ❗ 9/42
+   7. Vasco da Gama                     2  🟢 100%  ❗ 9/42
+   8. Botafogo                          1  ❗ 9/42
+   9. Internacional                     1  ❗ 9/42
+  10. São Paulo                         1  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Palmeiras                         9  🟢 56%
@@ -1673,22 +1673,22 @@ RITARDI X2 + GOAL
    4. Coritiba                          4
    5. Internacional                     4  🟢 75%  🔴
    6. Corinthians                       3  🟢 67%
-   7. Grêmio                            3  🟢 67%
-   8. RB Bragantino                     3  🟢 100%
-   9. Remo                              3  🟢 67%
-  10. Cruzeiro                          2
+   7. Cruzeiro                          3
+   8. Grêmio                            3  🟢 67%
+   9. RB Bragantino                     3  🟢 100%
+  10. Remo                              3  🟢 67%
 
 RITARDI 12 + GOAL
    1. Coritiba                          8  🟢 62%
    2. Vitória                           3  🟢 100%
    3. Atlético-MG                       2
    4. Corinthians                       2  🟢 50%  🔴
-   5. Cruzeiro                          2
-   6. Botafogo                          1
-   7. Internacional                     1
-   8. São Paulo                         1
-   9. Athletico Paranaense              0
-  10. Bahia                             0
+   5. Botafogo                          1
+   6. Internacional                     1
+   7. São Paulo                         1
+   8. Athletico Paranaense              0
+   9. Bahia                             0
+  10. Chapecoense                       0
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1774,7 +1774,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (17 partite giocate) + 2025/2026
+Stagione 2026/2027 (18 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Wellington Phoenix                2  🟢 100%
@@ -1792,25 +1792,25 @@ RITARDI X2 + GOAL
    1. Wellington Phoenix                7  🟢 86%
    2. Western Sydney Wanderers FC       7  🟢 71%
    3. Perth Glory                       6  🟢 83%
-   4. Sydney FC                         4  🟢 50%
+   4. Sydney FC                         5  🟢 60%
    5. Adelaide United                   3  🟢 100%  🔴
-   6. Macarthur FC                      1  🔴
-   7. Melbourne City FC                 1  🟢 100%
-   8. Newcastle Jets                    1  🟢 100%  🔴
-   9. Auckland FC                       0
-  10. Brisbane Roar FC                  0
+   6. Central Coast Mariners            1  🟢 100%
+   7. Macarthur FC                      1  🔴
+   8. Melbourne City FC                 1  🟢 100%
+   9. Newcastle Jets                    1  🟢 100%  🔴
+  10. Auckland FC                       0
 
 RITARDI 12 + GOAL
    1. Newcastle Jets                    8  🟢 100%
-   2. Central Coast Mariners            6  🟢 83%
-   3. Macarthur FC                      2  🟢 50%  🔴
-   4. Melbourne Victory                 2  🟢 100%
-   5. Wellington Phoenix                2  🟢 100%
-   6. Adelaide United                   1  🟢 100%  🔴
-   7. Auckland FC                       1  🟢 100%
-   8. Brisbane Roar FC                  1  🟢 100%  🔴
-   9. Perth Glory                       1  🟢 100%
-  10. Western Sydney Wanderers FC       1
+   2. Macarthur FC                      2  🟢 50%  🔴
+   3. Melbourne Victory                 2  🟢 100%
+   4. Wellington Phoenix                2  🟢 100%
+   5. Adelaide United                   1  🟢 100%  🔴
+   6. Auckland FC                       1  🟢 100%
+   7. Brisbane Roar FC                  1  🟢 100%  🔴
+   8. Perth Glory                       1  🟢 100%
+   9. Western Sydney Wanderers FC       1
+  10. Central Coast Mariners            0
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
@@ -1980,7 +1980,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3106,16 +3106,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              5  🟢 80%  ❗ 9/42
-   2. Lyn                               4  🟢 75%  ❗ 9/42
-   3. Raufoss                           3  🟢 100%  ❗ 9/42
-   4. Kongsvinger                       2  🟢 100%  🔴  ❗ 9/42
-   5. Strømsgodset                      2  🟢 100%  ❗ 9/42
-   6. Åsane                             2  🟢 50%  ❗ 9/42
-   7. Hødd                              1  🟢 100%  🔴  ❗ 9/42
-   8. Stabæk                            1  🟢 100%  ❗ 9/42
-   9. Strømmen                          1  ❗ 9/42
-  10. Bryne                             0  🔴  ❗ 9/42
+   1. Moss                              5  🟢 80%  ❗ 10/42
+   2. Lyn                               4  🟢 75%  ❗ 10/42
+   3. Raufoss                           3  🟢 100%  ❗ 10/42
+   4. Kongsvinger                       2  🟢 100%  🔴  ❗ 10/42
+   5. Strømsgodset                      2  🟢 100%  ❗ 10/42
+   6. Åsane                             2  🟢 50%  ❗ 10/42
+   7. Hødd                              1  🟢 100%  🔴  ❗ 10/42
+   8. Stabæk                            1  🟢 100%  ❗ 10/42
+   9. Strømmen                          1  ❗ 10/42
+  10. Bryne                             0  🔴  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. FK Haugesund                      7  🟢 100%
@@ -3633,26 +3633,26 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (337 partite giocate) + 2025
+Stagione 2026 (338 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Botafogo                          3  ❗ 10/42
-   2. Athletico Paranaense              2  🟢 100%  🔴  ❗ 10/42
-   3. Atlético-MG                       2  🔴  ❗ 10/42
-   4. Coritiba                          2  🟢 50%  ❗ 10/42
-   5. Cruzeiro                          2  🟢 50%  ❗ 10/42
-   6. Grêmio                            2  🟢 100%  ❗ 10/42
-   7. Internacional                     2  🟢 50%  ❗ 10/42
-   8. São Paulo                         2  ❗ 10/42
-   9. Chapecoense                       1  🟢 100%  ❗ 10/42
-  10. Corinthians                       1  🟢 100%  ❗ 10/42
+   1. Botafogo                          3  ❗ 9/42
+   2. Athletico Paranaense              2  🟢 100%  🔴  ❗ 9/42
+   3. Atlético-MG                       2  🔴  ❗ 9/42
+   4. Coritiba                          2  🟢 50%  ❗ 9/42
+   5. Grêmio                            2  🟢 100%  ❗ 9/42
+   6. Internacional                     2  🟢 50%  ❗ 9/42
+   7. São Paulo                         2  ❗ 9/42
+   8. Chapecoense                       1  🟢 100%  ❗ 9/42
+   9. Corinthians                       1  🟢 100%  ❗ 9/42
+  10. Santos                            1  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Flamengo                          8  🟢 88%
-   2. Palmeiras                         7  🟢 71%
-   3. Bahia                             6  🟢 67%
-   4. Cruzeiro                          6  🟢 67%
+   2. Cruzeiro                          7  🟢 71%
+   3. Palmeiras                         7  🟢 71%
+   4. Bahia                             6  🟢 67%
    5. Atlético-MG                       4
    6. Internacional                     3  🟢 67%  🔴
    7. RB Bragantino                     3  🟢 100%
@@ -3667,10 +3667,10 @@ RITARDI 12 + GOAL
    4. Atlético-MG                       2
    5. Botafogo                          2
    6. Corinthians                       2  🟢 100%
-   7. Cruzeiro                          2  🟢 50%
-   8. Internacional                     2  🟢 50%  🔴
-   9. São Paulo                         2
-  10. Vitória                           2  🟢 100%
+   7. Internacional                     2  🟢 50%  🔴
+   8. São Paulo                         2
+   9. Vitória                           2  🟢 100%
+  10. Grêmio                            1  🟢 100%  🔴
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -3756,7 +3756,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (17 partite giocate) + 2025/2026
+Stagione 2026/2027 (18 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Adelaide United                   1  🟢 100%  🔴
@@ -3774,10 +3774,10 @@ RITARDI X2 + GOAL
    1. Wellington Phoenix                6  🟢 83%
    2. Macarthur FC                      4  🟢 75%
    3. Perth Glory                       3  🟢 100%  🔴
-   4. Western Sydney Wanderers FC       3  🟢 100%  🔴
-   5. Adelaide United                   2  🟢 100%
-   6. Auckland FC                       2  🟢 50%
-   7. Sydney FC                         2  🟢 50%
+   4. Sydney FC                         3  🟢 67%
+   5. Western Sydney Wanderers FC       3  🟢 100%  🔴
+   6. Adelaide United                   2  🟢 100%
+   7. Auckland FC                       2  🟢 50%
    8. Melbourne City FC                 1  🟢 100%
    9. Newcastle Jets                    1  🟢 100%  🔴
   10. Brisbane Roar FC                  0
@@ -3962,7 +3962,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 06/11/2026 01:44 (ora italiana)
+Aggiornato: 06/11/2026 12:55 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5080,16 +5080,16 @@ Stagione 2026 (232 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              5  🟢 80%  ❗ 9/42
-   2. Stabæk                            4  🟢 75%  🔴  ❗ 9/42
-   3. Odds Ballklubb                    3  🟢 67%  ❗ 9/42
-   4. Strømsgodset                      3  🟢 67%  ❗ 9/42
-   5. FK Haugesund                      2  🟢 100%  ❗ 9/42
-   6. Bryne                             1  🟢 100%  ❗ 9/42
-   7. Ranheim                           1  🟢 100%  ❗ 9/42
-   8. Raufoss                           1  🟢 100%  🔴  ❗ 9/42
-   9. Åsane                             1  🟢 100%  🔴  ❗ 9/42
-  10. Egersund                          0  ❗ 9/42
+   1. Moss                              5  🟢 80%  ❗ 10/42
+   2. Stabæk                            4  🟢 75%  🔴  ❗ 10/42
+   3. Odds Ballklubb                    3  🟢 67%  ❗ 10/42
+   4. Strømsgodset                      3  🟢 67%  ❗ 10/42
+   5. FK Haugesund                      2  🟢 100%  ❗ 10/42
+   6. Bryne                             1  🟢 100%  ❗ 10/42
+   7. Ranheim                           1  🟢 100%  ❗ 10/42
+   8. Raufoss                           1  🟢 100%  🔴  ❗ 10/42
+   9. Åsane                             1  🟢 100%  🔴  ❗ 10/42
+  10. Egersund                          0  ❗ 10/42
 
 RITARDI X2 + GOAL
    1. Bryne                             7  🟢 86%
@@ -5607,20 +5607,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (337 partite giocate) + 2025
+Stagione 2026 (338 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          5  🟢 60%  🔴  ❗ 10/42
-   2. Vasco da Gama                     5  🟢 60%  ❗ 10/42
-   3. Palmeiras                         4  ❗ 10/42
-   4. Chapecoense                       3  🟢 67%  ❗ 10/42
-   5. Mirassol                          3  🟢 67%  ❗ 10/42
-   6. Cruzeiro                          2  🟢 50%  ❗ 10/42
-   7. Flamengo                          2  🟢 100%  ❗ 10/42
-   8. Athletico Paranaense              1  🟢 100%  ❗ 10/42
-   9. Atlético-MG                       1  ❗ 10/42
-  10. Corinthians                       1  ❗ 10/42
+   1. Coritiba                          5  🟢 60%  🔴  ❗ 9/42
+   2. Vasco da Gama                     5  🟢 60%  ❗ 9/42
+   3. Palmeiras                         4  ❗ 9/42
+   4. Chapecoense                       3  🟢 67%  ❗ 9/42
+   5. Mirassol                          3  🟢 67%  ❗ 9/42
+   6. Cruzeiro                          2  🟢 50%  ❗ 9/42
+   7. Flamengo                          2  🟢 100%  ❗ 9/42
+   8. Athletico Paranaense              1  🟢 100%  ❗ 9/42
+   9. Atlético-MG                       1  ❗ 9/42
+  10. Corinthians                       1  ❗ 9/42
 
 RITARDI X2 + GOAL
    1. Corinthians                       7  🟢 86%
@@ -5640,11 +5640,11 @@ RITARDI 12 + GOAL
    3. Coritiba                          4  🟢 50%  🔴
    4. RB Bragantino                     3  🟢 67%
    5. Athletico Paranaense              2  🟢 100%
-   6. Bahia                             2  🟢 50%
-   7. Vitória                           2  🟢 100%  🔴
-   8. Atlético-MG                       1
-   9. Corinthians                       1
-  10. Cruzeiro                          1
+   6. Vitória                           2  🟢 100%  🔴
+   7. Atlético-MG                       1
+   8. Corinthians                       1
+   9. Cruzeiro                          1
+  10. Bahia                             0
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -5730,7 +5730,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (17 partite giocate) + 2025/2026
+Stagione 2026/2027 (18 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Wellington Phoenix                5  🟢 80%
@@ -5752,20 +5752,20 @@ RITARDI X2 + GOAL
    5. Melbourne Victory                 2  🟢 100%
    6. Sydney FC                         2  🟢 50%
    7. Brisbane Roar FC                  1  🟢 100%
-   8. Auckland FC                       0
-   9. Central Coast Mariners            0
+   8. Central Coast Mariners            1  🟢 100%
+   9. Auckland FC                       0
   10. Macarthur FC                      0
 
 RITARDI 12 + GOAL
-   1. Central Coast Mariners            4  🟢 75%
-   2. Wellington Phoenix                4  🟢 75%  🔴
-   3. Newcastle Jets                    3  🟢 100%
-   4. Western Sydney Wanderers FC       2
-   5. Adelaide United                   1  🟢 100%  🔴
-   6. Auckland FC                       1  🟢 100%
-   7. Macarthur FC                      1  🟢 100%
-   8. Melbourne City FC                 1  🟢 100%
-   9. Brisbane Roar FC                  0  🔴
+   1. Wellington Phoenix                4  🟢 75%  🔴
+   2. Newcastle Jets                    3  🟢 100%
+   3. Western Sydney Wanderers FC       2
+   4. Adelaide United                   1  🟢 100%  🔴
+   5. Auckland FC                       1  🟢 100%
+   6. Macarthur FC                      1  🟢 100%
+   7. Melbourne City FC                 1  🟢 100%
+   8. Brisbane Roar FC                  0  🔴
+   9. Central Coast Mariners            0
   10. Melbourne Victory                 0  🔴
 
 ==================================================
