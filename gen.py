@@ -1921,7 +1921,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
                     for name, row in state.items():
                         if row["delay"] >= REPEAT_ALERT_MIN and row["last_hit"]:
                             alert_map.setdefault(fixture_key, []).append(
-                                (team, row["name"], current_scope, row)
+                                (team, row["name"], row)
                             )
 
     alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO</h3>']
@@ -1934,10 +1934,10 @@ def render_repeat(data, pools, now, double_fixtures=None):
         lt = datetime.datetime.fromisoformat(t_iso).astimezone(ROME)
         double_badge = '<span class="double-badge">DOUBLE</span> ' if fixture_key in double_fixtures else ''
         details = []
-        for team, combo_name, scope, row in fixture_alerts:
+        for team, combo_name, row in fixture_alerts:
             delay = str(row["delay"]) + ("+" if row["full"] else "")
             details.append(
-                f'<b>{esc(team)}</b> — {esc(combo_name)} · {scope} · ritardo {delay} · '
+                f'<b>{esc(team)}</b> — {esc(combo_name)} · {esc(row["scope"])} · ritardo {delay} · '
                 f'#{row["rank"]}/{row["total"]}'
             )
         alert_html.append(
@@ -1950,7 +1950,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
         "html": "".join(alert_html) + '<div class="repeat-grid">' + "".join(blocks) + "</div>",
         "txt": "\\n".join(lines) + "\\n",
         "by_team": by_team,
-        "alerts": alert_map,
+        "alert_map": alert_map,
     }
 
 
