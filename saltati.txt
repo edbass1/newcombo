@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 06/11/2026 16:40 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 06/11/2026 17:42 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 06/11 09:40  [GOAL] Central Coast Mariners: 12 + GOAL uscita, era a 6  -  Sydney FC 4-1 Central Coast Mariners   [AUSTRALIA - A-LEAGUE MEN]
 04/11 20:30  [GOAL] Kortrijk: 12 + GOAL uscita, era a 6  -  Kortrijk 1-3 KV Mechelen   [BELGIO - FIRST DIVISION A]
@@ -52,7 +52,7 @@ Aggiornato: 06/11/2026 16:40 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 06/11/2026 16:40 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 06/11/2026 17:42 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 04/11 21:00  [GOAL] Bristol City: X2 + GOAL uscita, era a 7 ❗ 9/42  -  Bristol City 1-2 Wolverhampton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
 02/11 23:00  [GOAL] Defensa y Justicia: X2 + GOAL uscita, era a 6  -  Defensa y Justicia 1-1 Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
@@ -82,14 +82,13 @@ Aggiornato: 06/11/2026 16:40 (ora italiana). Dal più recente. Ritardo = partite
 30/10 20:45  [GOAL] Zulte Waregem: X2 + GOAL uscita, era a 6 👻 38/42  -  Zulte Waregem 2-4 Club Brugge   [BELGIO - FIRST DIVISION A]
 30/10 20:00  [GOAL] FC Volendam: X2 + GOAL uscita, era a 6  -  FC Volendam 1-2 De Graafschap   [OLANDA - EERSTE DIVISIE]
 30/10 19:00  [GOAL] Lyngby: 12 + GOAL uscita, era a 6  -  Lyngby 2-1 Randers FC   [DANIMARCA - SUPERLIGAEN]
-30/10 17:00  [GOAL] FK Pohronie: X2 + GOAL uscita, era a 7 👻 34/42  -  FK Pohronie 1-1 Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 06/11/2026 16:40 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 06/11/2026 17:42 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 05/11 23:15  [GOAL] Belgrano: 12 + GOAL uscita, era a 7 👻 38/42  -  Gimnasia LP 2-1 Belgrano   [ARGENTINA - PRIMERA DIVISIÓN]
 04/11 20:30  [GOAL] KV Mechelen: 12 + GOAL uscita, era a 7  -  Kortrijk 1-3 KV Mechelen   [BELGIO - FIRST DIVISION A]
