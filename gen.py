@@ -1896,8 +1896,8 @@ def render_repeat(data, pools, now, double_fixtures=None):
                     f'{row["country"]} - {row["league"]}  | {row["matches"]} gare'
                 )
             lines += table + [""]
-            visible = "\\n".join(table[:30])
-            complete = "\\n".join(table)
+            visible = "\n".join(table[:30])
+            complete = "\n".join(table)
             blocks.append(
                 f'<div class="fx"><h3>{esc(scope)} · {esc(name)}</h3>'
                 f'<pre>{html.escape(visible or "Nessun dato disponibile")}</pre>'
@@ -1948,7 +1948,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
     alert_html.append("</div>")
     return {
         "html": "".join(alert_html) + '<div class="repeat-grid">' + "".join(blocks) + "</div>",
-        "txt": "\\n".join(lines) + "\\n",
+        "txt": "\n".join(lines) + "\n",
         "by_team": by_team,
         "alert_map": alert_map,
     }
