@@ -1602,7 +1602,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
                 delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
                 alert_lines.append(
-                    f'{alert_team_name}: {alert_combo} · ritardo ripetizione {delay_label} · '
+                    f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · '
                     f'#{alert_row["rank"]}/{alert_row["total"]}'
                 )
             alert_note = " | ".join(alert_lines)
@@ -1617,7 +1617,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             P.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
                 delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+                P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
             PG.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             continue
         alert_badge_shown = False
@@ -1645,7 +1645,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 labels = []
                 for alert_team_name, alert_combo, alert_row in fixture_alerts:
                     delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                    labels.append(f'{alert_team_name}: {alert_combo} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+                    labels.append(f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
                 alert_note = " | ".join(labels)
                 alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
                 alert_badge_shown = True
