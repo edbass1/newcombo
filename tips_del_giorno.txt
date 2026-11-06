@@ -1,46 +1,30 @@
 TIPS DEL GIORNO - 06/11/2026
-Aggiornato: 06/11/2026 19:42 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 06/11/2026 20:44 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. TOTALE    21:00  Derby County vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 90,5  (Freq 100 · Rit 88 · Lega 96 · GG 77 · xG 87)
+    1X + GOAL  -  punteggio 93,8  (Freq 100 · Rit 88 · Lega 100 · GG 94 · xG 88)
     Sono 10 partite che Bolton Wanderers resta senza l'1X+GOAL: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 45% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
 
- 2. TRASFERTA 20:00  TOP Oss vs RKC Waalwijk   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 88,6  (Freq 88 · Rit 81 · Lega 100 · GG 88)
-    RKC Waalwijk non vede il 12+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). In questo campionato la combo esce quasi una partita sì e una no e su 10 partite recenti il GG è uscito 7 volte.
+ 2. TOTALE    20:45  Venezia vs Udinese   [ITALIA - SERIE A]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 62,5  (Freq 88 · Rit 12 · Lega 62 · GG 69 · xG 100)
+    L'X2+GOAL si fa aspettare da Venezia: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 27%). Questo campionato la propone abbastanza spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e c'è tanto xG.
 
- 3. TOTALE    20:00  Genk U23 vs Gent U23   [BELGIO - FIRST DIVISION B]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 75,4  (Freq 96 · Rit 58 · Lega 88 · GG 67 · xG 67)
-    Il 12+GOAL si fa aspettare da Genk U23: 6 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
-
- 4. TOTALE    20:15  Aarau vs Wil   [SVIZZERA - CHALLENGE LEAGUE]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 71,4  (Freq 92 · Rit 42 · Lega 65 · GG 94)
-    Per Wil il 12+GOAL manca da 10 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%), e anche Aarau la trova spesso. In questo campionato non è una rarità e nelle ultime 10 hanno segnato entrambe 10 volte.
-
- 5. TOTALE    20:30  Odra Opole vs Skierniewice   [POLONIA - I LIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 70,5  (Freq 79 · Rit 77 · Lega 92 · GG 23)
-    Sono 6 partite che Odra Opole resta senza l'1X+GOAL: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 3 volte.
-
- 6. TOTALE    20:00  Nancy vs Sochaux   [FRANCIA - LIGUE 2]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 68,5  (Freq 73 · Rit 73 · Lega 85 · GG 58 · xG 47)
-    Sono 11 partite che Nancy resta senza l'1X+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG è alto.
-
- 7. CASA      20:00  Heracles vs Roda JC Kerkrade   [OLANDA - EERSTE DIVISIE]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 63,0  (Freq 63 · Rit 63 · Lega 77 · GG 46)
-    Per Heracles in casa l'X2+GOAL manca da 6 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 32% delle volte. Anche il campionato la vede spesso e nelle ultime 6 hanno segnato entrambe 2 volte.
-
- 8. TOTALE    20:30  Wisła Kraków vs Cracovia   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 62,5  (Freq 85 · Rit 19 · Lega 58 · GG 94 · xG 73)
-    Wisła Kraków non vede l'X2+GOAL da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 9 volte e c'è tanto xG.
-
- 9. CASA      23:15  San Lorenzo vs Club Atlético Platense   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 53,9  (Freq 44 · Rit 100 · Lega 81 · GG 4 · xG 13)
+ 3. CASA      23:15  San Lorenzo vs Club Atlético Platense   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 58,2  (Freq 44 · Rit 100 · Lega 88 · GG 12 · xG 25)
     L'1X+GOAL si fa aspettare da San Lorenzo in casa: 11 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, nelle ultime 10 il GG è uscito 1 volte e l'xG dà una mano.
 
-10. TOTALE    20:45  Venezia vs Udinese   [ITALIA - SERIE A]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 49,7  (Freq 69 · Rit 8 · Lega 38 · GG 58 · xG 93)
-    L'X2+GOAL si fa aspettare da Venezia: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 27%). Questo campionato la propone abbastanza spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e c'è tanto xG.
+ 4. TOTALE    21:00  Everton vs Coventry City   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 52,5  (Freq 75 · Rit 62 · Lega 12 · GG 44 · xG 56)
+    Per Coventry City l'X2+GOAL manca da 9 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 26% delle volte. Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 3 volte e l'xG dà una mano.
+
+ 5. TRASFERTA 23:15  Unión vs Vélez Sarsfield   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 49,5  (Freq 25 · Rit 38 · Lega 38 · GG 94 · xG 75)
+    Sono 6 partite che Vélez Sarsfield resta senza il 12+GOAL in trasferta: in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 21%). Nel campionato esce con regolarità, su 10 partite recenti il GG è uscito 6 volte e l'xG è alto.
+
+ 6. TOTALE    23:15  Independiente vs Deportivo Riestra   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 17,8  (Freq 0 · Rit 0 · Lega 38 · GG 69 · xG 0)
+    Il 12+GOAL si fa aspettare da Independiente: 4 gare, in media ne restano fuori circa 5, e non è tra le sue giocate più solite (circa il 20%). Nel campionato esce con regolarità, nelle ultime 10 il gol di entrambe è arrivato 5 volte e l'xG non spicca, ma c'è.
 
 
 COME CALCOLIAMO IL PUNTEGGIO

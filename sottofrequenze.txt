@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 06/11/2026 19:42 (ora italiana)
+Aggiornato: 06/11/2026 20:44 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -265,10 +265,10 @@ GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Darmstadt                      49/100
-    2/18 Energie Cottbus                48/100
-    3/18 Karlsruher SC                  47/100
-    4/18 Hannover 96                    47/100
-    5/18 FC Heidenheim                  47/100
+    2/18 Karlsruher SC                  47/100
+    3/18 Hannover 96                    47/100
+    4/18 FC Heidenheim                  47/100
+    5/18 Energie Cottbus                47/100
      ...
    18/18 Magdeburg                      32/100  (la fa meno spesso)
 
@@ -285,10 +285,10 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Hertha BSC                     44/100
-    2/18 Energie Cottbus                44/100
-    3/18 Wolfsburg                      43/100
-    4/18 Karlsruher SC                  43/100
-    5/18 Kaiserslautern                 43/100
+    2/18 Wolfsburg                      43/100
+    3/18 Karlsruher SC                  43/100
+    4/18 Kaiserslautern                 43/100
+    5/18 Energie Cottbus                43/100
      ...
    18/18 Darmstadt                      32/100  (la fa meno spesso)
 
@@ -688,19 +688,19 @@ AUSTRIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Sturm Graz II                  47/100
-    2/12 SKU Amstetten                  43/100
+    2/12 SKU Amstetten                  42/100
     3/12 FC Liefering                   42/100
     4/12 Rapid Wien II                  40/100
     5/12 Kapfenberger SV                40/100
      ...
-   12/12 First Vienna FC                32/100  (la fa meno spesso)
+   12/12 FC Wacker Innsbruck            33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 SKU Amstetten                  40/100
-    2/12 Sturm Graz II                  37/100
-    3/12 FC Wacker Innsbruck            37/100
+    2/12 FC Wacker Innsbruck            38/100
+    3/12 Sturm Graz II                  37/100
     4/12 FC Liefering                   37/100
-    5/12 Austria Wien II                35/100
+    5/12 Austria Wien II                36/100
      ...
    12/12 BW Linz                        24/100  (la fa meno spesso)
 
@@ -709,7 +709,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 SKN St. Pölten                 43/100
     3/12 FC Liefering                   43/100
     4/12 Sturm Graz II                  42/100
-    5/12 Rapid Wien II                  40/100
+    5/12 SKU Amstetten                  40/100
+    6/12 Rapid Wien II                  40/100
      ...
    12/12 Floridsdorfer AC               25/100  (la fa meno spesso)
 
@@ -897,7 +898,13 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 Vendsyssel FF                  42/100
     3/12 HB Køge                        38/100
     4/12 AB                             37/100
-    5/12 Fredericia                     35/100
+    5/12 Vejle Boldklub                 34/100
+    6/12 Kolding IF                     34/100
+    7/12 Hvidovre                       34/100
+    8/12 Hobro                          34/100
+    9/12 Hillerød                       34/100
+   10/12 Fredericia                     34/100
+   11/12 AaB                            34/100
      ...
    12/12 Aarhus Fremad                  32/100  (la fa meno spesso)
 
@@ -1001,30 +1008,29 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Slavia Prague B                53/100
-    2/12 FC Vlašim                      51/100
-    3/12 Vysočina Jihlava               50/100
+    2/12 FC Vlašim                      50/100
+    3/12 Vysočina Jihlava               49/100
     4/12 SK Prostějov                   46/100
-    5/12 Žižkov                         44/100
+    5/12 Žižkov                         43/100
      ...
    12/12 Dukla Praha                    32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 Karviná                        38/100
-    2/12 FC Vlašim                      37/100
-    3/12 SK Prostějov                   36/100
+    1/12 Karviná                        39/100
+    2/12 SK Prostějov                   36/100
+    3/12 FC Vlašim                      36/100
     4/12 Vysočina Jihlava               34/100
     5/12 Slavia Prague B                32/100
     6/12 Příbram                        32/100
-    7/12 Dukla Praha                    32/100
      ...
-   12/12 Ústí nad Labem                 28/100  (la fa meno spesso)
+   12/12 Ústí nad Labem                 27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 Karviná                        46/100
+    1/12 Karviná                        47/100
     2/12 SK Prostějov                   40/100
     3/12 Žižkov                         39/100
     4/12 Slavia Prague B                39/100
-    5/12 Ústí nad Labem                 37/100
+    5/12 Ústí nad Labem                 36/100
      ...
    12/12 Opava                          30/100  (la fa meno spesso)
 
@@ -1451,7 +1457,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/17 Polonia Warszawa               43/100
     3/17 Pogoń Siedlce                  43/100
     4/17 Termalica Nieciecza            42/100
-    5/17 Puszcza Niepołomice            38/100
+    5/17 Puszcza Niepołomice            39/100
      ...
    17/17 Arka Gdynia                    24/100  (la fa meno spesso)
 
@@ -1469,7 +1475,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 06/11/2026 19:42 (ora italiana)
+Aggiornato: 06/11/2026 20:44 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2114,7 +2120,7 @@ AUSTRIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
      1/8 FC Liefering                   55/100
-     2/8 SKU Amstetten                  41/100
+     2/8 SKU Amstetten                  40/100
      3/8 Kapfenberger SV                38/100
      4/8 Floridsdorfer AC               36/100
      5/8 BW Linz                        36/100
@@ -2304,7 +2310,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 Aarhus Fremad                  45/100
     3/12 AB                             45/100
     4/12 Vendsyssel FF                  39/100
-    5/12 Vejle Boldklub                 39/100
+    5/12 Vejle Boldklub                 38/100
      ...
    12/12 HB Køge                        33/100  (la fa meno spesso)
 
@@ -2324,7 +2330,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 Hobro                          41/100
     3/12 Esbjerg fB                     41/100
     4/12 Vendsyssel FF                  39/100
-    5/12 Vejle Boldklub                 38/100
+    5/12 Vejle Boldklub                 37/100
      ...
    12/12 HB Køge                        32/100  (la fa meno spesso)
 
@@ -2425,12 +2431,11 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/11 FC Vlašim                      47/100
-    2/11 Vysočina Jihlava               46/100
+    2/11 Vysočina Jihlava               45/100
     3/11 SK Prostějov                   45/100
     4/11 Žižkov                         44/100
-    5/11 Ústí nad Labem                 42/100
-    6/11 Třinec                         42/100
-    7/11 Opava                          42/100
+    5/11 Třinec                         42/100
+    6/11 Opava                          42/100
      ...
    11/11 Příbram                        30/100  (la fa meno spesso)
 
@@ -2441,13 +2446,13 @@ SOTTOFREQUENZA X2 + GOAL
     4/11 Opava                          37/100
     5/11 Dukla Praha                    35/100
      ...
-   11/11 Ústí nad Labem                 30/100  (la fa meno spesso)
+   11/11 Ústí nad Labem                 29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/11 Žižkov                         40/100
     2/11 FC Vlašim                      39/100
     3/11 SK Prostějov                   38/100
-    4/11 Dukla Praha                    38/100
+    4/11 Dukla Praha                    37/100
     5/11 Ústí nad Labem                 36/100
      ...
    11/11 FC Silon Táborsko              28/100  (la fa meno spesso)
@@ -2830,10 +2835,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/17 Śląsk Wrocław                  52/100
     2/17 Jagiellonia Białystok          47/100
     3/17 Pogoń Szczecin                 46/100
-    4/17 Legia Warszawa                 46/100
-    5/17 Radomiak Radom                 45/100
-    6/17 Motor Lublin                   45/100
-    7/17 Korona Kielce                  45/100
+    4/17 Motor Lublin                   46/100
+    5/17 Legia Warszawa                 46/100
      ...
    17/17 Widzew Łódź                    31/100  (la fa meno spesso)
 
@@ -2866,9 +2869,9 @@ POLONIA - I LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/14 Termalica Nieciecza            50/100
     2/14 Miedź Legnica                  47/100
-    3/14 ŁKS Łódź                       43/100
-    4/14 Stal Rzeszów                   43/100
-    5/14 Puszcza Niepołomice            43/100
+    3/14 Puszcza Niepołomice            44/100
+    4/14 ŁKS Łódź                       43/100
+    5/14 Stal Rzeszów                   43/100
      ...
    14/14 Odra Opole                     30/100  (la fa meno spesso)
 
@@ -2876,7 +2879,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/14 Pogoń Siedlce                  46/100
     2/14 Termalica Nieciecza            41/100
     3/14 Stal Rzeszów                   41/100
-    4/14 Puszcza Niepołomice            37/100
+    4/14 Puszcza Niepołomice            38/100
     5/14 Miedź Legnica                  37/100
      ...
    14/14 Lechia Gdańsk                  27/100  (la fa meno spesso)
@@ -2895,7 +2898,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 06/11/2026 19:42 (ora italiana)
+Aggiornato: 06/11/2026 20:44 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3160,7 +3163,7 @@ GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Holstein Kiel                  52/100
-    2/18 Greuther Fürth                 52/100
+    2/18 Greuther Fürth                 51/100
     3/18 1. FC Nürnberg                 49/100
     4/18 Karlsruher SC                  47/100
     5/18 FC Heidenheim                  46/100
@@ -3185,7 +3188,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Hertha BSC                     48/100
     3/18 VfL Osnabrück                  44/100
     4/18 Holstein Kiel                  44/100
-    5/18 Greuther Fürth                 44/100
+    5/18 Greuther Fürth                 43/100
      ...
    18/18 Kaiserslautern                 30/100  (la fa meno spesso)
 
@@ -3544,8 +3547,8 @@ SOTTOFREQUENZA 12 + GOAL
 AUSTRIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-     1/8 FC Wacker Innsbruck            41/100
-     2/8 Admira Wacker                  41/100
+     1/8 Admira Wacker                  41/100
+     2/8 FC Wacker Innsbruck            40/100
      3/8 BW Linz                        40/100
      4/8 Kapfenberger SV                39/100
      5/8 SKU Amstetten                  37/100
@@ -3553,7 +3556,7 @@ SOTTOFREQUENZA 1X + GOAL
      8/8 Floridsdorfer AC               30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-     1/8 FC Wacker Innsbruck            40/100
+     1/8 FC Wacker Innsbruck            41/100
      2/8 FC Liefering                   39/100
      3/8 Admira Wacker                  37/100
      4/8 SKU Amstetten                  34/100
@@ -3866,10 +3869,9 @@ REP. CECA - FNL
 SOTTOFREQUENZA 1X + GOAL
     1/11 FC Vlašim                      51/100
     2/11 Vysočina Jihlava               48/100
-    3/11 Karviná                        43/100
+    3/11 Karviná                        42/100
     4/11 FC Silon Táborsko              42/100
-    5/11 Žižkov                         41/100
-    6/11 SK Prostějov                   41/100
+    5/11 SK Prostějov                   41/100
      ...
    11/11 Dukla Praha                    33/100  (la fa meno spesso)
 
@@ -3883,8 +3885,8 @@ SOTTOFREQUENZA X2 + GOAL
    11/11 Opava                          20/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/11 Karviná                        46/100
-    2/11 Žižkov                         45/100
+    1/11 Karviná                        47/100
+    2/11 Žižkov                         44/100
     3/11 SK Prostějov                   41/100
     4/11 Vysočina Jihlava               40/100
     5/11 Ústí nad Labem                 39/100
