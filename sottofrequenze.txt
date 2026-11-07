@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 20:34 (ora italiana)
+Aggiornato: 07/11/2026 21:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -331,7 +331,6 @@ SOTTOFREQUENZA 1X + GOAL
     3/18 Paris FC                       43/100
     4/18 Monaco                         41/100
     5/18 Marseille                      41/100
-    6/18 Auxerre                        41/100
      ...
    18/18 Troyes                         29/100  (la fa meno spesso)
 
@@ -668,19 +667,19 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 Grazer AK                      40/100
     3/12 Hartberg                       39/100
     4/12 Salzburg                       35/100
-    5/12 LASK                           34/100
-    6/12 Altach                         34/100
+    5/12 LASK                           35/100
      ...
-   12/12 Ried                           26/100  (la fa meno spesso)
+   12/12 Ried                           27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 LASK                           42/100
+    1/12 LASK                           43/100
     2/12 Salzburg                       38/100
     3/12 Wolfsberger AC                 37/100
     4/12 Austria Wien                   37/100
     5/12 WSG Tirol                      36/100
-    6/12 Hartberg                       36/100
-    7/12 Grazer AK                      36/100
+    6/12 Ried                           36/100
+    7/12 Hartberg                       36/100
+    8/12 Grazer AK                      36/100
      ...
    12/12 Altach                         23/100  (la fa meno spesso)
 
@@ -719,7 +718,7 @@ PORTOGALLO - LIGA PORTUGAL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Rio Ave                        45/100
-    2/18 Alverca                        44/100
+    2/18 Alverca                        45/100
     3/18 Académico Viseu                44/100
     4/18 Moreirense                     41/100
     5/18 Estoril                        40/100
@@ -729,7 +728,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Marítimo                       40/100
     2/18 Rio Ave                        39/100
-    3/18 Alverca                        38/100
+    3/18 Alverca                        39/100
     4/18 Estoril                        37/100
     5/18 Braga                          37/100
      ...
@@ -740,8 +739,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Sporting CP                    36/100
     3/18 Arouca                         36/100
     4/18 Benfica                        34/100
-    5/18 Casa Pia AC                    33/100
-    6/18 Braga                          33/100
+    5/18 Braga                          33/100
      ...
    18/18 Estrela da Amadora             22/100  (la fa meno spesso)
 
@@ -1254,7 +1252,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/26 Banfield                       40/100
     3/26 Lanús                          38/100
     4/26 Rosario Central                37/100
-    5/26 Estudiantes                    36/100
+    5/26 Estudiantes                    37/100
      ...
    26/26 Gimnasia LP                    23/100  (la fa meno spesso)
 
@@ -1262,8 +1260,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/26 Defensa y Justicia             35/100
     2/26 Barracas Central               35/100
     3/26 Newell's Old Boys              34/100
-    4/26 Banfield                       33/100
-    5/26 Talleres                       32/100
+    4/26 Talleres                       33/100
+    5/26 Banfield                       33/100
      ...
    26/26 Aldosivi                       17/100  (la fa meno spesso)
 
@@ -1469,7 +1467,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 20:34 (ora italiana)
+Aggiornato: 07/11/2026 21:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1964,7 +1962,7 @@ OLANDA - EREDIVISIE
 SOTTOFREQUENZA 1X + GOAL
     1/18 PSV Eindhoven                  58/100
     2/18 AZ Alkmaar                     52/100
-    3/18 ADO Den Haag                   50/100
+    3/18 ADO Den Haag                   51/100
     4/18 Ajax                           46/100
     5/18 NEC Nijmegen                   45/100
     6/18 Feyenoord                      45/100
@@ -1983,8 +1981,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  49/100
-    2/18 Cambuur                        48/100
-    3/18 ADO Den Haag                   48/100
+    2/18 ADO Den Haag                   49/100
+    3/18 Cambuur                        48/100
     4/18 SC Heerenveen                  43/100
     5/18 Willem II                      40/100
     6/18 AZ Alkmaar                     40/100
@@ -2887,7 +2885,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 20:34 (ora italiana)
+Aggiornato: 07/11/2026 21:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3589,7 +3587,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 Estrela da Amadora             40/100
     5/18 Benfica                        40/100
      ...
-   18/18 Casa Pia AC                    26/100  (la fa meno spesso)
+   18/18 Casa Pia AC                    27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Alverca                        42/100
@@ -4106,7 +4104,7 @@ ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/21 Lanús                          42/100
-    2/21 Estudiantes                    40/100
+    2/21 Estudiantes                    41/100
     3/21 Vélez Sarsfield                37/100
     4/21 Rosario Central                36/100
     5/21 Independiente                  36/100
