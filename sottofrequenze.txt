@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 01:41 (ora italiana)
+Aggiornato: 07/11/2026 12:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1258,7 +1258,7 @@ ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/26 Defensa y Justicia             40/100
-    2/26 Banfield                       39/100
+    2/26 Banfield                       40/100
     3/26 Lanús                          38/100
     4/26 Rosario Central                37/100
     5/26 Estudiantes                    36/100
@@ -1269,8 +1269,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/26 Defensa y Justicia             35/100
     2/26 Barracas Central               35/100
     3/26 Newell's Old Boys              34/100
-    4/26 Talleres                       32/100
-    5/26 Banfield                       32/100
+    4/26 Banfield                       33/100
+    5/26 Talleres                       32/100
      ...
    26/26 Aldosivi                       17/100  (la fa meno spesso)
 
@@ -1327,7 +1327,7 @@ SOTTOFREQUENZA 1X + GOAL
     5/11 Wellington Phoenix             44/100
     6/11 Brisbane Roar FC               44/100
      ...
-   11/11 Western Sydney Wanderers FC    38/100  (la fa meno spesso)
+   11/11 Sydney FC                      39/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/11 Adelaide United                50/100
@@ -1476,7 +1476,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 01:41 (ora italiana)
+Aggiornato: 07/11/2026 12:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2655,7 +2655,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Chapecoense                    43/100
-    2/18 Vitória                        35/100
+    2/18 Vitória                        34/100
     3/18 Internacional                  34/100
     4/18 Corinthians                    34/100
     5/18 Santos                         33/100
@@ -2679,7 +2679,7 @@ ARGENTINA - PRIMERA DIVISIÓN
 SOTTOFREQUENZA 1X + GOAL
     1/21 Rosario Central                47/100
     2/21 Lanús                          45/100
-    3/21 Tigre                          42/100
+    3/21 Tigre                          41/100
     4/21 Defensa y Justicia             41/100
     5/21 Estudiantes                    37/100
     6/21 Argentinos Juniors             37/100
@@ -2688,7 +2688,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/21 Banfield                       42/100
-    2/21 Tigre                          39/100
+    2/21 Tigre                          38/100
     3/21 Sarmiento                      38/100
     4/21 Atlético Tucumán               37/100
     5/21 Estudiantes                    32/100
@@ -2897,7 +2897,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 01:41 (ora italiana)
+Aggiornato: 07/11/2026 12:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4113,31 +4113,31 @@ SOTTOFREQUENZA 12 + GOAL
 ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Lanús                          42/100
-    2/20 Estudiantes                    40/100
-    3/20 Vélez Sarsfield                37/100
-    4/20 Rosario Central                36/100
-    5/20 Independiente                  36/100
+    1/21 Lanús                          42/100
+    2/21 Estudiantes                    40/100
+    3/21 Vélez Sarsfield                37/100
+    4/21 Rosario Central                36/100
+    5/21 Independiente                  36/100
      ...
-   20/20 Argentinos Juniors             23/100  (la fa meno spesso)
+   21/21 Argentinos Juniors             23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Unión                          35/100
-    2/20 River Plate                    35/100
-    3/20 Talleres                       34/100
-    4/20 Rosario Central                34/100
-    5/20 Newell's Old Boys              34/100
+    1/21 Unión                          35/100
+    2/21 River Plate                    35/100
+    3/21 Talleres                       34/100
+    4/21 Rosario Central                34/100
+    5/21 Newell's Old Boys              34/100
      ...
-   20/20 Atlético Tucumán               20/100  (la fa meno spesso)
+   21/21 Argentinos Juniors             21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Tigre                          36/100
-    2/20 Defensa y Justicia             32/100
-    3/20 Talleres                       31/100
-    4/20 Unión                          30/100
-    5/20 Lanús                          30/100
+    1/21 Tigre                          36/100
+    2/21 Defensa y Justicia             32/100
+    3/21 Talleres                       31/100
+    4/21 Unión                          30/100
+    5/21 Lanús                          30/100
      ...
-   20/20 Gimnasia LP                    21/100  (la fa meno spesso)
+   21/21 Gimnasia LP                    21/100  (la fa meno spesso)
 
 ==================================================
 USA/CANADA - MLS
@@ -4177,14 +4177,15 @@ SOTTOFREQUENZA 1X + GOAL
     2/10 Adelaide United                50/100
     3/10 Brisbane Roar FC               49/100
     4/10 Perth Glory                    48/100
-    5/10 Wellington Phoenix             45/100
+    5/10 Wellington Phoenix             44/100
+    6/10 Newcastle Jets                 44/100
      ...
    10/10 Sydney FC                      32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Adelaide United                49/100
     2/10 Melbourne City FC              44/100
-    3/10 Western Sydney Wanderers FC    42/100
+    3/10 Western Sydney Wanderers FC    41/100
     4/10 Sydney FC                      38/100
     5/10 Melbourne Victory              37/100
     6/10 Brisbane Roar FC               37/100
@@ -4194,8 +4195,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/10 Adelaide United                55/100
     2/10 Brisbane Roar FC               44/100
-    3/10 Wellington Phoenix             43/100
-    4/10 Melbourne Victory              43/100
+    3/10 Melbourne Victory              43/100
+    4/10 Wellington Phoenix             42/100
     5/10 Newcastle Jets                 41/100
      ...
    10/10 Sydney FC                      34/100  (la fa meno spesso)

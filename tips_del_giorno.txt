@@ -1,45 +1,45 @@
 TIPS DEL GIORNO - 07/11/2026
-Aggiornato: 07/11/2026 01:41 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 07/11/2026 12:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. CASA      22:00  Inter Miami CF vs Charlotte FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 94,2  (Freq 100 · Rit 88 · Lega 89 · GG 99 · xG 97)
+    12 + GOAL  -  punteggio 94,1  (Freq 100 · Rit 88 · Lega 89 · GG 99 · xG 96)
     Per Inter Miami CF in casa il 12+GOAL manca da 6 partite: di solito non passa più di una partita senza, e la fa spesso, circa il 55% delle volte. In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 8 volte e l'xG è alto.
 
  2. CASA      15:30  Mainz 05 vs Bayern München   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 86,1  (Freq 86 · Rit 82 · Lega 72 · GG 99 · xG 95)
+    1X + GOAL  -  punteggio 86,4  (Freq 88 · Rit 82 · Lega 71 · GG 99 · xG 94)
     Per Mainz 05 in casa l'1X+GOAL manca da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 40% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
 
- 3. TOTALE    11:45  Perth Glory vs Newcastle Jets   [AUSTRALIA - A-LEAGUE MEN]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 82,9  (Freq 94 · Rit 62 · GG 97 · xG 86)
-    Sono 8 partite che Newcastle Jets resta senza il 12+GOAL: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 42% delle volte. Il GG nelle ultime 10 è uscito 8 volte e c'è tanto xG.
-
- 4. TRASFERTA 15:00  IFK Värnamo vs IFK Norrköping   [SVEZIA - SUPERETTAN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 82,5  (Freq 97 · Rit 100 · Lega 88 · GG 27)
+ 3. TRASFERTA 15:00  IFK Värnamo vs IFK Norrköping   [SVEZIA - SUPERETTAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 82,7  (Freq 97 · Rit 100 · Lega 87 · GG 28)
     L'1X+GOAL si fa aspettare da IFK Norrköping in trasferta: 12 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 45% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 4 volte.
 
- 5. CASA      20:30  Hertha BSC vs Wolfsburg   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 78,7  (Freq 88 · Rit 83 · Lega 35 · GG 94 · xG 92)
+ 4. CASA      20:30  Hertha BSC vs Wolfsburg   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 79,9  (Freq 91 · Rit 83 · Lega 36 · GG 96 · xG 93)
     Per Hertha BSC in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 41% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 6. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 78,1  (Freq 98 · Rit 89 · Lega 68 · GG 94 · xG 27)
+ 5. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 78,2  (Freq 98 · Rit 89 · Lega 68 · GG 96 · xG 26)
     L'X2+GOAL si fa aspettare da Columbus Crew in trasferta: 7 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 47% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 7. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 74,5  (Freq 71 · Rit 74 · Lega 68 · GG 71 · xG 90)
+ 6. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 75,3  (Freq 74 · Rit 73 · Lega 68 · GG 73 · xG 91)
     L'X2+GOAL si fa aspettare da Red Bull New York: 11 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
 
- 8. TOTALE    13:00  VfL Osnabrück vs Kaiserslautern   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 71,7  (Freq 63 · Rit 96 · Lega 91 · GG 17 · xG 78)
+ 7. TOTALE    13:00  VfL Osnabrück vs Kaiserslautern   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 72,8  (Freq 66 · Rit 96 · Lega 91 · GG 18 · xG 81)
     L'1X+GOAL si fa aspettare da Kaiserslautern: 19 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 39%). In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
 
- 9. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 70,0  (Freq 92 · Rit 47 · Lega 68 · GG 91 · xG 55)
+ 8. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 71,3  (Freq 94 · Rit 48 · Lega 68 · GG 93 · xG 57)
     DC United non vede l'X2+GOAL da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
+ 9. TOTALE    17:30  Örgryte vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 70,3  (Freq 63 · Rit 90 · Lega 52 · GG 73 · xG 67)
+    L'1X+GOAL si fa aspettare da Västerås SK: 19 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 31%). In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e c'è tanto xG.
+
 10. TOTALE    21:05  Paris Saint-Germain vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 68,9  (Freq 45 · Rit 59 · Lega 95 · GG 78 · xG 82)
+    1X + GOAL  -  punteggio 70,1  (Freq 47 · Rit 59 · Lega 94 · GG 80 · xG 85)
     L'1X+GOAL si fa aspettare da Troyes: 9 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
 
 
