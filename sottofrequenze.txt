@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 18:26 (ora italiana)
+Aggiornato: 07/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -46,8 +46,8 @@ ITALIA - SERIE B
 SOTTOFREQUENZA 1X + GOAL
     1/20 Catanzaro                      47/100
     2/20 Virtus Entella                 44/100
-    3/20 Mantova                        44/100
-    4/20 Empoli                         44/100
+    3/20 Empoli                         44/100
+    4/20 Mantova                        43/100
     5/20 Juve Stabia                    43/100
      ...
    20/20 Arezzo                         28/100  (la fa meno spesso)
@@ -67,8 +67,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Cremonese                      34/100
     3/20 Cesena                         34/100
     4/20 Modena                         33/100
-    5/20 Mantova                        33/100
-    6/20 Hellas Verona                  33/100
+    5/20 Hellas Verona                  33/100
      ...
    20/20 Virtus Entella                 25/100  (la fa meno spesso)
 
@@ -103,7 +102,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/43 Pescara                        37/100
     5/43 Crotone                        37/100
      ...
-   43/43 Novara                         21/100  (la fa meno spesso)
+   43/43 Gubbio                         21/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
@@ -657,11 +656,11 @@ AUSTRIA - BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Salzburg                       43/100
     2/12 Sturm Graz                     42/100
-    3/12 Rapid Wien                     39/100
-    4/12 Hartberg                       39/100
-    5/12 Grazer AK                      39/100
+    3/12 Grazer AK                      40/100
+    4/12 Rapid Wien                     39/100
+    5/12 Hartberg                       39/100
      ...
-   12/12 Austria Lustenau               31/100  (la fa meno spesso)
+   12/12 Austria Lustenau               32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Sturm Graz                     41/100
@@ -680,6 +679,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Austria Wien                   37/100
     5/12 WSG Tirol                      36/100
     6/12 Hartberg                       36/100
+    7/12 Grazer AK                      36/100
      ...
    12/12 Altach                         23/100  (la fa meno spesso)
 
@@ -915,19 +915,19 @@ SOTTOFREQUENZA 1X + GOAL
    16/16 Djurgården                     29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Degerfors                      41/100
-    2/16 Örgryte                        40/100
+    1/16 Degerfors                      42/100
+    2/16 Örgryte                        39/100
     3/16 IFK Göteborg                   39/100
     4/16 Brommapojkarna                 39/100
     5/16 Mjällby                        37/100
     6/16 Häcken                         37/100
      ...
-   16/16 GAIS                           23/100  (la fa meno spesso)
+   16/16 GAIS                           24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Sirius                         47/100
-    2/16 Örgryte                        41/100
-    3/16 Brommapojkarna                 41/100
+    2/16 Brommapojkarna                 41/100
+    3/16 Örgryte                        40/100
     4/16 AIK                            40/100
     5/16 Elfsborg                       38/100
      ...
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 18:26 (ora italiana)
+Aggiornato: 07/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2128,12 +2128,12 @@ SOTTOFREQUENZA X2 + GOAL
      4/8 Admira Wacker                  29/100
      5/8 FC Wacker Innsbruck            28/100
      ...
-     8/8 BW Linz                        24/100  (la fa meno spesso)
+     8/8 BW Linz                        23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
      1/8 Kapfenberger SV                49/100
      2/8 FC Liefering                   48/100
-     3/8 BW Linz                        38/100
+     3/8 BW Linz                        37/100
      4/8 Floridsdorfer AC               35/100
      5/8 SKN St. Pölten                 34/100
      ...
@@ -2333,14 +2333,14 @@ SVEZIA - ALLSVENSKAN
 SOTTOFREQUENZA 1X + GOAL
     1/16 Häcken                         51/100
     2/16 Hammarby                       51/100
-    3/16 Örgryte                        48/100
-    4/16 Elfsborg                       48/100
+    3/16 Elfsborg                       48/100
+    4/16 Örgryte                        47/100
     5/16 Västerås SK                    43/100
      ...
    16/16 Halmstads BK                   27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Örgryte                        44/100
+    1/16 Örgryte                        43/100
     2/16 IFK Göteborg                   41/100
     3/16 Häcken                         37/100
     4/16 Brommapojkarna                 36/100
@@ -2353,7 +2353,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/16 Brommapojkarna                 46/100
     3/16 Malmö FF                       43/100
     4/16 Sirius                         42/100
-    5/16 Degerfors                      41/100
+    5/16 Degerfors                      42/100
      ...
    16/16 AIK                            26/100  (la fa meno spesso)
 
@@ -2490,10 +2490,10 @@ SOTTOFREQUENZA 1X + GOAL
      4/8 Liptovský Mikuláš              44/100
      5/8 FC STK 1914 Šamorín            41/100
      ...
-     8/8 Zlaté Moravce                  37/100  (la fa meno spesso)
+     8/8 Zlaté Moravce                  36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-     1/8 Zlaté Moravce                  40/100
+     1/8 Zlaté Moravce                  39/100
      2/8 FK Pohronie                    37/100
      3/8 Žilina B                       35/100
      4/8 Slovan Bratislava B            35/100
@@ -2846,12 +2846,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Wisła Kraków                   41/100
     2/17 Jagiellonia Białystok          41/100
     3/17 Pogoń Szczecin                 39/100
-    4/17 GKS Katowice                   39/100
-    5/17 Śląsk Wrocław                  38/100
-    6/17 Widzew Łódź                    38/100
-    7/17 Legia Warszawa                 38/100
-    8/17 Lech Poznań                    38/100
-    9/17 Górnik Zabrze                  38/100
+    4/17 Górnik Zabrze                  39/100
+    5/17 GKS Katowice                   39/100
      ...
    17/17 Cracovia                       27/100  (la fa meno spesso)
 
@@ -2891,7 +2887,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 18:26 (ora italiana)
+Aggiornato: 07/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3521,7 +3517,8 @@ SOTTOFREQUENZA 1X + GOAL
     3/12 Austria Wien                   40/100
     4/12 Ried                           39/100
     5/12 Hartberg                       39/100
-    6/12 Austria Lustenau               39/100
+    6/12 Grazer AK                      39/100
+    7/12 Austria Lustenau               39/100
      ...
    12/12 Salzburg                       29/100  (la fa meno spesso)
 
@@ -3535,7 +3532,7 @@ SOTTOFREQUENZA X2 + GOAL
    12/12 Altach                         23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 Grazer AK                      44/100
+    1/12 Grazer AK                      45/100
     2/12 Wolfsberger AC                 41/100
     3/12 Salzburg                       40/100
     4/12 WSG Tirol                      39/100

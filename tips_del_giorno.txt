@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 07/11/2026
-Aggiornato: 07/11/2026 18:26 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 07/11/2026 19:29 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. CASA      22:00  Inter Miami CF vs Charlotte FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 95,2  (Freq 100 · Rit 85 · Lega 95 · GG 100 · xG 100)
+    12 + GOAL  -  punteggio 92,6  (Freq 100 · Rit 77 · Lega 92 · GG 100 · xG 100)
     Per Inter Miami CF in casa il 12+GOAL manca da 6 partite: di solito non passa più di una partita senza, e la fa spesso, circa il 55% delle volte. In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 8 volte e l'xG è alto.
 
  2. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 77,1  (Freq 95 · Rit 90 · Lega 65 · GG 90 · xG 30)
+    X2 + GOAL  -  punteggio 71,5  (Freq 92 · Rit 85 · Lega 46 · GG 88 · xG 31)
     L'X2+GOAL si fa aspettare da Columbus Crew in trasferta: 7 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 47% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
  3. CASA      20:30  Hertha BSC vs Wolfsburg   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 75,4  (Freq 85 · Rit 70 · Lega 40 · GG 90 · xG 95)
+    X2 + GOAL  -  punteggio 68,2  (Freq 77 · Rit 69 · Lega 15 · GG 88 · xG 92)
     Per Hertha BSC in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 41% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 4. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 68,2  (Freq 70 · Rit 65 · Lega 65 · GG 52 · xG 90)
-    L'X2+GOAL si fa aspettare da Red Bull New York: 11 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
-
- 5. TOTALE    21:05  Paris Saint-Germain vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 65,7  (Freq 50 · Rit 45 · Lega 100 · GG 65 · xG 85)
-    L'1X+GOAL si fa aspettare da Troyes: 9 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
-
- 6. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 65,6  (Freq 90 · Rit 35 · Lega 65 · GG 80 · xG 65)
+ 4. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 58,8  (Freq 85 · Rit 31 · Lega 46 · GG 77 · xG 62)
     DC United non vede l'X2+GOAL da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
+ 5. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 58,8  (Freq 62 · Rit 62 · Lega 46 · GG 38 · xG 85)
+    L'X2+GOAL si fa aspettare da Red Bull New York: 11 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
+
+ 6. TOTALE    21:05  Paris Saint-Germain vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 56,3  (Freq 31 · Rit 38 · Lega 100 · GG 54 · xG 77)
+    L'1X+GOAL si fa aspettare da Troyes: 9 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
+
  7. TRASFERTA 20:30  Grasshopper vs Lausanne   [SVIZZERA - SUPER LEAGUE]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 63,1  (Freq 58 · Rit 95 · Lega 90 · GG 2 · xG 50)
+    X2 + GOAL  -  punteggio 55,5  (Freq 42 · Rit 92 · Lega 85 · GG 0 · xG 38)
     Lausanne non vede l'X2+GOAL da 10 partite in trasferta: di solito ne saltano un paio, e la fa meno spesso, circa il 35% delle volte. In questo campionato non è una rarità, nelle ultime 10 il GG è uscito 2 volte e c'è tanto xG.
 
  8. CASA      20:00  Saint-Étienne vs Laval   [FRANCIA - LIGUE 2]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 54,8  (Freq 45 · Rit 100 · Lega 80 · GG 12 · xG 10)
+    X2 + GOAL  -  punteggio 47,7  (Freq 23 · Rit 100 · Lega 69 · GG 8 · xG 15)
     Per Saint-Étienne in casa l'X2+GOAL manca da 14 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 33%). Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 3 volte e l'xG è buono.
 
- 9. TOTALE    19:00  Alverca vs Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 53,8  (Freq 78 · Rit 80 · Lega 18 · GG 25 · xG 45)
-    L'1X+GOAL si fa aspettare da Casa Pia AC: 10 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 35% delle volte. Nel campionato esce con regolarità, su 10 partite recenti il GG è uscito 6 volte e c'è tanto xG.
-
-10. CASA      21:00  Valencia vs Real Madrid   [SPAGNA - LALIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 50,6  (Freq 58 · Rit 55 · Lega 85 · GG 40 · xG 5)
+ 9. CASA      21:00  Valencia vs Real Madrid   [SPAGNA - LALIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 40,9  (Freq 42 · Rit 46 · Lega 77 · GG 23 · xG 8)
     Sono 6 partite che Valencia resta senza l'1X+GOAL in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 35%). Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 5 volte e l'xG dà una mano.
+
+10. TRASFERTA 22:00  Philadelphia Union vs Toronto FC   [USA/CANADA - MLS]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 30,2  (Freq 0 · Rit 15 · Lega 46 · GG 65 · xG 46)
+    L'X2+GOAL si fa aspettare da Toronto FC in trasferta: 6 gare, in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 22%). Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
