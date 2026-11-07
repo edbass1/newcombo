@@ -1,51 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 07/11/2026 14:43 (ora italiana)
+Aggiornato: 07/11/2026 15:34 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 07/11/2026
 ==================================================
-TOTALE    15:00  Juve Stabia vs Arezzo [🧊A 🔥D]   [ITALIA - SERIE B]
-           xG: Juve Stabia xG 2,45 (1,25+1,20) · Arezzo xG 2,64 (0,97+1,67)
-           Juve Stabia: 12 + GOAL (8) [TOP 20]
-CASA      15:00  Juve Stabia vs Arezzo [🧊A 🔥D]   [ITALIA - SERIE B]
-           xG: Juve Stabia xG 2,45 (1,25+1,20) · Arezzo xG 2,64 (0,97+1,67)
-           Juve Stabia: 12 + GOAL (8) [TOP 20]
-TOTALE    15:00  Slovan Liberec [🧊D] vs Bohemians 1905   [REP. CECA - 1. LIGA]
-           Slovan Liberec: 1X + GOAL (8) 👻 39/42 [TOP 20]
-CASA      15:00  Slovan Liberec [🧊D] vs Bohemians 1905   [REP. CECA - 1. LIGA]
-           Slovan Liberec: 12 + GOAL (6)
-TOTALE    15:00  GIF Sundsvall [🧊A 🔥D] vs Varbergs BoIS FC   [SVEZIA - SUPERETTAN]
-           GIF Sundsvall: X2 + GOAL (10) ❗ 11/42 [TOP 20] 🔴 Varbergs BoIS FC
-TOTALE    15:00  Helsingborg [🔥D] vs Falkenbergs FF [🔥A]   [SVEZIA - SUPERETTAN]
-           Helsingborg: 12 + GOAL (6) 🔴 Falkenbergs FF
-TOTALE    15:00  IFK Värnamo vs IFK Norrköping [🔥A 🧊D]   [SVEZIA - SUPERETTAN]
-           IFK Värnamo: 1X + GOAL (7) [TOP 20]
-TRASFERTA 15:00  IFK Värnamo vs IFK Norrköping [🔥A 🧊D]   [SVEZIA - SUPERETTAN]
-           IFK Norrköping: 1X + GOAL (12) [TOP 20]
-TRASFERTA 15:00  IK Brage [🔥D] vs Norrby [🧊A]   [SVEZIA - SUPERETTAN]
-           Norrby: X2 + GOAL (9) ❗ 11/42 [TOP 20] 🔴 IK Brage
-CASA      15:30  FC Hertha Wels [🧊A 🔥D] vs Sturm Graz II [🔥D]   [AUSTRIA - 2. LIGA]
-           FC Hertha Wels: 1X + GOAL (7) [TOP 20]
-TOTALE    15:30  Borussia Dortmund [🧊D] vs Elversberg   [GERMANIA - BUNDESLIGA]
-           xG: Borussia Dortmund xG 3,00 (1,53+1,47) · Elversberg xG 3,56 (1,41+2,15)
-           Borussia Dortmund: 12 + GOAL (6) 🔥 5/42
-CASA      15:30  Mainz 05 vs Bayern München [🔥A 🧊D]   [GERMANIA - BUNDESLIGA]
-           xG: Mainz 05 xG 3,66 (2,11+1,55) · Bayern München xG 4,44 (3,54+0,90)
-           Mainz 05: 1X + GOAL (7) [TOP 20] 🔴 Bayern München
-TOTALE    15:30  RB Leipzig [🔥A] vs Augsburg [🔥A]   [GERMANIA - BUNDESLIGA]
-           xG: RB Leipzig xG 3,97 (2,53+1,44) · Augsburg xG 4,66 (2,06+2,60)
-           RB Leipzig: X2 + GOAL (12) [TOP 20]
-CASA      15:30  RB Leipzig [🔥A] vs Augsburg [🔥A]   [GERMANIA - BUNDESLIGA]
-           xG: RB Leipzig xG 3,97 (2,53+1,44) · Augsburg xG 4,66 (2,06+2,60)
-           RB Leipzig: X2 + GOAL (9) [TOP 20] 🔴 Augsburg
-TRASFERTA 15:30  Arka Gdynia vs TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]
-           TS Podbeskidzie Bielsko-Biała: 12 + GOAL (7+) 👻 33/42 [TOP 20]
-TOTALE    15:30  Termalica Nieciecza [🔥A] vs Chrobry Głogów [🧊A]   [POLONIA - I LIGA]
-           Chrobry Głogów: X2 + GOAL (6)
-TOTALE    15:30  Slovan Bratislava [🧊D] vs Trenčín [🧊A 🔥D]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
-           Trenčín: X2 + GOAL (6) 🔥 3/42 🔴 Slovan Bratislava
 CASA      16:00  Anderlecht Futures [🧊A 🔥D] vs Club Brugge NXT [🔥D]   [BELGIO - FIRST DIVISION B]
            xG: Anderlecht Futures xG 2,90 (1,00+1,90) · Club Brugge NXT xG 2,99 (1,14+1,85)
            Anderlecht Futures: 1X + GOAL (9) 👻 40/42 [TOP 20]
@@ -67,13 +27,13 @@ TOTALE    16:00  Birmingham City [🧊D] vs Swansea City [🧊D]   [INGHILTERRA 
            Swansea City: X2 + GOAL (6) ❗ 9/42
 CASA      16:00  Birmingham City [🧊D] vs Swansea City [🧊D]   [INGHILTERRA - CHAMPIONSHIP]
            xG: Birmingham City xG 3,06 (1,67+1,39) · Swansea City xG 2,94 (1,64+1,30)
-           Birmingham City: 12 + GOAL (7) ❗ 11/42
+           Birmingham City: 12 + GOAL (7) ❗ 12/42
 TOTALE    16:00  Fulham [🧊A] vs Newcastle United   [INGHILTERRA - PREMIER LEAGUE]
            xG: Fulham xG 2,95 (1,53+1,42) · Newcastle United xG 2,93 (1,15+1,78)
            Newcastle United: X2 + GOAL (6) 👻 40/42
 TRASFERTA 16:00  Queens Park Rangers vs Lincoln City [🧊A]   [INGHILTERRA - CHAMPIONSHIP]
            xG: Queens Park Rangers xG 2,79 (1,71+1,08) · Lincoln City xG 2,78 (1,32+1,46)
-           Lincoln City: 12 + GOAL (6) ❗ 11/42
+           Lincoln City: 12 + GOAL (6) ❗ 12/42
 TOTALE    16:00  Watford [🧊A] vs Middlesbrough [🔥A]   [INGHILTERRA - CHAMPIONSHIP]
            xG: Watford xG 2,78 (1,03+1,75) · Middlesbrough xG 3,07 (2,06+1,01)
            Watford: X2 + GOAL (7) ❗ 9/42
@@ -107,7 +67,7 @@ TOTALE    17:00  Austria Lustenau [🔥D] vs Grazer AK [🧊A 🔥D]   [AUSTRIA 
 TOTALE    17:00  Zlaté Moravce vs Slovan Bratislava B [🔥D]   [SLOVACCHIA - 2. LIGA]
            Slovan Bratislava B: 12 + GOAL (6)
 CASA      17:00  Zlaté Moravce vs Slovan Bratislava B [🔥D]   [SLOVACCHIA - 2. LIGA]
-           Zlaté Moravce: 1X + GOAL (6) ❗ 12/42 🔴 Slovan Bratislava B
+           Zlaté Moravce: 1X + GOAL (6) ❗ 11/42 🔴 Slovan Bratislava B
 TRASFERTA 17:30  BW Linz [🔥A 🧊D] vs Floridsdorfer AC   [AUSTRIA - 2. LIGA]
            Floridsdorfer AC: X2 + GOAL (13) 👻 38/42 [TOP 20]
 TOTALE    17:30  Forlì vs Gubbio [🧊A 🔥D]   [ITALIA - SERIE C]
@@ -158,7 +118,7 @@ CASA      18:45  Aberdeen [🧊A] vs Hibernian [🧊A]   [SCOZIA - PREMIERSHIP]
            xG: Aberdeen xG 2,86 (1,30+1,56) · Hibernian xG 3,07 (1,51+1,56)
            Aberdeen: X2 + GOAL (10) [TOP 20] 🔴 Hibernian
 TRASFERTA 19:00  Gimnasia Mendoza [🔥D] vs Independiente Rivadavia [🔥A]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Gimnasia Mendoza xG 2,88 (1,19+1,69) · Independiente Rivadavia xG 2,53 (1,41+1,12)
+           xG: Gimnasia Mendoza xG 2,89 (1,20+1,69) · Independiente Rivadavia xG 2,53 (1,41+1,12)
            Independiente Rivadavia: X2 + GOAL (8) 👻 33/42 [TOP 20]
 TOTALE    19:00  Auxerre [🔥D] vs Paris FC   [FRANCIA - LIGUE 1]
            xG: Auxerre xG 3,51 (1,47+2,04) · Paris FC xG 2,78 (1,78+1,00)
@@ -181,7 +141,7 @@ CASA      20:30  Hertha BSC [🔥A 🧊D] vs Wolfsburg [🔥A]   [GERMANIA - 2. 
            Hertha BSC: X2 + GOAL (7) 🔴 Wolfsburg
 TRASFERTA 20:30  Grasshopper [🧊A 🔥D] vs Lausanne [🧊A]   [SVIZZERA - SUPER LEAGUE]
            xG: Grasshopper xG 3,99 (1,87+2,12) · Lausanne xG 2,87 (1,05+1,82)
-           Lausanne: X2 + GOAL (10) 🔥 7/42 [TOP 20]
+           Lausanne: X2 + GOAL (10) 🔥 6/42 [TOP 20]
 TOTALE    20:45  Royal Antwerp vs Lommel   [BELGIO - FIRST DIVISION A]
            xG: Royal Antwerp xG 3,63 (1,43+2,20) · Lommel xG 2,85 (1,04+1,81)
            Royal Antwerp: X2 + GOAL (6) 👻 39/42 🔴 Lommel
@@ -243,9 +203,9 @@ TOTALE    12:15  Vitesse [🧊A 🧊D] vs De Graafschap [🧊A]   [OLANDA - EERS
 TRASFERTA 12:30  Napoli vs Lazio [🔥A 🧊D]   [ITALIA - SERIE A]
            xG: Napoli xG 3,03 (1,74+1,29) · Lazio xG 2,78 (1,65+1,13)
            Lazio: 1X + GOAL (12) [TOP 20]
-TOTALE    12:30  Torres vs Latina   [ITALIA - SERIE C]
+TOTALE    12:30  Torres [🧊D] vs Latina [🧊D]   [ITALIA - SERIE C]
            Latina: 12 + GOAL (8) [TOP 20]
-CASA      12:30  Torres vs Latina   [ITALIA - SERIE C]
+CASA      12:30  Torres [🧊D] vs Latina [🧊D]   [ITALIA - SERIE C]
            Torres: X2 + GOAL (9) [TOP 20]
 CASA      13:00  FK Haugesund [🔥A] vs Odds Ballklubb   [NORVEGIA - OBOS-LIGAEN]
            FK Haugesund: X2 + GOAL (7) 🔴 Odds Ballklubb
@@ -283,10 +243,10 @@ CASA      14:00  Halmstads BK [🧊A 🔥D] vs Djurgården [🔥A 🧊D]   [SVEZ
            Halmstads BK: X2 + GOAL (7)
 TRASFERTA 14:00  Halmstads BK [🧊A 🔥D] vs Djurgården [🔥A 🧊D]   [SVEZIA - ALLSVENSKAN]
            xG: Halmstads BK xG 3,10 (1,00+2,10) · Djurgården xG 2,98 (1,87+1,11)
-           Djurgården: 12 + GOAL (9) 👻 36/42 [TOP 20]
+           Djurgården: 12 + GOAL (9) 👻 37/42 [TOP 20]
 TOTALE    14:00  IFK Göteborg vs Malmö FF   [SVEZIA - ALLSVENSKAN]
            xG: IFK Göteborg xG 3,02 (1,56+1,46) · Malmö FF xG 2,87 (1,39+1,48)
-           IFK Göteborg: 12 + GOAL (6) 👻 36/42
+           IFK Göteborg: 12 + GOAL (6) 👻 37/42
            Malmö FF: 1X + GOAL (6) 👻 37/42
 TRASFERTA 14:00  IFK Göteborg vs Malmö FF   [SVEZIA - ALLSVENSKAN]
            xG: IFK Göteborg xG 3,02 (1,56+1,46) · Malmö FF xG 2,87 (1,39+1,48)
@@ -294,9 +254,9 @@ TRASFERTA 14:00  IFK Göteborg vs Malmö FF   [SVEZIA - ALLSVENSKAN]
 TRASFERTA 14:30  Hartberg vs Altach   [AUSTRIA - BUNDESLIGA]
            xG: Hartberg xG 3,25 (1,50+1,75) · Altach xG 2,49 (1,21+1,28)
            Altach: 12 + GOAL (8) [TOP 20]
-TOTALE    14:30  Lecco [🧊D] vs Juventus Next Gen [🔥D]   [ITALIA - SERIE C]
+TOTALE    14:30  Lecco [🧊D] vs Juventus Next Gen   [ITALIA - SERIE C]
            Lecco: 12 + GOAL (7) [TOP 20]
-CASA      14:30  Lecco [🧊D] vs Juventus Next Gen [🔥D]   [ITALIA - SERIE C]
+CASA      14:30  Lecco [🧊D] vs Juventus Next Gen   [ITALIA - SERIE C]
            Lecco: 12 + GOAL (8) [TOP 20]
 CASA      14:30  Monopoli [🧊A 🧊D] vs Cosenza [🧊A 🔥D]   [ITALIA - SERIE C]
            Monopoli: 12 + GOAL (8) [TOP 20] 🔴 Cosenza
@@ -337,19 +297,19 @@ TRASFERTA 15:00  Farense [🔥A] vs Benfica B [🧊D]   [PORTOGALLO - LIGA PORTU
 TRASFERTA 15:00  Jablonec vs Mladá Boleslav   [REP. CECA - 1. LIGA]
            Mladá Boleslav: 12 + GOAL (6) 🔴 Mladá Boleslav
 ALERT     15:00  Slavia Prague vs Artis Brno   [REP. CECA - 1. LIGA]
-TOTALE    15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A 🔥D]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
+TOTALE    15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
            Ružomberok: 12 + GOAL (7) [TOP 20]
-TRASFERTA 15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A 🔥D]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
+TRASFERTA 15:30  Zeleziarne Podbrezová vs Ružomberok [🧊A]   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
            Ružomberok: X2 + GOAL (11) 🔥 3/42 [TOP 20]
 TOTALE    16:30  Santa Clara [🧊D] vs Gil Vicente [🧊A 🧊D]   [PORTOGALLO - LIGA PORTUGAL]
            xG: Santa Clara xG 2,36 (1,41+0,95) · Gil Vicente xG 2,28 (1,25+1,03)
            Santa Clara: 1X + GOAL (6) 👻 41/42
 TOTALE    16:30  AIK [🔥D] vs Häcken   [SVEZIA - ALLSVENSKAN]
            xG: AIK xG 3,28 (1,47+1,81) · Häcken xG 3,01 (1,86+1,15)
-           Häcken: 1X + GOAL (6) 👻 37/42; X2 + GOAL (6); 12 + GOAL (8) 👻 36/42 [TOP 20]
+           Häcken: 1X + GOAL (6) 👻 37/42; X2 + GOAL (6); 12 + GOAL (8) 👻 37/42 [TOP 20]
 TRASFERTA 16:30  AIK [🔥D] vs Häcken   [SVEZIA - ALLSVENSKAN]
            xG: AIK xG 3,28 (1,47+1,81) · Häcken xG 3,01 (1,86+1,15)
-           Häcken: 1X + GOAL (7) 👻 37/42 [TOP 20]; X2 + GOAL (8) [TOP 20] 🔴 AIK 🔴 Häcken; 12 + GOAL (7) 👻 36/42 [TOP 20] 🔴 AIK
+           Häcken: 1X + GOAL (7) 👻 37/42 [TOP 20]; X2 + GOAL (8) [TOP 20] 🔴 AIK 🔴 Häcken; 12 + GOAL (7) 👻 37/42 [TOP 20] 🔴 AIK
 TOTALE    16:30  Brommapojkarna vs Mjällby   [SVEZIA - ALLSVENSKAN]
            xG: Brommapojkarna xG 2,75 (1,35+1,40) · Mjällby xG 2,97 (1,17+1,80)
            Brommapojkarna: 1X + GOAL (6) 👻 37/42 🔴 Brommapojkarna
@@ -370,7 +330,7 @@ TOTALE    16:30  Yverdon vs Xamax   [SVIZZERA - CHALLENGE LEAGUE]
            Xamax: 1X + GOAL (7) [TOP 20] 🔴 Yverdon
 TOTALE    16:45  AZ Alkmaar [🧊D] vs FC Groningen   [OLANDA - EREDIVISIE]
            xG: AZ Alkmaar xG 3,45 (2,24+1,21) · FC Groningen xG 3,99 (1,87+2,12)
-           AZ Alkmaar: 12 + GOAL (6) ❗ 12/42
+           AZ Alkmaar: 12 + GOAL (6) ❗ 11/42
 CASA      17:00  Sandefjord [🧊A] vs Molde [🔥A]   [NORVEGIA - ELITESERIEN]
            xG: Sandefjord xG 3,29 (1,42+1,87) · Molde xG 3,79 (2,34+1,45)
            Sandefjord: 12 + GOAL (17) ❗ 9/42 [TOP 20] 🔴 Molde
@@ -443,9 +403,9 @@ TOTALE    19:30  LR Vicenza [🔥D] vs Cremonese [🧊A]   [ITALIA - SERIE B]
            Cremonese: X2 + GOAL (6) 🔥 4/42
 TOTALE    20:00  FC Utrecht [🔥D] vs NEC Nijmegen   [OLANDA - EREDIVISIE]
            xG: FC Utrecht xG 3,32 (1,39+1,93) · NEC Nijmegen xG 3,54 (1,74+1,80)
-           NEC Nijmegen: 12 + GOAL (7) ❗ 12/42 [TOP 20] 🔴 FC Utrecht
+           NEC Nijmegen: 12 + GOAL (7) ❗ 11/42 [TOP 20] 🔴 FC Utrecht
 CASA      20:15  Lech Poznań [🔥A 🧊D] vs Zagłębie Lubin [🧊A]   [POLONIA - EKSTRAKLASA]
-           xG: Lech Poznań xG 3,32 (2,27+1,05) · Zagłębie Lubin xG 2,80 (1,36+1,44)
+           xG: Lech Poznań xG 3,36 (2,31+1,05) · Zagłębie Lubin xG 2,80 (1,36+1,44)
            Lech Poznań: X2 + GOAL (7)
 TOTALE    20:15  Stal Mielec [🔥D] vs Ruch Chorzów [🧊D]   [POLONIA - I LIGA]
            Ruch Chorzów: 12 + GOAL (6) 👻 33/42 🔴 Stal Mielec
@@ -464,10 +424,10 @@ TOTALE    21:30  Rio Ave [🔥D] vs Braga   [PORTOGALLO - LIGA PORTUGAL]
            xG: Rio Ave xG 2,49 (0,73+1,76) · Braga xG 2,19 (1,44+0,75)
            Braga: 1X + GOAL (6) 👻 41/42 🔴 Rio Ave
 CASA      23:30  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,40 (1,39+1,01)
+           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,41 (1,39+1,02)
            Central Córdoba de Santiago: 12 + GOAL (7) 👻 38/42
 TRASFERTA 23:30  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,40 (1,39+1,01)
+           xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,41 (1,39+1,02)
            Lanús: 12 + GOAL (6) 👻 38/42
 
 ==================================================
@@ -485,4 +445,4 @@ TRASFERTA 20:30  Pineto [🧊A] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
 ALERT     20:30  Sabadell vs Real Sociedad B   [SPAGNA - LALIGA 2]
 ALERT     20:45  AZ Picerno vs Bari   [ITALIA - SERIE C]
 TOTALE    21:15  Torreense [🧊A] vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
-           Torreense: 1X + GOAL (6) 👻 36/42; X2 + GOAL (6) 👻 35/42 🔴 União de Leiria; 12 + GOAL (8) 👻 34/42 [TOP 20]
+           Torreense: 1X + GOAL (6) 👻 36/42; X2 + GOAL (6) 👻 35/42 🔴 União de Leiria; 12 + GOAL (8) 👻 35/42 [TOP 20]

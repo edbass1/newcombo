@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 07/11/2026
-Aggiornato: 07/11/2026 14:43 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 07/11/2026 15:34 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. CASA      22:00  Inter Miami CF vs Charlotte FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 94,8  (Freq 100 · Rit 88 · Lega 93 · GG 99 · xG 96)
+    12 + GOAL  -  punteggio 95,5  (Freq 100 · Rit 86 · Lega 95 · GG 100 · xG 100)
     Per Inter Miami CF in casa il 12+GOAL manca da 6 partite: di solito non passa più di una partita senza, e la fa spesso, circa il 55% delle volte. In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 8 volte e l'xG è alto.
 
- 2. CASA      15:30  Mainz 05 vs Bayern München   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 87,2  (Freq 91 · Rit 81 · Lega 74 · GG 99 · xG 93)
-    Per Mainz 05 in casa l'1X+GOAL manca da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 40% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
-
- 3. TRASFERTA 15:00  IFK Värnamo vs IFK Norrköping   [SVEZIA - SUPERETTAN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 83,7  (Freq 97 · Rit 100 · Lega 91 · GG 28)
-    L'1X+GOAL si fa aspettare da IFK Norrköping in trasferta: 12 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 45% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 4 volte.
-
- 4. CASA      20:30  Hertha BSC vs Wolfsburg   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 80,7  (Freq 94 · Rit 82 · Lega 39 · GG 95 · xG 91)
+ 2. CASA      20:30  Hertha BSC vs Wolfsburg   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 82,5  (Freq 94 · Rit 81 · Lega 45 · GG 95 · xG 97)
     Per Hertha BSC in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 41% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 5. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 78,9  (Freq 99 · Rit 89 · Lega 70 · GG 95 · xG 27)
+ 3. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 78,8  (Freq 98 · Rit 88 · Lega 72 · GG 95 · xG 26)
     L'X2+GOAL si fa aspettare da Columbus Crew in trasferta: 7 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 47% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 6. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 75,9  (Freq 77 · Rit 72 · Lega 70 · GG 74 · xG 89)
+ 4. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 78,2  (Freq 79 · Rit 72 · Lega 72 · GG 76 · xG 95)
     L'X2+GOAL si fa aspettare da Red Bull New York: 11 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
 
- 7. TOTALE    17:30  Örgryte vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 72,0  (Freq 67 · Rit 91 · Lega 53 · GG 74 · xG 69)
+ 5. TOTALE    17:30  Örgryte vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 73,7  (Freq 67 · Rit 90 · Lega 57 · GG 76 · xG 74)
     L'1X+GOAL si fa aspettare da Västerås SK: 19 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 31%). In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e c'è tanto xG.
 
- 8. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 71,9  (Freq 96 · Rit 46 · Lega 70 · GG 92 · xG 60)
+ 6. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 72,7  (Freq 97 · Rit 45 · Lega 72 · GG 91 · xG 64)
     DC United non vede l'X2+GOAL da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
- 9. TOTALE    21:05  Paris Saint-Germain vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 70,2  (Freq 50 · Rit 55 · Lega 96 · GG 81 · xG 84)
+ 7. TOTALE    21:05  Paris Saint-Germain vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 71,6  (Freq 51 · Rit 55 · Lega 98 · GG 81 · xG 90)
     L'1X+GOAL si fa aspettare da Troyes: 9 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 29% delle volte. In questo campionato non è una rarità, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
 
-10. TOTALE    15:30  RB Leipzig vs Augsburg   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 69,0  (Freq 60 · Rit 64 · Lega 45 · GG 87 · xG 100)
-    RB Leipzig non vede l'X2+GOAL da 12 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 32%). Anche il campionato la vede spesso, il GG nelle ultime 10 è uscito 8 volte e l'xG è alto.
+ 8. TRASFERTA 18:00  Parma vs Bologna   [ITALIA - SERIE A]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 69,0  (Freq 73 · Rit 97 · Lega 88 · GG 32 · xG 33)
+    Sono 12 partite che Bologna resta senza l'1X+GOAL in trasferta: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG è alto.
+
+ 9. CASA      16:00  Birmingham City vs Swansea City   [INGHILTERRA - CHAMPIONSHIP]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 68,3  (Freq 32 · Rit 69 · Lega 92 · GG 86 · xG 77)
+    Per Birmingham City in casa il 12+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
+
+10. TOTALE    16:00  St. Johnstone vs Dundee FC   [SCOZIA - PREMIERSHIP]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 67,6  (Freq 90 · Rit 21 · Lega 64 · GG 98 · xG 85)
+    St. Johnstone non vede il 12+GOAL da 7 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 37% delle volte. Anche il campionato la vede spesso, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
