@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1280,29 +1280,29 @@ USA/CANADA - MLS
 SOTTOFREQUENZA 1X + GOAL
     1/29 LA Galaxy                      56/100
     2/29 Portland Timbers               55/100
-    3/29 Red Bull New York              49/100
-    4/29 Real Salt Lake                 49/100
-    5/29 Inter Miami CF                 49/100
+    3/29 Inter Miami CF                 50/100
+    4/29 Toronto FC                     49/100
+    5/29 Red Bull New York              49/100
+    6/29 Real Salt Lake                 49/100
      ...
    29/29 New England Revolution         37/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/29 Inter Miami CF                 48/100
-    2/29 DC United                      46/100
-    3/29 Minnesota United               45/100
-    4/29 Atlanta United                 44/100
+    2/29 Minnesota United               45/100
+    3/29 DC United                      45/100
+    4/29 Atlanta United                 43/100
     5/29 San Jose Earthquakes           42/100
     6/29 Chicago Fire FC                42/100
      ...
    29/29 Nashville SC                   24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/29 Inter Miami CF                 57/100
+    1/29 Inter Miami CF                 56/100
     2/29 Sporting Kansas City           55/100
     3/29 San Jose Earthquakes           52/100
-    4/29 Chicago Fire FC                51/100
-    5/29 LA Galaxy                      49/100
-    6/29 Columbus Crew                  49/100
+    4/29 Chicago Fire FC                52/100
+    5/29 Columbus Crew                  50/100
      ...
    29/29 Seattle Sounders FC            31/100  (la fa meno spesso)
 
@@ -1466,7 +1466,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2715,7 +2715,7 @@ SOTTOFREQUENZA X2 + GOAL
    27/27 Los Angeles FC                 24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/27 Inter Miami CF                 55/100
+    1/27 Inter Miami CF                 54/100
     2/27 Atlanta United                 52/100
     3/27 Portland Timbers               50/100
     4/27 LA Galaxy                      47/100
@@ -2882,7 +2882,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4141,7 +4141,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/27 FC Cincinnati                  50/100
-    2/27 Columbus Crew                  47/100
+    2/27 Columbus Crew                  48/100
     3/27 FC Dallas                      44/100
     4/27 Real Salt Lake                 43/100
     5/27 Inter Miami CF                 41/100
@@ -4154,6 +4154,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/27 New England Revolution         47/100
     4/27 San Jose Earthquakes           45/100
     5/27 FC Cincinnati                  45/100
+    6/27 Columbus Crew                  45/100
      ...
    27/27 New York City FC               29/100  (la fa meno spesso)
 

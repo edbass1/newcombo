@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -43,28 +43,28 @@ TOP 20 — X2 + GOAL
    3. RB Leipzig                     13  | GERMANIA - BUNDESLIGA
    4. Giugliano                      12  | ITALIA - SERIE C
    4. Queen's Park                   12  | SCOZIA - CHAMPIONSHIP
-   6. Columbus Crew                  11  | USA/CANADA - MLS
-   6. GIF Sundsvall                  11  | SVEZIA - SUPERETTAN
-   6. Red Bull New York              11  | USA/CANADA - MLS
-   6. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
-  10. Arsenal                        10  | INGHILTERRA - PREMIER LEAGUE
-  10. Coventry City                 10+  | INGHILTERRA - PREMIER LEAGUE
-  10. Exeter City                    10  | INGHILTERRA - LEAGUE TWO
-  10. Rapid Wien                     10  | AUSTRIA - BUNDESLIGA
-  14. FC Vlašim                       9  | REP. CECA - FNL
-  14. Palmeiras                       9  | BRASILE - SÉRIE A
-  14. Tondela                        9+  | PORTOGALLO - LIGA PORTUGAL 2
-  17. Austria Lustenau                8  | AUSTRIA - BUNDESLIGA
-  17. Carrarese                       8  | ITALIA - SERIE B
-  17. Doncaster Rovers                8  | INGHILTERRA - LEAGUE ONE
-  17. Francs Borains                  8  | BELGIO - FIRST DIVISION B
-  17. Kaiserslautern                  8  | GERMANIA - 2. BUNDESLIGA
-  17. Manchester City                 8  | INGHILTERRA - PREMIER LEAGUE
-  17. Reggiana                        8  | ITALIA - SERIE C
-  17. Shamrock Rovers                 8  | IRLANDA - PREMIER DIVISION
-  17. Watford                         8  | INGHILTERRA - CHAMPIONSHIP
-  17. Wellington Phoenix              8  | AUSTRALIA - A-LEAGUE MEN
-  17. Western Sydney Wanderers FC     8  | AUSTRALIA - A-LEAGUE MEN
+   4. Red Bull New York              12  | USA/CANADA - MLS
+   7. GIF Sundsvall                  11  | SVEZIA - SUPERETTAN
+   7. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
+   9. Arsenal                        10  | INGHILTERRA - PREMIER LEAGUE
+   9. Coventry City                 10+  | INGHILTERRA - PREMIER LEAGUE
+   9. Exeter City                    10  | INGHILTERRA - LEAGUE TWO
+   9. Rapid Wien                     10  | AUSTRIA - BUNDESLIGA
+  13. FC Vlašim                       9  | REP. CECA - FNL
+  13. Palmeiras                       9  | BRASILE - SÉRIE A
+  13. Tondela                        9+  | PORTOGALLO - LIGA PORTUGAL 2
+  16. Austria Lustenau                8  | AUSTRIA - BUNDESLIGA
+  16. Carrarese                       8  | ITALIA - SERIE B
+  16. DC United                       8  | USA/CANADA - MLS
+  16. Doncaster Rovers                8  | INGHILTERRA - LEAGUE ONE
+  16. Francs Borains                  8  | BELGIO - FIRST DIVISION B
+  16. Kaiserslautern                  8  | GERMANIA - 2. BUNDESLIGA
+  16. Manchester City                 8  | INGHILTERRA - PREMIER LEAGUE
+  16. Reggiana                        8  | ITALIA - SERIE C
+  16. Shamrock Rovers                 8  | IRLANDA - PREMIER DIVISION
+  16. Watford                         8  | INGHILTERRA - CHAMPIONSHIP
+  16. Wellington Phoenix              8  | AUSTRALIA - A-LEAGUE MEN
+  16. Western Sydney Wanderers FC     8  | AUSTRALIA - A-LEAGUE MEN
 
 TOP 20 — 12 + GOAL
    1. Northampton Town              13+  | INGHILTERRA - LEAGUE TWO
@@ -289,16 +289,16 @@ RITARDI X2 + GOAL
   10. Lincoln City                      2  🟢 50%  ❗ 12/41
 
 RITARDI 12 + GOAL
-   1. Wrexham                           4  🟢 75%  ❗ 11/41
-   2. Middlesbrough                     3  🟢 67%  ❗ 11/41
-   3. Millwall                          2  🟢 100%  ❗ 11/41
-   4. Norwich City                      2  🟢 100%  🔴  ❗ 11/41
-   5. Southampton                       2  🟢 50%  🔴  ❗ 11/41
-   6. Watford                           2  ❗ 11/41
-   7. West Bromwich Albion              2  🟢 100%  ❗ 11/41
-   8. Bristol City                      1  🟢 100%  ❗ 11/41
-   9. Preston North End                 1  ❗ 11/41
-  10. Wolverhampton Wanderers           1  🟢 100%  ❗ 11/41
+   1. Wrexham                           4  🟢 75%  ❗ 10/41
+   2. Middlesbrough                     3  🟢 67%  ❗ 10/41
+   3. Millwall                          2  🟢 100%  ❗ 10/41
+   4. Norwich City                      2  🟢 100%  🔴  ❗ 10/41
+   5. Southampton                       2  🟢 50%  🔴  ❗ 10/41
+   6. Watford                           2  ❗ 10/41
+   7. West Bromwich Albion              2  🟢 100%  ❗ 10/41
+   8. Bristol City                      1  🟢 100%  ❗ 10/41
+   9. Preston North End                 1  ❗ 10/41
+  10. Wolverhampton Wanderers           1  🟢 100%  ❗ 10/41
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -564,16 +564,16 @@ RITARDI 1X + GOAL
   10. Dunkerque                         2  🟢 50%  👻 33/41
 
 RITARDI X2 + GOAL
-   1. Saint-Étienne                     5  🟢 60%  ❗ 9/41
-   2. Guingamp                          3  🟢 100%  ❗ 9/41
-   3. Laval                             3  ❗ 9/41
-   4. Annecy FC                         2  🟢 100%  ❗ 9/41
-   5. Boulogne                          2  🟢 50%  🔴  ❗ 9/41
-   6. Dunkerque                         2  🟢 50%  ❗ 9/41
-   7. Reims                             2  🟢 100%  ❗ 9/41
-   8. Rodez                             2  🔴  ❗ 9/41
-   9. Sochaux                           2  🟢 50%  ❗ 9/41
-  10. Clermont Foot                     1  ❗ 9/41
+   1. Saint-Étienne                     5  🟢 60%  ❗ 8/41
+   2. Guingamp                          3  🟢 100%  ❗ 8/41
+   3. Laval                             3  ❗ 8/41
+   4. Annecy FC                         2  🟢 100%  ❗ 8/41
+   5. Boulogne                          2  🟢 50%  🔴  ❗ 8/41
+   6. Dunkerque                         2  🟢 50%  ❗ 8/41
+   7. Reims                             2  🟢 100%  ❗ 8/41
+   8. Rodez                             2  🔴  ❗ 8/41
+   9. Sochaux                           2  🟢 50%  ❗ 8/41
+  10. Clermont Foot                     1  ❗ 8/41
 
 RITARDI 12 + GOAL
    1. Saint-Étienne                     6  🟢 67%
@@ -1734,44 +1734,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (495 partite giocate) + 2025
+Stagione 2026 (503 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
-   1. Philadelphia Union                3  🔥 4/41
+   1. Columbus Crew                     3  🟢 100%  🔥 4/41
    2. St. Louis City                    3  🟢 67%  🔥 4/41
-   3. Charlotte FC                      2  🟢 100%  🔥 4/41
-   4. Columbus Crew                     2  🟢 100%  🔥 4/41
-   5. Chicago Fire FC                   1  🟢 100%  🔥 4/41
-   6. Colorado Rapids                   1  🟢 100%  🔥 4/41
-   7. DC United                         1  🟢 100%  🔥 4/41
-   8. FC Cincinnati                     1  🔥 4/41
-   9. Inter Miami CF                    1  🟢 100%  🔴  🔥 4/41
-  10. Los Angeles FC                    1  🟢 100%  🔥 4/41
+   3. Chicago Fire FC                   2  🟢 100%  🔥 4/41
+   4. DC United                         2  🟢 50%  🔥 4/41
+   5. FC Cincinnati                     2  🟢 50%  🔥 4/41
+   6. New England Revolution            2  🟢 50%  🔥 4/41
+   7. Orlando City                      2  🟢 50%  🔥 4/41
+   8. Atlanta United                    1  🟢 100%  🔥 4/41
+   9. CF Montréal                       1  🟢 100%  🔥 4/41
+  10. Colorado Rapids                   1  🟢 100%  🔥 4/41
 
 RITARDI X2 + GOAL
-   1. Columbus Crew                    11  🟢 91%  ❗ 8/41
-   2. Red Bull New York                11  🟢 73%  ❗ 8/41
-   3. DC United                         7  🟢 100%  🔴  ❗ 8/41
-   4. Toronto FC                        4  🟢 100%  ❗ 8/41
-   5. Charlotte FC                      3  🟢 100%  ❗ 8/41
-   6. Houston Dynamo FC                 3  ❗ 8/41
-   7. Nashville SC                      3  🟢 67%  ❗ 8/41
-   8. Vancouver Whitecaps               3  🟢 67%  ❗ 8/41
-   9. Atlanta United                    2  🟢 100%  ❗ 8/41
-  10. Philadelphia Union                2  ❗ 8/41
+   1. Red Bull New York                12  🟢 75%  ❗ 9/41
+   2. DC United                         8  🟢 88%  🔴  ❗ 9/41
+   3. Toronto FC                        5  🟢 100%  ❗ 9/41
+   4. Nashville SC                      4  🟢 75%  ❗ 9/41
+   5. Vancouver Whitecaps               4  🟢 75%  ❗ 9/41
+   6. Atlanta United                    3  🟢 100%  ❗ 9/41
+   7. Houston Dynamo FC                 3  ❗ 9/41
+   8. Philadelphia Union                3  ❗ 9/41
+   9. FC Cincinnati                     2  🟢 50%  ❗ 9/41
+  10. Orlando City                      2  🟢 50%  ❗ 9/41
 
 RITARDI 12 + GOAL
-   1. CF Montréal                       5  🟢 100%  ❗ 10/41
-   2. FC Dallas                         5  🟢 80%  ❗ 10/41
-   3. FC Cincinnati                     3  🟢 67%  ❗ 10/41
-   4. Orlando City                      3  🟢 100%  ❗ 10/41
-   5. Charlotte FC                      2  🟢 100%  ❗ 10/41
-   6. Columbus Crew                     2  🟢 100%  ❗ 10/41
-   7. Philadelphia Union                2  ❗ 10/41
-   8. DC United                         1  🟢 100%  ❗ 10/41
-   9. New York City FC                  1  🟢 100%  ❗ 10/41
-  10. San Diego FC                      1  ❗ 10/41
+   1. CF Montréal                       6  🟢 100%  ❗ 11/41
+   2. FC Dallas                         5  🟢 80%  ❗ 11/41
+   3. FC Cincinnati                     4  🟢 75%  ❗ 11/41
+   4. Orlando City                      4  🟢 75%  ❗ 11/41
+   5. Charlotte FC                      3  🟢 100%  ❗ 11/41
+   6. DC United                         2  🟢 50%  ❗ 11/41
+   7. New York City FC                  2  🟢 50%  ❗ 11/41
+   8. Atlanta United                    1  🟢 100%  ❗ 11/41
+   9. Inter Miami CF                    1  🟢 100%  🔴  ❗ 11/41
+  10. Nashville SC                      1  🟢 100%  ❗ 11/41
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -1981,7 +1981,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2275,16 +2275,16 @@ RITARDI X2 + GOAL
   10. Blackburn Rovers                  1  🟢 100%  ❗ 12/41
 
 RITARDI 12 + GOAL
-   1. Middlesbrough                     4  🟢 75%  ❗ 11/41
-   2. Sheffield United                  4  🟢 50%  ❗ 11/41
-   3. Watford                           4  🟢 50%  ❗ 11/41
-   4. Wolverhampton Wanderers           3  🟢 67%  ❗ 11/41
-   5. Stoke City                        2  🟢 50%  ❗ 11/41
-   6. Swansea City                      2  🟢 50%  ❗ 11/41
-   7. West Bromwich Albion              2  🟢 100%  ❗ 11/41
-   8. Wrexham                           2  🟢 100%  ❗ 11/41
-   9. Bristol City                      1  🟢 100%  ❗ 11/41
-  10. Burnley                           1  ❗ 11/41
+   1. Middlesbrough                     4  🟢 75%  ❗ 10/41
+   2. Sheffield United                  4  🟢 50%  ❗ 10/41
+   3. Watford                           4  🟢 50%  ❗ 10/41
+   4. Wolverhampton Wanderers           3  🟢 67%  ❗ 10/41
+   5. Stoke City                        2  🟢 50%  ❗ 10/41
+   6. Swansea City                      2  🟢 50%  ❗ 10/41
+   7. West Bromwich Albion              2  🟢 100%  ❗ 10/41
+   8. Wrexham                           2  🟢 100%  ❗ 10/41
+   9. Bristol City                      1  🟢 100%  ❗ 10/41
+  10. Burnley                           1  ❗ 10/41
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -2550,16 +2550,16 @@ RITARDI 1X + GOAL
   10. Dunkerque                         1  🟢 100%  👻 33/41
 
 RITARDI X2 + GOAL
-   1. Saint-Étienne                    15  🟢 73%  ❗ 9/41
-   2. Pau                               4  🟢 100%  ❗ 9/41
-   3. Nancy                             3  ❗ 9/41
-   4. Clermont Foot                     2  🟢 50%  ❗ 9/41
-   5. Reims                             2  🟢 100%  ❗ 9/41
-   6. Rodez                             2  🟢 50%  🔴  ❗ 9/41
-   7. Annecy FC                         1  🟢 100%  ❗ 9/41
-   8. Boulogne                          1  🟢 100%  🔴  ❗ 9/41
-   9. Dijon                             1  ❗ 9/41
-  10. Dunkerque                         1  🟢 100%  ❗ 9/41
+   1. Saint-Étienne                    15  🟢 73%  ❗ 8/41
+   2. Pau                               4  🟢 100%  ❗ 8/41
+   3. Nancy                             3  ❗ 8/41
+   4. Clermont Foot                     2  🟢 50%  ❗ 8/41
+   5. Reims                             2  🟢 100%  ❗ 8/41
+   6. Rodez                             2  🟢 50%  🔴  ❗ 8/41
+   7. Annecy FC                         1  🟢 100%  ❗ 8/41
+   8. Boulogne                          1  🟢 100%  🔴  ❗ 8/41
+   9. Dijon                             1  ❗ 8/41
+  10. Dunkerque                         1  🟢 100%  ❗ 8/41
 
 RITARDI 12 + GOAL
    1. Dunkerque                         3  🟢 67%
@@ -3720,44 +3720,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (495 partite giocate) + 2025
+Stagione 2026 (503 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. FC Dallas                         5  🔥 4/41
    2. Austin FC                         3  🟢 100%  🔥 4/41
-   3. St. Louis City                    3  🔥 4/41
-   4. CF Montréal                       2  🟢 100%  🔥 4/41
-   5. Charlotte FC                      2  🟢 100%  🔥 4/41
-   6. Colorado Rapids                   2  🟢 50%  🔥 4/41
-   7. Red Bull New York                 2  🟢 100%  🔥 4/41
-   8. Columbus Crew                     1  🟢 100%  🔥 4/41
-   9. DC United                         1  🟢 100%  🔥 4/41
-  10. FC Cincinnati                     1  🔥 4/41
+   3. CF Montréal                       3  🟢 100%  🔥 4/41
+   4. Red Bull New York                 3  🟢 100%  🔥 4/41
+   5. St. Louis City                    3  🔥 4/41
+   6. Charlotte FC                      2  🟢 100%  🔥 4/41
+   7. Colorado Rapids                   2  🟢 50%  🔥 4/41
+   8. DC United                         2  🟢 50%  🔥 4/41
+   9. FC Cincinnati                     2  🟢 50%  🔥 4/41
+  10. Chicago Fire FC                   1  🟢 100%  🔥 4/41
 
 RITARDI X2 + GOAL
-   1. Nashville SC                     12  🟢 75%  ❗ 8/41
-   2. Charlotte FC                      7  🟢 71%  ❗ 8/41
-   3. FC Dallas                         7  🟢 57%  ❗ 8/41
-   4. Columbus Crew                     6  🟢 83%  ❗ 8/41
-   5. CF Montréal                       4  🟢 100%  ❗ 8/41
-   6. Portland Timbers                  4  🟢 50%  ❗ 8/41
-   7. Red Bull New York                 4  🟢 100%  ❗ 8/41
-   8. FC Cincinnati                     3  🟢 67%  ❗ 8/41
-   9. DC United                         2  🟢 100%  ❗ 8/41
-  10. Minnesota United                  2  🟢 100%  🔴  ❗ 8/41
+   1. Nashville SC                     12  🟢 75%  ❗ 9/41
+   2. Charlotte FC                      7  🟢 71%  ❗ 9/41
+   3. FC Dallas                         7  🟢 57%  ❗ 9/41
+   4. Columbus Crew                     6  🟢 83%  ❗ 9/41
+   5. CF Montréal                       5  🟢 100%  ❗ 9/41
+   6. Red Bull New York                 5  🟢 100%  ❗ 9/41
+   7. FC Cincinnati                     4  🟢 75%  ❗ 9/41
+   8. Portland Timbers                  4  🟢 50%  ❗ 9/41
+   9. DC United                         3  🟢 67%  ❗ 9/41
+  10. Minnesota United                  2  🟢 100%  🔴  ❗ 9/41
 
 RITARDI 12 + GOAL
-   1. Inter Miami CF                    6  🟢 100%  🔴  ❗ 10/41
-   2. Real Salt Lake                    6  🟢 100%  ❗ 10/41
-   3. FC Dallas                         5  ❗ 10/41
-   4. Houston Dynamo FC                 4  🟢 75%  ❗ 10/41
-   5. San Diego FC                      3  🟢 100%  ❗ 10/41
-   6. CF Montréal                       2  🟢 100%  ❗ 10/41
-   7. Charlotte FC                      2  🟢 100%  ❗ 10/41
-   8. Red Bull New York                 2  🟢 100%  ❗ 10/41
-   9. Seattle Sounders FC               2  🟢 50%  ❗ 10/41
-  10. Chicago Fire FC                   1  🟢 100%  ❗ 10/41
+   1. Inter Miami CF                    7  🟢 100%  🔴  ❗ 11/41
+   2. Real Salt Lake                    6  🟢 100%  ❗ 11/41
+   3. FC Dallas                         5  ❗ 11/41
+   4. Houston Dynamo FC                 4  🟢 75%  ❗ 11/41
+   5. CF Montréal                       3  🟢 100%  ❗ 11/41
+   6. Red Bull New York                 3  🟢 100%  ❗ 11/41
+   7. San Diego FC                      3  🟢 100%  ❗ 11/41
+   8. Charlotte FC                      2  🟢 100%  ❗ 11/41
+   9. DC United                         2  🟢 50%  ❗ 11/41
+  10. FC Cincinnati                     2  🟢 50%  ❗ 11/41
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -3967,7 +3967,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 07/11/2026 23:27 (ora italiana)
+Aggiornato: 08/11/2026 00:27 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4249,16 +4249,16 @@ RITARDI X2 + GOAL
   10. Norwich City                      2  🟢 100%  ❗ 12/41
 
 RITARDI 12 + GOAL
-   1. Wrexham                           7  🟢 71%  ❗ 11/41
-   2. Portsmouth                        5  ❗ 11/41
-   3. Charlton Athletic                 3  🟢 100%  ❗ 11/41
-   4. Cardiff City                      2  🟢 100%  ❗ 11/41
-   5. Middlesbrough                     2  🟢 50%  🔴  ❗ 11/41
-   6. Millwall                          2  🟢 100%  ❗ 11/41
-   7. Norwich City                      2  🟢 100%  🔴  ❗ 11/41
-   8. Southampton                       2  🟢 50%  🔴  ❗ 11/41
-   9. Blackburn Rovers                  1  🟢 100%  ❗ 11/41
-  10. Preston North End                 1  🟢 100%  ❗ 11/41
+   1. Wrexham                           7  🟢 71%  ❗ 10/41
+   2. Portsmouth                        5  ❗ 10/41
+   3. Charlton Athletic                 3  🟢 100%  ❗ 10/41
+   4. Cardiff City                      2  🟢 100%  ❗ 10/41
+   5. Middlesbrough                     2  🟢 50%  🔴  ❗ 10/41
+   6. Millwall                          2  🟢 100%  ❗ 10/41
+   7. Norwich City                      2  🟢 100%  🔴  ❗ 10/41
+   8. Southampton                       2  🟢 50%  🔴  ❗ 10/41
+   9. Blackburn Rovers                  1  🟢 100%  ❗ 10/41
+  10. Preston North End                 1  🟢 100%  ❗ 10/41
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -4524,16 +4524,16 @@ RITARDI 1X + GOAL
   10. Montpellier                       2  🟢 100%  👻 33/41
 
 RITARDI X2 + GOAL
-   1. Grenoble                          8  🟢 75%  ❗ 9/41
-   2. Laval                             4  🟢 75%  ❗ 9/41
-   3. Guingamp                          3  🟢 67%  ❗ 9/41
-   4. Sochaux                           3  🟢 67%  ❗ 9/41
-   5. Boulogne                          2  🟢 50%  ❗ 9/41
-   6. Montpellier                       2  🟢 100%  ❗ 9/41
-   7. Nantes                            2  🟢 50%  ❗ 9/41
-   8. Red Star                          2  🟢 50%  ❗ 9/41
-   9. Saint-Étienne                     2  🟢 50%  ❗ 9/41
-  10. Annecy FC                         1  🟢 100%  ❗ 9/41
+   1. Grenoble                          8  🟢 75%  ❗ 8/41
+   2. Laval                             4  🟢 75%  ❗ 8/41
+   3. Guingamp                          3  🟢 67%  ❗ 8/41
+   4. Sochaux                           3  🟢 67%  ❗ 8/41
+   5. Boulogne                          2  🟢 50%  ❗ 8/41
+   6. Montpellier                       2  🟢 100%  ❗ 8/41
+   7. Nantes                            2  🟢 50%  ❗ 8/41
+   8. Red Star                          2  🟢 50%  ❗ 8/41
+   9. Saint-Étienne                     2  🟢 50%  ❗ 8/41
+  10. Annecy FC                         1  🟢 100%  ❗ 8/41
 
 RITARDI 12 + GOAL
    1. Boulogne                          6
@@ -5694,44 +5694,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (495 partite giocate) + 2025
+Stagione 2026 (503 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
-   1. Philadelphia Union                6  🟢 67%  🔥 4/41
-   2. Chicago Fire FC                   5  🟢 60%  🔥 4/41
-   3. New England Revolution            5  🟢 100%  🔥 4/41
-   4. Inter Miami CF                    3  🟢 100%  🔥 4/41
-   5. Vancouver Whitecaps               3  🔥 4/41
-   6. Columbus Crew                     2  🟢 100%  🔴  🔥 4/41
+   1. New England Revolution            6  🟢 83%  🔥 4/41
+   2. Philadelphia Union                6  🟢 67%  🔥 4/41
+   3. Chicago Fire FC                   5  🟢 60%  🔥 4/41
+   4. Vancouver Whitecaps               4  🟢 50%  🔥 4/41
+   5. Columbus Crew                     3  🟢 100%  🔴  🔥 4/41
+   6. Inter Miami CF                    3  🟢 100%  🔥 4/41
    7. Minnesota United                  2  🟢 50%  🔥 4/41
-   8. Portland Timbers                  2  🟢 100%  🔴  🔥 4/41
-   9. DC United                         1  🟢 100%  🔥 4/41
-  10. Nashville SC                      1  🟢 100%  🔥 4/41
+   8. Nashville SC                      2  🟢 100%  🔥 4/41
+   9. Portland Timbers                  2  🟢 100%  🔴  🔥 4/41
+  10. Atlanta United                    1  🟢 100%  🔥 4/41
 
 RITARDI X2 + GOAL
-   1. Red Bull New York                 9  🟢 67%  ❗ 8/41
-   2. Sporting Kansas City              9  🟢 100%  ❗ 8/41
-   3. Columbus Crew                     7  🟢 100%  🔴  ❗ 8/41
-   4. Toronto FC                        6  🟢 100%  ❗ 8/41
-   5. DC United                         5  🟢 100%  ❗ 8/41
-   6. Atlanta United                    4  🟢 50%  ❗ 8/41
-   7. St. Louis City                    3  🟢 100%  ❗ 8/41
-   8. Houston Dynamo FC                 2  🟢 50%  ❗ 8/41
-   9. Philadelphia Union                2  ❗ 8/41
-  10. San Diego FC                      2  🟢 50%  ❗ 8/41
+   1. Red Bull New York                 9  🟢 67%  ❗ 9/41
+   2. Sporting Kansas City              9  🟢 100%  ❗ 9/41
+   3. Toronto FC                        7  🟢 100%  ❗ 9/41
+   4. Atlanta United                    5  🟢 60%  ❗ 9/41
+   5. DC United                         5  🟢 100%  ❗ 9/41
+   6. St. Louis City                    3  🟢 100%  ❗ 9/41
+   7. Houston Dynamo FC                 2  🟢 50%  ❗ 9/41
+   8. Nashville SC                      2  🟢 100%  ❗ 9/41
+   9. Philadelphia Union                2  ❗ 9/41
+  10. San Diego FC                      2  🟢 50%  ❗ 9/41
 
 RITARDI 12 + GOAL
-   1. CF Montréal                       3  🟢 100%  ❗ 10/41
-   2. Los Angeles FC                    3  🟢 67%  ❗ 10/41
-   3. Orlando City                      3  🟢 100%  ❗ 10/41
-   4. San Jose Earthquakes              3  🟢 100%  ❗ 10/41
-   5. Colorado Rapids                   2  🟢 50%  ❗ 10/41
-   6. Columbus Crew                     2  🟢 100%  ❗ 10/41
-   7. FC Cincinnati                     2  🟢 100%  ❗ 10/41
-   8. FC Dallas                         2  🟢 100%  ❗ 10/41
-   9. Nashville SC                      2  🟢 100%  ❗ 10/41
-  10. New York City FC                  2  🟢 100%  ❗ 10/41
+   1. CF Montréal                       3  🟢 100%  ❗ 11/41
+   2. Los Angeles FC                    3  🟢 67%  ❗ 11/41
+   3. Nashville SC                      3  🟢 100%  ❗ 11/41
+   4. New York City FC                  3  🟢 67%  ❗ 11/41
+   5. Orlando City                      3  🟢 100%  ❗ 11/41
+   6. San Jose Earthquakes              3  🟢 100%  ❗ 11/41
+   7. Colorado Rapids                   2  🟢 50%  ❗ 11/41
+   8. FC Cincinnati                     2  🟢 100%  ❗ 11/41
+   9. FC Dallas                         2  🟢 100%  ❗ 11/41
+  10. Philadelphia Union                2  ❗ 11/41
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
