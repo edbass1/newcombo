@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 21:27 (ora italiana)
+Aggiornato: 07/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -360,7 +360,7 @@ FRANCIA - LIGUE 2
 SOTTOFREQUENZA 1X + GOAL
     1/18 Rodez                          48/100
     2/18 Clermont Foot                  48/100
-    3/18 Pau                            43/100
+    3/18 Pau                            42/100
     4/18 Sochaux                        41/100
     5/18 Reims                          40/100
     6/18 Red Star                       40/100
@@ -371,11 +371,11 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Rodez                          47/100
-    2/18 Pau                            40/100
-    3/18 Laval                          39/100
-    4/18 Boulogne                       39/100
-    5/18 Sochaux                        38/100
-    6/18 Nantes                         38/100
+    2/18 Pau                            39/100
+    3/18 Boulogne                       39/100
+    4/18 Sochaux                        38/100
+    5/18 Nantes                         38/100
+    6/18 Laval                          38/100
      ...
    18/18 Saint-Étienne                  23/100  (la fa meno spesso)
 
@@ -493,9 +493,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/11 Genk U23                       43/100
     3/11 FC Liège                       43/100
     4/11 RFC Seraing                    42/100
-    5/11 Virton                         39/100
-    6/11 K. Lierse SK                   39/100
-    7/11 Club Brugge NXT                39/100
+    5/11 K. Lierse SK                   39/100
+    6/11 Club Brugge NXT                39/100
      ...
    11/11 Patro Eisden                   36/100  (la fa meno spesso)
 
@@ -515,7 +514,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/11 Beerschot                      41/100
     5/11 Club Brugge NXT                40/100
      ...
-   11/11 Virton                         34/100  (la fa meno spesso)
+   11/11 RFC Seraing                    35/100  (la fa meno spesso)
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -603,9 +602,10 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Luzern                         53/100
     2/12 St. Gallen                     50/100
-    3/12 Grasshopper                    39/100
+    3/12 Grasshopper                    40/100
     4/12 Servette                       38/100
     5/12 Lugano                         38/100
+    6/12 Lausanne                       38/100
      ...
    12/12 FC Vaduz                       30/100  (la fa meno spesso)
 
@@ -1421,7 +1421,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/17 Śląsk Wrocław                  40/100
     5/17 Korona Kielce                  38/100
      ...
-   17/17 GKS Katowice                   27/100  (la fa meno spesso)
+   17/17 Pogoń Szczecin                 26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Radomiak Radom                 45/100
@@ -1467,7 +1467,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 21:27 (ora italiana)
+Aggiornato: 07/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1507,7 +1507,7 @@ ITALIA - SERIE B
 SOTTOFREQUENZA 1X + GOAL
     1/20 Virtus Entella                 49/100
     2/20 Padova                         45/100
-    3/20 Benevento                      44/100
+    3/20 Benevento                      45/100
     4/20 Mantova                        43/100
     5/20 Pisa                           41/100
     6/20 Cesena                         41/100
@@ -1836,8 +1836,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/18 Red Star                       39/100
     2/18 Montpellier                    38/100
-    3/18 Saint-Étienne                  37/100
-    4/18 Reims                          37/100
+    3/18 Reims                          37/100
+    4/18 Saint-Étienne                  36/100
     5/18 Metz                           35/100
     6/18 Laval                          35/100
      ...
@@ -2036,7 +2036,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Luzern                         50/100
-    2/12 Grasshopper                    49/100
+    2/12 Grasshopper                    50/100
     3/12 Lausanne                       42/100
     4/12 St. Gallen                     39/100
     5/12 Sion                           39/100
@@ -2049,7 +2049,6 @@ SOTTOFREQUENZA 12 + GOAL
     3/12 Thun                           48/100
     4/12 FC Zürich                      46/100
     5/12 Lausanne                       44/100
-    6/12 Grasshopper                    44/100
      ...
    12/12 Sion                           29/100  (la fa meno spesso)
 
@@ -2885,7 +2884,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 21:27 (ora italiana)
+Aggiornato: 07/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3255,7 +3254,7 @@ FRANCIA - LIGUE 2
 SOTTOFREQUENZA 1X + GOAL
     1/18 Pau                            45/100
     2/18 Saint-Étienne                  44/100
-    3/18 Nantes                         44/100
+    3/18 Nantes                         43/100
     4/18 Clermont Foot                  41/100
     5/18 Nancy                          40/100
      ...
@@ -3378,11 +3377,11 @@ BELGIO - FIRST DIVISION B
 SOTTOFREQUENZA 1X + GOAL
      1/3 RFC Seraing                    42/100
      2/3 Eupen                          38/100
-     3/3 Beerschot                      37/100
+     3/3 Beerschot                      36/100
 
 SOTTOFREQUENZA X2 + GOAL
-     1/3 RFC Seraing                    30/100
-     2/3 Beerschot                      30/100
+     1/3 Beerschot                      31/100
+     2/3 RFC Seraing                    30/100
      3/3 Eupen                          23/100
 
 SOTTOFREQUENZA 12 + GOAL
@@ -3459,7 +3458,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 Servette                       51/100
     3/12 Grasshopper                    51/100
     4/12 St. Gallen                     45/100
-    5/12 FC Vaduz                       44/100
+    5/12 Lausanne                       44/100
+    6/12 FC Vaduz                       44/100
      ...
    12/12 Thun                           31/100  (la fa meno spesso)
 
@@ -3480,7 +3480,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Lugano                         41/100
     5/12 St. Gallen                     40/100
      ...
-   12/12 Lausanne                       34/100  (la fa meno spesso)
+   12/12 Lausanne                       33/100  (la fa meno spesso)
 
 ==================================================
 SVIZZERA - CHALLENGE LEAGUE

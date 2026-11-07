@@ -1,27 +1,8 @@
 TIPS DEL GIORNO - 07/11/2026
-Aggiornato: 07/11/2026 21:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 07/11/2026 22:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      22:00  Inter Miami CF vs Charlotte FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 94,8  (Freq 100 · Rit 80 · Lega 100 · GG 100 · xG 100)
-    Per Inter Miami CF in casa il 12+GOAL manca da 6 partite: di solito non passa più di una partita senza, e la fa spesso, circa il 55% delle volte. In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 8 volte e l'xG è alto.
-
- 2. TRASFERTA 22:00  Chicago Fire FC vs Columbus Crew   [USA/CANADA - MLS]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 65,2  (Freq 80 · Rit 100 · Lega 40 · GG 80 · xG 0)
-    L'X2+GOAL si fa aspettare da Columbus Crew in trasferta: 7 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 47% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
-
- 3. TOTALE    22:00  DC United vs New York City FC   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 46,0  (Freq 60 · Rit 20 · Lega 40 · GG 60 · xG 60)
-    DC United non vede l'X2+GOAL da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
-
- 4. TOTALE    22:00  Red Bull New York vs Atlanta United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 40,4  (Freq 20 · Rit 60 · Lega 40 · GG 0 · xG 80)
-    L'X2+GOAL si fa aspettare da Red Bull New York: 11 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
-
- 5. TRASFERTA 22:00  Philadelphia Union vs Toronto FC   [USA/CANADA - MLS]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 15,2  (Freq 0 · Rit 0 · Lega 40 · GG 30 · xG 20)
-    L'X2+GOAL si fa aspettare da Toronto FC in trasferta: 6 gare, in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 22%). Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
