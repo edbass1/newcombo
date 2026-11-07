@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 12:27 (ora italiana)
+Aggiornato: 07/11/2026 13:36 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1091,7 +1091,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/13 Žilina B                       47/100
     2/13 Považská Bystrica              46/100
-    3/13 Malženice                      43/100
+    3/13 Malženice                      44/100
     4/13 FC STK 1914 Šamorín            43/100
     5/13 Liptovský Mikuláš              42/100
      ...
@@ -1321,9 +1321,9 @@ AUSTRALIA - A-LEAGUE MEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/11 Adelaide United                51/100
-    2/11 Perth Glory                    47/100
-    3/11 Macarthur FC                   47/100
-    4/11 Newcastle Jets                 46/100
+    2/11 Perth Glory                    48/100
+    3/11 Newcastle Jets                 47/100
+    4/11 Macarthur FC                   47/100
     5/11 Wellington Phoenix             44/100
     6/11 Brisbane Roar FC               44/100
      ...
@@ -1342,9 +1342,9 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/11 Adelaide United                51/100
     2/11 Macarthur FC                   45/100
-    3/11 Brisbane Roar FC               44/100
-    4/11 Perth Glory                    43/100
-    5/11 Newcastle Jets                 42/100
+    3/11 Perth Glory                    44/100
+    4/11 Brisbane Roar FC               44/100
+    5/11 Newcastle Jets                 43/100
      ...
    11/11 Melbourne City FC              33/100  (la fa meno spesso)
 
@@ -1476,7 +1476,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 12:27 (ora italiana)
+Aggiornato: 07/11/2026 13:36 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2761,8 +2761,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/10 Adelaide United                47/100
     2/10 Newcastle Jets                 46/100
     3/10 Wellington Phoenix             43/100
-    4/10 Sydney FC                      42/100
-    5/10 Perth Glory                    42/100
+    4/10 Perth Glory                    43/100
+    5/10 Sydney FC                      42/100
      ...
    10/10 Melbourne City FC              38/100  (la fa meno spesso)
 
@@ -2897,7 +2897,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 12:27 (ora italiana)
+Aggiornato: 07/11/2026 13:36 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3938,7 +3938,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
      1/8 Liptovský Mikuláš              39/100
-     2/8 FC STK 1914 Šamorín            34/100
+     2/8 FC STK 1914 Šamorín            35/100
      3/8 FC Petržalka 1898              33/100
      4/8 FK Pohronie                    30/100
      5/8 Žilina B                       26/100
@@ -3947,8 +3947,8 @@ SOTTOFREQUENZA X2 + GOAL
      8/8 Tatran Prešov                  21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-     1/8 Slovan Bratislava B            42/100
-     2/8 FC STK 1914 Šamorín            42/100
+     1/8 FC STK 1914 Šamorín            43/100
+     2/8 Slovan Bratislava B            42/100
      3/8 Žilina B                       41/100
      4/8 Zlaté Moravce                  38/100
      5/8 Liptovský Mikuláš              35/100
@@ -4177,8 +4177,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/10 Adelaide United                50/100
     3/10 Brisbane Roar FC               49/100
     4/10 Perth Glory                    48/100
-    5/10 Wellington Phoenix             44/100
-    6/10 Newcastle Jets                 44/100
+    5/10 Newcastle Jets                 45/100
      ...
    10/10 Sydney FC                      32/100  (la fa meno spesso)
 
@@ -4197,7 +4196,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/10 Brisbane Roar FC               44/100
     3/10 Melbourne Victory              43/100
     4/10 Wellington Phoenix             42/100
-    5/10 Newcastle Jets                 41/100
+    5/10 Newcastle Jets                 42/100
      ...
    10/10 Sydney FC                      34/100  (la fa meno spesso)
 
