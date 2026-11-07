@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 22:27 (ora italiana)
+Aggiornato: 07/11/2026 23:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -32,7 +32,7 @@ SOTTOFREQUENZA X2 + GOAL
    20/20 Lecce                          23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Sassuolo                       42/100
+    1/20 Sassuolo                       41/100
     2/20 Fiorentina                     41/100
     3/20 Monza                          36/100
     4/20 Como                           36/100
@@ -274,14 +274,14 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Wolfsburg                      52/100
     2/18 Hannover 96                    43/100
-    3/18 Hertha BSC                     40/100
-    4/18 Holstein Kiel                  39/100
+    3/18 Holstein Kiel                  39/100
+    4/18 Hertha BSC                     39/100
     5/18 Dynamo Dresden                 39/100
      ...
    18/18 Kaiserslautern                 26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Hertha BSC                     44/100
+    1/18 Hertha BSC                     45/100
     2/18 Wolfsburg                      43/100
     3/18 Karlsruher SC                  43/100
     4/18 Energie Cottbus                43/100
@@ -459,7 +459,7 @@ BELGIO - FIRST DIVISION A
 SOTTOFREQUENZA 1X + GOAL
     1/17 St.Truiden                     45/100
     2/17 KV Mechelen                    44/100
-    3/17 Cercle Brugge                  43/100
+    3/17 Cercle Brugge                  42/100
     4/17 Genk                           41/100
     5/17 Zulte Waregem                  40/100
     6/17 Westerlo                       40/100
@@ -468,7 +468,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/17 Cercle Brugge                  45/100
-    2/17 Lommel                         41/100
+    2/17 Lommel                         42/100
     3/17 KV Mechelen                    40/100
     4/17 Westerlo                       39/100
     5/17 St.Truiden                     36/100
@@ -480,7 +480,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Club Brugge                    44/100
     2/17 Zulte Waregem                  41/100
     3/17 St.Truiden                     41/100
-    4/17 Cercle Brugge                  40/100
+    4/17 Cercle Brugge                  39/100
     5/17 Genk                           38/100
      ...
    17/17 OH Leuven                      24/100  (la fa meno spesso)
@@ -521,7 +521,7 @@ OLANDA - EREDIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 PEC Zwolle                     51/100
-    2/18 Go Ahead Eagles                49/100
+    2/18 Go Ahead Eagles                48/100
     3/18 Telstar                        47/100
     4/18 SC Heerenveen                  46/100
     5/18 FC Utrecht                     46/100
@@ -536,8 +536,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/18 FC Utrecht                     43/100
     4/18 Willem II                      41/100
     5/18 PEC Zwolle                     41/100
-    6/18 Go Ahead Eagles                41/100
-    7/18 Feyenoord                      41/100
+    6/18 Feyenoord                      41/100
      ...
    18/18 Cambuur                        34/100  (la fa meno spesso)
 
@@ -720,7 +719,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 Rio Ave                        45/100
     2/18 Alverca                        45/100
     3/18 Académico Viseu                44/100
-    4/18 Moreirense                     41/100
+    4/18 Moreirense                     40/100
     5/18 Estoril                        40/100
      ...
    18/18 Santa Clara                    26/100  (la fa meno spesso)
@@ -732,12 +731,12 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 Estoril                        37/100
     5/18 Braga                          37/100
      ...
-   18/18 FC Porto                       25/100  (la fa meno spesso)
+   18/18 Moreirense                     24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Estoril                        37/100
-    2/18 Sporting CP                    36/100
-    3/18 Arouca                         36/100
+    2/18 Arouca                         36/100
+    3/18 Sporting CP                    35/100
     4/18 Benfica                        34/100
     5/18 Braga                          33/100
      ...
@@ -1248,8 +1247,8 @@ SOTTOFREQUENZA 12 + GOAL
 ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/26 Defensa y Justicia             40/100
-    2/26 Banfield                       40/100
+    1/26 Banfield                       40/100
+    2/26 Defensa y Justicia             39/100
     3/26 Lanús                          38/100
     4/26 Rosario Central                37/100
     5/26 Estudiantes                    37/100
@@ -1257,9 +1256,9 @@ SOTTOFREQUENZA 1X + GOAL
    26/26 Gimnasia LP                    23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/26 Defensa y Justicia             35/100
-    2/26 Barracas Central               35/100
-    3/26 Newell's Old Boys              34/100
+    1/26 Barracas Central               35/100
+    2/26 Newell's Old Boys              34/100
+    3/26 Defensa y Justicia             34/100
     4/26 Talleres                       33/100
     5/26 Banfield                       33/100
      ...
@@ -1467,7 +1466,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 22:27 (ora italiana)
+Aggiornato: 07/11/2026 23:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2672,7 +2671,6 @@ SOTTOFREQUENZA 1X + GOAL
     3/21 Tigre                          41/100
     4/21 Defensa y Justicia             41/100
     5/21 Estudiantes                    37/100
-    6/21 Argentinos Juniors             37/100
      ...
    21/21 Newell's Old Boys              23/100  (la fa meno spesso)
 
@@ -2884,7 +2882,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 22:27 (ora italiana)
+Aggiornato: 07/11/2026 23:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2906,15 +2904,14 @@ SOTTOFREQUENZA X2 + GOAL
     2/20 Bologna                        42/100
     3/20 Como                           41/100
     4/20 Frosinone                      40/100
-    5/20 Sassuolo                       39/100
-    6/20 Napoli                         39/100
-    7/20 Inter                          39/100
-    8/20 Atalanta                       39/100
+    5/20 Napoli                         39/100
+    6/20 Inter                          39/100
+    7/20 Atalanta                       39/100
      ...
    20/20 Cagliari                       29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Sassuolo                       44/100
+    1/20 Sassuolo                       43/100
     2/20 Milan                          42/100
     3/20 Fiorentina                     39/100
     4/20 Bologna                        39/100
@@ -3220,9 +3217,10 @@ FRANCIA - LIGUE 1
 SOTTOFREQUENZA 1X + GOAL
     1/18 Strasbourg                     51/100
     2/18 Rennes                         45/100
-    3/18 Troyes                         42/100
-    4/18 Lorient                        42/100
-    5/18 Auxerre                        42/100
+    3/18 Lorient                        42/100
+    4/18 Auxerre                        42/100
+    5/18 Troyes                         41/100
+    6/18 Brest                          41/100
      ...
    18/18 Paris Saint-Germain            21/100  (la fa meno spesso)
 
@@ -3297,7 +3295,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/20 Villarreal                     45/100
     3/20 Deportivo A Coruña             44/100
     4/20 Real Betis                     43/100
-    5/20 Real Madrid                    42/100
+    5/20 Real Madrid                    41/100
      ...
    20/20 Rayo Vallecano                 22/100  (la fa meno spesso)
 
@@ -3959,7 +3957,7 @@ SOTTOFREQUENZA 1X + GOAL
    12/12 Celtic                         13/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 Rangers                        50/100
+    1/12 Rangers                        49/100
     2/12 Celtic                         48/100
     3/12 Falkirk                        42/100
     4/12 Hibernian                      41/100
@@ -3969,7 +3967,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Celtic                         45/100
-    2/12 Rangers                        37/100
+    2/12 Rangers                        36/100
     3/12 Hibernian                      36/100
     4/12 Motherwell                     35/100
     5/12 Heart of Midlothian            35/100
@@ -4122,8 +4120,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/21 Tigre                          36/100
-    2/21 Defensa y Justicia             32/100
-    3/21 Talleres                       31/100
+    2/21 Talleres                       31/100
+    3/21 Defensa y Justicia             31/100
     4/21 Unión                          30/100
     5/21 Lanús                          30/100
      ...

@@ -3,8 +3,9 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 07/11/2026 23:27 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
+07/11 20:45  [GOAL] Royal Antwerp: X2 + GOAL uscita, era a 6 👻 38/41  -  Royal Antwerp 2-2 Lommel   [BELGIO - FIRST DIVISION A]
 07/11 19:00  [GOAL] Alverca: 1X + GOAL uscita, era a 6 👻 39/41  -  Alverca 1-1 Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]
 07/11 19:00  [GOAL] Casa Pia AC: 1X + GOAL uscita, era a 10 👻 39/41  -  Alverca 1-1 Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]
 07/11 18:00  [GOAL] Parma: X2 + GOAL uscita, era a 7  -  Parma 1-2 Bologna   [ITALIA - SERIE A]
@@ -41,9 +42,9 @@ Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 03/11 23:30  [GOAL] Mirassol: 12 + GOAL uscita, era a 7  -  Chapecoense 1-2 Mirassol   [BRASILE - SÉRIE A]
 02/11 19:00  [GOAL] Kongsvinger: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
 02/11 17:00  [GOAL] FC Inter Turku: 1X + GOAL uscita, era a 7 👻 35/41  -  FC Inter Turku 4-3 IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-02/11 14:00  [GOAL] FC Andorra: 1X + GOAL uscita, era a 9 👻 32/41  -  Tenerife 2-2 FC Andorra   [SPAGNA - LALIGA 2]
+02/11 14:00  [GOAL] FC Andorra: 1X + GOAL uscita, era a 9  -  Tenerife 2-2 FC Andorra   [SPAGNA - LALIGA 2]
 02/11 03:45  [GOAL] Houston Dynamo FC: 12 + GOAL uscita, era a 8 ❗ 10/41  -  Portland Timbers 3-1 Houston Dynamo FC   [USA/CANADA - MLS]
-02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 6  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
+02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 6 👻 32/41  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
 01/11 19:30  [GOAL] Alemannia Aachen: 1X + GOAL uscita, era a 6  -  Alemannia Aachen 2-1 Preussen Münster   [GERMANIA - 3. LIGA]
 01/11 16:30  [GOAL] Basel: 1X + GOAL uscita, era a 6  -  Lugano 2-1 Basel   [SVIZZERA - SUPER LEAGUE]
 01/11 16:30  [GOAL] Lausanne: X2 + GOAL uscita, era a 6 🔥 5/41  -  Lausanne 4-5 Thun   [SVIZZERA - SUPER LEAGUE]
@@ -64,7 +65,7 @@ Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 07/11/2026 23:27 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 07/11 18:30  [GOAL] Nottingham Forest: 12 + GOAL uscita, era a 6 👻 40/41  -  Nottingham Forest 3-1 Manchester City   [INGHILTERRA - PREMIER LEAGUE]
 07/11 18:00  [GOAL] DAC 1904 Dunajska Streda: 12 + GOAL uscita, era a 6  -  DAC 1904 Dunajska Streda 3-2 FC Košice   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
@@ -93,7 +94,7 @@ Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 07/11/2026 23:27 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 07/11 20:30  [GOAL] Lausanne: X2 + GOAL uscita, era a 10 🔥 5/41  -  Grasshopper 1-1 Lausanne   [SVIZZERA - SUPER LEAGUE]
 07/11 19:00  [GOAL] Independiente Rivadavia: X2 + GOAL uscita, era a 8 👻 33/41  -  Gimnasia Mendoza 1-1 Independiente Rivadavia   [ARGENTINA - PRIMERA DIVISIÓN]
@@ -114,10 +115,10 @@ Aggiornato: 07/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 02/11 20:00  [GOAL] Vitesse: 1X + GOAL uscita, era a 6 🔥 1/41  -  Jong Ajax 1-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 02/11 19:00  [GOAL] Stabæk: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
 02/11 18:30  [GOAL] Leganés: 12 + GOAL uscita, era a 7  -  Real Valladolid 4-3 Leganés   [SPAGNA - LALIGA 2]
-02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 7  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
+02/11 00:45  [GOAL] Gimnasia Mendoza: 1X + GOAL uscita, era a 7 👻 32/41  -  Lanús 1-1 Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
 01/11 21:30  [GOAL] Seattle Sounders FC: 12 + GOAL uscita, era a 6 ❗ 10/41  -  Vancouver Whitecaps 5-1 Seattle Sounders FC   [USA/CANADA - MLS]
 01/11 19:00  [GOAL] Rio Ave: 12 + GOAL uscita, era a 7 👻 38/41  -  Académico Viseu 2-1 Rio Ave   [PORTOGALLO - LIGA PORTUGAL]
-01/11 18:30  [GOAL] Castellón: 1X + GOAL uscita, era a 6 👻 32/41  -  Burgos CF 1-1 Castellón   [SPAGNA - LALIGA 2]
+01/11 18:30  [GOAL] Castellón: 1X + GOAL uscita, era a 6  -  Burgos CF 1-1 Castellón   [SPAGNA - LALIGA 2]
 01/11 18:00  [GOAL] Genoa: X2 + GOAL uscita, era a 6  -  Lecce 1-2 Genoa   [ITALIA - SERIE A]
 01/11 17:30  [GOAL] Pianese: X2 + GOAL uscita, era a 6  -  Latina 1-1 Pianese   [ITALIA - SERIE C]
 01/11 14:30  [GOAL] Savoia: X2 + GOAL uscita, era a 6  -  Salernitana 1-1 Savoia   [ITALIA - SERIE C]
