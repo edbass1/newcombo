@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1282,7 +1282,7 @@ SOTTOFREQUENZA 12 + GOAL
     5/26 Defensa y Justicia             29/100
     6/26 Aldosivi                       29/100
      ...
-   26/26 Vélez Sarsfield                16/100  (la fa meno spesso)
+   26/26 Vélez Sarsfield                15/100  (la fa meno spesso)
 
 ==================================================
 USA/CANADA - MLS
@@ -1476,7 +1476,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2897,7 +2897,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4115,7 +4115,7 @@ ARGENTINA - PRIMERA DIVISIÓN
 SOTTOFREQUENZA 1X + GOAL
     1/20 Lanús                          42/100
     2/20 Estudiantes                    40/100
-    3/20 Vélez Sarsfield                38/100
+    3/20 Vélez Sarsfield                37/100
     4/20 Rosario Central                36/100
     5/20 Independiente                  36/100
      ...

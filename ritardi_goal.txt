@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -62,33 +62,32 @@ TOP 20 — X2 + GOAL
   18. Shamrock Rovers                 8  | IRLANDA - PREMIER DIVISION
 
 TOP 20 — 12 + GOAL
-   1. Deportivo Riestra              13  | ARGENTINA - PRIMERA DIVISIÓN
    1. Northampton Town              13+  | INGHILTERRA - LEAGUE TWO
-   3. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
-   3. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
-   3. Wil                            11  | SVIZZERA - CHALLENGE LEAGUE
-   6. Holstein Kiel                  10  | GERMANIA - 2. BUNDESLIGA
-   6. KuPS                           10  | FINLANDIA - VEIKKAUSLIIGA
-   8. Bradford City                   9  | INGHILTERRA - LEAGUE ONE
-   8. Stenhousemuir                   9  | SCOZIA - CHAMPIONSHIP
-  10. Coritiba                        8  | BRASILE - SÉRIE A
-  10. FF Jaro                         8  | FINLANDIA - VEIKKAUSLIIGA
-  10. Häcken                          8  | SVEZIA - ALLSVENSKAN
-  10. Juve Stabia                     8  | ITALIA - SERIE B
-  10. Latina                          8  | ITALIA - SERIE C
-  10. Newcastle Jets                  8  | AUSTRALIA - A-LEAGUE MEN
-  10. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
-  10. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
-  18. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
-  18. Castellón                       7  | SPAGNA - LALIGA 2
-  18. Genk U23                        7  | BELGIO - FIRST DIVISION B
-  18. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
-  18. Lecco                           7  | ITALIA - SERIE C
-  18. Manchester United               7  | INGHILTERRA - PREMIER LEAGUE
-  18. NEC Nijmegen                    7  | OLANDA - EREDIVISIE
-  18. Reggiana                        7  | ITALIA - SERIE C
-  18. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
-  18. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
+   2. FC Petržalka 1898              11  | SLOVACCHIA - 2. LIGA
+   2. VPS                            11  | FINLANDIA - VEIKKAUSLIIGA
+   2. Wil                            11  | SVIZZERA - CHALLENGE LEAGUE
+   5. Holstein Kiel                  10  | GERMANIA - 2. BUNDESLIGA
+   5. KuPS                           10  | FINLANDIA - VEIKKAUSLIIGA
+   7. Bradford City                   9  | INGHILTERRA - LEAGUE ONE
+   7. Stenhousemuir                   9  | SCOZIA - CHAMPIONSHIP
+   9. Coritiba                        8  | BRASILE - SÉRIE A
+   9. FF Jaro                         8  | FINLANDIA - VEIKKAUSLIIGA
+   9. Häcken                          8  | SVEZIA - ALLSVENSKAN
+   9. Juve Stabia                     8  | ITALIA - SERIE B
+   9. Latina                          8  | ITALIA - SERIE C
+   9. Newcastle Jets                  8  | AUSTRALIA - A-LEAGUE MEN
+   9. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
+   9. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
+  17. Brighton & Hove Albion          7  | INGHILTERRA - PREMIER LEAGUE
+  17. Castellón                       7  | SPAGNA - LALIGA 2
+  17. Genk U23                        7  | BELGIO - FIRST DIVISION B
+  17. Kaiserslautern                  7  | GERMANIA - 2. BUNDESLIGA
+  17. Lecco                           7  | ITALIA - SERIE C
+  17. Manchester United               7  | INGHILTERRA - PREMIER LEAGUE
+  17. NEC Nijmegen                    7  | OLANDA - EREDIVISIE
+  17. Reggiana                        7  | ITALIA - SERIE C
+  17. Ružomberok                      7  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
+  17. St. Johnstone                   7  | SCOZIA - PREMIERSHIP
 
 ==================================================
 
@@ -110,16 +109,16 @@ RITARDI 1X + GOAL
   10. Frosinone                         1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Parma                             7  🟢 86%  👻 33/42
-   2. Venezia                           7  🟢 57%  👻 33/42
-   3. Cagliari                          4  🟢 100%  👻 33/42
-   4. Juventus                          4  🟢 100%  👻 33/42
-   5. Inter                             3  🟢 100%  👻 33/42
-   6. Frosinone                         2  🟢 100%  🔴  👻 33/42
-   7. Atalanta                          1  🟢 100%  👻 33/42
-   8. Bologna                           1  🟢 100%  🔴  👻 33/42
-   9. Como                              1  👻 33/42
-  10. Lazio                             1  🟢 100%  👻 33/42
+   1. Parma                             7  🟢 86%
+   2. Venezia                           7  🟢 57%
+   3. Cagliari                          4  🟢 100%
+   4. Juventus                          4  🟢 100%
+   5. Inter                             3  🟢 100%
+   6. Frosinone                         2  🟢 100%  🔴
+   7. Atalanta                          1  🟢 100%
+   8. Bologna                           1  🟢 100%  🔴
+   9. Como                              1
+  10. Lazio                             1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Juventus                          6  🟢 100%  ❗ 8/42
@@ -1691,44 +1690,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (228 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (231 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Huracán                           6  🟢 83%
-   2. River Plate                       4  🟢 50%
-   3. Rosario Central                   4  🟢 100%
-   4. Argentinos Juniors                3
-   5. Atlético Tucumán                  3  🟢 67%
-   6. Club Atlético Platense            3  🟢 67%
+   2. Club Atlético Platense            4  🟢 75%
+   3. River Plate                       4  🟢 50%
+   4. Rosario Central                   4  🟢 100%
+   5. Argentinos Juniors                3
+   6. Atlético Tucumán                  3  🟢 67%
    7. Boca Juniors                      2
    8. Central Córdoba de Santiago       2  🟢 100%
-   9. Deportivo Riestra                 2  🟢 50%
-  10. Sarmiento                         2  🟢 100%
+   9. Sarmiento                         2  🟢 100%
+  10. Talleres                          2  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Aldosivi                          4  🟢 75%
-   2. River Plate                       4  🟢 50%
-   3. Boca Juniors                      3
-   4. Central Córdoba de Santiago       3  🟢 100%
-   5. Racing Club                       3  🟢 67%
-   6. Deportivo Riestra                 2  🟢 50%
-   7. Huracán                           2  🟢 100%
-   8. Independiente Rivadavia           2  🟢 50%
-   9. Tigre                             2  🟢 50%
-  10. Banfield                          1  🟢 100%
+   1. Aldosivi                          4  🟢 75%  👻 33/42
+   2. River Plate                       4  🟢 50%  👻 33/42
+   3. Boca Juniors                      3  👻 33/42
+   4. Central Córdoba de Santiago       3  🟢 100%  👻 33/42
+   5. Deportivo Riestra                 3  🟢 67%  👻 33/42
+   6. Racing Club                       3  🟢 67%  👻 33/42
+   7. Club Atlético Platense            2  🟢 100%  👻 33/42
+   8. Huracán                           2  🟢 100%  👻 33/42
+   9. Independiente Rivadavia           2  🟢 50%  👻 33/42
+  10. Tigre                             2  🟢 50%  👻 33/42
 
 RITARDI 12 + GOAL
-   1. Deportivo Riestra                13  🟢 62%  👻 38/42
-   2. River Plate                       6  🟢 50%  👻 38/42
+   1. River Plate                       6  🟢 50%  👻 38/42
+   2. Vélez Sarsfield                   6  🟢 83%  👻 38/42
    3. Lanús                             5  🟢 60%  👻 38/42
-   4. Vélez Sarsfield                   5  🟢 80%  👻 38/42
-   5. Independiente                     4  🟢 50%  👻 38/42
-   6. Instituto                         4  🟢 50%  👻 38/42
-   7. Tigre                             3  🟢 67%  👻 38/42
-   8. Barracas Central                  2  🟢 100%  👻 38/42
-   9. Boca Juniors                      2  👻 38/42
-  10. Central Córdoba de Santiago       2  🟢 100%  👻 38/42
+   4. Instituto                         4  🟢 50%  👻 38/42
+   5. San Lorenzo                       3  🟢 67%  👻 38/42
+   6. Tigre                             3  🟢 67%  👻 38/42
+   7. Barracas Central                  2  🟢 100%  👻 38/42
+   8. Boca Juniors                      2  👻 38/42
+   9. Central Córdoba de Santiago       2  🟢 100%  👻 38/42
+  10. Club Atlético Platense            2  🟢 100%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
@@ -1979,7 +1978,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1995,10 +1994,10 @@ TOP 20 — 1X + GOAL
    1. Nacional                       14  | PORTOGALLO - LIGA PORTUGAL
    2. JäPS                           13  | FINLANDIA - YKKOSLIIGA
    3. Kaiserslautern                 12  | GERMANIA - 2. BUNDESLIGA
-   4. Baník Ostrava                  11  | REP. CECA - 1. LIGA
-   4. Feirense                       11  | PORTOGALLO - LIGA PORTUGAL 2
-   4. Komárno                        11  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
-   4. San Lorenzo                    11  | ARGENTINA - PRIMERA DIVISIÓN
+   3. San Lorenzo                    12  | ARGENTINA - PRIMERA DIVISIÓN
+   5. Baník Ostrava                  11  | REP. CECA - 1. LIGA
+   5. Feirense                       11  | PORTOGALLO - LIGA PORTUGAL 2
+   5. Komárno                        11  | SLOVACCHIA - 1. LIGA (NIKE LIGA)
    8. AC Oulu                        10  | FINLANDIA - VEIKKAUSLIIGA
    8. VPS                            10  | FINLANDIA - VEIKKAUSLIIGA
    8. Västerås SK                    10  | SVEZIA - ALLSVENSKAN
@@ -2046,6 +2045,7 @@ TOP 20 — X2 + GOAL
   20. Portimonense                    8  | PORTOGALLO - LIGA PORTUGAL 2
   20. Potenza                         8  | ITALIA - SERIE C
   20. Real Madrid                     8  | SPAGNA - LALIGA
+  20. San Lorenzo                     8  | ARGENTINA - PRIMERA DIVISIÓN
   20. Swansea City                    8  | INGHILTERRA - CHAMPIONSHIP
   20. Vizela                          8  | PORTOGALLO - LIGA PORTUGAL 2
 
@@ -2068,6 +2068,7 @@ TOP 20 — 12 + GOAL
   11. Lecco                           8  | ITALIA - SERIE C
   11. Monopoli                        8  | ITALIA - SERIE C
   11. Pogoń Grodzisk Mazowiecki       8  | POLONIA - I LIGA
+  11. San Lorenzo                     8  | ARGENTINA - PRIMERA DIVISIÓN
   11. Standard Liège                  8  | BELGIO - FIRST DIVISION A
   11. Vitória de Guimarães            8  | PORTOGALLO - LIGA PORTUGAL
 
@@ -2091,16 +2092,16 @@ RITARDI 1X + GOAL
   10. Cagliari                          1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Como                              6  👻 33/42
-   2. Frosinone                        6+  🟢 83%  👻 33/42
-   3. Inter                             5  🟢 100%  👻 33/42
-   4. Venezia                           4  🟢 75%  👻 33/42
-   5. Genoa                             3  🟢 67%  👻 33/42
-   6. Juventus                          3  🟢 100%  👻 33/42
-   7. Lazio                             3  🟢 100%  👻 33/42
-   8. Parma                             3  🟢 67%  👻 33/42
-   9. Roma                              2  🟢 100%  👻 33/42
-  10. Atalanta                          1  🟢 100%  👻 33/42
+   1. Como                              6
+   2. Frosinone                        6+  🟢 83%
+   3. Inter                             5  🟢 100%
+   4. Venezia                           4  🟢 75%
+   5. Genoa                             3  🟢 67%
+   6. Juventus                          3  🟢 100%
+   7. Lazio                             3  🟢 100%
+   8. Parma                             3  🟢 67%
+   9. Roma                              2  🟢 100%
+  10. Atalanta                          1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Juventus                         16  🟢 100%  ❗ 8/42
@@ -3672,11 +3673,11 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (228 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (231 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
-   1. San Lorenzo                      11
+   1. San Lorenzo                      12
    2. Atlético Tucumán                  8  🟢 62%
    3. Aldosivi                          4  🟢 50%
    4. Tigre                             4  🔴
@@ -3688,22 +3689,22 @@ RITARDI 1X + GOAL
   10. Club Atlético Platense            2  🟢 50%
 
 RITARDI X2 + GOAL
-   1. San Lorenzo                       7
-   2. Barracas Central                  5  🟢 60%
-   3. Boca Juniors                      5  🟢 60%
-   4. Rosario Central                   3  🟢 67%
-   5. Aldosivi                          2  🟢 50%
-   6. Argentinos Juniors                2  🟢 50%
-   7. Club Atlético Platense            2  🟢 50%
-   8. Gimnasia LP                       2  🟢 100%
-   9. River Plate                       2
-  10. Unión                             2  🟢 100%
+   1. San Lorenzo                       8  👻 33/42
+   2. Barracas Central                  5  🟢 60%  👻 33/42
+   3. Boca Juniors                      5  🟢 60%  👻 33/42
+   4. Rosario Central                   3  🟢 67%  👻 33/42
+   5. Unión                             3  🟢 100%  👻 33/42
+   6. Aldosivi                          2  🟢 50%  👻 33/42
+   7. Argentinos Juniors                2  🟢 50%  👻 33/42
+   8. Club Atlético Platense            2  🟢 50%  👻 33/42
+   9. Gimnasia LP                       2  🟢 100%  👻 33/42
+  10. Independiente                     2  🟢 50%  👻 33/42
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra               16+  🟢 62%  👻 38/42
    2. Club Atlético Platense           15  🟢 60%  👻 38/42
-   3. Central Córdoba de Santiago       7  🟢 57%  👻 38/42
-   4. San Lorenzo                       7  👻 38/42
+   3. San Lorenzo                       8  👻 38/42
+   4. Central Córdoba de Santiago       7  🟢 57%  👻 38/42
    5. Defensa y Justicia                5  🟢 60%  👻 38/42
    6. Banfield                          4  🟢 75%  👻 38/42
    7. Rosario Central                   4  🟢 75%  🔴  👻 38/42
@@ -3960,7 +3961,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 07/11/2026 00:29 (ora italiana)
+Aggiornato: 07/11/2026 01:41 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4046,6 +4047,7 @@ TOP 20 — 12 + GOAL
   13. Ruch Chorzów                    7  | POLONIA - I LIGA
   13. Trento                          7  | ITALIA - SERIE C
   13. TS Podbeskidzie Bielsko-Biał   7+  | POLONIA - I LIGA
+  13. Vélez Sarsfield                 7  | ARGENTINA - PRIMERA DIVISIÓN
   13. Wrexham                         7  | INGHILTERRA - CHAMPIONSHIP
 
 ==================================================
@@ -4068,16 +4070,16 @@ RITARDI 1X + GOAL
   10. Milan                             1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Parma                             8  🟢 75%  👻 33/42
-   2. Lecce                             5  🟢 80%  👻 33/42
-   3. Venezia                          5+  🟢 60%  👻 33/42
-   4. Cagliari                          4  🟢 75%  👻 33/42
-   5. Monza                             4  🟢 100%  👻 33/42
-   6. Udinese                           4  🟢 75%  👻 33/42
-   7. Sassuolo                          3  🟢 100%  👻 33/42
-   8. Inter                             2  🟢 100%  👻 33/42
-   9. Juventus                          2  🟢 100%  👻 33/42
-  10. Torino                            2  🟢 100%  👻 33/42
+   1. Parma                             8  🟢 75%
+   2. Lecce                             5  🟢 80%
+   3. Venezia                          5+  🟢 60%
+   4. Cagliari                          4  🟢 75%
+   5. Monza                             4  🟢 100%
+   6. Udinese                           4  🟢 75%
+   7. Sassuolo                          3  🟢 100%
+   8. Inter                             2  🟢 100%
+   9. Juventus                          2  🟢 100%
+  10. Torino                            2  🟢 100%
 
 RITARDI 12 + GOAL
    1. Frosinone                        4+  🟢 100%  ❗ 8/42
@@ -5649,44 +5651,44 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (228 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (231 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Deportivo Riestra                 3
-   2. Huracán                           3  🟢 100%
-   3. Independiente Rivadavia           3
-   4. Newell's Old Boys                 3
-   5. Racing Club                       3  🟢 67%
-   6. River Plate                       3  🟢 67%
+   1. Huracán                           3  🟢 100%
+   2. Independiente Rivadavia           3
+   3. Newell's Old Boys                 3
+   4. Racing Club                       3  🟢 67%
+   5. River Plate                       3  🟢 67%
+   6. Vélez Sarsfield                   3  🟢 100%  🔴
    7. Argentinos Juniors                2  🟢 50%
-   8. Defensa y Justicia                2  🟢 100%
-   9. Gimnasia LP                       2  🟢 100%
-  10. Rosario Central                   2  🟢 100%
+   8. Club Atlético Platense            2  🟢 100%
+   9. Defensa y Justicia                2  🟢 100%
+  10. Gimnasia LP                       2  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Independiente Rivadavia           8  🟢 50%
-   2. Aldosivi                          7  🟢 71%
-   3. Talleres                          7  🟢 71%  🔴
-   4. Belgrano                          4  🟢 50%
-   5. Estudiantes de Río Cuarto         4  🟢 75%
-   6. Deportivo Riestra                 3
-   7. Newell's Old Boys                 3  🔴
-   8. River Plate                       3  🟢 67%  🔴
-   9. Central Córdoba de Santiago       2  🟢 100%
-  10. Huracán                           2  🟢 100%
+   1. Independiente Rivadavia           8  🟢 50%  👻 33/42
+   2. Aldosivi                          7  🟢 71%  👻 33/42
+   3. Talleres                          7  🟢 71%  🔴  👻 33/42
+   4. Belgrano                          4  🟢 50%  👻 33/42
+   5. Deportivo Riestra                 4  👻 33/42
+   6. Estudiantes de Río Cuarto         4  🟢 75%  👻 33/42
+   7. Newell's Old Boys                 3  🔴  👻 33/42
+   8. River Plate                       3  🟢 67%  🔴  👻 33/42
+   9. Vélez Sarsfield                   3  🟢 100%  👻 33/42
+  10. Central Córdoba de Santiago       2  🟢 100%  👻 33/42
 
 RITARDI 12 + GOAL
    1. Boca Juniors                      8  🟢 88%  👻 38/42
-   2. Deportivo Riestra                 6  👻 38/42
+   2. Vélez Sarsfield                   7  🟢 100%  👻 38/42
    3. Lanús                             6  🟢 50%  👻 38/42
-   4. Vélez Sarsfield                   6  🟢 100%  👻 38/42
-   5. Gimnasia Mendoza                  5  🟢 80%  👻 38/42
-   6. Newell's Old Boys                 5  👻 38/42
-   7. River Plate                       4  🟢 75%  👻 38/42
-   8. Atlético Tucumán                  3  👻 38/42
-   9. Independiente                     3  🟢 67%  👻 38/42
-  10. Independiente Rivadavia           3  👻 38/42
+   4. Gimnasia Mendoza                  5  🟢 80%  👻 38/42
+   5. Newell's Old Boys                 5  👻 38/42
+   6. River Plate                       4  🟢 75%  👻 38/42
+   7. Atlético Tucumán                  3  👻 38/42
+   8. Independiente                     3  🟢 67%  👻 38/42
+   9. Independiente Rivadavia           3  👻 38/42
+  10. Unión                             3  🟢 100%  👻 38/42
 
 ==================================================
 USA/CANADA - MLS
