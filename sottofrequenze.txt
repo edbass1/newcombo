@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 07/11/2026 17:28 (ora italiana)
+Aggiornato: 07/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -120,15 +120,15 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/20 AFC Bournemouth                42/100
     2/20 Ipswich Town                   40/100
-    3/20 Chelsea                        39/100
-    4/20 Fulham                         38/100
+    3/20 Fulham                         39/100
+    4/20 Chelsea                        39/100
     5/20 Crystal Palace                 38/100
      ...
    20/20 Manchester City                25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Newcastle United               47/100
-    2/20 Fulham                         44/100
+    1/20 Newcastle United               46/100
+    2/20 Fulham                         43/100
     3/20 Liverpool                      41/100
     4/20 Coventry City                  41/100
     5/20 Chelsea                        41/100
@@ -142,29 +142,28 @@ INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 Cardiff City                   51/100
-    2/24 West Bromwich Albion           49/100
-    3/24 Preston North End              49/100
+    2/24 West Bromwich Albion           48/100
+    3/24 Preston North End              48/100
     4/24 West Ham United                47/100
-    5/24 Watford                        46/100
-    6/24 Norwich City                   46/100
+    5/24 Norwich City                   46/100
      ...
-   24/24 Sheffield United               30/100  (la fa meno spesso)
+   24/24 Sheffield United               31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Wolverhampton Wanderers        42/100
     2/24 Preston North End              41/100
     3/24 Wrexham                        39/100
-    4/24 West Ham United                39/100
-    5/24 Southampton                    39/100
+    4/24 Southampton                    39/100
+    5/24 West Ham United                38/100
      ...
    24/24 Lincoln City                   26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/24 Southampton                    48/100
-    2/24 Queens Park Rangers            46/100
+    1/24 Southampton                    47/100
+    2/24 Queens Park Rangers            47/100
     3/24 Norwich City                   45/100
     4/24 Bolton Wanderers               43/100
-    5/24 Sheffield United               39/100
+    5/24 Sheffield United               40/100
      ...
    24/24 Millwall                       27/100  (la fa meno spesso)
 
@@ -308,8 +307,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Ingolstadt                     45/100
-    2/20 SC Verl                        43/100
-    3/20 Preussen Münster               43/100
+    2/20 Preussen Münster               44/100
+    3/20 SC Verl                        43/100
     4/20 RW Essen                       41/100
     5/20 Fortuna Düsseldorf             39/100
      ...
@@ -398,9 +397,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Real Betis                     50/100
     2/20 Racing Santander               46/100
     3/20 Elche                          46/100
-    4/20 Espanyol                       45/100
-    5/20 Deportivo A Coruña             45/100
-    6/20 Celta Vigo                     45/100
+    4/20 Deportivo A Coruña             45/100
+    5/20 Celta Vigo                     45/100
      ...
    20/20 Getafe                         22/100  (la fa meno spesso)
 
@@ -463,8 +461,9 @@ SOTTOFREQUENZA 1X + GOAL
     1/17 St.Truiden                     45/100
     2/17 KV Mechelen                    44/100
     3/17 Cercle Brugge                  43/100
-    4/17 Westerlo                       41/100
-    5/17 Genk                           41/100
+    4/17 Genk                           41/100
+    5/17 Zulte Waregem                  40/100
+    6/17 Westerlo                       40/100
      ...
    17/17 SK Beveren                     30/100  (la fa meno spesso)
 
@@ -493,9 +492,9 @@ BELGIO - FIRST DIVISION B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/11 Anderlecht Futures             44/100
-    2/11 RFC Seraing                    43/100
-    3/11 Genk U23                       43/100
-    4/11 FC Liège                       43/100
+    2/11 Genk U23                       43/100
+    3/11 FC Liège                       43/100
+    4/11 RFC Seraing                    42/100
     5/11 Virton                         39/100
     6/11 K. Lierse SK                   39/100
     7/11 Club Brugge NXT                39/100
@@ -508,7 +507,6 @@ SOTTOFREQUENZA X2 + GOAL
     3/11 Anderlecht Futures             41/100
     4/11 K. Lierse SK                   34/100
     5/11 FCV Dender EH                  34/100
-    6/11 Club Brugge NXT                34/100
      ...
    11/11 FC Liège                       28/100  (la fa meno spesso)
 
@@ -516,8 +514,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/11 Genk U23                       45/100
     2/11 FC Liège                       43/100
     3/11 K. Lierse SK                   41/100
-    4/11 Club Brugge NXT                41/100
-    5/11 Beerschot                      41/100
+    4/11 Beerschot                      41/100
+    5/11 Club Brugge NXT                40/100
      ...
    11/11 Virton                         34/100  (la fa meno spesso)
 
@@ -527,7 +525,7 @@ OLANDA - EREDIVISIE
 SOTTOFREQUENZA 1X + GOAL
     1/18 PEC Zwolle                     51/100
     2/18 Go Ahead Eagles                49/100
-    3/18 Telstar                        46/100
+    3/18 Telstar                        47/100
     4/18 SC Heerenveen                  46/100
     5/18 FC Utrecht                     46/100
     6/18 FC Twente                      46/100
@@ -551,10 +549,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 ADO Den Haag                   44/100
     3/18 FC Utrecht                     41/100
     4/18 NEC Nijmegen                   39/100
-    5/18 Fortuna Sittard                39/100
-    6/18 Feyenoord                      39/100
-    7/18 FC Groningen                   39/100
-    8/18 Excelsior                      39/100
+    5/18 Feyenoord                      39/100
+    6/18 FC Groningen                   39/100
+    7/18 Excelsior                      39/100
      ...
    18/18 Go Ahead Eagles                30/100  (la fa meno spesso)
 
@@ -587,7 +584,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 De Graafschap                  52/100
     3/20 Jong PSV                       51/100
     4/20 FC Volendam                    48/100
-    5/20 Jong FC Utrecht                43/100
+    5/20 Jong FC Utrecht                42/100
+    6/20 Helmond Sport                  42/100
+    7/20 FC Emmen                       42/100
      ...
    20/20 NAC Breda                      32/100  (la fa meno spesso)
 
@@ -749,8 +748,8 @@ SOTTOFREQUENZA 12 + GOAL
 PORTOGALLO - LIGA PORTUGAL 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Lusitânia Lourosa              43/100
-    2/18 Académica                      43/100
+    1/18 Académica                      44/100
+    2/18 Lusitânia Lourosa              43/100
     3/18 Benfica B                      41/100
     4/18 Tondela                        40/100
     5/18 Felgueiras 1932                39/100
@@ -766,7 +765,7 @@ SOTTOFREQUENZA X2 + GOAL
     5/18 Tondela                        36/100
     6/18 Felgueiras 1932                36/100
      ...
-   18/18 Amarante FC                    27/100  (la fa meno spesso)
+   18/18 Amarante FC                    28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Penafiel                       36/100
@@ -1108,9 +1107,9 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 Hibernian                      47/100
     2/12 Rangers                        39/100
     3/12 Dundee FC                      39/100
-    4/12 Motherwell                     35/100
-    5/12 Falkirk                        35/100
-    6/12 Dundee United                  35/100
+    4/12 Dundee United                  36/100
+    5/12 Motherwell                     35/100
+    6/12 Falkirk                        35/100
      ...
    12/12 Aberdeen                       23/100  (la fa meno spesso)
 
@@ -1118,39 +1117,40 @@ SOTTOFREQUENZA 12 + GOAL
     1/12 Dundee FC                      42/100
     2/12 Celtic                         42/100
     3/12 Rangers                        39/100
-    4/12 Motherwell                     39/100
+    4/12 Motherwell                     38/100
     5/12 St. Johnstone                  37/100
     6/12 Hibernian                      37/100
     7/12 Falkirk                        37/100
      ...
-   12/12 Dundee United                  25/100  (la fa meno spesso)
+   12/12 Dundee United                  24/100  (la fa meno spesso)
 
 ==================================================
 SCOZIA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/10 Partick Thistle                44/100
-    2/10 Ayr United                     42/100
-    3/10 Inverness Caledonian Thistle   39/100
-    4/10 Greenock Morton                38/100
-    5/10 Livingston                     36/100
+    1/10 Partick Thistle                43/100
+    2/10 Ayr United                     43/100
+    3/10 Inverness Caledonian Thistle   40/100
+    4/10 Greenock Morton                39/100
+    5/10 Livingston                     37/100
      ...
    10/10 Raith Rovers                   24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Ayr United                     38/100
-    2/10 Livingston                     36/100
+    2/10 Livingston                     37/100
     3/10 Greenock Morton                32/100
-    4/10 Partick Thistle                31/100
-    5/10 Inverness Caledonian Thistle   31/100
+    4/10 Inverness Caledonian Thistle   31/100
+    5/10 Partick Thistle                30/100
+    6/10 Arbroath                       30/100
      ...
    10/10 Raith Rovers                   20/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Arbroath                       34/100
-    2/10 Livingston                     32/100
-    3/10 Greenock Morton                32/100
-    4/10 Ayr United                     32/100
+    1/10 Arbroath                       35/100
+    2/10 Greenock Morton                33/100
+    3/10 Ayr United                     33/100
+    4/10 Livingston                     32/100
     5/10 Queen's Park                   31/100
      ...
    10/10 Dunfermline Athletic           19/100  (la fa meno spesso)
@@ -1470,7 +1470,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 07/11/2026 17:28 (ora italiana)
+Aggiornato: 07/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1591,8 +1591,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 Tottenham Hotspur              52/100
     2/20 Manchester City                44/100
-    3/20 Fulham                         44/100
-    4/20 Arsenal                        44/100
+    3/20 Arsenal                        44/100
+    4/20 Fulham                         43/100
     5/20 Aston Villa                    43/100
      ...
    20/20 Nottingham Forest              26/100  (la fa meno spesso)
@@ -1605,15 +1605,14 @@ SOTTOFREQUENZA 1X + GOAL
     2/24 Portsmouth                     48/100
     3/24 Norwich City                   44/100
     4/24 Bolton Wanderers               44/100
-    5/24 Preston North End              43/100
-    6/24 Lincoln City                   43/100
+    5/24 Lincoln City                   43/100
      ...
    24/24 Wolverhampton Wanderers        28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 West Ham United                43/100
-    2/24 Queens Park Rangers            40/100
-    3/24 Charlton Athletic              40/100
+    2/24 Charlton Athletic              40/100
+    3/24 Queens Park Rangers            39/100
     4/24 Wolverhampton Wanderers        37/100
     5/24 Southampton                    37/100
      ...
@@ -1887,7 +1886,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/21 Castellón                      43/100
     5/21 Albacete                       43/100
      ...
-   21/21 Cádiz                          27/100  (la fa meno spesso)
+   21/21 Cádiz                          26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/21 Real Sociedad B                41/100
@@ -1971,15 +1970,14 @@ SOTTOFREQUENZA 1X + GOAL
     6/18 Feyenoord                      45/100
     7/18 FC Utrecht                     45/100
      ...
-   18/18 Fortuna Sittard                28/100  (la fa meno spesso)
+   18/18 Fortuna Sittard                29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 NEC Nijmegen                   53/100
     2/18 Telstar                        43/100
     3/18 Sparta Rotterdam               40/100
     4/18 Cambuur                        40/100
-    5/18 SC Heerenveen                  37/100
-    6/18 Fortuna Sittard                37/100
+    5/18 Fortuna Sittard                38/100
      ...
    18/18 PSV Eindhoven                  15/100  (la fa meno spesso)
 
@@ -2528,8 +2526,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Dundee FC                      44/100
     2/12 Hibernian                      39/100
-    3/12 St. Johnstone                  37/100
-    4/12 Motherwell                     37/100
+    3/12 Motherwell                     37/100
+    4/12 St. Johnstone                  36/100
     5/12 Falkirk                        32/100
     6/12 Dundee United                  32/100
      ...
@@ -2552,7 +2550,7 @@ SOTTOFREQUENZA 1X + GOAL
      1/9 Ayr United                     43/100
      2/9 Raith Rovers                   42/100
      3/9 Partick Thistle                39/100
-     4/9 Inverness Caledonian Thistle   38/100
+     4/9 Inverness Caledonian Thistle   39/100
      5/9 Livingston                     37/100
      ...
      9/9 Greenock Morton                33/100  (la fa meno spesso)
@@ -2560,18 +2558,17 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
      1/9 Livingston                     42/100
      2/9 Ayr United                     39/100
-     3/9 Queen's Park                   37/100
-     4/9 Greenock Morton                35/100
-     5/9 Inverness Caledonian Thistle   34/100
-     6/9 Arbroath                       34/100
+     3/9 Queen's Park                   36/100
+     4/9 Inverness Caledonian Thistle   35/100
+     5/9 Greenock Morton                35/100
      ...
      9/9 Partick Thistle                21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-     1/9 Queen's Park                   34/100
-     2/9 Greenock Morton                34/100
+     1/9 Greenock Morton                34/100
+     2/9 Queen's Park                   33/100
      3/9 Livingston                     33/100
-     4/9 Arbroath                       31/100
+     4/9 Arbroath                       32/100
      5/9 Raith Rovers                   29/100
      ...
      9/9 Dunfermline Athletic           22/100  (la fa meno spesso)
@@ -2894,7 +2891,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 07/11/2026 17:28 (ora italiana)
+Aggiornato: 07/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3033,19 +3030,21 @@ INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 West Bromwich Albion           49/100
-    2/24 Southampton                    47/100
+    2/24 Southampton                    46/100
     3/24 Norwich City                   45/100
     4/24 Watford                        44/100
-    5/24 Charlton Athletic              43/100
+    5/24 West Ham United                43/100
+    6/24 Charlton Athletic              43/100
      ...
    24/24 Blackburn Rovers               31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Middlesbrough                  46/100
+    1/24 Middlesbrough                  45/100
     2/24 Bristol City                   42/100
     3/24 Wrexham                        40/100
     4/24 Charlton Athletic              40/100
-    5/24 Southampton                    39/100
+    5/24 Southampton                    38/100
+    6/24 Bolton Wanderers               38/100
      ...
    24/24 Stoke City                     26/100  (la fa meno spesso)
 
@@ -3055,6 +3054,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/24 Norwich City                   40/100
     4/24 Derby County                   39/100
     5/24 West Bromwich Albion           37/100
+    6/24 Burnley                        37/100
      ...
    24/24 Lincoln City                   22/100  (la fa meno spesso)
 
@@ -3209,7 +3209,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/20 SC Verl                        42/100
     5/20 Preussen Münster               42/100
      ...
-   20/20 MSV Duisburg                   26/100  (la fa meno spesso)
+   20/20 Sonnenhof Großaspach           26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 SC Verl                        48/100
@@ -3217,6 +3217,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/20 Hoffenheim II                  45/100
     4/20 Preussen Münster               44/100
     5/20 VfB Stuttgart II               43/100
+    6/20 MSV Duisburg                   43/100
      ...
    20/20 Hansa Rostock                  25/100  (la fa meno spesso)
 
@@ -3400,8 +3401,8 @@ OLANDA - EREDIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 PEC Zwolle                     50/100
-    2/18 Excelsior                      47/100
-    3/18 Telstar                        46/100
+    2/18 Telstar                        47/100
+    3/18 Excelsior                      47/100
     4/18 Go Ahead Eagles                45/100
     5/18 Willem II                      44/100
      ...
@@ -3414,7 +3415,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 FC Twente                      47/100
     5/18 FC Utrecht                     46/100
      ...
-   18/18 Telstar                        28/100  (la fa meno spesso)
+   18/18 FC Groningen                   29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  52/100
@@ -3959,8 +3960,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 Kilmarnock                     43/100
     3/12 Hibernian                      43/100
     4/12 Dundee United                  42/100
-    5/12 St. Mirren                     39/100
-    6/12 Dundee FC                      39/100
+    5/12 Dundee FC                      40/100
      ...
    12/12 Celtic                         13/100  (la fa meno spesso)
 
@@ -3990,7 +3990,7 @@ SOTTOFREQUENZA 1X + GOAL
      2/9 Queen's Park                   44/100
      3/9 Greenock Morton                44/100
      4/9 Inverness Caledonian Thistle   39/100
-     5/9 Ayr United                     38/100
+     5/9 Ayr United                     39/100
      ...
      9/9 Raith Rovers                   22/100  (la fa meno spesso)
 
@@ -4001,12 +4001,12 @@ SOTTOFREQUENZA X2 + GOAL
      4/9 Partick Thistle                34/100
      5/9 Queen's Park                   32/100
      ...
-     9/9 Livingston                     26/100  (la fa meno spesso)
+     9/9 Livingston                     27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
      1/9 Inverness Caledonian Thistle   35/100
-     2/9 Partick Thistle                33/100
-     3/9 Ayr United                     33/100
+     2/9 Ayr United                     34/100
+     3/9 Partick Thistle                33/100
      4/9 Queen's Park                   32/100
      5/9 Greenock Morton                32/100
      ...
