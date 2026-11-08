@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 08/11/2026 12:28 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 08/11/2026 13:35 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 08/11 10:30  [GOAL] FC Petržalka 1898: 12 + GOAL uscita, era a 11  -  FC Petržalka 1898 2-1 Žilina B   [SLOVACCHIA - 2. LIGA]
 07/11 22:00  [GOAL] Columbus Crew: X2 + GOAL uscita, era a 11 ❗ 11/41  -  Chicago Fire FC 3-4 Columbus Crew   [USA/CANADA - MLS]
@@ -58,16 +58,13 @@ Aggiornato: 08/11/2026 12:28 (ora italiana). Dal più recente. Ritardo = partite
 01/11 14:00  [GOAL] Getafe: 12 + GOAL uscita, era a 12  -  Getafe 3-1 Sevilla   [SPAGNA - LALIGA]
 01/11 14:00  [GOAL] Hammarby: X2 + GOAL uscita, era a 6  -  Malmö FF 1-2 Hammarby   [SVEZIA - ALLSVENSKAN]
 01/11 14:00  [GOAL] Malmö FF: X2 + GOAL uscita, era a 10  -  Malmö FF 1-2 Hammarby   [SVEZIA - ALLSVENSKAN]
-01/11 13:30  [GOAL] St. Pauli: 12 + GOAL uscita, era a 6  -  St. Pauli 1-3 1. FC Nürnberg   [GERMANIA - 2. BUNDESLIGA]
-01/11 13:00  [GOAL] Hradec Králové: 1X + GOAL uscita, era a 6 👻 38/41  -  Mladá Boleslav 3-1 Hradec Králové   [REP. CECA - 1. LIGA]
-01/11 13:00  [GOAL] Mladá Boleslav: 12 + GOAL uscita, era a 7  -  Mladá Boleslav 3-1 Hradec Králové   [REP. CECA - 1. LIGA]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 08/11/2026 12:28 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 08/11/2026 13:35 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 08/11 01:10  [GOAL] Real Salt Lake: 12 + GOAL uscita, era a 6 ❗ 10/41  -  Real Salt Lake 2-1 LA Galaxy   [USA/CANADA - MLS]
 07/11 18:30  [GOAL] Nottingham Forest: 12 + GOAL uscita, era a 6 👻 40/41  -  Nottingham Forest 3-1 Manchester City   [INGHILTERRA - PREMIER LEAGUE]
@@ -87,14 +84,13 @@ Aggiornato: 08/11/2026 12:28 (ora italiana). Dal più recente. Ritardo = partite
 01/11 16:00  [GOAL] St.Truiden: 12 + GOAL uscita, era a 6  -  St.Truiden 1-2 OH Leuven   [BELGIO - FIRST DIVISION A]
 01/11 16:00  [GOAL] Nordsjælland: X2 + GOAL uscita, era a 6  -  Nordsjælland 2-3 FC Midtjylland   [DANIMARCA - SUPERLIGAEN]
 01/11 14:00  [GOAL] Getafe: 12 + GOAL uscita, era a 6  -  Getafe 3-1 Sevilla   [SPAGNA - LALIGA]
-01/11 13:00  [GOAL] Varbergs BoIS FC: X2 + GOAL uscita, era a 7  -  Varbergs BoIS FC 2-2 Ljungskile   [SVEZIA - SUPERETTAN]
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 08/11/2026 12:28 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 08/11/2026 13:35 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 07/11 22:00  [GOAL] Columbus Crew: X2 + GOAL uscita, era a 7 ❗ 11/41  -  Chicago Fire FC 3-4 Columbus Crew   [USA/CANADA - MLS]
 07/11 20:30  [GOAL] Lausanne: X2 + GOAL uscita, era a 10 🔥 5/41  -  Grasshopper 1-1 Lausanne   [SVIZZERA - SUPER LEAGUE]
