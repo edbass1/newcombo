@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 17:28 (ora italiana)
+Aggiornato: 08/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -421,7 +421,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/22 Almería                        52/100
+    1/22 Almería                        51/100
     2/22 Celta Fortuna                  46/100
     3/22 AD Ceuta FC                    46/100
     4/22 Córdoba                        45/100
@@ -437,8 +437,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/22 Eldense                        35/100
     5/22 Celta Fortuna                  35/100
     6/22 Castellón                      35/100
-    7/22 Almería                        35/100
-    8/22 Albacete                       35/100
+    7/22 Albacete                       35/100
      ...
    22/22 Real Valladolid                22/100  (la fa meno spesso)
 
@@ -494,7 +493,7 @@ SOTTOFREQUENZA 1X + GOAL
     5/11 K. Lierse SK                   39/100
     6/11 Club Brugge NXT                39/100
      ...
-   11/11 Patro Eisden                   36/100  (la fa meno spesso)
+   11/11 Eupen                          36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/11 Genk U23                       44/100
@@ -587,7 +586,7 @@ SOTTOFREQUENZA 12 + GOAL
 SVIZZERA - SUPER LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 Servette                       54/100
+    1/12 Servette                       53/100
     2/12 FC Vaduz                       53/100
     3/12 Luzern                         48/100
     4/12 Young Boys                     45/100
@@ -606,7 +605,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Thun                           52/100
-    2/12 FC Zürich                      51/100
+    2/12 FC Zürich                      50/100
     3/12 FC Vaduz                       47/100
     4/12 Luzern                         45/100
     5/12 Young Boys                     44/100
@@ -713,7 +712,7 @@ PORTOGALLO - LIGA PORTUGAL
 SOTTOFREQUENZA 1X + GOAL
     1/18 Rio Ave                        45/100
     2/18 Alverca                        45/100
-    3/18 Académico Viseu                44/100
+    3/18 Académico Viseu                43/100
     4/18 Moreirense                     40/100
     5/18 Estoril                        40/100
      ...
@@ -853,14 +852,16 @@ SOTTOFREQUENZA X2 + GOAL
     5/12 FC København                   37/100
     6/12 AC Horsens                     37/100
      ...
-   12/12 Nordsjælland                   32/100  (la fa meno spesso)
+   12/12 Nordsjælland                   33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Viborg                         48/100
     2/12 FC Midtjylland                 46/100
     3/12 FC København                   45/100
     4/12 OB                             42/100
-    5/12 AGF                            41/100
+    5/12 Randers FC                     41/100
+    6/12 Nordsjælland                   41/100
+    7/12 AGF                            41/100
      ...
    12/12 Lyngby                         35/100  (la fa meno spesso)
 
@@ -920,8 +921,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/16 Sirius                         47/100
     2/16 Brommapojkarna                 41/100
-    3/16 Örgryte                        40/100
-    4/16 AIK                            40/100
+    3/16 AIK                            41/100
+    4/16 Örgryte                        40/100
     5/16 Elfsborg                       38/100
      ...
    16/16 Halmstads BK                   30/100  (la fa meno spesso)
@@ -1097,9 +1098,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 Hibernian                      47/100
     2/12 Rangers                        39/100
     3/12 Dundee FC                      39/100
-    4/12 Dundee United                  36/100
-    5/12 Motherwell                     35/100
-    6/12 Falkirk                        35/100
+    4/12 Falkirk                        36/100
+    5/12 Dundee United                  36/100
      ...
    12/12 Aberdeen                       23/100  (la fa meno spesso)
 
@@ -1109,7 +1109,8 @@ SOTTOFREQUENZA 12 + GOAL
     3/12 Rangers                        39/100
     4/12 Motherwell                     38/100
     5/12 St. Johnstone                  37/100
-    6/12 Falkirk                        37/100
+    6/12 Heart of Midlothian            37/100
+    7/12 Falkirk                        37/100
      ...
    12/12 Dundee United                  24/100  (la fa meno spesso)
 
@@ -1459,7 +1460,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 17:28 (ora italiana)
+Aggiornato: 08/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1764,7 +1765,7 @@ SOTTOFREQUENZA X2 + GOAL
    20/20 Alemannia Aachen               25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 VfB Stuttgart II               51/100
+    1/20 VfB Stuttgart II               50/100
     2/20 Ingolstadt                     48/100
     3/20 Wehen Wiesbaden                44/100
     4/20 Waldhof Mannheim               44/100
@@ -1871,9 +1872,9 @@ SPAGNA - LALIGA 2
 SOTTOFREQUENZA 1X + GOAL
     1/21 Celta Fortuna                  50/100
     2/21 Almería                        46/100
-    3/21 Girona                         43/100
-    4/21 Castellón                      43/100
-    5/21 Albacete                       43/100
+    3/21 Castellón                      43/100
+    4/21 Albacete                       43/100
+    5/21 Girona                         42/100
      ...
    21/21 Cádiz                          26/100  (la fa meno spesso)
 
@@ -2020,7 +2021,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/12 Young Boys                     57/100
     2/12 Servette                       53/100
     3/12 St. Gallen                     52/100
-    4/12 Thun                           50/100
+    4/12 Thun                           51/100
     5/12 FC Vaduz                       50/100
      ...
    12/12 Sion                           40/100  (la fa meno spesso)
@@ -2261,14 +2262,14 @@ SOTTOFREQUENZA 1X + GOAL
     4/12 FC København                   47/100
     5/12 Brøndby IF                     47/100
      ...
-   12/12 Randers FC                     36/100  (la fa meno spesso)
+   12/12 Randers FC                     35/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 OB                             45/100
     2/12 AGF                            44/100
     3/12 Lyngby                         40/100
     4/12 Sønderjyske                    39/100
-    5/12 Randers FC                     38/100
+    5/12 Randers FC                     39/100
      ...
    12/12 FC Midtjylland                 24/100  (la fa meno spesso)
 
@@ -2342,7 +2343,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/16 Sirius                         42/100
     5/16 Degerfors                      42/100
      ...
-   16/16 AIK                            26/100  (la fa meno spesso)
+   16/16 AIK                            27/100  (la fa meno spesso)
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -2504,8 +2505,8 @@ SCOZIA - PREMIERSHIP
 SOTTOFREQUENZA 1X + GOAL
     1/12 Rangers                        42/100
     2/12 Celtic                         42/100
-    3/12 Heart of Midlothian            40/100
-    4/12 Falkirk                        40/100
+    3/12 Falkirk                        40/100
+    4/12 Heart of Midlothian            39/100
     5/12 Dundee FC                      39/100
      ...
    12/12 Hibernian                      31/100  (la fa meno spesso)
@@ -2873,7 +2874,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 17:28 (ora italiana)
+Aggiornato: 08/11/2026 18:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3299,7 +3300,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/21 Almería                        55/100
+    1/21 Almería                        54/100
     2/21 Girona                         45/100
     3/21 Real Sociedad B                44/100
     4/21 Albacete                       44/100
@@ -3361,7 +3362,7 @@ BELGIO - FIRST DIVISION B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
      1/3 RFC Seraing                    42/100
-     2/3 Eupen                          38/100
+     2/3 Eupen                          37/100
      3/3 Beerschot                      36/100
 
 SOTTOFREQUENZA X2 + GOAL
@@ -3372,7 +3373,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
      1/3 Beerschot                      49/100
      2/3 RFC Seraing                    40/100
-     3/3 Eupen                          31/100
+     3/3 Eupen                          32/100
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -3559,9 +3560,9 @@ PORTOGALLO - LIGA PORTUGAL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Estoril                        44/100
-    2/18 Académico Viseu                44/100
+    2/18 Académico Viseu                43/100
     3/18 Rio Ave                        41/100
-    4/18 Gil Vicente                    41/100
+    4/18 Gil Vicente                    40/100
     5/18 Arouca                         40/100
      ...
    18/18 Benfica                        18/100  (la fa meno spesso)
@@ -3580,7 +3581,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Marítimo                       38/100
     3/18 Braga                          38/100
     4/18 Gil Vicente                    36/100
-    5/18 Académico Viseu                36/100
+    5/18 Sporting CP                    35/100
+    6/18 Académico Viseu                35/100
      ...
    18/18 Rio Ave                        22/100  (la fa meno spesso)
 
@@ -3687,7 +3689,7 @@ DANIMARCA - SUPERLIGAEN
 SOTTOFREQUENZA 1X + GOAL
     1/12 OB                             49/100
     2/12 Silkeborg                      46/100
-    3/12 Nordsjælland                   45/100
+    3/12 Nordsjælland                   44/100
     4/12 AGF                            44/100
     5/12 Viborg                         43/100
     6/12 Randers FC                     43/100
@@ -3947,7 +3949,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Rangers                        49/100
     2/12 Celtic                         48/100
-    3/12 Falkirk                        42/100
+    3/12 Falkirk                        43/100
     4/12 Hibernian                      41/100
     5/12 Motherwell                     38/100
      ...
