@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 14:41 (ora italiana)
+Aggiornato: 08/11/2026 15:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -265,16 +265,17 @@ GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Darmstadt                      49/100
-    2/18 Karlsruher SC                  47/100
-    3/18 Hannover 96                    47/100
+    2/18 Hannover 96                    48/100
+    3/18 Karlsruher SC                  47/100
     4/18 FC Heidenheim                  47/100
     5/18 Energie Cottbus                47/100
+    6/18 Bochum                         47/100
      ...
-   18/18 Magdeburg                      32/100  (la fa meno spesso)
+   18/18 Magdeburg                      33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Wolfsburg                      52/100
-    2/18 Hannover 96                    43/100
+    2/18 Hannover 96                    44/100
     3/18 Holstein Kiel                  39/100
     4/18 Hertha BSC                     39/100
     5/18 Dynamo Dresden                 39/100
@@ -283,8 +284,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Hertha BSC                     45/100
-    2/18 Wolfsburg                      43/100
-    3/18 Karlsruher SC                  43/100
+    2/18 Karlsruher SC                  44/100
+    3/18 Wolfsburg                      43/100
     4/18 Energie Cottbus                43/100
     5/18 Kaiserslautern                 42/100
     6/18 Dynamo Dresden                 42/100
@@ -475,7 +476,7 @@ SOTTOFREQUENZA X2 + GOAL
     5/17 St.Truiden                     36/100
     6/17 Club Brugge                    36/100
      ...
-   17/17 Anderlecht                     25/100  (la fa meno spesso)
+   17/17 Anderlecht                     26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Club Brugge                    44/100
@@ -811,27 +812,27 @@ SOTTOFREQUENZA 12 + GOAL
 NORVEGIA - OBOS-LIGAEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/16 Kongsvinger                    50/100
+    1/16 Kongsvinger                    51/100
     2/16 Hødd                           48/100
     3/16 Egersund                       47/100
-    4/16 Odds Ballklubb                 46/100
+    4/16 Ranheim                        46/100
     5/16 Sogndal                        45/100
-    6/16 Ranheim                        45/100
+    6/16 Odds Ballklubb                 45/100
      ...
    16/16 FK Haugesund                   33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Kongsvinger                    46/100
-    2/16 Stabæk                         43/100
+    1/16 Kongsvinger                    45/100
+    2/16 Stabæk                         44/100
     3/16 Odds Ballklubb                 42/100
     4/16 Ranheim                        41/100
     5/16 Åsane                          39/100
     6/16 Raufoss                        39/100
      ...
-   16/16 FK Haugesund                   25/100  (la fa meno spesso)
+   16/16 FK Haugesund                   26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/16 Ranheim                        52/100
+    1/16 Ranheim                        53/100
     2/16 Moss                           48/100
     3/16 Strømmen                       47/100
     4/16 Kongsvinger                    46/100
@@ -972,14 +973,13 @@ SOTTOFREQUENZA 1X + GOAL
     2/16 Mladá Boleslav                 40/100
     3/16 FC Zlín                        40/100
     4/16 FC Zbrojovka Brno              38/100
-    5/16 Teplice                        35/100
-    6/16 Slovácko                       35/100
+    5/16 Slovácko                       35/100
      ...
    16/16 Baník Ostrava                  30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Sigma Olomouc                  41/100
-    2/16 Teplice                        37/100
+    2/16 Teplice                        38/100
     3/16 Mladá Boleslav                 37/100
     4/16 Bohemians 1905                 37/100
     5/16 Artis Brno                     37/100
@@ -1467,7 +1467,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 14:41 (ora italiana)
+Aggiornato: 08/11/2026 15:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1910,8 +1910,8 @@ SOTTOFREQUENZA 12 + GOAL
 BELGIO - FIRST DIVISION A
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/17 Genk                           48/100
-    2/17 Club Brugge                    48/100
+    1/17 Club Brugge                    49/100
+    2/17 Genk                           48/100
     3/17 KV Mechelen                    45/100
     4/17 St.Truiden                     44/100
     5/17 Union St.Gilloise              43/100
@@ -2240,7 +2240,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/15 Hødd                           47/100
     5/15 Bryne                          47/100
      ...
-   15/15 FK Haugesund                   35/100  (la fa meno spesso)
+   15/15 Stabæk                         34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/15 Odds Ballklubb                 45/100
@@ -2249,7 +2249,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/15 Sogndal                        38/100
     5/15 Stabæk                         37/100
      ...
-   15/15 Bryne                          26/100  (la fa meno spesso)
+   15/15 Bryne                          25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/15 Åsane                          49/100
@@ -2882,7 +2882,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 14:41 (ora italiana)
+Aggiornato: 08/11/2026 15:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3161,12 +3161,11 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 VfL Osnabrück                  44/100
     2/18 Karlsruher SC                  41/100
-    3/18 St. Pauli                      40/100
-    4/18 Magdeburg                      40/100
-    5/18 Holstein Kiel                  40/100
-    6/18 Hannover 96                    40/100
-    7/18 Darmstadt                      40/100
-    8/18 1. FC Nürnberg                 40/100
+    3/18 Magdeburg                      40/100
+    4/18 Holstein Kiel                  40/100
+    5/18 Hannover 96                    40/100
+    6/18 Darmstadt                      40/100
+    7/18 1. FC Nürnberg                 40/100
      ...
    18/18 Eintracht Braunschweig         26/100  (la fa meno spesso)
 
@@ -3669,29 +3668,30 @@ SOTTOFREQUENZA 1X + GOAL
     4/15 Bryne                          45/100
     5/15 Strømmen                       44/100
     6/15 Sandnes Ulf                    44/100
-    7/15 Odds Ballklubb                 44/100
-    8/15 Moss                           44/100
+    7/15 Ranheim                        44/100
+    8/15 Odds Ballklubb                 44/100
+    9/15 Moss                           44/100
      ...
-   15/15 Kongsvinger                    35/100  (la fa meno spesso)
+   15/15 Hødd                           36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/15 Kongsvinger                    46/100
-    2/15 Egersund                       46/100
-    3/15 Åsane                          41/100
-    4/15 Strømmen                       41/100
+    2/15 Egersund                       45/100
+    3/15 Strømmen                       41/100
+    4/15 Åsane                          40/100
     5/15 Raufoss                        39/100
     6/15 Moss                           39/100
      ...
-   15/15 Strømsgodset                   29/100  (la fa meno spesso)
+   15/15 FK Haugesund                   30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/15 Egersund                       53/100
-    2/15 Ranheim                        50/100
+    2/15 Ranheim                        51/100
     3/15 Raufoss                        49/100
     4/15 Strømmen                       47/100
     5/15 Moss                           47/100
      ...
-   15/15 Odds Ballklubb                 35/100  (la fa meno spesso)
+   15/15 Odds Ballklubb                 36/100  (la fa meno spesso)
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
@@ -3844,7 +3844,7 @@ SOTTOFREQUENZA X2 + GOAL
    16/16 FC Zlín                        24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/16 Pardubice                      42/100
+    1/16 Pardubice                      43/100
     2/16 Mladá Boleslav                 40/100
     3/16 Teplice                        37/100
     4/16 FC Zlín                        36/100
