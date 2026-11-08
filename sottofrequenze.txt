@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 18:26 (ora italiana)
+Aggiornato: 08/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -86,8 +86,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/43 Pescara                        41/100
-    2/43 Lumezzane                      40/100
-    3/43 Sambenedettese                 39/100
+    2/43 Sambenedettese                 40/100
+    3/43 Lumezzane                      40/100
     4/43 Trento                         38/100
     5/43 Pineto                         36/100
     6/43 Atalanta U23                   36/100
@@ -235,7 +235,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Eintracht Frankfurt            48/100
     3/18 1. FC Köln                     47/100
     4/18 Hamburger SV                   46/100
-    5/18 Freiburg                       45/100
+    5/18 Freiburg                       44/100
      ...
    18/18 Schalke 04                     36/100  (la fa meno spesso)
 
@@ -250,9 +250,9 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Hoffenheim                     49/100
-    2/18 Freiburg                       47/100
-    3/18 Bayern München                 47/100
-    4/18 Paderborn                      46/100
+    2/18 Bayern München                 47/100
+    3/18 Paderborn                      46/100
+    4/18 Freiburg                       46/100
     5/18 RB Leipzig                     45/100
      ...
    18/18 Union Berlin                   31/100  (la fa meno spesso)
@@ -328,18 +328,18 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 Strasbourg                     50/100
     2/18 Nice                           44/100
     3/18 Paris FC                       43/100
-    4/18 Monaco                         41/100
+    4/18 Monaco                         42/100
     5/18 Marseille                      41/100
      ...
-   18/18 Troyes                         29/100  (la fa meno spesso)
+   18/18 Angers                         29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Paris Saint-Germain            43/100
-    2/18 Le Mans                        39/100
+    2/18 Le Mans                        40/100
     3/18 Toulouse                       38/100
-    4/18 Strasbourg                     35/100
-    5/18 Nice                           35/100
-    6/18 Monaco                         35/100
+    4/18 Monaco                         36/100
+    5/18 Strasbourg                     35/100
+    6/18 Nice                           35/100
     7/18 Marseille                      35/100
      ...
    18/18 Troyes                         22/100  (la fa meno spesso)
@@ -534,15 +534,15 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 Willem II                      41/100
     5/18 PEC Zwolle                     41/100
      ...
-   18/18 Cambuur                        34/100  (la fa meno spesso)
+   18/18 FC Groningen                   33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  57/100
     2/18 ADO Den Haag                   44/100
     3/18 FC Utrecht                     41/100
-    4/18 NEC Nijmegen                   39/100
-    5/18 Feyenoord                      39/100
-    6/18 FC Groningen                   39/100
+    4/18 FC Groningen                   40/100
+    5/18 NEC Nijmegen                   39/100
+    6/18 Feyenoord                      39/100
     7/18 Excelsior                      39/100
      ...
    18/18 Go Ahead Eagles                30/100  (la fa meno spesso)
@@ -649,7 +649,7 @@ AUSTRIA - BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Salzburg                       43/100
-    2/12 Sturm Graz                     42/100
+    2/12 Sturm Graz                     41/100
     3/12 Grazer AK                      40/100
     4/12 Rapid Wien                     39/100
     5/12 Hartberg                       38/100
@@ -661,14 +661,14 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 Sturm Graz                     41/100
     2/12 Grazer AK                      40/100
     3/12 Hartberg                       39/100
-    4/12 Salzburg                       35/100
+    4/12 Salzburg                       36/100
     5/12 LASK                           35/100
      ...
    12/12 Ried                           27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 LASK                           43/100
-    2/12 Salzburg                       38/100
+    2/12 Salzburg                       39/100
     3/12 Wolfsberger AC                 37/100
     4/12 Austria Wien                   37/100
     5/12 Ried                           36/100
@@ -772,12 +772,11 @@ SOTTOFREQUENZA 12 + GOAL
 NORVEGIA - ELITESERIEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/16 Viking                         48/100
+    1/16 Viking                         49/100
     2/16 Vålerenga                      47/100
     3/16 Sandefjord                     46/100
     4/16 Start                          45/100
-    5/16 Sarpsborg 08                   45/100
-    6/16 Brann                          45/100
+    5/16 Brann                          45/100
      ...
    16/16 Tromsø                         29/100  (la fa meno spesso)
 
@@ -788,16 +787,16 @@ SOTTOFREQUENZA X2 + GOAL
     4/16 Vålerenga                      37/100
     5/16 Hamarkameratene                37/100
      ...
-   16/16 Sandefjord                     26/100  (la fa meno spesso)
+   16/16 Sandefjord                     27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Brann                          52/100
-    2/16 Viking                         49/100
-    3/16 Sarpsborg 08                   47/100
-    4/16 Molde                          47/100
-    5/16 Vålerenga                      46/100
+    2/16 Viking                         50/100
+    3/16 Vålerenga                      46/100
+    4/16 Sarpsborg 08                   46/100
+    5/16 Molde                          46/100
      ...
-   16/16 Hamarkameratene                27/100  (la fa meno spesso)
+   16/16 Hamarkameratene                26/100  (la fa meno spesso)
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
@@ -1105,7 +1104,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Dundee FC                      42/100
-    2/12 Celtic                         42/100
+    2/12 Celtic                         41/100
     3/12 Rangers                        39/100
     4/12 Motherwell                     38/100
     5/12 St. Johnstone                  37/100
@@ -1410,7 +1409,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/17 Motor Lublin                   46/100
     2/17 Jagiellonia Białystok          44/100
-    3/17 Legia Warszawa                 41/100
+    3/17 Legia Warszawa                 42/100
     4/17 Śląsk Wrocław                  40/100
     5/17 Korona Kielce                  38/100
      ...
@@ -1420,8 +1419,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Radomiak Radom                 45/100
     2/17 Lech Poznań                    45/100
     3/17 Śląsk Wrocław                  43/100
-    4/17 Jagiellonia Białystok          42/100
-    5/17 Raków Częstochowa              41/100
+    4/17 Raków Częstochowa              42/100
+    5/17 Jagiellonia Białystok          42/100
      ...
    17/17 Korona Kielce                  29/100  (la fa meno spesso)
 
@@ -1441,7 +1440,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/17 Termalica Nieciecza            43/100
     2/17 Stal Rzeszów                   43/100
     3/17 Polonia Warszawa               43/100
-    4/17 Pogoń Siedlce                  43/100
+    4/17 Pogoń Siedlce                  42/100
     5/17 Puszcza Niepołomice            39/100
      ...
    17/17 Arka Gdynia                    24/100  (la fa meno spesso)
@@ -1460,7 +1459,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 18:26 (ora italiana)
+Aggiornato: 08/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1684,8 +1683,8 @@ SOTTOFREQUENZA 12 + GOAL
 GERMANIA - BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Freiburg                       53/100
-    2/18 Bayern München                 53/100
+    1/18 Bayern München                 53/100
+    2/18 Freiburg                       52/100
     3/18 Hamburger SV                   50/100
     4/18 Eintracht Frankfurt            50/100
     5/18 Union Berlin                   49/100
@@ -1706,8 +1705,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 Hoffenheim                     55/100
     2/18 Paderborn                      50/100
     3/18 Borussia Dortmund              47/100
-    4/18 Freiburg                       46/100
-    5/18 Bayer Leverkusen               46/100
+    4/18 Bayer Leverkusen               46/100
+    5/18 Freiburg                       45/100
      ...
    18/18 Mainz 05                       29/100  (la fa meno spesso)
 
@@ -1788,7 +1787,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Strasbourg                     39/100
     2/18 Toulouse                       38/100
-    3/18 Brest                          38/100
+    3/18 Brest                          37/100
     4/18 Troyes                         36/100
     5/18 Angers                         35/100
      ...
@@ -1965,8 +1964,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 NEC Nijmegen                   53/100
     2/18 Telstar                        43/100
-    3/18 Sparta Rotterdam               40/100
-    4/18 Cambuur                        40/100
+    3/18 Cambuur                        41/100
+    4/18 Sparta Rotterdam               40/100
     5/18 Fortuna Sittard                38/100
      ...
    18/18 PSV Eindhoven                  15/100  (la fa meno spesso)
@@ -2091,7 +2090,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Wolfsberger AC                 46/100
-    2/12 Sturm Graz                     40/100
+    2/12 Sturm Graz                     41/100
     3/12 Salzburg                       39/100
     4/12 LASK                           38/100
     5/12 Austria Lustenau               37/100
@@ -2195,25 +2194,25 @@ SOTTOFREQUENZA 12 + GOAL
 NORVEGIA - ELITESERIEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/16 Viking                         59/100
+    1/16 Viking                         60/100
     2/16 Brann                          52/100
     3/16 Vålerenga                      50/100
     4/16 Fredrikstad                    49/100
     5/16 Bodø/Glimt                     49/100
      ...
-   16/16 Sandefjord                     33/100  (la fa meno spesso)
+   16/16 Sandefjord                     34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Aalesund                       44/100
     2/16 Start                          39/100
     3/16 Sarpsborg 08                   39/100
-    4/16 Sandefjord                     38/100
+    4/16 Sandefjord                     39/100
     5/16 KFUM                           38/100
      ...
    16/16 Bodø/Glimt                     21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/16 Viking                         54/100
+    1/16 Viking                         55/100
     2/16 Start                          48/100
     3/16 Molde                          48/100
     4/16 Brann                          48/100
@@ -2833,8 +2832,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Wisła Kraków                   41/100
     2/17 Jagiellonia Białystok          41/100
     3/17 Pogoń Szczecin                 39/100
-    4/17 Górnik Zabrze                  39/100
-    5/17 GKS Katowice                   39/100
+    4/17 Legia Warszawa                 39/100
+    5/17 Górnik Zabrze                  39/100
+    6/17 GKS Katowice                   39/100
      ...
    17/17 Cracovia                       27/100  (la fa meno spesso)
 
@@ -2852,7 +2852,7 @@ SOTTOFREQUENZA 1X + GOAL
    14/14 Odra Opole                     30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/14 Pogoń Siedlce                  46/100
+    1/14 Pogoń Siedlce                  45/100
     2/14 Termalica Nieciecza            41/100
     3/14 Stal Rzeszów                   41/100
     4/14 Puszcza Niepołomice            38/100
@@ -2874,7 +2874,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 18:26 (ora italiana)
+Aggiornato: 08/11/2026 19:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2916,8 +2916,8 @@ ITALIA - SERIE B
 SOTTOFREQUENZA 1X + GOAL
     1/20 Empoli                         47/100
     2/20 Palermo                        46/100
-    3/20 Sampdoria                      45/100
-    4/20 Hellas Verona                  45/100
+    3/20 Hellas Verona                  45/100
+    4/20 Sampdoria                      44/100
     5/20 Carrarese                      44/100
      ...
    20/20 Benevento                      26/100  (la fa meno spesso)
@@ -2936,9 +2936,10 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 Modena                         36/100
     2/20 Cremonese                      35/100
-    3/20 Sampdoria                      34/100
-    4/20 Hellas Verona                  34/100
-    5/20 Catanzaro                      34/100
+    3/20 Hellas Verona                  34/100
+    4/20 Catanzaro                      34/100
+    5/20 Sampdoria                      33/100
+    6/20 LR Vicenza                     33/100
      ...
    20/20 Benevento                      21/100  (la fa meno spesso)
 
@@ -3214,7 +3215,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Paris Saint-Germain            56/100
-    2/18 Monaco                         45/100
+    2/18 Monaco                         46/100
     3/18 Lens                           43/100
     4/18 Le Mans                        41/100
     5/18 Strasbourg                     38/100
@@ -3224,13 +3225,12 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Troyes                         25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Lyon                           49/100
+    1/18 Lyon                           48/100
     2/18 Paris Saint-Germain            47/100
     3/18 Monaco                         44/100
     4/18 Rennes                         40/100
-    5/18 Nice                           40/100
-    6/18 Brest                          40/100
-    7/18 Auxerre                        40/100
+    5/18 Brest                          40/100
+    6/18 Auxerre                        40/100
      ...
    18/18 Le Havre                       26/100  (la fa meno spesso)
 
@@ -3385,7 +3385,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/18 Go Ahead Eagles                45/100
     5/18 Willem II                      44/100
      ...
-   18/18 PSV Eindhoven                  27/100  (la fa meno spesso)
+   18/18 PSV Eindhoven                  26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 PSV Eindhoven                  55/100
@@ -3397,7 +3397,7 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 FC Groningen                   29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 PSV Eindhoven                  52/100
+    1/18 PSV Eindhoven                  53/100
     2/18 Feyenoord                      44/100
     3/18 Excelsior                      43/100
     4/18 Cambuur                        43/100
@@ -3633,9 +3633,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/16 Bodø/Glimt                     50/100
     2/16 Viking                         47/100
     3/16 Tromsø                         42/100
-    4/16 KFUM                           41/100
-    5/16 Hamarkameratene                41/100
-    6/16 Fredrikstad                    41/100
+    4/16 Hamarkameratene                41/100
+    5/16 Fredrikstad                    41/100
      ...
    16/16 Sandefjord                     24/100  (la fa meno spesso)
 
@@ -4267,8 +4266,8 @@ SOTTOFREQUENZA X2 + GOAL
    17/17 Zagłębie Lubin                 28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/17 Wisła Kraków                   40/100
-    2/17 Raków Częstochowa              40/100
+    1/17 Raków Częstochowa              41/100
+    2/17 Wisła Kraków                   40/100
     3/17 Górnik Zabrze                  40/100
     4/17 Śląsk Wrocław                  39/100
     5/17 Lech Poznań                    37/100
