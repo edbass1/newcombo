@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 01:41 (ora italiana)
+Aggiornato: 08/11/2026 12:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -998,7 +998,7 @@ SOTTOFREQUENZA 12 + GOAL
 REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 Slavia Prague B                53/100
+    1/12 Slavia Prague B                52/100
     2/12 FC Vlašim                      50/100
     3/12 Vysočina Jihlava               49/100
     4/12 SK Prostějov                   46/100
@@ -1011,8 +1011,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 SK Prostějov                   36/100
     3/12 FC Vlašim                      36/100
     4/12 Vysočina Jihlava               34/100
-    5/12 Slavia Prague B                32/100
-    6/12 Příbram                        32/100
+    5/12 Slavia Prague B                33/100
      ...
    12/12 Ústí nad Labem                 27/100  (la fa meno spesso)
 
@@ -1066,7 +1065,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/13 FK Pohronie                    47/100
     5/13 Inter Bratislava               45/100
      ...
-   13/13 FC Petržalka 1898              34/100  (la fa meno spesso)
+   13/13 FC Petržalka 1898              35/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/13 Považská Bystrica              37/100
@@ -1256,8 +1255,8 @@ SOTTOFREQUENZA 1X + GOAL
    26/26 Gimnasia LP                    23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/26 Barracas Central               35/100
-    2/26 Newell's Old Boys              34/100
+    1/26 Newell's Old Boys              35/100
+    2/26 Barracas Central               35/100
     3/26 Defensa y Justicia             34/100
     4/26 Talleres                       33/100
     5/26 Banfield                       33/100
@@ -1268,7 +1267,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/26 Racing Club                    36/100
     2/26 Banfield                       33/100
     3/26 Atlético Tucumán               31/100
-    4/26 Instituto                      30/100
+    4/26 Instituto                      29/100
     5/26 Defensa y Justicia             29/100
     6/26 Aldosivi                       29/100
      ...
@@ -1279,11 +1278,12 @@ USA/CANADA - MLS
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/29 LA Galaxy                      56/100
-    2/29 Portland Timbers               55/100
-    3/29 Inter Miami CF                 50/100
-    4/29 Toronto FC                     49/100
-    5/29 Red Bull New York              49/100
-    6/29 Real Salt Lake                 49/100
+    2/29 Portland Timbers               54/100
+    3/29 Real Salt Lake                 50/100
+    4/29 Inter Miami CF                 50/100
+    5/29 Toronto FC                     49/100
+    6/29 San Jose Earthquakes           49/100
+    7/29 Red Bull New York              49/100
      ...
    29/29 New England Revolution         37/100  (la fa meno spesso)
 
@@ -1292,8 +1292,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/29 Minnesota United               45/100
     3/29 DC United                      45/100
     4/29 Atlanta United                 43/100
-    5/29 San Jose Earthquakes           42/100
-    6/29 Chicago Fire FC                42/100
+    5/29 Chicago Fire FC                42/100
      ...
    29/29 Nashville SC                   24/100  (la fa meno spesso)
 
@@ -1315,14 +1314,14 @@ SOTTOFREQUENZA 1X + GOAL
     3/11 Newcastle Jets                 47/100
     4/11 Macarthur FC                   47/100
     5/11 Wellington Phoenix             44/100
-    6/11 Brisbane Roar FC               44/100
+    6/11 Melbourne Victory              44/100
      ...
    11/11 Sydney FC                      39/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/11 Adelaide United                50/100
     2/11 Newcastle Jets                 48/100
-    3/11 Macarthur FC                   44/100
+    3/11 Macarthur FC                   45/100
     4/11 Central Coast Mariners         43/100
     5/11 Western Sydney Wanderers FC    42/100
     6/11 Brisbane Roar FC               42/100
@@ -1331,9 +1330,9 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/11 Adelaide United                51/100
-    2/11 Macarthur FC                   45/100
-    3/11 Perth Glory                    44/100
-    4/11 Brisbane Roar FC               44/100
+    2/11 Macarthur FC                   46/100
+    3/11 Brisbane Roar FC               45/100
+    4/11 Perth Glory                    44/100
     5/11 Newcastle Jets                 43/100
      ...
    11/11 Melbourne City FC              33/100  (la fa meno spesso)
@@ -1466,7 +1465,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 01:41 (ora italiana)
+Aggiornato: 08/11/2026 12:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2721,7 +2720,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/27 LA Galaxy                      47/100
     5/27 Sporting Kansas City           46/100
      ...
-   27/27 Seattle Sounders FC            28/100  (la fa meno spesso)
+   27/27 Seattle Sounders FC            29/100  (la fa meno spesso)
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -2741,13 +2740,13 @@ SOTTOFREQUENZA X2 + GOAL
     2/10 Western Sydney Wanderers FC    42/100
     3/10 Perth Glory                    41/100
     4/10 Central Coast Mariners         40/100
-    5/10 Adelaide United                39/100
+    5/10 Adelaide United                40/100
      ...
    10/10 Melbourne City FC              25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Adelaide United                47/100
-    2/10 Newcastle Jets                 46/100
+    1/10 Newcastle Jets                 46/100
+    2/10 Adelaide United                46/100
     3/10 Wellington Phoenix             43/100
     4/10 Perth Glory                    43/100
     5/10 Sydney FC                      42/100
@@ -2882,7 +2881,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 01:41 (ora italiana)
+Aggiornato: 08/11/2026 12:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3543,7 +3542,7 @@ SOTTOFREQUENZA 1X + GOAL
      1/8 Admira Wacker                  41/100
      2/8 FC Wacker Innsbruck            40/100
      3/8 BW Linz                        40/100
-     4/8 Kapfenberger SV                39/100
+     4/8 Kapfenberger SV                38/100
      5/8 SKU Amstetten                  37/100
      ...
      8/8 Floridsdorfer AC               30/100  (la fa meno spesso)
@@ -3562,7 +3561,8 @@ SOTTOFREQUENZA 12 + GOAL
      2/8 SKN St. Pölten                 39/100
      3/8 FC Liefering                   39/100
      4/8 SKU Amstetten                  37/100
-     5/8 Kapfenberger SV                37/100
+     5/8 Kapfenberger SV                36/100
+     6/8 Admira Wacker                  36/100
      ...
      8/8 Floridsdorfer AC               23/100  (la fa meno spesso)
 
@@ -3921,7 +3921,7 @@ SOTTOFREQUENZA 1X + GOAL
      2/8 Zlaté Moravce                  41/100
      3/8 FK Pohronie                    41/100
      4/8 Slovan Bratislava B            40/100
-     5/8 Žilina B                       37/100
+     5/8 Žilina B                       38/100
      ...
      8/8 FC Petržalka 1898              33/100  (la fa meno spesso)
 
@@ -3930,8 +3930,7 @@ SOTTOFREQUENZA X2 + GOAL
      2/8 FC STK 1914 Šamorín            35/100
      3/8 FC Petržalka 1898              33/100
      4/8 FK Pohronie                    30/100
-     5/8 Žilina B                       26/100
-     6/8 Slovan Bratislava B            26/100
+     5/8 Slovan Bratislava B            26/100
      ...
      8/8 Tatran Prešov                  21/100  (la fa meno spesso)
 
@@ -4105,16 +4104,17 @@ SOTTOFREQUENZA 1X + GOAL
     2/21 Estudiantes                    41/100
     3/21 Vélez Sarsfield                37/100
     4/21 Rosario Central                36/100
-    5/21 Independiente                  36/100
+    5/21 Newell's Old Boys              36/100
+    6/21 Independiente                  36/100
      ...
    21/21 Argentinos Juniors             23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/21 Unión                          35/100
     2/21 River Plate                    35/100
-    3/21 Talleres                       34/100
-    4/21 Rosario Central                34/100
-    5/21 Newell's Old Boys              34/100
+    3/21 Newell's Old Boys              35/100
+    4/21 Talleres                       34/100
+    5/21 Rosario Central                34/100
      ...
    21/21 Argentinos Juniors             21/100  (la fa meno spesso)
 
@@ -4131,10 +4131,10 @@ SOTTOFREQUENZA 12 + GOAL
 USA/CANADA - MLS
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/27 San Jose Earthquakes           53/100
+    1/27 San Jose Earthquakes           54/100
     2/27 Columbus Crew                  53/100
-    3/27 Portland Timbers               51/100
-    4/27 LA Galaxy                      50/100
+    3/27 LA Galaxy                      51/100
+    4/27 Portland Timbers               50/100
     5/27 FC Dallas                      50/100
      ...
    27/27 Inter Miami CF                 31/100  (la fa meno spesso)
@@ -4149,10 +4149,10 @@ SOTTOFREQUENZA X2 + GOAL
    27/27 Toronto FC                     22/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/27 Sporting Kansas City           55/100
+    1/27 Sporting Kansas City           54/100
     2/27 Minnesota United               49/100
     3/27 New England Revolution         47/100
-    4/27 San Jose Earthquakes           45/100
+    4/27 San Jose Earthquakes           46/100
     5/27 FC Cincinnati                  45/100
     6/27 Columbus Crew                  45/100
      ...
@@ -4164,8 +4164,8 @@ AUSTRALIA - A-LEAGUE MEN
 SOTTOFREQUENZA 1X + GOAL
     1/10 Western Sydney Wanderers FC    50/100
     2/10 Adelaide United                50/100
-    3/10 Brisbane Roar FC               49/100
-    4/10 Perth Glory                    48/100
+    3/10 Perth Glory                    48/100
+    4/10 Brisbane Roar FC               48/100
     5/10 Newcastle Jets                 45/100
      ...
    10/10 Sydney FC                      32/100  (la fa meno spesso)
@@ -4175,17 +4175,17 @@ SOTTOFREQUENZA X2 + GOAL
     2/10 Melbourne City FC              44/100
     3/10 Western Sydney Wanderers FC    41/100
     4/10 Sydney FC                      38/100
-    5/10 Melbourne Victory              37/100
-    6/10 Brisbane Roar FC               37/100
+    5/10 Melbourne Victory              38/100
+    6/10 Brisbane Roar FC               38/100
      ...
    10/10 Perth Glory                    31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 Adelaide United                55/100
     2/10 Brisbane Roar FC               44/100
-    3/10 Melbourne Victory              43/100
-    4/10 Wellington Phoenix             42/100
-    5/10 Newcastle Jets                 42/100
+    3/10 Wellington Phoenix             42/100
+    4/10 Newcastle Jets                 42/100
+    5/10 Melbourne Victory              42/100
      ...
    10/10 Sydney FC                      34/100  (la fa meno spesso)
 
