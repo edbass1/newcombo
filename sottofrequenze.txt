@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 13:35 (ora italiana)
+Aggiornato: 08/11/2026 14:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -78,8 +78,9 @@ SOTTOFREQUENZA 1X + GOAL
     1/43 Potenza                        46/100
     2/43 Cosenza                        46/100
     3/43 Atalanta U23                   45/100
-    4/43 Torres                         44/100
-    5/43 Bari                           44/100
+    4/43 Bari                           44/100
+    5/43 Torres                         43/100
+    6/43 Spezia                         43/100
      ...
    43/43 Renate                         29/100  (la fa meno spesso)
 
@@ -523,12 +524,12 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 PEC Zwolle                     51/100
     2/18 Go Ahead Eagles                48/100
     3/18 Telstar                        47/100
-    4/18 SC Heerenveen                  46/100
+    4/18 SC Heerenveen                  47/100
     5/18 FC Utrecht                     46/100
     6/18 FC Twente                      46/100
     7/18 Ajax                           46/100
      ...
-   18/18 Feyenoord                      36/100  (la fa meno spesso)
+   18/18 Feyenoord                      37/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 NEC Nijmegen                   50/100
@@ -536,7 +537,6 @@ SOTTOFREQUENZA X2 + GOAL
     3/18 FC Utrecht                     43/100
     4/18 Willem II                      41/100
     5/18 PEC Zwolle                     41/100
-    6/18 Feyenoord                      41/100
      ...
    18/18 Cambuur                        34/100  (la fa meno spesso)
 
@@ -770,7 +770,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Lusitânia Lourosa              36/100
     3/18 Leixões                        35/100
     4/18 Portimonense                   34/100
-    5/18 Feirense                       34/100
+    5/18 Feirense                       33/100
+    6/18 Farense                        33/100
+    7/18 Benfica B                      33/100
      ...
    18/18 Felgueiras 1932                23/100  (la fa meno spesso)
 
@@ -863,7 +865,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/12 Viborg                         48/100
     2/12 FC Midtjylland                 46/100
-    3/12 FC København                   46/100
+    3/12 FC København                   45/100
     4/12 OB                             42/100
     5/12 AGF                            42/100
      ...
@@ -1465,7 +1467,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 13:35 (ora italiana)
+Aggiornato: 08/11/2026 14:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1981,7 +1983,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  49/100
     2/18 ADO Den Haag                   49/100
     3/18 Cambuur                        48/100
-    4/18 SC Heerenveen                  43/100
+    4/18 SC Heerenveen                  44/100
     5/18 Willem II                      40/100
     6/18 AZ Alkmaar                     40/100
      ...
@@ -2184,13 +2186,12 @@ SOTTOFREQUENZA X2 + GOAL
     3/18 Leixões                        39/100
     4/18 Tondela                        38/100
     5/18 Penafiel                       38/100
-    6/18 FC Porto B                     38/100
      ...
    18/18 Torreense                      20/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Feirense                       39/100
-    2/18 Lusitânia Lourosa              38/100
+    1/18 Lusitânia Lourosa              38/100
+    2/18 Feirense                       38/100
     3/18 Chaves                         37/100
     4/18 Benfica B                      37/100
     5/18 Sporting CP B                  36/100
@@ -2266,7 +2267,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/12 Nordsjælland                   57/100
     2/12 FC Midtjylland                 50/100
     3/12 Viborg                         48/100
-    4/12 FC København                   48/100
+    4/12 FC København                   47/100
     5/12 Brøndby IF                     47/100
      ...
    12/12 Randers FC                     36/100  (la fa meno spesso)
@@ -2881,7 +2882,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 13:35 (ora italiana)
+Aggiornato: 08/11/2026 14:41 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2963,8 +2964,8 @@ SOTTOFREQUENZA 1X + GOAL
    33/33 Monopoli                       26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/33 Sambenedettese                 42/100
-    2/33 Pescara                        42/100
+    1/33 Pescara                        43/100
+    2/33 Sambenedettese                 42/100
     3/33 Novara                         42/100
     4/33 Crotone                        41/100
     5/33 Renate                         40/100
@@ -2972,7 +2973,7 @@ SOTTOFREQUENZA X2 + GOAL
    33/33 Carpi                          23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/33 Pescara                        44/100
+    1/33 Pescara                        45/100
     2/33 Carpi                          39/100
     3/33 Crotone                        35/100
     4/33 AlbinoLeffe                    35/100
@@ -3409,7 +3410,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  52/100
-    2/18 Feyenoord                      43/100
+    2/18 Feyenoord                      44/100
     3/18 Excelsior                      43/100
     4/18 Cambuur                        43/100
     5/18 AZ Alkmaar                     43/100
