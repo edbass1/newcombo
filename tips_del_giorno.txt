@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 08/11/2026
-Aggiornato: 08/11/2026 16:26 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 08/11/2026 17:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      16:30  Thun vs Basel   [SVIZZERA - SUPER LEAGUE]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 91,9  (Freq 100 · Rit 87 · Lega 97 · GG 78 · xG 96)
-    Per Thun in casa l'1X+GOAL manca da 7 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 50% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
-
- 2. TOTALE    20:00  FC Utrecht vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 72,2  (Freq 86 · Rit 41 · Lega 80 · GG 100 · xG 67)
+ 1. TOTALE    20:00  FC Utrecht vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 74,8  (Freq 87 · Rit 35 · Lega 92 · GG 100 · xG 78)
     NEC Nijmegen non vede il 12+GOAL da 7 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 9 volte e l'xG è alto.
 
- 3. TOTALE    16:30  Yverdon vs Xamax   [SVIZZERA - CHALLENGE LEAGUE]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 67,4  (Freq 93 · Rit 41 · Lega 74 · GG 64)
-    Per Xamax l'1X+GOAL manca da 7 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 39%). In questo campionato non è una rarità e su 10 partite recenti il GG è uscito 6 volte.
-
- 4. TRASFERTA 18:00  Viktoria Plzeň vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 66,4  (Freq 86 · Rit 100 · Lega 43 · GG 9)
-    Per Sparta Prague in trasferta l'X2+GOAL manca da 15 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 40% delle volte. In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 2 volte.
-
- 5. CASA      17:00  Viking vs KFUM   [NORVEGIA - ELITESERIEN]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 65,7  (Freq 24 · Rit 97 · Lega 32 · GG 96 · xG 85)
-    Sono 18 partite che Viking resta senza l'X2+GOAL in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). Anche il campionato la vede spesso, nelle ultime 10 hanno segnato entrambe 8 volte e l'xG è alto.
-
- 6. CASA      17:00  Sandefjord vs Molde   [NORVEGIA - ELITESERIEN]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 64,7  (Freq 43 · Rit 95 · Lega 100 · GG 17 · xG 56)
-    Il 12+GOAL si fa aspettare da Sandefjord in casa: 17 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 31%). Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 3 volte e c'è tanto xG.
-
- 7. TOTALE    19:15  St.Truiden vs Zulte Waregem   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 63,7  (Freq 97 · Rit 45 · Lega 53 · GG 46 · xG 74)
+ 2. TOTALE    19:15  St.Truiden vs Zulte Waregem   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 68,2  (Freq 100 · Rit 38 · Lega 62 · GG 56 · xG 89)
     Sono 6 partite che Zulte Waregem resta senza l'1X+GOAL: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 40% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 6 volte e l'xG è alto.
 
- 8. TOTALE    16:45  AZ Alkmaar vs FC Groningen   [OLANDA - EREDIVISIE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 63,1  (Freq 70 · Rit 9 · Lega 80 · GG 92 · xG 93)
-    Per AZ Alkmaar il 12+GOAL manca da 6 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 35%). Anche il campionato la vede spesso, nelle ultime 10 hanno segnato entrambe 9 volte e l'xG è alto.
+ 3. TRASFERTA 18:00  Viktoria Plzeň vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 66,1  (Freq 87 · Rit 100 · Lega 37 · GG 13)
+    Per Sparta Prague in trasferta l'X2+GOAL manca da 15 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 40% delle volte. Questo campionato la propone abbastanza spesso e nelle ultime 10 il GG è uscito 2 volte.
 
- 9. TOTALE    18:00  Inter vs Como   [ITALIA - SERIE A]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 62,2  (Freq 82 · Rit 17 · Lega 71 · GG 88 · xG 70)
+ 4. TOTALE    18:00  Inter vs Como   [ITALIA - SERIE A]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 62,8  (Freq 81 · Rit 10 · Lega 69 · GG 94 · xG 83)
     L'1X+GOAL si fa aspettare da Como: 6 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
-10. CASA      17:15  Le Havre vs Lorient   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 61,5  (Freq 24 · Rit 63 · Lega 91 · GG 55 · xG 89)
-    Sono 6 partite che Le Havre resta senza l'1X+GOAL in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 5 volte e c'è tanto xG.
+ 5. TOTALE    19:15  KSC Lokeren vs FCV Dender EH   [BELGIO - FIRST DIVISION B]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 61,1  (Freq 92 · Rit 19 · Lega 85 · GG 62 · xG 56)
+    FCV Dender EH non vede il 12+GOAL da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
+
+ 6. CASA      18:00  Komárno vs Zemplín Michalovce   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 55,1  (Freq 33 · Rit 88 · Lega 65 · GG 23)
+    Sono 11 partite che Komárno resta senza l'1X+GOAL in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 30%). In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 3 volte.
+
+ 7. TOTALE    19:30  LR Vicenza vs Cremonese   [ITALIA - SERIE B]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 54,6  (Freq 58 · Rit 27 · Lega 88 · GG 67 · xG 44)
+    Cremonese non vede l'X2+GOAL da 6 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e l'xG dà una mano.
+
+ 8. TOTALE    19:30  Würzburger Kickers vs Hoffenheim II   [GERMANIA - 3. LIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 54,5  (Freq 69 · Rit 10 · Lega 73 · GG 85)
+    Hoffenheim II non vede l'X2+GOAL da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. In questo campionato non è una rarità e su 10 partite recenti il GG è uscito 7 volte.
+
+ 9. TRASFERTA 20:45  Lens vs Marseille   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 53,2  (Freq 12 · Rit 58 · Lega 96 · GG 13 · xG 100)
+    Per Marseille in trasferta l'1X+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 24% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 2 volte e c'è tanto xG.
+
+10. TOTALE    19:15  Fredrikstad vs Brann   [NORVEGIA - ELITESERIEN]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 53,0  (Freq 38 · Rit 31 · Lega 31 · GG 94 · xG 94)
+    L'X2+GOAL si fa aspettare da Brann: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. Questo campionato la propone abbastanza spesso, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
