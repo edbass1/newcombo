@@ -1,11 +1,8 @@
 TIPS DEL GIORNO - 08/11/2026
-Aggiornato: 08/11/2026 22:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 08/11/2026 23:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TRASFERTA 23:30  Central Córdoba de Santiago vs Lanús   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 100,0  (Freq 100 · Rit 100 · Lega 100 · GG 100 · xG 100)
-    Il 12+GOAL si fa aspettare da Lanús in trasferta: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 30% delle volte. Nel campionato esce con regolarità, nelle ultime 10 il GG è uscito 3 volte e l'xG è buono.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.

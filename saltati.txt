@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 08/11/2026 23:28 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 08/11 20:00  [GOAL] NEC Nijmegen: 12 + GOAL uscita, era a 7 🔥 6/39  -  FC Utrecht 2-3 NEC Nijmegen   [OLANDA - EREDIVISIE]
 08/11 19:30  [GOAL] Cremonese: X2 + GOAL uscita, era a 6 🔥 4/39  -  LR Vicenza 1-4 Cremonese   [ITALIA - SERIE B]
@@ -72,8 +72,9 @@ Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 08/11/2026 23:28 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+08/11 20:45  [GOAL] Lens: X2 + GOAL uscita, era a 9  -  Lens 1-2 Marseille   [FRANCIA - LIGUE 1]
 08/11 20:15  [GOAL] Lech Poznań: X2 + GOAL uscita, era a 7  -  Lech Poznań 2-2 Zagłębie Lubin   [POLONIA - EKSTRAKLASA]
 08/11 19:00  [GOAL] Vitória de Guimarães: 12 + GOAL uscita, era a 8 👻 36/39  -  Vitória de Guimarães 1-2 FC Porto   [PORTOGALLO - LIGA PORTUGAL]
 08/11 18:30  [GOAL] Sporting Gijón: X2 + GOAL uscita, era a 7 👻 33/39  -  Sporting Gijón 1-2 Real Valladolid   [SPAGNA - LALIGA 2]
@@ -93,7 +94,7 @@ Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 06/11 20:30  [GOAL] Admira Wacker: X2 + GOAL uscita, era a 9 👻 35/39  -  Admira Wacker 2-2 SKN St. Pölten   [AUSTRIA - 2. LIGA]
 06/11 20:30  [GOAL] Odra Opole: X2 + GOAL uscita, era a 6  -  Odra Opole 3-5 Skierniewice   [POLONIA - I LIGA]
 04/11 21:00  [GOAL] Bristol City: X2 + GOAL uscita, era a 7 ❗ 11/39  -  Bristol City 1-2 Wolverhampton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
-02/11 23:00  [GOAL] Defensa y Justicia: X2 + GOAL uscita, era a 6 👻 31/39  -  Defensa y Justicia 1-1 Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
+02/11 23:00  [GOAL] Defensa y Justicia: X2 + GOAL uscita, era a 6 👻 32/39  -  Defensa y Justicia 1-1 Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
 02/11 20:30  [GOAL] Casarano: X2 + GOAL uscita, era a 7  -  Casarano 2-2 Foggia   [ITALIA - SERIE C]
 02/11 19:00  [GOAL] GAIS: 12 + GOAL uscita, era a 14 👻 30/39  -  GAIS 2-1 AIK   [SVEZIA - ALLSVENSKAN]
 02/11 17:00  [GOAL] FC Inter Turku: 1X + GOAL uscita, era a 7  -  FC Inter Turku 4-3 IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
@@ -103,7 +104,7 @@ Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 08/11/2026 23:28 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 08/11 18:00  [GOAL] Sparta Prague: X2 + GOAL uscita, era a 15  -  Viktoria Plzeň 1-1 Sparta Prague   [REP. CECA - 1. LIGA]
 08/11 16:30  [GOAL] Häcken: 1X + GOAL uscita, era a 7 👻 34/39  -  AIK 3-2 Häcken   [SVEZIA - ALLSVENSKAN]
@@ -114,9 +115,9 @@ Aggiornato: 08/11/2026 22:27 (ora italiana). Dal più recente. Ritardo = partite
 08/11 12:30  [GOAL] Lazio: 1X + GOAL uscita, era a 12  -  Napoli 1-1 Lazio   [ITALIA - SERIE A]
 07/11 22:00  [GOAL] Columbus Crew: X2 + GOAL uscita, era a 7 ❗ 10/39  -  Chicago Fire FC 3-4 Columbus Crew   [USA/CANADA - MLS]
 07/11 20:30  [GOAL] Lausanne: X2 + GOAL uscita, era a 10 🔥 5/39  -  Grasshopper 1-1 Lausanne   [SVIZZERA - SUPER LEAGUE]
-07/11 19:00  [GOAL] Independiente Rivadavia: X2 + GOAL uscita, era a 8 👻 31/39  -  Gimnasia Mendoza 1-1 Independiente Rivadavia   [ARGENTINA - PRIMERA DIVISIÓN]
+07/11 19:00  [GOAL] Independiente Rivadavia: X2 + GOAL uscita, era a 8 👻 32/39  -  Gimnasia Mendoza 1-1 Independiente Rivadavia   [ARGENTINA - PRIMERA DIVISIÓN]
 07/11 19:00  [GOAL] Casa Pia AC: 1X + GOAL uscita, era a 6 👻 38/39  -  Alverca 1-1 Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]
-07/11 18:30  [GOAL] Athletic Club: X2 + GOAL uscita, era a 6 👻 32/39  -  Osasuna 1-1 Athletic Club   [SPAGNA - LALIGA]
+07/11 18:30  [GOAL] Athletic Club: X2 + GOAL uscita, era a 6 👻 30/39  -  Osasuna 1-1 Athletic Club   [SPAGNA - LALIGA]
 07/11 17:30  [GOAL] GAIS: X2 + GOAL uscita, era a 7  -  Degerfors 1-2 GAIS   [SVEZIA - ALLSVENSKAN]
 07/11 16:00  [GOAL] Lincoln City: 12 + GOAL uscita, era a 6 ❗ 10/39  -  Queens Park Rangers 2-1 Lincoln City   [INGHILTERRA - CHAMPIONSHIP]
 07/11 16:00  [GOAL] Livingston: 1X + GOAL uscita, era a 6 👻 39/39  -  Inverness Caledonian Thistle 1-1 Livingston   [SCOZIA - CHAMPIONSHIP]
