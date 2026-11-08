@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 20:33 (ora italiana)
+Aggiornato: 08/11/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -67,7 +67,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Cremonese                      34/100
     3/20 Cesena                         34/100
     4/20 Modena                         33/100
-    5/20 Hellas Verona                  33/100
+    5/20 LR Vicenza                     33/100
+    6/20 Hellas Verona                  33/100
      ...
    20/20 Virtus Entella                 25/100  (la fa meno spesso)
 
@@ -247,12 +248,13 @@ SOTTOFREQUENZA X2 + GOAL
     2/18 Bayer Leverkusen               46/100
     3/18 Mainz 05                       44/100
     4/18 1. FC Köln                     43/100
-    5/18 Hoffenheim                     41/100
+    5/18 Paderborn                      40/100
+    6/18 Hoffenheim                     40/100
      ...
    18/18 Freiburg                       32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Hoffenheim                     49/100
+    1/18 Hoffenheim                     50/100
     2/18 Bayern München                 47/100
     3/18 Paderborn                      46/100
     4/18 Freiburg                       46/100
@@ -322,7 +324,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Hoffenheim II                  47/100
     5/20 Alemannia Aachen               44/100
      ...
-   20/20 Würzburger Kickers             24/100  (la fa meno spesso)
+   20/20 Würzburger Kickers             23/100  (la fa meno spesso)
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -459,10 +461,10 @@ SOTTOFREQUENZA 12 + GOAL
 BELGIO - FIRST DIVISION A
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/17 St.Truiden                     45/100
+    1/17 St.Truiden                     46/100
     2/17 KV Mechelen                    44/100
     3/17 Cercle Brugge                  42/100
-    4/17 Zulte Waregem                  40/100
+    4/17 Zulte Waregem                  41/100
     5/17 Westerlo                       40/100
     6/17 Genk                           40/100
      ...
@@ -480,8 +482,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Club Brugge                    44/100
-    2/17 Zulte Waregem                  41/100
-    3/17 St.Truiden                     41/100
+    2/17 Zulte Waregem                  42/100
+    3/17 St.Truiden                     42/100
     4/17 Cercle Brugge                  39/100
     5/17 Genk                           38/100
      ...
@@ -504,8 +506,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/11 Genk U23                       44/100
     2/11 RFC Seraing                    43/100
     3/11 Anderlecht Futures             41/100
-    4/11 K. Lierse SK                   34/100
-    5/11 FCV Dender EH                  34/100
+    4/11 FCV Dender EH                  35/100
+    5/11 K. Lierse SK                   34/100
      ...
    11/11 FC Liège                       28/100  (la fa meno spesso)
 
@@ -747,8 +749,8 @@ PORTOGALLO - LIGA PORTUGAL 2
 SOTTOFREQUENZA 1X + GOAL
     1/18 Académica                      44/100
     2/18 Lusitânia Lourosa              43/100
-    3/18 Benfica B                      41/100
-    4/18 Tondela                        40/100
+    3/18 Tondela                        41/100
+    4/18 Benfica B                      41/100
     5/18 Felgueiras 1932                39/100
     6/18 AVS Futebol SAD                39/100
      ...
@@ -759,8 +761,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/18 Académica                      41/100
     3/18 União de Leiria                38/100
     4/18 Leixões                        38/100
-    5/18 Tondela                        36/100
-    6/18 Felgueiras 1932                36/100
+    5/18 Tondela                        37/100
      ...
    18/18 Amarante FC                    28/100  (la fa meno spesso)
 
@@ -795,7 +796,7 @@ SOTTOFREQUENZA X2 + GOAL
    16/16 Sandefjord                     27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/16 Brann                          52/100
+    1/16 Brann                          51/100
     2/16 Viking                         50/100
     3/16 Vålerenga                      46/100
     4/16 Sarpsborg 08                   46/100
@@ -1464,7 +1465,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 20:33 (ora italiana)
+Aggiornato: 08/11/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1700,9 +1701,9 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Eintracht Frankfurt            43/100
     2/18 Werder Bremen                  42/100
-    3/18 Hoffenheim                     42/100
-    4/18 Augsburg                       42/100
-    5/18 Mainz 05                       41/100
+    3/18 Augsburg                       42/100
+    4/18 Mainz 05                       41/100
+    5/18 Hoffenheim                     41/100
      ...
    18/18 Bayern München                 20/100  (la fa meno spesso)
 
@@ -1909,8 +1910,8 @@ BELGIO - FIRST DIVISION A
 SOTTOFREQUENZA 1X + GOAL
     1/17 Club Brugge                    49/100
     2/17 Genk                           48/100
-    3/17 KV Mechelen                    45/100
-    4/17 St.Truiden                     44/100
+    3/17 St.Truiden                     45/100
+    4/17 KV Mechelen                    45/100
     5/17 Union St.Gilloise              43/100
     6/17 Anderlecht                     43/100
      ...
@@ -2160,8 +2161,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 Nacional                       41/100
     2/18 Moreirense                     36/100
     3/18 Benfica                        36/100
-    4/18 Sporting CP                    35/100
-    5/18 Académico Viseu                35/100
+    4/18 Vitória de Guimarães           35/100
+    5/18 Sporting CP                    35/100
+    6/18 Académico Viseu                35/100
      ...
    18/18 Gil Vicente                    22/100  (la fa meno spesso)
 
@@ -2880,7 +2882,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 20:33 (ora italiana)
+Aggiornato: 08/11/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2941,7 +2943,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 Modena                         36/100
-    2/20 Cremonese                      35/100
+    2/20 Cremonese                      36/100
     3/20 Hellas Verona                  34/100
     4/20 Catanzaro                      34/100
     5/20 Sampdoria                      33/100
@@ -3202,8 +3204,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 SC Verl                        48/100
     2/20 Waldhof Mannheim               45/100
-    3/20 Hoffenheim II                  45/100
-    4/20 Preussen Münster               44/100
+    3/20 Preussen Münster               44/100
+    4/20 Hoffenheim II                  44/100
     5/20 VfB Stuttgart II               43/100
     6/20 MSV Duisburg                   43/100
      ...
@@ -3358,7 +3360,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Club Brugge                    46/100
-    2/17 Zulte Waregem                  44/100
+    2/17 Zulte Waregem                  45/100
     3/17 Lommel                         40/100
     4/17 Union St.Gilloise              39/100
     5/17 KV Mechelen                    39/100
@@ -3579,8 +3581,9 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 Sporting CP                    49/100
     2/18 Alverca                        47/100
     3/18 Académico Viseu                42/100
-    4/18 Estrela da Amadora             40/100
-    5/18 Benfica                        40/100
+    4/18 FC Porto                       40/100
+    5/18 Estrela da Amadora             40/100
+    6/18 Benfica                        40/100
      ...
    18/18 Casa Pia AC                    27/100  (la fa meno spesso)
 
@@ -3598,7 +3601,7 @@ SOTTOFREQUENZA 12 + GOAL
 PORTOGALLO - LIGA PORTUGAL 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Tondela                        47/100
+    1/18 Tondela                        48/100
     2/18 Benfica B                      47/100
     3/18 Académica                      44/100
     4/18 AVS Futebol SAD                42/100
@@ -3609,7 +3612,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Benfica B                      44/100
     2/18 Académica                      44/100
-    3/18 Tondela                        42/100
+    3/18 Tondela                        43/100
     4/18 União de Leiria                37/100
     5/18 Leixões                        37/100
      ...
@@ -3643,6 +3646,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/16 Tromsø                         42/100
     4/16 Hamarkameratene                41/100
     5/16 Fredrikstad                    41/100
+    6/16 Brann                          41/100
      ...
    16/16 Sandefjord                     24/100  (la fa meno spesso)
 

@@ -1,29 +1,17 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 08/11/2026 20:33 (ora italiana)
+Aggiornato: 08/11/2026 21:28 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 08/11/2026
 ==================================================
-CASA      20:45  Lens vs Marseille [🔥A]   [FRANCIA - LIGUE 1]
-           xG: Lens xG 3,25 (1,71+1,54) · Marseille xG 3,92 (1,65+2,27)
-           Lens: X2 + GOAL (9) [TOP 20]
-TRASFERTA 20:45  Lens vs Marseille [🔥A]   [FRANCIA - LIGUE 1]
-           xG: Lens xG 3,25 (1,71+1,54) · Marseille xG 3,92 (1,65+2,27)
-           Marseille: 1X + GOAL (7) [TOP 20]
-TOTALE    20:45  Fiorentina [🔥D] vs Juventus [🧊D]   [ITALIA - SERIE A]
-           xG: Fiorentina xG 3,05 (1,57+1,48) · Juventus xG 1,95 (1,36+0,59)
-           Juventus: 12 + GOAL (6) 🔥 7/39 🔴 Fiorentina
-TOTALE    21:30  Rio Ave [🧊A 🔥D] vs Braga   [PORTOGALLO - LIGA PORTUGAL]
-           xG: Rio Ave xG 2,49 (0,73+1,76) · Braga xG 2,19 (1,44+0,75)
-           Braga: 1X + GOAL (6) 👻 37/39 🔴 Rio Ave
 CASA      23:30  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,41 (1,39+1,02)
-           Central Córdoba de Santiago: 12 + GOAL (7) 👻 36/39
+           Central Córdoba de Santiago: 12 + GOAL (7) 👻 37/39
 TRASFERTA 23:30  Central Córdoba de Santiago [🧊A 🔥D] vs Lanús [🧊D]   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Central Córdoba de Santiago xG 2,78 (1,06+1,72) · Lanús xG 2,41 (1,39+1,02)
-           Lanús: 12 + GOAL (6) 👻 36/39
+           Lanús: 12 + GOAL (6) 👻 37/39
 
 ==================================================
 09/11/2026
@@ -40,7 +28,7 @@ TRASFERTA 20:30  Pineto [🧊A 🧊D] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
 ALERT     20:30  Sabadell vs Real Sociedad B   [SPAGNA - LALIGA 2]
 ALERT     20:45  AZ Picerno vs Bari   [ITALIA - SERIE C]
 TOTALE    21:15  Torreense [🧊A] vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
-           Torreense: 1X + GOAL (6) 👻 34/39; X2 + GOAL (6) 🔴 União de Leiria; 12 + GOAL (8) [TOP 20]
+           Torreense: 1X + GOAL (6) 👻 33/39; X2 + GOAL (6) 🔴 União de Leiria; 12 + GOAL (8) 👻 32/39 [TOP 20]
 
 ==================================================
 13/11/2026
