@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 08/11/2026 21:28 (ora italiana)
+Aggiornato: 08/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -528,14 +528,13 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Go Ahead Eagles                48/100
     3/18 Telstar                        47/100
     4/18 SC Heerenveen                  47/100
-    5/18 FC Utrecht                     46/100
-    6/18 FC Twente                      46/100
-    7/18 Ajax                           46/100
+    5/18 FC Twente                      46/100
+    6/18 Ajax                           46/100
      ...
    18/18 Feyenoord                      37/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 NEC Nijmegen                   50/100
+    1/18 NEC Nijmegen                   51/100
     2/18 Ajax                           47/100
     3/18 FC Utrecht                     43/100
     4/18 Willem II                      41/100
@@ -546,7 +545,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  57/100
     2/18 ADO Den Haag                   44/100
-    3/18 FC Utrecht                     41/100
+    3/18 FC Utrecht                     42/100
     4/18 FC Groningen                   40/100
     5/18 NEC Nijmegen                   39/100
     6/18 Feyenoord                      39/100
@@ -1454,7 +1453,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/17 Lechia Gdańsk                  51/100
     2/17 Stal Rzeszów                   46/100
-    3/17 Stal Mielec                    46/100
+    3/17 Stal Mielec                    45/100
     4/17 Termalica Nieciecza            44/100
     5/17 Polonia Warszawa               43/100
      ...
@@ -1465,7 +1464,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 08/11/2026 21:28 (ora italiana)
+Aggiornato: 08/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2882,7 +2881,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 08/11/2026 21:28 (ora italiana)
+Aggiornato: 08/11/2026 22:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4275,7 +4274,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/17 Motor Lublin                   40/100
     5/17 Legia Warszawa                 40/100
      ...
-   17/17 Zagłębie Lubin                 28/100  (la fa meno spesso)
+   17/17 Cracovia                       29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Raków Częstochowa              41/100
