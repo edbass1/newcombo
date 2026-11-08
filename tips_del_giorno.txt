@@ -1,8 +1,19 @@
-TIPS DEL GIORNO - 08/11/2026
-Aggiornato: 08/11/2026 23:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 09/11/2026
+Aggiornato: 09/11/2026 00:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
-Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
+ 1. TOTALE    20:30  Pineto vs Vis Pesaro   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 73,1  (Freq 80 · Rit 80 · Lega 30 · GG 100)
+    Sono 6 partite che Pineto resta senza l'X2+GOAL: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
+
+ 2. TOTALE    19:00  Hvidovre vs Aarhus Fremad   [DANIMARCA - 1. DIVISION]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 71,4  (Freq 100 · Rit 20 · Lega 100 · GG 80)
+    L'1X+GOAL si fa aspettare da Aarhus Fremad: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%). Questo campionato la produce di continuo e il GG nelle ultime 10 è uscito 8 volte.
+
+ 3. TOTALE    21:15  Torreense vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 43,3  (Freq 50 · Rit 40 · Lega 60 · GG 20)
+    L'X2+GOAL si fa aspettare da Torreense: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
+
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
