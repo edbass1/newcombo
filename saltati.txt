@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 09/11/2026 18:50 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 08/11 20:00  [GOAL] NEC Nijmegen: 12 + GOAL uscita, era a 7 🔥 6/39  -  FC Utrecht 2-3 NEC Nijmegen   [OLANDA - EREDIVISIE]
 08/11 19:30  [GOAL] Cremonese: X2 + GOAL uscita, era a 6 🔥 4/39  -  LR Vicenza 1-4 Cremonese   [ITALIA - SERIE B]
@@ -48,12 +48,12 @@ Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite
 07/11 14:30  [GOAL] Reggiana: 12 + GOAL uscita, era a 7  -  Atalanta U23 4-3 Reggiana   [ITALIA - SERIE C]
 07/11 14:00  [GOAL] Fortuna Köln: 1X + GOAL uscita, era a 7  -  Waldhof Mannheim 2-1 Fortuna Köln   [GERMANIA - 3. LIGA]
 07/11 13:00  [GOAL] Holstein Kiel: 12 + GOAL uscita, era a 10  -  Holstein Kiel 1-2 Arminia Bielefeld   [GERMANIA - 2. BUNDESLIGA]
-07/11 13:00  [GOAL] MFK Zvolen: X2 + GOAL uscita, era a 6 👻 34/39  -  MFK Zvolen 1-5 Slovan Galanta   [SLOVACCHIA - 2. LIGA]
+07/11 13:00  [GOAL] MFK Zvolen: X2 + GOAL uscita, era a 6 👻 35/39  -  MFK Zvolen 1-5 Slovan Galanta   [SLOVACCHIA - 2. LIGA]
 07/11 11:45  [GOAL] Newcastle Jets: 12 + GOAL uscita, era a 8  -  Perth Glory 2-1 Newcastle Jets   [AUSTRALIA - A-LEAGUE MEN]
 06/11 23:15  [GOAL] Deportivo Riestra: 12 + GOAL uscita, era a 13 👻 37/39  -  Independiente 2-1 Deportivo Riestra   [ARGENTINA - PRIMERA DIVISIÓN]
 06/11 21:00  [GOAL] Bolton Wanderers: 1X + GOAL uscita, era a 10 ❗ 14/39  -  Derby County 3-1 Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
 06/11 21:00  [GOAL] Everton: 12 + GOAL uscita, era a 10 👻 38/39  -  Everton 3-1 Coventry City   [INGHILTERRA - PREMIER LEAGUE]
-06/11 20:30  [GOAL] Admira Wacker: X2 + GOAL uscita, era a 6 👻 35/39  -  Admira Wacker 2-2 SKN St. Pölten   [AUSTRIA - 2. LIGA]
+06/11 20:30  [GOAL] Admira Wacker: X2 + GOAL uscita, era a 6 👻 34/39  -  Admira Wacker 2-2 SKN St. Pölten   [AUSTRIA - 2. LIGA]
 06/11 20:30  [GOAL] Odra Opole: X2 + GOAL uscita, era a 6  -  Odra Opole 3-5 Skierniewice   [POLONIA - I LIGA]
 06/11 20:30  [GOAL] Odra Opole: 12 + GOAL uscita, era a 9 👻 32/39  -  Odra Opole 3-5 Skierniewice   [POLONIA - I LIGA]
 06/11 19:30  [GOAL] FC Stade Lausanne-Ouchy: X2 + GOAL uscita, era a 7 ❗ 12/39  -  Stade Nyonnais 1-5 FC Stade Lausanne-Ouchy   [SVIZZERA - CHALLENGE LEAGUE]
@@ -68,7 +68,7 @@ Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 09/11/2026 18:50 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 08/11 20:45  [GOAL] Lens: X2 + GOAL uscita, era a 9  -  Lens 1-2 Marseille   [FRANCIA - LIGUE 1]
 08/11 20:15  [GOAL] Lech Poznań: X2 + GOAL uscita, era a 7  -  Lech Poznań 2-2 Zagłębie Lubin   [POLONIA - EKSTRAKLASA]
@@ -87,7 +87,7 @@ Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite
 07/11 17:30  [GOAL] Vado: 12 + GOAL uscita, era a 6  -  Vado 1-3 Ravenna   [ITALIA - SERIE C]
 07/11 16:00  [GOAL] Birmingham City: 12 + GOAL uscita, era a 7 ❗ 10/39  -  Birmingham City 2-1 Swansea City   [INGHILTERRA - CHAMPIONSHIP]
 07/11 16:00  [GOAL] Greenock Morton: 1X + GOAL uscita, era a 6 👻 39/39  -  Greenock Morton 4-3 Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
-06/11 20:30  [GOAL] Admira Wacker: X2 + GOAL uscita, era a 9 👻 35/39  -  Admira Wacker 2-2 SKN St. Pölten   [AUSTRIA - 2. LIGA]
+06/11 20:30  [GOAL] Admira Wacker: X2 + GOAL uscita, era a 9 👻 34/39  -  Admira Wacker 2-2 SKN St. Pölten   [AUSTRIA - 2. LIGA]
 06/11 20:30  [GOAL] Odra Opole: X2 + GOAL uscita, era a 6  -  Odra Opole 3-5 Skierniewice   [POLONIA - I LIGA]
 04/11 21:00  [GOAL] Bristol City: X2 + GOAL uscita, era a 7 ❗ 11/39  -  Bristol City 1-2 Wolverhampton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
 02/11 23:00  [GOAL] Defensa y Justicia: X2 + GOAL uscita, era a 6 👻 32/39  -  Defensa y Justicia 1-1 Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
@@ -99,7 +99,7 @@ Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 09/11/2026 18:50 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 08/11 18:00  [GOAL] Sparta Prague: X2 + GOAL uscita, era a 15  -  Viktoria Plzeň 1-1 Sparta Prague   [REP. CECA - 1. LIGA]
 08/11 16:30  [GOAL] Häcken: 1X + GOAL uscita, era a 7 👻 34/39  -  AIK 3-2 Häcken   [SVEZIA - ALLSVENSKAN]
@@ -127,5 +127,4 @@ Aggiornato: 09/11/2026 17:56 (ora italiana). Dal più recente. Ritardo = partite
 02/11 20:30  [GOAL] Foggia: X2 + GOAL uscita, era a 15  -  Casarano 2-2 Foggia   [ITALIA - SERIE C]
 02/11 20:00  [GOAL] Vitesse: 1X + GOAL uscita, era a 6 🔥 1/39  -  Jong Ajax 1-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 02/11 19:00  [GOAL] Stabæk: X2 + GOAL uscita, era a 6  -  Kongsvinger 1-2 Stabæk   [NORVEGIA - OBOS-LIGAEN]
-02/11 18:30  [GOAL] Leganés: 12 + GOAL uscita, era a 7  -  Real Valladolid 4-3 Leganés   [SPAGNA - LALIGA 2]
 
