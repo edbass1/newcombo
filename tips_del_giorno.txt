@@ -1,17 +1,9 @@
 TIPS DEL GIORNO - 09/11/2026
-Aggiornato: 09/11/2026 19:43 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 09/11/2026 20:48 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TOTALE    20:30  Pineto vs Vis Pesaro   [ITALIA - SERIE C]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 72,6  (Freq 100 · Rit 60 · Lega 30 · GG 100)
-    Sono 6 partite che Pineto resta senza l'X2+GOAL: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
-
- 2. TRASFERTA 20:30  Las Palmas vs Eldense   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 69,6  (Freq 40 · Rit 100 · Lega 100 · GG 0 · xG 100)
-    L'1X+GOAL si fa aspettare da Eldense in trasferta: 6 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 33% delle volte. In questo campionato non è una rarità, nelle ultime 6 hanno segnato entrambe 1 volte e l'xG è buono.
-
- 3. TOTALE    21:15  Torreense vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 46,7  (Freq 70 · Rit 20 · Lega 60 · GG 40)
+ 1. TOTALE    21:15  Torreense vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 57,1  (Freq 75 · Rit 50 · Lega 50 · GG 50)
     L'X2+GOAL si fa aspettare da Torreense: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
 
 

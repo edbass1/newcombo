@@ -1,21 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 09/11/2026 19:43 (ora italiana)
+Aggiornato: 09/11/2026 20:48 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 09/11/2026
 ==================================================
-ALERT     20:30  Foggia vs Barletta   [ITALIA - SERIE C]
-TOTALE    20:30  Pineto [🧊A 🧊D] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
-           Pineto: X2 + GOAL (6)
-TRASFERTA 20:30  Pineto [🧊A 🧊D] vs Vis Pesaro [🔥D]   [ITALIA - SERIE C]
-           Vis Pesaro: X2 + GOAL (6)
-TRASFERTA 20:30  Las Palmas vs Eldense [🧊A]   [SPAGNA - LALIGA 2]
-           xG: Las Palmas xG 2,65 (0,98+1,67) · Eldense xG 2,66 (1,35+1,31)
-           Eldense: 1X + GOAL (6+) 👻 31/39
-ALERT     20:30  Sabadell vs Real Sociedad B   [SPAGNA - LALIGA 2]
-ALERT     20:45  AZ Picerno vs Bari   [ITALIA - SERIE C]
 TOTALE    21:15  Torreense [🧊A] vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
            Torreense: 1X + GOAL (6) 👻 33/39; X2 + GOAL (6) 🔴 União de Leiria; 12 + GOAL (8) 👻 31/39 [TOP 20]
 
@@ -52,13 +42,13 @@ CASA      16:00  Bristol Rovers [🔥D] vs Chesterfield [🔥A]   [INGHILTERRA -
            Bristol Rovers: 1X + GOAL (6) 🔥 5/39 🔴 Chesterfield
 TOTALE    16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]
            xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
-           Northampton Town: 12 + GOAL (13+) 👻 34/39 [TOP 20] 🔴 Salford City
+           Northampton Town: 12 + GOAL (13+) 👻 33/39 [TOP 20] 🔴 Salford City
 CASA      16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]
            xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
            Salford City: X2 + GOAL (7)
 TRASFERTA 16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]
            xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
-           Northampton Town: 12 + GOAL (6+) 👻 34/39 🔴 Salford City
+           Northampton Town: 12 + GOAL (6+) 👻 33/39 🔴 Salford City
 TOTALE    16:00  Sheffield Wednesday vs Plymouth Argyle   [INGHILTERRA - LEAGUE ONE]
            xG: Sheffield Wednesday xG 3,28 (1,75+1,53) · Plymouth Argyle xG 2,94 (1,50+1,44)
            Sheffield Wednesday: 12 + GOAL (8) [TOP 20]
@@ -67,7 +57,7 @@ TRASFERTA 16:00  Sheffield Wednesday vs Plymouth Argyle   [INGHILTERRA - LEAGUE 
            Plymouth Argyle: 1X + GOAL (6)
 TRASFERTA 16:00  Shrewsbury Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
            xG: Shrewsbury Town xG 2,61 (1,45+1,16) · Oldham Athletic xG 2,88 (1,52+1,36)
-           Oldham Athletic: 12 + GOAL (6) 👻 34/39
+           Oldham Athletic: 12 + GOAL (6) 👻 33/39
 TOTALE    16:00  Wigan Athletic [🧊A 🔥D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]
            xG: Wigan Athletic xG 3,29 (1,45+1,84) · Barnsley xG 3,20 (1,40+1,80)
            Wigan Athletic: X2 + GOAL (19) ❗ 14/39 [TOP 20] 🔴 Barnsley
@@ -81,7 +71,7 @@ TOTALE    16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIO
 TRASFERTA 16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIONSHIP]
            Queen's Park: X2 + GOAL (7) 👻 39/39
 TRASFERTA 16:15  Real Sociedad B vs Sporting Gijón   [SPAGNA - LALIGA 2]
-           xG: Real Sociedad B xG 3,00 (1,42+1,58) · Sporting Gijón xG 2,36 (1,21+1,15)
+           xG: Real Sociedad B xG 2,81 (1,34+1,47) · Sporting Gijón xG 2,36 (1,21+1,15)
            Sporting Gijón: 1X + GOAL (8) 👻 31/39 [TOP 20] 🔴 Real Sociedad B
 TOTALE    16:30  NAC Breda vs FC Emmen   [OLANDA - EERSTE DIVISIE]
            NAC Breda: 12 + GOAL (6) 🔥 3/39
@@ -98,3 +88,11 @@ TRASFERTA 17:30  Lumezzane vs Trento [🧊D]   [ITALIA - SERIE C]
 CASA      18:30  Mallorca [🧊D] vs Córdoba [🔥A]   [SPAGNA - LALIGA 2]
            xG: Mallorca xG 2,54 (1,42+1,12) · Córdoba xG 3,59 (1,76+1,83)
            Mallorca: X2 + GOAL (6+) 👻 33/39 🔴 Córdoba
+TRASFERTA 20:00  Almere City FC [🧊D] vs Helmond Sport [🔥D]   [OLANDA - EERSTE DIVISIE]
+           Helmond Sport: X2 + GOAL (9) ❗ 9/39 [TOP 20]
+TRASFERTA 20:00  De Graafschap [🧊A] vs TOP Oss   [OLANDA - EERSTE DIVISIE]
+           TOP Oss: X2 + GOAL (8) ❗ 9/39 [TOP 20] 🔴 De Graafschap
+TRASFERTA 20:00  RKC Waalwijk vs FC Den Bosch   [OLANDA - EERSTE DIVISIE]
+           FC Den Bosch: X2 + GOAL (7) ❗ 9/39
+TRASFERTA 20:00  VVV-Venlo [🔥A] vs FC Eindhoven [🧊A 🔥D]   [OLANDA - EERSTE DIVISIE]
+           FC Eindhoven: X2 + GOAL (9) ❗ 9/39 [TOP 20]
