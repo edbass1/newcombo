@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 09/11/2026 00:27 (ora italiana)
+Aggiornato: 09/11/2026 01:43 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -38,7 +38,7 @@ Fonte: FotMob
   27/39  SPAGNA - LALIGA                  1 ogni 2,6       (46/119, 12 giornate)
   28/39  ITALIA - SERIE C                 1 ogni 2,6       (148/386, 13 giornate)
   29/39  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 2,6       (32/84, 14 giornate)
-  30/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 2,7       (90/239, 16 giornate)
+  30/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 2,6       (91/240, 16 giornate)
   31/39  SPAGNA - LALIGA 2                1 ogni 2,7       (51/138, 13 giornate)
   32/39  FRANCIA - LIGUE 2                1 ogni 2,8       (39/108, 12 giornate)
   33/39  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 2,9       (31/89, 10 giornate)
@@ -83,7 +83,7 @@ X2 + GOAL
   29/39  NORVEGIA - ELITESERIEN           1 ogni 3,0       (68/207, 26 giornate)
   30/39  SPAGNA - LALIGA                  1 ogni 3,1       (39/119, 12 giornate)
   31/39  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,1       (32/98, 11 giornate)
-  32/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,1       (77/239, 16 giornate)
+  32/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,1       (78/240, 16 giornate)
   33/39  SPAGNA - LALIGA 2                1 ogni 3,1       (44/138, 13 giornate)
   34/39  SLOVACCHIA - 2. LIGA             1 ogni 3,2       (40/127, 16 giornate)
   35/39  AUSTRIA - 2. LIGA                1 ogni 3,2       (30/96, 12 giornate)
@@ -131,7 +131,7 @@ X2 + GOAL
   34/39  INGHILTERRA - LEAGUE TWO         1 ogni 3,1       (53/164, 14 giornate)
   35/39  ITALIA - SERIE B                 1 ogni 3,1       (35/110, 11 giornate)
   36/39  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,2       (31/98, 11 giornate)
-  37/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (73/239, 16 giornate)
+  37/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (73/240, 16 giornate)
   38/39  INGHILTERRA - PREMIER LEAGUE     1 ogni 3,6       (28/100, 10 giornate)
   39/39  SCOZIA - CHAMPIONSHIP            1 ogni 4,1       (17/69, 14 giornate)
 
