@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 09/11/2026 16:51 (ora italiana)
+Aggiornato: 09/11/2026 17:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 09/11/2026
 ==================================================
-TRASFERTA 17:00  Liptovský Mikuláš [🧊D] vs MFK Bytca [🧊A 🔥D]   [SLOVACCHIA - 2. LIGA]
-           MFK Bytca: X2 + GOAL (7+) 👻 34/39 🔴 Liptovský Mikuláš
 TOTALE    19:00  Hvidovre [🔥A] vs Aarhus Fremad [🧊A 🧊D]   [DANIMARCA - 1. DIVISION]
            Aarhus Fremad: 1X + GOAL (6) 🔥 2/39
 ALERT     20:30  Foggia vs Barletta   [ITALIA - SERIE C]
@@ -87,3 +85,13 @@ TRASFERTA 16:15  Real Sociedad B vs Sporting Gijón   [SPAGNA - LALIGA 2]
            Sporting Gijón: 1X + GOAL (8) 👻 31/39 [TOP 20] 🔴 Real Sociedad B
 TOTALE    16:30  NAC Breda vs FC Emmen   [OLANDA - EERSTE DIVISIE]
            NAC Breda: 12 + GOAL (6) 🔥 3/39
+TOTALE    17:30  Atalanta U23 [🔥D] vs Pineto [🧊A 🧊D]   [ITALIA - SERIE C]
+           Pineto: X2 + GOAL (6)
+CASA      17:30  Audace Cerignola [🧊D] vs Inter U23 [🔥A]   [ITALIA - SERIE C]
+           Audace Cerignola: X2 + GOAL (6)
+CASA      17:30  Bari [🧊D] vs Foggia [🧊A 🧊D]   [ITALIA - SERIE C]
+           Bari: 12 + GOAL (7+)
+TOTALE    17:30  Gubbio [🧊A 🔥D] vs Grosseto [🔥A]   [ITALIA - SERIE C]
+           Gubbio: 1X + GOAL (8) [TOP 20]
+TRASFERTA 17:30  Lumezzane vs Trento [🧊D]   [ITALIA - SERIE C]
+           Trento: 12 + GOAL (7) [TOP 20]
