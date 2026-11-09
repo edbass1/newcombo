@@ -1,13 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 09/11/2026 20:48 (ora italiana)
+Aggiornato: 09/11/2026 21:42 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
-
-==================================================
-09/11/2026
-==================================================
-TOTALE    21:15  Torreense [🧊A] vs União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]  [OK 1X+GOAL] [ALT X2+GOAL] [ALT 12+GOAL]
-           [GOAL] Torreense: 1X + GOAL (6) 👻 33/39; X2 + GOAL (6) 🔴 União de Leiria; 12 + GOAL (8) 👻 31/39 [TOP 20]
 
 ==================================================
 13/11/2026
@@ -73,7 +67,7 @@ TOTALE    16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIO
 TRASFERTA 16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIONSHIP]  [OK X2+GOAL]
            [GOAL] Queen's Park: X2 + GOAL (7) 👻 39/39
 TRASFERTA 16:15  Real Sociedad B vs Sporting Gijón   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
-           xG: Real Sociedad B xG 2,81 (1,34+1,47) · Sporting Gijón xG 2,36 (1,21+1,15)
+           xG: Real Sociedad B xG 2,83 (1,33+1,50) · Sporting Gijón xG 2,36 (1,21+1,15)
            [GOAL] Sporting Gijón: 1X + GOAL (8) 👻 31/39 [TOP 20] 🔴 Real Sociedad B
 TOTALE    16:30  NAC Breda vs FC Emmen   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
            [GOAL] NAC Breda: 12 + GOAL (6) 🔥 3/39
@@ -81,7 +75,7 @@ TOTALE    17:30  Atalanta U23 [🔥D] vs Pineto [🧊A 🧊D]   [ITALIA - SERIE 
            [GOAL] Pineto: X2 + GOAL (6)
 CASA      17:30  Audace Cerignola [🧊D] vs Inter U23 [🔥A]   [ITALIA - SERIE C]  [ALT X2+GOAL]
            [GOAL] Audace Cerignola: X2 + GOAL (6)
-CASA      17:30  Bari [🧊D] vs Foggia [🧊A 🧊D]   [ITALIA - SERIE C]  [OK 12+GOAL]
+CASA      17:30  Bari [🧊D] vs Foggia [🧊A]   [ITALIA - SERIE C]  [OK 12+GOAL]
            [GOAL] Bari: 12 + GOAL (7+)
 TOTALE    17:30  Gubbio [🧊A 🔥D] vs Grosseto [🔥A]   [ITALIA - SERIE C]  [ALT 1X+GOAL]
            [GOAL] Gubbio: 1X + GOAL (8) [TOP 20]
