@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 09/11/2026 15:11 (ora italiana)
+Aggiornato: 09/11/2026 16:51 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -51,3 +51,44 @@ TOTALE    14:00  Real Valladolid [🔥A] vs Castellón [🔥A 🧊D]   [SPAGNA -
            [GOAL] Castellón: 12 + GOAL (7) [TOP 20] 🔴 Castellón
 TOTALE    14:30  Reggiana [🔥A] vs Livorno   [ITALIA - SERIE C]  [ALT X2+GOAL]
            [GOAL] Reggiana: X2 + GOAL (8) [TOP 20]
+CASA      16:00  AFC Wimbledon [🧊A] vs Blackpool   [INGHILTERRA - LEAGUE ONE]  [OK 12+GOAL]
+           xG: AFC Wimbledon xG 2,71 (0,98+1,73) · Blackpool xG 3,32 (1,31+2,01)
+           [GOAL] AFC Wimbledon: 12 + GOAL (7)
+CASA      16:00  Bristol Rovers [🔥D] vs Chesterfield [🔥A]   [INGHILTERRA - LEAGUE TWO]  [OK 1X+GOAL]
+           xG: Bristol Rovers xG 2,92 (1,49+1,43) · Chesterfield xG 3,08 (1,98+1,10)
+           [GOAL] Bristol Rovers: 1X + GOAL (6) 🔥 5/39 🔴 Chesterfield
+TOTALE    16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+           xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
+           [GOAL] Northampton Town: 12 + GOAL (13+) 👻 34/39 [TOP 20] 🔴 Salford City
+CASA      16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [OK X2+GOAL]
+           xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
+           [GOAL] Salford City: X2 + GOAL (7)
+TRASFERTA 16:00  Salford City [🔥A] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+           xG: Salford City xG 2,45 (1,29+1,16) · Northampton Town xG 2,13 (0,91+1,22)
+           [GOAL] Northampton Town: 12 + GOAL (6+) 👻 34/39 🔴 Salford City
+TOTALE    16:00  Sheffield Wednesday vs Plymouth Argyle   [INGHILTERRA - LEAGUE ONE]  [OK 12+GOAL]
+           xG: Sheffield Wednesday xG 3,28 (1,75+1,53) · Plymouth Argyle xG 2,94 (1,50+1,44)
+           [GOAL] Sheffield Wednesday: 12 + GOAL (8) [TOP 20]
+TRASFERTA 16:00  Sheffield Wednesday vs Plymouth Argyle   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
+           xG: Sheffield Wednesday xG 3,28 (1,75+1,53) · Plymouth Argyle xG 2,94 (1,50+1,44)
+           [GOAL] Plymouth Argyle: 1X + GOAL (6)
+TRASFERTA 16:00  Shrewsbury Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+           xG: Shrewsbury Town xG 2,61 (1,45+1,16) · Oldham Athletic xG 2,88 (1,52+1,36)
+           [GOAL] Oldham Athletic: 12 + GOAL (6) 👻 34/39
+TOTALE    16:00  Wigan Athletic [🧊A 🔥D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]  [ALT X2+GOAL]
+           xG: Wigan Athletic xG 3,29 (1,45+1,84) · Barnsley xG 3,20 (1,40+1,80)
+           [GOAL] Wigan Athletic: X2 + GOAL (19) ❗ 14/39 [TOP 20] 🔴 Barnsley
+CASA      16:00  Wigan Athletic [🧊A 🔥D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
+           xG: Wigan Athletic xG 3,29 (1,45+1,84) · Barnsley xG 3,20 (1,40+1,80)
+           [GOAL] Wigan Athletic: X2 + GOAL (16) ❗ 14/39 [TOP 20] 🔴 Barnsley
+CASA      16:00  Partick Thistle [🧊D] vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL]
+           [GOAL] Partick Thistle: 1X + GOAL (7) 👻 39/39 [TOP 20] 🔴 Partick Thistle 🔴 Inverness Caledonian Thistle
+TOTALE    16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIONSHIP]  [ALT X2+GOAL]
+           [GOAL] Queen's Park: X2 + GOAL (12) 👻 39/39 [TOP 20]
+TRASFERTA 16:00  Stenhousemuir vs Queen's Park [🧊A 🔥D]   [SCOZIA - CHAMPIONSHIP]  [OK X2+GOAL]
+           [GOAL] Queen's Park: X2 + GOAL (7) 👻 39/39
+TRASFERTA 16:15  Real Sociedad B vs Sporting Gijón   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
+           xG: Real Sociedad B xG 3,00 (1,42+1,58) · Sporting Gijón xG 2,36 (1,21+1,15)
+           [GOAL] Sporting Gijón: 1X + GOAL (8) 👻 31/39 [TOP 20] 🔴 Real Sociedad B
+TOTALE    16:30  NAC Breda vs FC Emmen   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
+           [GOAL] NAC Breda: 12 + GOAL (6) 🔥 3/39
