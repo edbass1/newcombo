@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -42,6 +42,7 @@ TOP 20 — 1X + GOAL
   13. Rodez                           7  | FRANCIA - LIGUE 2
   13. Santa Clara                     7  | PORTOGALLO - LIGA PORTUGAL
   13. Stoke City                      7  | INGHILTERRA - CHAMPIONSHIP
+  13. Torreense                       7  | PORTOGALLO - LIGA PORTUGAL 2
 
 TOP 20 — X2 + GOAL
    1. Wigan Athletic                 19  | INGHILTERRA - LEAGUE ONE
@@ -87,17 +88,16 @@ TOP 20 — 12 + GOAL
    7. Lecco                           8  | ITALIA - SERIE C
    7. Manchester United               8  | INGHILTERRA - PREMIER LEAGUE
    7. Sheffield Wednesday             8  | INGHILTERRA - LEAGUE ONE
-   7. Torreense                       8  | PORTOGALLO - LIGA PORTUGAL 2
-  15. Benevento                       7  | ITALIA - SERIE B
-  15. Castellón                       7  | SPAGNA - LALIGA 2
-  15. FCV Dender EH                   7  | BELGIO - FIRST DIVISION B
-  15. Genk U23                        7  | BELGIO - FIRST DIVISION B
-  15. Helsingborg                     7  | SVEZIA - SUPERETTAN
-  15. IFK Göteborg                    7  | SVEZIA - ALLSVENSKAN
-  15. Juventus                        7  | ITALIA - SERIE A
-  15. Ruch Chorzów                    7  | POLONIA - I LIGA
-  15. RW Essen                        7  | GERMANIA - 3. LIGA
-  15. Slovan Bratislava B             7  | SLOVACCHIA - 2. LIGA
+  14. Benevento                       7  | ITALIA - SERIE B
+  14. Castellón                       7  | SPAGNA - LALIGA 2
+  14. FCV Dender EH                   7  | BELGIO - FIRST DIVISION B
+  14. Genk U23                        7  | BELGIO - FIRST DIVISION B
+  14. Helsingborg                     7  | SVEZIA - SUPERETTAN
+  14. IFK Göteborg                    7  | SVEZIA - ALLSVENSKAN
+  14. Juventus                        7  | ITALIA - SERIE A
+  14. Ruch Chorzów                    7  | POLONIA - I LIGA
+  14. RW Essen                        7  | GERMANIA - 3. LIGA
+  14. Slovan Bratislava B             7  | SLOVACCHIA - 2. LIGA
 
 ==================================================
 
@@ -1046,12 +1046,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
    1. Portimonense                      7  🟢 57%  👻 33/39
-   2. Torreense                         6  👻 33/39
+   2. Torreense                         7  👻 33/39
    3. Penafiel                          5  🟢 80%  👻 33/39
    4. Feirense                          3  👻 33/39
    5. Benfica B                         1  🟢 100%  🔴  👻 33/39
@@ -1059,31 +1059,31 @@ RITARDI 1X + GOAL
    7. FC Porto B                        1  👻 33/39
    8. Farense                           1  🟢 100%  👻 33/39
    9. Lusitânia Lourosa                 1  🔴  👻 33/39
-  10. AVS Futebol SAD                   0  👻 33/39
+  10. União de Leiria                   1  🟢 100%  👻 33/39
 
 RITARDI X2 + GOAL
-   1. Torreense                         6
-   2. Feirense                          5
-   3. Portimonense                      3
-   4. FC Porto B                        2  🟢 50%
-   5. Lusitânia Lourosa                 1
-   6. União de Leiria                   1  🟢 100%  🔴
-   7. AVS Futebol SAD                   0
-   8. Académica                         0  🔴
-   9. Amarante FC                       0
-  10. Benfica B                         0  🔴
+   1. Feirense                          5
+   2. Portimonense                      3
+   3. FC Porto B                        2  🟢 50%
+   4. Lusitânia Lourosa                 1
+   5. AVS Futebol SAD                   0
+   6. Académica                         0  🔴
+   7. Amarante FC                       0
+   8. Benfica B                         0  🔴
+   9. Chaves                            0
+  10. Farense                           0
 
 RITARDI 12 + GOAL
-   1. Torreense                         8  🟢 50%  👻 31/39
-   2. Lusitânia Lourosa                 4  🟢 75%  🔴  👻 31/39
-   3. Feirense                          3  👻 31/39
-   4. Portimonense                      3  👻 31/39
-   5. AVS Futebol SAD                   1  🟢 100%  👻 31/39
-   6. Académica                         1  🟢 100%  👻 31/39
-   7. Amarante FC                       1  🟢 100%  👻 31/39
-   8. FC Porto B                        1  👻 31/39
-   9. Felgueiras 1932                   1  🟢 100%  👻 31/39
-  10. Leixões                           1  🟢 100%  🔴  👻 31/39
+   1. Lusitânia Lourosa                 4  🟢 75%  🔴  👻 30/39
+   2. Feirense                          3  👻 30/39
+   3. Portimonense                      3  👻 30/39
+   4. AVS Futebol SAD                   1  🟢 100%  👻 30/39
+   5. Académica                         1  🟢 100%  👻 30/39
+   6. Amarante FC                       1  🟢 100%  👻 30/39
+   7. FC Porto B                        1  👻 30/39
+   8. Felgueiras 1932                   1  🟢 100%  👻 30/39
+   9. Leixões                           1  🟢 100%  🔴  👻 30/39
+  10. Sporting CP B                     1  🟢 100%  👻 30/39
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -1278,16 +1278,16 @@ RITARDI X2 + GOAL
   10. IFK Göteborg                      2  🔴
 
 RITARDI 12 + GOAL
-   1. IFK Göteborg                      7  👻 30/39
-   2. Brommapojkarna                    5  🔴  👻 30/39
-   3. Kalmar FF                         4  👻 30/39
-   4. Sirius                            3  🟢 67%  🔴  👻 30/39
-   5. Västerås SK                       3  👻 30/39
-   6. Mjällby                           2  👻 30/39
-   7. Malmö FF                          1  👻 30/39
-   8. Örgryte                           1  👻 30/39
-   9. AIK                               0  🔴  👻 30/39
-  10. Degerfors                         0  👻 30/39
+   1. IFK Göteborg                      7  👻 31/39
+   2. Brommapojkarna                    5  🔴  👻 31/39
+   3. Kalmar FF                         4  👻 31/39
+   4. Sirius                            3  🟢 67%  🔴  👻 31/39
+   5. Västerås SK                       3  👻 31/39
+   6. Mjällby                           2  👻 31/39
+   7. Malmö FF                          1  👻 31/39
+   8. Örgryte                           1  👻 31/39
+   9. AIK                               0  🔴  👻 31/39
+  10. Degerfors                         0  👻 31/39
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -1985,7 +1985,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3031,13 +3031,13 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
    1. Feirense                         12  👻 33/39
    2. Portimonense                      5  🟢 60%  👻 33/39
-   3. Torreense                         3  👻 33/39
+   3. Torreense                         4  🟢 50%  👻 33/39
    4. Farense                           2  🟢 100%  👻 33/39
    5. Leixões                           2  🟢 100%  👻 33/39
    6. Penafiel                          2  🟢 50%  👻 33/39
@@ -3052,23 +3052,23 @@ RITARDI X2 + GOAL
    3. Tondela                          5+  🟢 80%
    4. União de Leiria                   4  🟢 75%
    5. Benfica B                         3  🟢 67%
-   6. Torreense                         3
-   7. Feirense                          2
-   8. Amarante FC                       1  🟢 100%
-   9. FC Porto B                        1
-  10. Penafiel                          1
+   6. Feirense                          2
+   7. Amarante FC                       1  🟢 100%
+   8. FC Porto B                        1
+   9. Penafiel                          1
+  10. AVS Futebol SAD                   0  🔴
 
 RITARDI 12 + GOAL
-   1. Académica                        5+  🟢 80%  👻 31/39
-   2. Portimonense                      5  🟢 60%  👻 31/39
-   3. Torreense                         5  🟢 60%  👻 31/39
-   4. FC Porto B                        4  🟢 75%  👻 31/39
-   5. Feirense                          2  🔴  👻 31/39
-   6. Felgueiras 1932                   2  🟢 100%  👻 31/39
-   7. Lusitânia Lourosa                 2  🟢 100%  🔴  👻 31/39
-   8. Sporting CP B                     2  🟢 100%  👻 31/39
-   9. AVS Futebol SAD                   1  🟢 100%  👻 31/39
-  10. Penafiel                          1  👻 31/39
+   1. Académica                        5+  🟢 80%  👻 30/39
+   2. Portimonense                      5  🟢 60%  👻 30/39
+   3. FC Porto B                        4  🟢 75%  👻 30/39
+   4. Feirense                          2  🔴  👻 30/39
+   5. Felgueiras 1932                   2  🟢 100%  👻 30/39
+   6. Lusitânia Lourosa                 2  🟢 100%  🔴  👻 30/39
+   7. Sporting CP B                     2  🟢 100%  👻 30/39
+   8. AVS Futebol SAD                   1  🟢 100%  👻 30/39
+   9. Penafiel                          1  👻 30/39
+  10. Amarante FC                       0  👻 30/39
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -3263,16 +3263,16 @@ RITARDI X2 + GOAL
   10. GAIS                              1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Kalmar FF                         6  🟢 50%  👻 30/39
-   2. Brommapojkarna                    4  🔴  👻 30/39
-   3. Häcken                            4  🟢 75%  🔴  👻 30/39
-   4. Mjällby                           4  🟢 75%  👻 30/39
-   5. IFK Göteborg                      3  👻 30/39
-   6. Sirius                            1  🟢 100%  👻 30/39
-   7. Västerås SK                       1  👻 30/39
-   8. Örgryte                           1  👻 30/39
-   9. AIK                               0  👻 30/39
-  10. Degerfors                         0  👻 30/39
+   1. Kalmar FF                         6  🟢 50%  👻 31/39
+   2. Brommapojkarna                    4  🔴  👻 31/39
+   3. Häcken                            4  🟢 75%  🔴  👻 31/39
+   4. Mjällby                           4  🟢 75%  👻 31/39
+   5. IFK Göteborg                      3  👻 31/39
+   6. Sirius                            1  🟢 100%  👻 31/39
+   7. Västerås SK                       1  👻 31/39
+   8. Örgryte                           1  👻 31/39
+   9. AIK                               0  👻 31/39
+  10. Degerfors                         0  👻 31/39
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -3970,7 +3970,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5003,8 +5003,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
    1. Benfica B                        10  🟢 60%  🔴  👻 33/39
@@ -5014,9 +5014,9 @@ RITARDI 1X + GOAL
    5. Torreense                         3  👻 33/39
    6. Feirense                          1  👻 33/39
    7. Lusitânia Lourosa                 1  👻 33/39
-   8. AVS Futebol SAD                   0  👻 33/39
-   9. Académica                         0  🔴  👻 33/39
-  10. Amarante FC                       0  👻 33/39
+   8. União de Leiria                   1  🟢 100%  👻 33/39
+   9. AVS Futebol SAD                   0  👻 33/39
+  10. Académica                         0  🔴  👻 33/39
 
 RITARDI X2 + GOAL
    1. Feirense                          5
@@ -5031,16 +5031,16 @@ RITARDI X2 + GOAL
   10. Amarante FC                       0
 
 RITARDI 12 + GOAL
-   1. Leixões                           5  🟢 60%  👻 31/39
-   2. Torreense                         4  🟢 50%  👻 31/39
-   3. Amarante FC                       2  🟢 50%  👻 31/39
-   4. Farense                           2  🟢 50%  👻 31/39
-   5. Lusitânia Lourosa                 2  🟢 50%  👻 31/39
-   6. Portimonense                      2  🟢 50%  👻 31/39
-   7. União de Leiria                   2  🟢 100%  👻 31/39
-   8. Feirense                          1  👻 31/39
-   9. Tondela                           1  🟢 100%  👻 31/39
-  10. Vizela                            1  🟢 100%  👻 31/39
+   1. Leixões                           5  🟢 60%  👻 30/39
+   2. Torreense                         4  🟢 50%  👻 30/39
+   3. Amarante FC                       2  🟢 50%  👻 30/39
+   4. Farense                           2  🟢 50%  👻 30/39
+   5. Lusitânia Lourosa                 2  🟢 50%  👻 30/39
+   6. Portimonense                      2  🟢 50%  👻 30/39
+   7. Feirense                          1  👻 30/39
+   8. Tondela                           1  🟢 100%  👻 30/39
+   9. Vizela                            1  🟢 100%  👻 30/39
+  10. AVS Futebol SAD                   0  👻 30/39
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -5235,16 +5235,16 @@ RITARDI X2 + GOAL
   10. Halmstads BK                      1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Malmö FF                          6  👻 30/39
-   2. IFK Göteborg                      4  🟢 50%  👻 30/39
-   3. Sirius                            3  🔴  👻 30/39
-   4. Västerås SK                       3  👻 30/39
-   5. Brommapojkarna                    2  🟢 50%  🔴  👻 30/39
-   6. Halmstads BK                      1  🟢 100%  👻 30/39
-   7. Kalmar FF                         1  👻 30/39
-   8. Mjällby                           1  👻 30/39
-   9. AIK                               0  🔴  👻 30/39
-  10. Degerfors                         0  👻 30/39
+   1. Malmö FF                          6  👻 31/39
+   2. IFK Göteborg                      4  🟢 50%  👻 31/39
+   3. Sirius                            3  🔴  👻 31/39
+   4. Västerås SK                       3  👻 31/39
+   5. Brommapojkarna                    2  🟢 50%  🔴  👻 31/39
+   6. Halmstads BK                      1  🟢 100%  👻 31/39
+   7. Kalmar FF                         1  👻 31/39
+   8. Mjällby                           1  👻 31/39
+   9. AIK                               0  🔴  👻 31/39
+  10. Degerfors                         0  👻 31/39
 
 ==================================================
 SVEZIA - SUPERETTAN

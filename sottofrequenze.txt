@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -765,7 +765,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Benfica B                      41/100
     2/18 Académica                      41/100
-    3/18 União de Leiria                38/100
+    3/18 União de Leiria                39/100
     4/18 Leixões                        38/100
     5/18 Tondela                        37/100
      ...
@@ -1471,7 +1471,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2191,7 +2191,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 Tondela                        38/100
     5/18 Penafiel                       38/100
      ...
-   18/18 Torreense                      20/100  (la fa meno spesso)
+   18/18 Torreense                      21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Lusitânia Lourosa              38/100
@@ -2886,7 +2886,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 09/11/2026 22:41 (ora italiana)
+Aggiornato: 10/11/2026 13:20 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3618,7 +3618,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 Benfica B                      44/100
     2/18 Académica                      44/100
     3/18 Tondela                        43/100
-    4/18 União de Leiria                37/100
+    4/18 União de Leiria                38/100
     5/18 Leixões                        37/100
      ...
    18/18 Penafiel                       23/100  (la fa meno spesso)
