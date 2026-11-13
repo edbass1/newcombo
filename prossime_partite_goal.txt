@@ -1,16 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/11/2026 18:30 (ora italiana)
+Aggiornato: 14/11/2026 00:15 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
-
-==================================================
-13/11/2026
-==================================================
-TOTALE    20:30  Latina vs Campobasso [🔥A 🔥D]   [ITALIA - SERIE C]
-           Latina: 12 + GOAL (9) [TOP 20]
-CASA      20:30  Latina vs Campobasso [🔥A 🔥D]   [ITALIA - SERIE C]
-           Latina: 12 + GOAL (8) [TOP 20]
-ALERT     20:30  Leganés vs Burgos CF   [SPAGNA - LALIGA 2]
 
 ==================================================
 14/11/2026
@@ -18,7 +9,7 @@ ALERT     20:30  Leganés vs Burgos CF   [SPAGNA - LALIGA 2]
 TRASFERTA 13:00  MFK Bytca [🧊A 🔥D] vs FC Petržalka 1898 [🔥A 🧊D]   [SLOVACCHIA - 2. LIGA]
            FC Petržalka 1898: 12 + GOAL (11) ❗ 14/39 [TOP 20]
 TOTALE    13:00  Slovan Galanta [🧊A] vs Liptovský Mikuláš [🧊D]   [SLOVACCHIA - 2. LIGA]
-           Liptovský Mikuláš: X2 + GOAL (6) 👻 35/39 🔴 Liptovský Mikuláš
+           Liptovský Mikuláš: X2 + GOAL (6) 👻 34/39 🔴 Liptovský Mikuláš
 TOTALE    13:30  Exeter City [🧊A 🧊D] vs Cheltenham Town [🔥D]   [INGHILTERRA - LEAGUE TWO]
            xG: Exeter City xG 2,23 (1,14+1,09) · Cheltenham Town xG 3,01 (1,22+1,79)
            Exeter City: X2 + GOAL (10) [TOP 20]
@@ -77,7 +68,7 @@ TRASFERTA 17:30  Lumezzane vs Trento [🧊D]   [ITALIA - SERIE C]
            Trento: 12 + GOAL (7) [TOP 20]
 CASA      18:30  Mallorca [🧊D] vs Córdoba [🔥A]   [SPAGNA - LALIGA 2]
            xG: Mallorca xG 2,54 (1,42+1,12) · Córdoba xG 3,59 (1,76+1,83)
-           Mallorca: X2 + GOAL (6+) 👻 33/39 🔴 Córdoba
+           Mallorca: X2 + GOAL (6+) 👻 35/39 🔴 Córdoba
 TRASFERTA 20:00  Almere City FC [🧊D] vs Helmond Sport [🔥D]   [OLANDA - EERSTE DIVISIE]
            Helmond Sport: X2 + GOAL (9) ❗ 9/39 [TOP 20]
 TRASFERTA 20:00  De Graafschap [🧊A] vs TOP Oss   [OLANDA - EERSTE DIVISIE]
@@ -136,4 +127,11 @@ CASA      20:30  Sorrento [🧊D] vs Monopoli [🧊A 🧊D]   [ITALIA - SERIE C]
            Sorrento: 1X + GOAL (6)
 TRASFERTA 20:30  Albacete [🧊A 🔥D] vs Celta Fortuna [🔥D]   [SPAGNA - LALIGA 2]
            xG: Albacete xG 2,93 (1,19+1,74) · Celta Fortuna xG 3,16 (1,32+1,84)
-           Celta Fortuna: X2 + GOAL (6+) 👻 33/39
+           Celta Fortuna: X2 + GOAL (6+) 👻 35/39
+
+==================================================
+18/11/2026
+==================================================
+TOTALE    23:30  Coritiba [🔥D] vs Santos   [BRASILE - SÉRIE A]
+           xG: Coritiba xG 2,70 (1,09+1,61) · Santos xG 2,81 (1,46+1,35)
+           Coritiba: 12 + GOAL (8) [TOP 20] 🔴 Santos

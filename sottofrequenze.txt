@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 13/11/2026 18:30 (ora italiana)
+Aggiornato: 14/11/2026 00:15 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1471,7 +1471,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 13/11/2026 18:30 (ora italiana)
+Aggiornato: 14/11/2026 00:15 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1547,7 +1547,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/32 Casertana                      44/100
     5/32 Bari                           42/100
      ...
-   32/32 Latina                         25/100  (la fa meno spesso)
+   32/32 Latina                         24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/32 AlbinoLeffe                    42/100
@@ -1557,7 +1557,7 @@ SOTTOFREQUENZA X2 + GOAL
     5/32 Foggia                         38/100
     6/32 Carpi                          38/100
      ...
-   32/32 Latina                         24/100  (la fa meno spesso)
+   32/32 Latina                         23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/32 Salernitana                    35/100
@@ -2886,7 +2886,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 13/11/2026 18:30 (ora italiana)
+Aggiornato: 14/11/2026 00:15 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================

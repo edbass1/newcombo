@@ -1,10 +1,46 @@
-TIPS DEL GIORNO - 13/11/2026
-Aggiornato: 13/11/2026 18:30 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 14/11/2026
+Aggiornato: 14/11/2026 00:15 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TOTALE    20:30  Latina vs Campobasso   [ITALIA - SERIE C]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 58,3  (Freq 100 · Rit 0 · Lega 50 · GG 100)
-    Sono 9 partite che Latina resta senza il 12+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 24%). Anche il campionato la vede spesso e nelle ultime 10 hanno segnato entrambe 8 volte.
+ 1. TOTALE    16:00  Wigan Athletic vs Barnsley   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 81,6  (Freq 81 · Rit 85 · Lega 57 · GG 93 · xG 92)
+    L'X2+GOAL si fa aspettare da Wigan Athletic: 19 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 27% delle volte. Anche il campionato la vede spesso, nelle ultime 10 hanno segnato entrambe 9 volte e l'xG è alto.
+
+ 2. TRASFERTA 20:00  VVV-Venlo vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 78,0  (Freq 74 · Rit 93 · Lega 72 · GG 67)
+    L'X2+GOAL si fa aspettare da FC Eindhoven in trasferta: 9 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 34% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
+
+ 3. TRASFERTA 16:00  Sheffield Wednesday vs Plymouth Argyle   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 74,5  (Freq 74 · Rit 50 · Lega 93 · GG 100 · xG 69)
+    L'1X+GOAL si fa aspettare da Plymouth Argyle in trasferta: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 34%). In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
+
+ 4. TRASFERTA 16:15  Real Sociedad B vs Sporting Gijón   [SPAGNA - LALIGA 2]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 69,4  (Freq 91 · Rit 89 · Lega 63 · GG 67 · xG 15)
+    Sono 8 partite che Sporting Gijón resta senza l'1X+GOAL in trasferta: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 5 volte e l'xG dà una mano.
+
+ 5. TOTALE    16:30  NAC Breda vs FC Emmen   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 67,8  (Freq 91 · Rit 15 · Lega 100 · GG 83)
+    Sono 6 partite che NAC Breda resta senza il 12+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 32%). In questo campionato la combo esce quasi una partita sì e una no e su 10 partite recenti il GG è uscito 6 volte.
+
+ 6. TOTALE    14:00  Real Valladolid vs Castellón   [SPAGNA - LALIGA 2]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 67,0  (Freq 96 · Rit 11 · Lega 85 · GG 83 · xG 77)
+    Castellón non vede il 12+GOAL da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 43% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e l'xG è alto.
+
+ 7. TRASFERTA 13:00  MFK Bytca vs FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 63,7  (Freq 52 · Rit 96 · Lega 89 · GG 0)
+    Per FC Petržalka 1898 in trasferta il 12+GOAL manca da 11 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 32%). In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 1 volte.
+
+ 8. TRASFERTA 20:00  De Graafschap vs TOP Oss   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 57,4  (Freq 26 · Rit 70 · Lega 72 · GG 67)
+    Per TOP Oss in trasferta l'X2+GOAL manca da 8 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
+
+ 9. CASA      16:00  Partick Thistle vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 57,0  (Freq 100 · Rit 81 · Lega 0 · GG 17)
+    Partick Thistle non vede l'1X+GOAL da 7 partite in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 39%). Nel campionato esce con regolarità e nelle ultime 10 il GG è uscito 3 volte.
+
+10. CASA      16:00  Bristol Rovers vs Chesterfield   [INGHILTERRA - LEAGUE TWO]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 55,8  (Freq 52 · Rit 41 · Lega 96 · GG 35 · xG 62)
+    Sono 6 partite che Bristol Rovers resta senza l'1X+GOAL in casa: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 32%). In questo campionato la combo esce quasi una partita sì e una no, nelle ultime 10 il GG è uscito 4 volte e c'è tanto xG.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
