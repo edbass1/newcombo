@@ -1,8 +1,11 @@
-TIPS DEL GIORNO - 12/11/2026
-Aggiornato: 12/11/2026 21:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 13/11/2026
+Aggiornato: 13/11/2026 18:30 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
-Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
+ 1. TOTALE    20:30  Latina vs Campobasso   [ITALIA - SERIE C]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 58,3  (Freq 100 · Rit 0 · Lega 50 · GG 100)
+    Sono 9 partite che Latina resta senza il 12+GOAL: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 24%). Anche il campionato la vede spesso e nelle ultime 10 hanno segnato entrambe 8 volte.
+
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
