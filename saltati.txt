@@ -3,10 +3,10 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 14/11/2026 23:52 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 14/11 17:30  [GOAL] Gubbio: 1X + GOAL uscita, era a 8  -  Gubbio 3-2 Grosseto   [ITALIA - SERIE C]
-14/11 16:30  [GOAL] NAC Breda: 12 + GOAL uscita, era a 6 🔥 3/39  -  NAC Breda 4-2 FC Emmen   [OLANDA - EERSTE DIVISIE]
+14/11 16:30  [GOAL] NAC Breda: 12 + GOAL uscita, era a 6 🔥 1/39  -  NAC Breda 4-2 FC Emmen   [OLANDA - EERSTE DIVISIE]
 14/11 13:00  [GOAL] Liptovský Mikuláš: X2 + GOAL uscita, era a 6  -  Slovan Galanta 1-1 Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
 09/11 21:15  [GOAL] Torreense: X2 + GOAL uscita, era a 6  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
 09/11 21:15  [GOAL] Torreense: 12 + GOAL uscita, era a 8 👻 30/39  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
@@ -30,16 +30,15 @@ Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite
 08/11 13:00  [GOAL] Moss: 1X + GOAL uscita, era a 10  -  Moss 3-1 Ranheim   [NORVEGIA - OBOS-LIGAEN]
 08/11 12:15  [GOAL] SC Heerenveen: 1X + GOAL uscita, era a 7 ❗ 8/39  -  SC Heerenveen 5-3 Feyenoord   [OLANDA - EREDIVISIE]
 08/11 10:30  [GOAL] FC Petržalka 1898: 12 + GOAL uscita, era a 11 ❗ 14/39  -  FC Petržalka 1898 2-1 Žilina B   [SLOVACCHIA - 2. LIGA]
-07/11 22:00  [GOAL] Columbus Crew: X2 + GOAL uscita, era a 11 ❗ 9/39  -  Chicago Fire FC 3-4 Columbus Crew   [USA/CANADA - MLS]
-07/11 20:45  [GOAL] Royal Antwerp: X2 + GOAL uscita, era a 6 👻 37/39  -  Royal Antwerp 2-2 Lommel   [BELGIO - FIRST DIVISION A]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 14/11/2026 23:52 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+14/11 18:30  [GOAL] Mallorca: X2 + GOAL uscita, era a 6 👻 34/39  -  Mallorca 3-3 Córdoba   [SPAGNA - LALIGA 2]
 14/11 17:30  [GOAL] Bari: 12 + GOAL uscita, era a 7  -  Bari 3-2 Foggia   [ITALIA - SERIE C]
 14/11 16:00  [GOAL] Salford City: X2 + GOAL uscita, era a 7 ❗ 14/39  -  Salford City 1-1 Northampton Town   [INGHILTERRA - LEAGUE TWO]
 14/11 16:00  [GOAL] Partick Thistle: 1X + GOAL uscita, era a 7 👻 39/39  -  Partick Thistle 3-2 Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
@@ -60,8 +59,10 @@ Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 14/11/2026 23:52 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
+14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 9/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
+14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 9/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
 14/11 17:30  [GOAL] Trento: 12 + GOAL uscita, era a 7  -  Lumezzane 1-2 Trento   [ITALIA - SERIE C]
 14/11 16:15  [GOAL] Sporting Gijón: 1X + GOAL uscita, era a 8 👻 31/39  -  Real Sociedad B 2-2 Sporting Gijón   [SPAGNA - LALIGA 2]
 14/11 16:00  [GOAL] Oldham Athletic: 12 + GOAL uscita, era a 6 👻 33/39  -  Shrewsbury Town 2-1 Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
@@ -73,6 +74,4 @@ Aggiornato: 14/11/2026 19:39 (ora italiana). Dal più recente. Ritardo = partite
 08/11 14:00  [GOAL] VPS: 1X + GOAL uscita, era a 6  -  IF Gnistan 5-1 VPS   [FINLANDIA - VEIKKAUSLIIGA]
 08/11 14:00  [GOAL] Djurgården: 12 + GOAL uscita, era a 9 👻 31/39  -  Halmstads BK 2-1 Djurgården   [SVEZIA - ALLSVENSKAN]
 08/11 12:30  [GOAL] Lazio: 1X + GOAL uscita, era a 12  -  Napoli 1-1 Lazio   [ITALIA - SERIE A]
-07/11 22:00  [GOAL] Columbus Crew: X2 + GOAL uscita, era a 7 ❗ 9/39  -  Chicago Fire FC 3-4 Columbus Crew   [USA/CANADA - MLS]
-07/11 20:30  [GOAL] Lausanne: X2 + GOAL uscita, era a 10 🔥 5/39  -  Grasshopper 1-1 Lausanne   [SVIZZERA - SUPER LEAGUE]
 

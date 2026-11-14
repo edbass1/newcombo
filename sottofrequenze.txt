@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 14/11/2026 19:39 (ora italiana)
+Aggiornato: 14/11/2026 23:52 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -428,7 +428,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/22 Almería                        51/100
+    1/22 Almería                        52/100
     2/22 Celta Fortuna                  46/100
     3/22 AD Ceuta FC                    46/100
     4/22 Córdoba                        45/100
@@ -437,9 +437,9 @@ SOTTOFREQUENZA 1X + GOAL
    22/22 Real Oviedo                    28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/22 Córdoba                        41/100
+    1/22 Córdoba                        42/100
     2/22 Las Palmas                     37/100
-    3/22 Girona                         35/100
+    3/22 Girona                         36/100
     4/22 Eldense                        35/100
     5/22 Celta Fortuna                  35/100
     6/22 Castellón                      35/100
@@ -448,8 +448,8 @@ SOTTOFREQUENZA X2 + GOAL
    22/22 Real Valladolid                23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/22 Almería                        49/100
-    2/22 Córdoba                        46/100
+    1/22 Almería                        50/100
+    2/22 Córdoba                        45/100
     3/22 Sporting Gijón                 42/100
     4/22 Castellón                      42/100
     5/22 Celta Fortuna                  41/100
@@ -557,17 +557,17 @@ OLANDA - EERSTE DIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/20 RKC Waalwijk                   51/100
-    2/20 De Graafschap                  47/100
-    3/20 Helmond Sport                  46/100
+    2/20 Helmond Sport                  47/100
+    3/20 De Graafschap                  46/100
     4/20 NAC Breda                      44/100
     5/20 Jong FC Utrecht                44/100
      ...
    20/20 FC Eindhoven                   31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Roda JC Kerkrade               44/100
-    2/20 RKC Waalwijk                   44/100
-    3/20 De Graafschap                  43/100
+    1/20 RKC Waalwijk                   44/100
+    2/20 De Graafschap                  44/100
+    3/20 Roda JC Kerkrade               43/100
     4/20 Vitesse                        42/100
     5/20 Jong AZ Alkmaar                42/100
      ...
@@ -578,7 +578,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 De Graafschap                  52/100
     3/20 Jong PSV                       51/100
     4/20 FC Volendam                    48/100
-    5/20 FC Emmen                       43/100
+    5/20 Helmond Sport                  43/100
+    6/20 FC Emmen                       43/100
      ...
    20/20 NAC Breda                      32/100  (la fa meno spesso)
 
@@ -1459,7 +1460,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 14/11/2026 19:39 (ora italiana)
+Aggiornato: 14/11/2026 23:52 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1661,8 +1662,8 @@ SOTTOFREQUENZA 1X + GOAL
    24/24 Port Vale                      26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Fleetwood Town                 43/100
-    2/24 Rotherham United               42/100
+    1/24 Rotherham United               42/100
+    2/24 Fleetwood Town                 42/100
     3/24 Crawley Town                   41/100
     4/24 Colchester United              41/100
     5/24 Grimsby Town                   40/100
@@ -1869,7 +1870,7 @@ SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/21 Celta Fortuna                  50/100
-    2/21 Almería                        46/100
+    2/21 Almería                        47/100
     3/21 Castellón                      43/100
     4/21 Albacete                       43/100
     5/21 Girona                         42/100
@@ -1888,8 +1889,8 @@ SOTTOFREQUENZA X2 + GOAL
    21/21 Real Valladolid                20/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/21 Celta Fortuna                  46/100
-    2/21 Almería                        46/100
+    1/21 Almería                        47/100
+    2/21 Celta Fortuna                  46/100
     3/21 Sporting Gijón                 40/100
     4/21 Girona                         40/100
     5/21 Castellón                      40/100
@@ -1985,8 +1986,8 @@ OLANDA - EERSTE DIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/20 Heracles                       45/100
-    2/20 Jong Ajax                      44/100
-    3/20 Roda JC Kerkrade               43/100
+    2/20 Roda JC Kerkrade               44/100
+    3/20 Jong Ajax                      44/100
     4/20 FC Volendam                    43/100
     5/20 RKC Waalwijk                   42/100
     6/20 NAC Breda                      42/100
@@ -2007,11 +2008,11 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 FC Volendam                    56/100
     2/20 Jong PSV                       48/100
     3/20 RKC Waalwijk                   46/100
-    4/20 De Graafschap                  44/100
+    4/20 De Graafschap                  45/100
     5/20 TOP Oss                        43/100
     6/20 Jong AZ Alkmaar                43/100
      ...
-   20/20 FC Dordrecht                   31/100  (la fa meno spesso)
+   20/20 FC Dordrecht                   32/100  (la fa meno spesso)
 
 ==================================================
 SVIZZERA - SUPER LEAGUE
@@ -2874,7 +2875,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 14/11/2026 19:39 (ora italiana)
+Aggiornato: 14/11/2026 23:52 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3415,8 +3416,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 FC Dordrecht                   52/100
     3/20 RKC Waalwijk                   51/100
     4/20 Jong FC Utrecht                49/100
-    5/20 Jong PSV                       47/100
-    6/20 FC Volendam                    47/100
+    5/20 FC Volendam                    48/100
      ...
    20/20 FC Emmen                       33/100  (la fa meno spesso)
 
@@ -3436,7 +3436,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 De Graafschap                  46/100
     5/20 VVV-Venlo                      44/100
      ...
-   20/20 TOP Oss                        31/100  (la fa meno spesso)
+   20/20 FC Eindhoven                   32/100  (la fa meno spesso)
 
 ==================================================
 SVIZZERA - SUPER LEAGUE

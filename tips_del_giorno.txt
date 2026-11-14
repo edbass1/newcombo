@@ -1,22 +1,46 @@
-TIPS DEL GIORNO - 14/11/2026
-Aggiornato: 14/11/2026 19:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 15/11/2026
+Aggiornato: 14/11/2026 23:52 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. TRASFERTA 20:00  VVV-Venlo vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 73,4  (Freq 100 · Rit 100 · Lega 50 · GG 17)
-    L'X2+GOAL si fa aspettare da FC Eindhoven in trasferta: 9 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 34% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
+ 1. CASA      10:30  Slovan Bratislava B vs Malženice   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 86,6  (Freq 89 · Rit 79 · Lega 89 · GG 93)
+    Per Slovan Bratislava B in casa il 12+GOAL manca da 6 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 41% delle volte. In questo campionato non è una rarità e su 10 partite recenti il GG è uscito 6 volte.
 
- 2. TRASFERTA 20:00  De Graafschap vs TOP Oss   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 53,6  (Freq 67 · Rit 67 · Lega 50 · GG 17)
-    Per TOP Oss in trasferta l'X2+GOAL manca da 8 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
+ 2. CASA      15:00  Portimonense vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 68,6  (Freq 89 · Rit 93 · Lega 32 · GG 39)
+    Per Portimonense in casa l'X2+GOAL manca da 8 partite: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 41% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 4 volte.
 
- 3. TRASFERTA 20:00  Almere City FC vs Helmond Sport   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 36,9  (Freq 0 · Rit 33 · Lega 50 · GG 83)
-    Per Helmond Sport in trasferta l'X2+GOAL manca da 9 partite: in media ne restano fuori circa 5, e non è tra le sue giocate più solite (circa il 20%). In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
+ 3. CASA      14:30  Potenza vs Scafatese   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 67,3  (Freq 68 · Rit 86 · Lega 11 · GG 100)
+    L'X2+GOAL si fa aspettare da Potenza in casa: 8 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
 
- 4. TRASFERTA 20:00  RKC Waalwijk vs FC Den Bosch   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 36,1  (Freq 33 · Rit 0 · Lega 50 · GG 83)
-    Sono 7 partite che FC Den Bosch resta senza l'X2+GOAL in trasferta: in media ne restano fuori circa 4, e non è tra le sue giocate più solite (circa il 21%). Anche il campionato la vede spesso e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
+ 4. TOTALE    14:30  MVV Maastricht vs Vitesse   [OLANDA - EERSTE DIVISIE]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 63,8  (Freq 57 · Rit 36 · Lega 100 · GG 79)
+    Per Vitesse il 12+GOAL manca da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 37% delle volte. Questo campionato la produce di continuo e su 10 partite recenti il GG è uscito 6 volte.
+
+ 5. TRASFERTA 12:30  Novara vs Lecco   [ITALIA - SERIE C]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 60,3  (Freq 68 · Rit 71 · Lega 75 · GG 14)
+    Per Lecco in trasferta l'1X+GOAL manca da 6 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 38%). Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 3 volte.
+
+ 6. TRASFERTA 17:30  Cosenza vs Casertana   [ITALIA - SERIE C]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 53,0  (Freq 50 · Rit 64 · Lega 75 · GG 14)
+    L'1X+GOAL si fa aspettare da Casertana in trasferta: 6 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 3 volte.
+
+ 7. CASA      14:00  Tenerife vs AD Ceuta FC   [SPAGNA - LALIGA 2]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 44,1  (Freq 0 · Rit 29 · Lega 64 · GG 57 · xG 100)
+    Tenerife non vede il 12+GOAL da 6 partite in casa: in media ne restano fuori circa 5, e non è tra le sue giocate più solite (circa il 20%). Anche il campionato la vede spesso, nelle ultime 6 hanno segnato entrambe 3 volte e l'xG dà una mano.
+
+ 8. TOTALE    12:30  Giugliano vs Savoia   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 42,4  (Freq 32 · Rit 100 · Lega 11 · GG 0)
+    Giugliano non vede l'X2+GOAL da 12 partite: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 32% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 2 volte.
+
+ 9. TOTALE    14:30  Salernitana vs Catania   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 30,9  (Freq 32 · Rit 14 · Lega 11 · GG 79)
+    Sono 6 partite che Catania resta senza l'X2+GOAL: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 31% delle volte. In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
+
+10. TOTALE    17:30  Juventus Next Gen vs Treviso   [ITALIA - SERIE C]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 27,6  (Freq 43 · Rit 7 · Lega 11 · GG 57)
+    L'X2+GOAL si fa aspettare da Juventus Next Gen: 1 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 35%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
