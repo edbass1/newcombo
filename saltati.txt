@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 14/11/2026 13:00 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 09/11 21:15  [GOAL] Torreense: X2 + GOAL uscita, era a 6  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
 09/11 21:15  [GOAL] Torreense: 12 + GOAL uscita, era a 8 👻 30/39  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
@@ -49,16 +49,13 @@ Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite
 07/11 14:30  [GOAL] Reggiana: 1X + GOAL uscita, era a 8  -  Atalanta U23 4-3 Reggiana   [ITALIA - SERIE C]
 07/11 14:30  [GOAL] Reggiana: 12 + GOAL uscita, era a 7  -  Atalanta U23 4-3 Reggiana   [ITALIA - SERIE C]
 07/11 14:00  [GOAL] Fortuna Köln: 1X + GOAL uscita, era a 7  -  Waldhof Mannheim 2-1 Fortuna Köln   [GERMANIA - 3. LIGA]
-07/11 13:00  [GOAL] Holstein Kiel: 12 + GOAL uscita, era a 10  -  Holstein Kiel 1-2 Arminia Bielefeld   [GERMANIA - 2. BUNDESLIGA]
-07/11 13:00  [GOAL] MFK Zvolen: X2 + GOAL uscita, era a 6 👻 34/39  -  MFK Zvolen 1-5 Slovan Galanta   [SLOVACCHIA - 2. LIGA]
-07/11 11:45  [GOAL] Newcastle Jets: 12 + GOAL uscita, era a 8  -  Perth Glory 2-1 Newcastle Jets   [AUSTRALIA - A-LEAGUE MEN]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 14/11/2026 13:00 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 08/11 20:45  [GOAL] Lens: X2 + GOAL uscita, era a 9  -  Lens 1-2 Marseille   [FRANCIA - LIGUE 1]
 08/11 20:15  [GOAL] Lech Poznań: X2 + GOAL uscita, era a 7  -  Lech Poznań 2-2 Zagłębie Lubin   [POLONIA - EKSTRAKLASA]
@@ -83,7 +80,7 @@ Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 14/11/2026 13:00 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 08/11 18:00  [GOAL] Sparta Prague: X2 + GOAL uscita, era a 15  -  Viktoria Plzeň 1-1 Sparta Prague   [REP. CECA - 1. LIGA]
 08/11 16:30  [GOAL] Häcken: 1X + GOAL uscita, era a 7 👻 34/39  -  AIK 3-2 Häcken   [SVEZIA - ALLSVENSKAN]
@@ -103,5 +100,4 @@ Aggiornato: 14/11/2026 00:15 (ora italiana). Dal più recente. Ritardo = partite
 07/11 16:00  [GOAL] Stenhousemuir: 12 + GOAL uscita, era a 6 👻 39/39  -  Greenock Morton 4-3 Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
 07/11 15:30  [GOAL] TS Podbeskidzie Bielsko-Biała: 12 + GOAL uscita, era a 7 👻 32/39  -  Arka Gdynia 3-1 TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]
 07/11 15:00  [GOAL] Norrby: X2 + GOAL uscita, era a 9  -  IK Brage 1-1 Norrby   [SVEZIA - SUPERETTAN]
-07/11 13:00  [GOAL] Arminia Bielefeld: X2 + GOAL uscita, era a 6  -  Holstein Kiel 1-2 Arminia Bielefeld   [GERMANIA - 2. BUNDESLIGA]
 
