@@ -1,52 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 14/11/2026 23:52 (ora italiana)
+Aggiornato: 15/11/2026 18:34 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
-
-==================================================
-15/11/2026
-==================================================
-TOTALE    10:30  Slovan Bratislava B [🔥D] vs Malženice [🔥D]   [SLOVACCHIA - 2. LIGA]  [ALT 12+GOAL]
-           [GOAL] Slovan Bratislava B: 12 + GOAL (7) ❗ 14/39 [TOP 20] 🔴 Malženice
-CASA      10:30  Slovan Bratislava B [🔥D] vs Malženice [🔥D]   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
-           [GOAL] Slovan Bratislava B: 12 + GOAL (6) ❗ 14/39 🔴 Slovan Bratislava B
-TOTALE    12:30  Giugliano [🔥D] vs Savoia   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Giugliano: X2 + GOAL (12) [TOP 20]
-CASA      12:30  Giugliano [🔥D] vs Savoia   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Giugliano: X2 + GOAL (6)
-TOTALE    12:30  Novara [🧊A] vs Lecco [🔥A 🧊D]   [ITALIA - SERIE C]  [ALT 12+GOAL]
-           [GOAL] Lecco: 12 + GOAL (8) [TOP 20]
-CASA      12:30  Novara [🧊A] vs Lecco [🔥A 🧊D]   [ITALIA - SERIE C]  [ALT 12+GOAL]
-           [GOAL] Novara: 12 + GOAL (7)
-TRASFERTA 12:30  Novara [🧊A] vs Lecco [🔥A 🧊D]   [ITALIA - SERIE C]  [OK 1X+GOAL]
-           [GOAL] Lecco: 1X + GOAL (6)
-CASA      14:00  Tenerife vs AD Ceuta FC [🧊A 🔥D]   [SPAGNA - LALIGA 2]  [OK 12+GOAL]
-           xG: Tenerife xG 2,21 (0,93+1,28) · AD Ceuta FC xG 3,35 (1,51+1,84)
-           [GOAL] Tenerife: 12 + GOAL (6+)
-ALERT     14:30  Cavese vs Crotone   [ITALIA - SERIE C]
-           DOPPIA RIPETIZIONE: Crotone · 12 + GOAL · TRASFERTA · ritardo 10 · #11/823
-ALERT     14:30  Guidonia Montecelio vs Ostia Mare   [ITALIA - SERIE C]
-           DOPPIA RIPETIZIONE: Guidonia Montecelio · 12 + GOAL · TOTALE · ritardo 11+ · #9/823
-CASA      14:30  Potenza [🔥A] vs Scafatese   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Potenza: X2 + GOAL (8) [TOP 20] 🔴 Potenza
-TOTALE    14:30  Salernitana vs Catania [🔥A 🧊D]   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Catania: X2 + GOAL (6)
-TOTALE    14:30  MVV Maastricht [🧊A] vs Vitesse [🧊A 🧊D]   [OLANDA - EERSTE DIVISIE]  [ALT 12+GOAL]
-           [GOAL] Vitesse: 12 + GOAL (6) 🔥 1/39
-TOTALE    15:00  Portimonense [🧊A] vs Académica [🔥A]   [PORTOGALLO - LIGA PORTUGAL 2]  [OK 1X+GOAL]
-           [GOAL] Portimonense: 1X + GOAL (7) 👻 33/39 [TOP 20] 🔴 Académica
-CASA      15:00  Portimonense [🧊A] vs Académica [🔥A]   [PORTOGALLO - LIGA PORTUGAL 2]  [OK X2+GOAL]
-           [GOAL] Portimonense: X2 + GOAL (8) [TOP 20] 🔴 Portimonense
-TOTALE    17:30  Barletta vs Team Altamura [🧊A]   [ITALIA - SERIE C]  [ALT 12+GOAL]
-           [GOAL] Barletta: 12 + GOAL (6)
-TRASFERTA 17:30  Cosenza [🧊A 🔥D] vs Casertana [🧊D]   [ITALIA - SERIE C]  [OK 1X+GOAL]
-           [GOAL] Casertana: 1X + GOAL (6) 🔴 Cosenza
-TOTALE    17:30  Juventus Next Gen [🧊A 🔥D] vs Treviso [🧊D]   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Treviso: X2 + GOAL (8) [TOP 20]
-CASA      17:30  Ravenna [🔥A 🧊D] vs Forlì   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Ravenna: X2 + GOAL (7)
-ALERT     18:30  Eldense vs Sabadell   [SPAGNA - LALIGA 2]
-           DOPPIA RIPETIZIONE: Sabadell · 12 + GOAL · TRASFERTA · ritardo 10 · #15/823
 
 ==================================================
 16/11/2026
@@ -76,3 +31,25 @@ CASA      00:30  Cruzeiro [🔥A] vs Palmeiras [🔥A 🧊D]   [BRASILE - SÉRIE
 CASA      00:30  Flamengo [🔥A 🧊D] vs Athletico Paranaense   [BRASILE - SÉRIE A]  [OK X2+GOAL]
            xG: Flamengo xG 2,78 (1,81+0,97) · Athletico Paranaense xG 2,58 (1,37+1,21)
            [GOAL] Flamengo: X2 + GOAL (8) [TOP 20]
+
+==================================================
+20/11/2026
+==================================================
+TOTALE    09:40  Western Sydney Wanderers FC vs Adelaide United   [AUSTRALIA - A-LEAGUE MEN]  [OK X2+GOAL]
+           xG: Western Sydney Wanderers FC xG 2,59 (1,81+0,78) · Adelaide United xG 3,10 (1,11+1,99)
+           [GOAL] Western Sydney Wanderers FC: X2 + GOAL (8) [TOP 20] 🔴 Adelaide United
+CASA      17:00  FC Silon Táborsko vs Slavia Prague B [🔥A 🔥D]   [REP. CECA - FNL]  [OK 12+GOAL]
+           [GOAL] FC Silon Táborsko: 12 + GOAL (8) [TOP 20]
+CASA      18:00  Chrobry Głogów [🧊A] vs Puszcza Niepołomice [🧊A]   [POLONIA - I LIGA]  [OK 12+GOAL]
+           [GOAL] Chrobry Głogów: 12 + GOAL (8) 👻 32/39 [TOP 20]
+TOTALE    18:00  Piast Gliwice vs Korona Kielce [🧊A]   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
+           xG: Piast Gliwice xG 3,45 (1,38+2,07) · Korona Kielce xG 3,00 (1,42+1,58)
+           [GOAL] Korona Kielce: X2 + GOAL (7)
+TRASFERTA 18:00  Příbram [🔥A] vs Ústí nad Labem   [REP. CECA - FNL]  [OK 12+GOAL]
+           [GOAL] Ústí nad Labem: 12 + GOAL (6)
+CASA      18:30  Floridsdorfer AC vs Austria Wien II   [AUSTRIA - 2. LIGA]  [OK 12+GOAL]
+           [GOAL] Floridsdorfer AC: 12 + GOAL (12) ❗ 13/39 [TOP 20]
+CASA      18:30  Rapid Wien II [🧊A 🔥D] vs BW Linz [🔥A 🧊D]   [AUSTRIA - 2. LIGA]  [OK 1X+GOAL]
+           [GOAL] Rapid Wien II: 1X + GOAL (8) [TOP 20]
+CASA      18:30  SKN St. Pölten [🧊A 🧊D] vs Voitsberg [🔥A]   [AUSTRIA - 2. LIGA]  [ALT X2+GOAL]
+           [GOAL] SKN St. Pölten: X2 + GOAL (12) 👻 35/39 [TOP 20]

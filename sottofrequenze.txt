@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 14/11/2026 23:52 (ora italiana)
+Aggiornato: 15/11/2026 18:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -85,9 +85,9 @@ SOTTOFREQUENZA 1X + GOAL
    43/43 Catania                        30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/43 Pescara                        41/100
-    2/43 Lumezzane                      41/100
-    3/43 Sambenedettese                 40/100
+    1/43 Lumezzane                      41/100
+    2/43 Sambenedettese                 40/100
+    3/43 Pescara                        40/100
     4/43 Trento                         39/100
     5/43 AlbinoLeffe                    37/100
      ...
@@ -95,10 +95,12 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/43 Atalanta U23                   43/100
-    2/43 Giugliano                      38/100
-    3/43 Salernitana                    37/100
-    4/43 Pescara                        37/100
-    5/43 Crotone                        37/100
+    2/43 Giugliano                      39/100
+    3/43 Pescara                        38/100
+    4/43 Crotone                        37/100
+    5/43 Salernitana                    36/100
+    6/43 Audace Cerignola               36/100
+    7/43 Arzignano Valchiampo           36/100
      ...
    43/43 Novara                         21/100  (la fa meno spesso)
 
@@ -430,8 +432,8 @@ SPAGNA - LALIGA 2
 SOTTOFREQUENZA 1X + GOAL
     1/22 Almería                        52/100
     2/22 Celta Fortuna                  46/100
-    3/22 AD Ceuta FC                    46/100
-    4/22 Córdoba                        45/100
+    3/22 Córdoba                        45/100
+    4/22 AD Ceuta FC                    45/100
     5/22 Girona                         44/100
      ...
    22/22 Real Oviedo                    28/100  (la fa meno spesso)
@@ -568,8 +570,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 RKC Waalwijk                   44/100
     2/20 De Graafschap                  44/100
     3/20 Roda JC Kerkrade               43/100
-    4/20 Vitesse                        42/100
-    5/20 Jong AZ Alkmaar                42/100
+    4/20 Jong AZ Alkmaar                42/100
+    5/20 Vitesse                        41/100
      ...
    20/20 Jong Ajax                      25/100  (la fa meno spesso)
 
@@ -745,27 +747,26 @@ SOTTOFREQUENZA 12 + GOAL
 PORTOGALLO - LIGA PORTUGAL 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Académica                      44/100
-    2/18 Lusitânia Lourosa              43/100
+    1/18 Lusitânia Lourosa              43/100
+    2/18 Académica                      43/100
     3/18 Tondela                        41/100
     4/18 Benfica B                      41/100
-    5/18 Felgueiras 1932                39/100
-    6/18 AVS Futebol SAD                39/100
+    5/18 Felgueiras 1932                40/100
      ...
    18/18 Amarante FC                    27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Benfica B                      41/100
-    2/18 Académica                      41/100
+    2/18 Académica                      40/100
     3/18 União de Leiria                39/100
     4/18 Leixões                        38/100
-    5/18 Tondela                        37/100
+    5/18 Felgueiras 1932                37/100
      ...
    18/18 Amarante FC                    28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Penafiel                       36/100
-    2/18 Lusitânia Lourosa              36/100
+    1/18 Lusitânia Lourosa              37/100
+    2/18 Penafiel                       36/100
     3/18 Leixões                        35/100
     4/18 Portimonense                   34/100
     5/18 Benfica B                      34/100
@@ -1075,9 +1076,9 @@ SOTTOFREQUENZA X2 + GOAL
    13/13 Tatran Prešov                  25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/13 Žilina B                       47/100
+    1/13 Žilina B                       46/100
     2/13 Považská Bystrica              46/100
-    3/13 Malženice                      44/100
+    3/13 Malženice                      43/100
     4/13 FC STK 1914 Šamorín            43/100
     5/13 Liptovský Mikuláš              42/100
      ...
@@ -1222,8 +1223,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Internacional                  41/100
     2/18 Athletico Paranaense           40/100
-    3/18 Chapecoense                    39/100
-    4/18 Santos                         38/100
+    3/18 Santos                         38/100
+    4/18 Chapecoense                    38/100
     5/18 Bahia                          33/100
      ...
    18/18 Fluminense                     23/100  (la fa meno spesso)
@@ -1235,7 +1236,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 RB Bragantino                  36/100
     5/18 Coritiba                       36/100
      ...
-   18/18 Atlético-MG                    27/100  (la fa meno spesso)
+   18/18 Atlético-MG                    26/100  (la fa meno spesso)
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1460,7 +1461,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 14/11/2026 23:52 (ora italiana)
+Aggiornato: 15/11/2026 18:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1531,8 +1532,8 @@ ITALIA - SERIE C
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/32 Potenza                        49/100
-    2/32 Salernitana                    46/100
-    3/32 Pescara                        46/100
+    2/32 Pescara                        47/100
+    3/32 Salernitana                    46/100
     4/32 Casertana                      44/100
     5/32 Bari                           43/100
      ...
@@ -1991,7 +1992,8 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 FC Volendam                    43/100
     5/20 RKC Waalwijk                   42/100
     6/20 NAC Breda                      42/100
-    7/20 Helmond Sport                  42/100
+    7/20 MVV Maastricht                 42/100
+    8/20 Helmond Sport                  42/100
      ...
    20/20 Almere City FC                 29/100  (la fa meno spesso)
 
@@ -2010,7 +2012,8 @@ SOTTOFREQUENZA 12 + GOAL
     3/20 RKC Waalwijk                   46/100
     4/20 De Graafschap                  45/100
     5/20 TOP Oss                        43/100
-    6/20 Jong AZ Alkmaar                43/100
+    6/20 MVV Maastricht                 43/100
+    7/20 Jong AZ Alkmaar                43/100
      ...
    20/20 FC Dordrecht                   32/100  (la fa meno spesso)
 
@@ -2165,9 +2168,9 @@ PORTOGALLO - LIGA PORTUGAL 2
 SOTTOFREQUENZA 1X + GOAL
     1/18 Lusitânia Lourosa              48/100
     2/18 União de Leiria                41/100
-    3/18 Tondela                        41/100
-    4/18 FC Porto B                     41/100
-    5/18 Chaves                         41/100
+    3/18 FC Porto B                     41/100
+    4/18 Chaves                         41/100
+    5/18 Tondela                        40/100
      ...
    18/18 Amarante FC                    29/100  (la fa meno spesso)
 
@@ -2471,7 +2474,7 @@ SLOVACCHIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
      1/8 FK Pohronie                    47/100
-     2/8 Žilina B                       45/100
+     2/8 Žilina B                       44/100
      3/8 Slovan Bratislava B            44/100
      4/8 Liptovský Mikuláš              43/100
      5/8 FC STK 1914 Šamorín            41/100
@@ -2489,8 +2492,8 @@ SOTTOFREQUENZA X2 + GOAL
      8/8 Tatran Prešov                  25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-     1/8 Žilina B                       46/100
-     2/8 Liptovský Mikuláš              46/100
+     1/8 Liptovský Mikuláš              46/100
+     2/8 Žilina B                       45/100
      3/8 Slovan Bratislava B            41/100
      4/8 FC STK 1914 Šamorín            39/100
      5/8 FK Pohronie                    38/100
@@ -2635,7 +2638,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Coritiba                       27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Chapecoense                    43/100
+    1/18 Chapecoense                    42/100
     2/18 Vitória                        34/100
     3/18 Internacional                  34/100
     4/18 Corinthians                    34/100
@@ -2875,7 +2878,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 14/11/2026 23:52 (ora italiana)
+Aggiornato: 15/11/2026 18:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2949,8 +2952,8 @@ ITALIA - SERIE C
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/33 Cosenza                        49/100
-    2/33 Crotone                        48/100
-    3/33 Foggia                         47/100
+    2/33 Foggia                         47/100
+    3/33 Crotone                        47/100
     4/33 Vis Pesaro                     43/100
     5/33 Novara                         43/100
      ...
@@ -2958,8 +2961,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/33 Pescara                        43/100
-    2/33 Sambenedettese                 42/100
-    3/33 Novara                         42/100
+    2/33 Novara                         42/100
+    3/33 Sambenedettese                 41/100
     4/33 Crotone                        41/100
     5/33 Renate                         40/100
      ...
@@ -2968,8 +2971,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/33 Pescara                        45/100
     2/33 Carpi                          39/100
-    3/33 Crotone                        35/100
-    4/33 AlbinoLeffe                    35/100
+    3/33 AlbinoLeffe                    35/100
+    4/33 Crotone                        34/100
     5/33 Reggiana                       33/100
     6/33 Foggia                         33/100
      ...
@@ -3599,6 +3602,7 @@ SOTTOFREQUENZA 1X + GOAL
     3/18 Académica                      44/100
     4/18 AVS Futebol SAD                42/100
     5/18 Vizela                         40/100
+    6/18 Felgueiras 1932                40/100
      ...
    18/18 Sporting CP B                  26/100  (la fa meno spesso)
 
@@ -3608,6 +3612,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/18 Tondela                        43/100
     4/18 União de Leiria                38/100
     5/18 Leixões                        37/100
+    6/18 Felgueiras 1932                37/100
      ...
    18/18 Penafiel                       23/100  (la fa meno spesso)
 
