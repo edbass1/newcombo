@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 15/11/2026 18:34 (ora italiana)
+Aggiornato: 15/11/2026 23:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -76,8 +76,8 @@ SOTTOFREQUENZA 12 + GOAL
 ITALIA - SERIE C
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/43 Potenza                        46/100
-    2/43 Cosenza                        46/100
+    1/43 Cosenza                        47/100
+    2/43 Potenza                        46/100
     3/43 Bari                           45/100
     4/43 Atalanta U23                   45/100
     5/43 AZ Picerno                     44/100
@@ -1461,7 +1461,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 15/11/2026 18:34 (ora italiana)
+Aggiornato: 15/11/2026 23:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2878,7 +2878,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 15/11/2026 18:34 (ora italiana)
+Aggiornato: 15/11/2026 23:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2976,7 +2976,7 @@ SOTTOFREQUENZA 12 + GOAL
     5/33 Reggiana                       33/100
     6/33 Foggia                         33/100
      ...
-   33/33 Casertana                      22/100  (la fa meno spesso)
+   33/33 Casertana                      23/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE

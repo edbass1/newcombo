@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 15/11/2026 18:34 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 15/11/2026 23:29 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 15/11 14:30  [GOAL] Vitesse: 12 + GOAL uscita, era a 6 🔥 1/39  -  MVV Maastricht 2-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 12  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
@@ -12,35 +12,28 @@ Aggiornato: 15/11/2026 18:34 (ora italiana). Dal più recente. Ritardo = partite
 14/11 13:00  [GOAL] Liptovský Mikuláš: X2 + GOAL uscita, era a 6 👻 32/39  -  Slovan Galanta 1-1 Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
 09/11 21:15  [GOAL] Torreense: X2 + GOAL uscita, era a 6  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
 09/11 21:15  [GOAL] Torreense: 12 + GOAL uscita, era a 8 👻 30/39  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
-08/11 20:00  [GOAL] NEC Nijmegen: 12 + GOAL uscita, era a 7 🔥 6/39  -  FC Utrecht 2-3 NEC Nijmegen   [OLANDA - EREDIVISIE]
-08/11 19:30  [GOAL] Cremonese: X2 + GOAL uscita, era a 6 🔥 4/39  -  LR Vicenza 1-4 Cremonese   [ITALIA - SERIE B]
-08/11 19:15  [GOAL] Zulte Waregem: 1X + GOAL uscita, era a 6 👻 34/39  -  St.Truiden 4-1 Zulte Waregem   [BELGIO - FIRST DIVISION A]
-08/11 19:15  [GOAL] Brann: X2 + GOAL uscita, era a 6 👻 30/39  -  Fredrikstad 2-2 Brann   [NORVEGIA - ELITESERIEN]
-08/11 19:00  [GOAL] Tondela: X2 + GOAL uscita, era a 9  -  Sporting CP B 1-1 Tondela   [PORTOGALLO - LIGA PORTUGAL 2]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 15/11/2026 18:34 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 15/11/2026 23:29 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 6  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 18:30  [GOAL] Mallorca: X2 + GOAL uscita, era a 6 👻 34/39  -  Mallorca 3-3 Córdoba   [SPAGNA - LALIGA 2]
 14/11 17:30  [GOAL] Bari: 12 + GOAL uscita, era a 7  -  Bari 3-2 Foggia   [ITALIA - SERIE C]
 14/11 16:00  [GOAL] Salford City: X2 + GOAL uscita, era a 7 ❗ 14/39  -  Salford City 1-1 Northampton Town   [INGHILTERRA - LEAGUE TWO]
 14/11 16:00  [GOAL] Partick Thistle: 1X + GOAL uscita, era a 7 👻 39/39  -  Partick Thistle 3-2 Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-08/11 20:45  [GOAL] Lens: X2 + GOAL uscita, era a 9  -  Lens 1-2 Marseille   [FRANCIA - LIGUE 1]
-08/11 20:15  [GOAL] Lech Poznań: X2 + GOAL uscita, era a 7  -  Lech Poznań 2-2 Zagłębie Lubin   [POLONIA - EKSTRAKLASA]
-08/11 19:00  [GOAL] Vitória de Guimarães: 12 + GOAL uscita, era a 8 👻 36/39  -  Vitória de Guimarães 1-2 FC Porto   [PORTOGALLO - LIGA PORTUGAL]
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 15/11/2026 18:34 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 15/11/2026 23:29 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
+15/11 17:30  [GOAL] Casertana: 1X + GOAL uscita, era a 6  -  Cosenza 2-1 Casertana   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Lecco: 1X + GOAL uscita, era a 6  -  Novara 1-1 Lecco   [ITALIA - SERIE C]
 14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 9/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
 14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 9/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
