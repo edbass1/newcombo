@@ -1,6 +1,6 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
 Aggiornato: 15/11/2026 23:29 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
+Fasce: 1X + GOAL da 6 a 8, X2 + GOAL e 12 + GOAL da 9 in su. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
@@ -8,16 +8,6 @@ Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire pi�
 ==================================================
 CASA      20:30  Sorrento [🧊D] vs Monopoli [🧊A 🧊D]   [ITALIA - SERIE C]
            Sorrento: 1X + GOAL (6)
-TRASFERTA 20:30  Albacete [🧊A 🔥D] vs Celta Fortuna [🔥D]   [SPAGNA - LALIGA 2]
-           xG: Albacete xG 2,93 (1,19+1,74) · Celta Fortuna xG 3,16 (1,32+1,84)
-           Celta Fortuna: X2 + GOAL (6+) 👻 34/39
-
-==================================================
-18/11/2026
-==================================================
-TOTALE    23:30  Coritiba [🔥D] vs Santos   [BRASILE - SÉRIE A]
-           xG: Coritiba xG 2,70 (1,09+1,61) · Santos xG 2,81 (1,46+1,35)
-           Coritiba: 12 + GOAL (8) [TOP 20] 🔴 Santos
 
 ==================================================
 19/11/2026
@@ -25,49 +15,25 @@ TOTALE    23:30  Coritiba [🔥D] vs Santos   [BRASILE - SÉRIE A]
 TOTALE    00:30  Cruzeiro [🔥A] vs Palmeiras [🔥A 🧊D]   [BRASILE - SÉRIE A]
            xG: Cruzeiro xG 2,94 (1,63+1,31) · Palmeiras xG 2,43 (1,45+0,98)
            Palmeiras: X2 + GOAL (9) [TOP 20]
-CASA      00:30  Cruzeiro [🔥A] vs Palmeiras [🔥A 🧊D]   [BRASILE - SÉRIE A]
-           xG: Cruzeiro xG 2,94 (1,63+1,31) · Palmeiras xG 2,43 (1,45+0,98)
-           Cruzeiro: X2 + GOAL (7)
-CASA      00:30  Flamengo [🔥A 🧊D] vs Athletico Paranaense   [BRASILE - SÉRIE A]
-           xG: Flamengo xG 2,78 (1,81+0,97) · Athletico Paranaense xG 2,58 (1,37+1,21)
-           Flamengo: X2 + GOAL (8) [TOP 20]
+ALERT     00:30  Flamengo vs Athletico Paranaense   [BRASILE - SÉRIE A]
 
 ==================================================
 20/11/2026
 ==================================================
-TOTALE    09:40  Western Sydney Wanderers FC vs Adelaide United   [AUSTRALIA - A-LEAGUE MEN]
-           xG: Western Sydney Wanderers FC xG 2,59 (1,81+0,78) · Adelaide United xG 3,10 (1,11+1,99)
-           Western Sydney Wanderers FC: X2 + GOAL (8) [TOP 20] 🔴 Adelaide United
-CASA      17:00  FC Silon Táborsko vs Slavia Prague B [🔥A 🔥D]   [REP. CECA - FNL]
-           FC Silon Táborsko: 12 + GOAL (8) [TOP 20]
-CASA      18:00  Chrobry Głogów [🧊A] vs Puszcza Niepołomice [🧊A]   [POLONIA - I LIGA]
-           Chrobry Głogów: 12 + GOAL (8) 👻 32/39 [TOP 20]
-TOTALE    18:00  Piast Gliwice vs Korona Kielce [🧊A]   [POLONIA - EKSTRAKLASA]
-           xG: Piast Gliwice xG 3,45 (1,38+2,07) · Korona Kielce xG 3,00 (1,42+1,58)
-           Korona Kielce: X2 + GOAL (7)
-TRASFERTA 18:00  Příbram [🔥A] vs Ústí nad Labem   [REP. CECA - FNL]
-           Ústí nad Labem: 12 + GOAL (6)
+ALERT     09:40  Western Sydney Wanderers FC vs Adelaide United   [AUSTRALIA - A-LEAGUE MEN]
 CASA      18:30  Floridsdorfer AC vs Austria Wien II   [AUSTRIA - 2. LIGA]
            Floridsdorfer AC: 12 + GOAL (12) ❗ 13/39 [TOP 20]
 CASA      18:30  Rapid Wien II [🧊A 🔥D] vs BW Linz [🔥A 🧊D]   [AUSTRIA - 2. LIGA]
            Rapid Wien II: 1X + GOAL (8) [TOP 20]
 CASA      18:30  SKN St. Pölten [🧊A 🧊D] vs Voitsberg [🔥A]   [AUSTRIA - 2. LIGA]
            SKN St. Pölten: X2 + GOAL (12) 👻 35/39 [TOP 20]
-TRASFERTA 19:00  AGF vs Lyngby [🔥D]   [DANIMARCA - SUPERLIGAEN]
-           xG: AGF xG 3,14 (1,61+1,53) · Lyngby xG 3,28 (1,65+1,63)
-           Lyngby: X2 + GOAL (7+) ❗ 13/39
 TOTALE    19:00  Aarhus Fremad [🧊A] vs Hobro [🔥D]   [DANIMARCA - 1. DIVISION]
            Aarhus Fremad: 1X + GOAL (7) 🔥 2/39 [TOP 20]
-TOTALE    19:00  Molde [🔥A] vs Bodø/Glimt [🔥A 🧊D]   [NORVEGIA - ELITESERIEN]
-           xG: Molde xG 3,85 (2,36+1,49) · Bodø/Glimt xG 3,81 (2,81+1,00)
-           Bodø/Glimt: X2 + GOAL (7) 👻 30/39
 ALERT     19:30  FC Rapperswil-Jona vs Aarau   [SVIZZERA - CHALLENGE LEAGUE]
 CASA      19:30  FC Stade Lausanne-Ouchy [🔥A 🧊D] vs Kriens   [SVIZZERA - CHALLENGE LEAGUE]
            FC Stade Lausanne-Ouchy: X2 + GOAL (9) ❗ 12/39 [TOP 20] 🔴 FC Stade Lausanne-Ouchy
 TOTALE    19:30  Stade Nyonnais [🧊A 🔥D] vs Wil [🔥D]   [SVIZZERA - CHALLENGE LEAGUE]
            Wil: 12 + GOAL (11) [TOP 20]
-TRASFERTA 19:30  Stade Nyonnais [🧊A 🔥D] vs Wil [🔥D]   [SVIZZERA - CHALLENGE LEAGUE]
-           Wil: 12 + GOAL (6)
 TOTALE    19:30  Xamax vs Etoile Carouge [🧊A]   [SVIZZERA - CHALLENGE LEAGUE]
            Xamax: 1X + GOAL (8) [TOP 20]
 TOTALE    20:00  Annecy FC vs Clermont Foot [🧊A]   [FRANCIA - LIGUE 2]
@@ -77,43 +43,14 @@ TOTALE    20:00  Guingamp vs Rodez [🔥D]   [FRANCIA - LIGUE 2]
            xG: Guingamp xG 3,25 (1,68+1,57) · Rodez xG 3,30 (1,46+1,84)
            Guingamp: 1X + GOAL (6) 👻 32/39 🔴 Rodez
            Rodez: 1X + GOAL (7) 👻 32/39 [TOP 20] 🔴 Rodez
-TRASFERTA 20:00  Metz vs Boulogne [🧊A 🧊D]   [FRANCIA - LIGUE 2]
-           xG: Metz xG 3,15 (1,35+1,80) · Boulogne xG 2,26 (1,19+1,07)
-           Boulogne: 12 + GOAL (6)
-TOTALE    20:00  Nancy [🧊D] vs Dijon [🔥A]   [FRANCIA - LIGUE 2]
-           xG: Nancy xG 2,61 (1,70+0,91) · Dijon xG 3,63 (1,79+1,84)
-           Nancy: 1X + GOAL (12) 👻 32/39 [TOP 20]
 CASA      20:00  Nancy [🧊D] vs Dijon [🔥A]   [FRANCIA - LIGUE 2]
            xG: Nancy xG 2,61 (1,70+0,91) · Dijon xG 3,63 (1,79+1,84)
            Nancy: 1X + GOAL (6) 👻 32/39
-CASA      20:00  Heracles [🔥A 🧊D] vs Jong PSV [🧊A]   [OLANDA - EERSTE DIVISIE]
-           Heracles: X2 + GOAL (7+) ❗ 9/39 🔴 Jong PSV
-TOTALE    20:00  Jong FC Utrecht [🔥D] vs FC Emmen   [OLANDA - EERSTE DIVISIE]
-           FC Emmen: X2 + GOAL (6) ❗ 9/39
-TOTALE    20:15  Yverdon vs Winterthur [🔥A 🧊D]   [SVIZZERA - CHALLENGE LEAGUE]
-           Yverdon: X2 + GOAL (7) ❗ 12/39 🔴 Winterthur
-TRASFERTA 20:15  Yverdon vs Winterthur [🔥A 🧊D]   [SVIZZERA - CHALLENGE LEAGUE]
-           Winterthur: 12 + GOAL (6+) 🔴 Winterthur
-TOTALE    20:30  Austria Salzburg vs Admira Wacker [🧊D]   [AUSTRIA - 2. LIGA]
-           Austria Salzburg: X2 + GOAL (6) 👻 35/39
 ALERT     20:30  Bayern München vs 1. FC Köln   [GERMANIA - BUNDESLIGA]
-TOTALE    20:30  Casertana vs Salernitana   [ITALIA - SERIE C]
-           Salernitana: 12 + GOAL (6)
-CASA      20:30  Trento [🧊D] vs Cittadella [🧊D]   [ITALIA - SERIE C]
-           Trento: X2 + GOAL (7)
-TOTALE    20:30  Miedź Legnica [🧊D] vs ŁKS Łódź [🧊D]   [POLONIA - I LIGA]
-           ŁKS Łódź: 12 + GOAL (6) 👻 32/39
-CASA      20:30  Inverness Caledonian Thistle vs Ayr United   [SCOZIA - CHAMPIONSHIP]
-           Inverness Caledonian Thistle: 12 + GOAL (7+) 👻 39/39
-TRASFERTA 20:30  FC Andorra [🔥D] vs Leganés [🧊A 🔥D]   [SPAGNA - LALIGA 2]
-           xG: FC Andorra xG 2,95 (1,63+1,32) · Leganés xG 3,13 (1,44+1,69)
-           Leganés: X2 + GOAL (6) 👻 34/39
+ALERT     20:30  Inverness Caledonian Thistle vs Ayr United   [SCOZIA - CHAMPIONSHIP]
 TRASFERTA 20:45  Cercle Brugge vs Westerlo [🔥A 🔥D]   [BELGIO - FIRST DIVISION A]
            xG: Cercle Brugge xG 3,53 (1,55+1,98) · Westerlo xG 3,57 (1,55+2,02)
            Westerlo: X2 + GOAL (9) 👻 37/39 [TOP 20]
-TOTALE    20:45  Troyes [🧊A] vs Le Havre [🧊A 🔥D]   [FRANCIA - LIGUE 1]
-           xG: Troyes xG 2,80 (1,24+1,56) · Le Havre xG 3,49 (1,57+1,92)
-           Troyes: 1X + GOAL (10+) [TOP 20]
 TOTALE    21:00  Barnsley [🧊A 🔥D] vs Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
            xG: Barnsley xG 3,17 (1,44+1,73) · Sheffield Wednesday xG 3,26 (1,71+1,55)
            Sheffield Wednesday: 12 + GOAL (9) [TOP 20] 🔴 Barnsley
