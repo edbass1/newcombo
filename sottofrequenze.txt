@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 16/11/2026 00:44 (ora italiana)
+Aggiornato: 16/11/2026 00:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -619,33 +619,31 @@ SOTTOFREQUENZA 12 + GOAL
 SVIZZERA - CHALLENGE LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-     1/9 Yverdon                        44/100
-     2/9 Kriens                         41/100
-     3/9 Aarau                          41/100
-     4/9 Xamax                          39/100
-     5/9 Winterthur                     38/100
-     6/9 Wil                            38/100
+     1/7 Yverdon                        44/100
+     2/7 Aarau                          41/100
+     3/7 Xamax                          39/100
+     4/7 Winterthur                     38/100
+     5/7 Wil                            38/100
      ...
-     9/9 FC Rapperswil-Jona             36/100  (la fa meno spesso)
+     7/7 FC Stade Lausanne-Ouchy        37/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-     1/9 Aarau                          49/100
-     2/9 Xamax                          38/100
-     3/9 Winterthur                     36/100
-     4/9 FC Stade Lausanne-Ouchy        36/100
-     5/9 Stade Nyonnais                 35/100
+     1/7 Aarau                          49/100
+     2/7 Xamax                          38/100
+     3/7 Winterthur                     36/100
+     4/7 FC Stade Lausanne-Ouchy        36/100
+     5/7 Stade Nyonnais                 35/100
      ...
-     9/9 Kriens                         25/100  (la fa meno spesso)
+     7/7 Yverdon                        31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-     1/9 Xamax                          51/100
-     2/9 Aarau                          48/100
-     3/9 FC Rapperswil-Jona             46/100
-     4/9 Yverdon                        41/100
-     5/9 Winterthur                     38/100
-     6/9 Stade Nyonnais                 38/100
+     1/7 Xamax                          51/100
+     2/7 Aarau                          48/100
+     3/7 Yverdon                        41/100
+     4/7 Winterthur                     38/100
+     5/7 Stade Nyonnais                 38/100
      ...
-     9/9 Wil                            32/100  (la fa meno spesso)
+     7/7 Wil                            32/100  (la fa meno spesso)
 
 ==================================================
 AUSTRIA - BUNDESLIGA
@@ -1461,7 +1459,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 16/11/2026 00:44 (ora italiana)
+Aggiornato: 16/11/2026 00:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2878,7 +2876,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 16/11/2026 00:44 (ora italiana)
+Aggiornato: 16/11/2026 00:55 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
