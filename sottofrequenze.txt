@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -67,8 +67,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Cremonese                      34/100
     3/20 Cesena                         34/100
     4/20 Modena                         33/100
-    5/20 LR Vicenza                     33/100
-    6/20 Hellas Verona                  33/100
+    5/20 Hellas Verona                  33/100
      ...
    20/20 Virtus Entella                 25/100  (la fa meno spesso)
 
@@ -76,33 +75,34 @@ SOTTOFREQUENZA 12 + GOAL
 ITALIA - SERIE C
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/43 Cosenza                        47/100
-    2/43 Potenza                        46/100
-    3/43 Bari                           45/100
-    4/43 Atalanta U23                   45/100
-    5/43 AZ Picerno                     44/100
+    1/44 Cosenza                        47/100
+    2/44 Potenza                        46/100
+    3/44 Bari                           45/100
+    4/44 Atalanta U23                   45/100
+    5/44 Monterosi                      44/100
+    6/44 AZ Picerno                     44/100
      ...
-   43/43 Catania                        30/100  (la fa meno spesso)
+   44/44 Catania                        30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/43 Lumezzane                      41/100
-    2/43 Sambenedettese                 40/100
-    3/43 Pescara                        40/100
-    4/43 Trento                         39/100
-    5/43 AlbinoLeffe                    37/100
+    1/44 Lumezzane                      41/100
+    2/44 Sambenedettese                 40/100
+    3/44 Pescara                        40/100
+    4/44 Trento                         39/100
+    5/44 AlbinoLeffe                    37/100
      ...
-   43/43 Ravenna                        23/100  (la fa meno spesso)
+   44/44 Ravenna                        23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/43 Atalanta U23                   43/100
-    2/43 Giugliano                      39/100
-    3/43 Pescara                        38/100
-    4/43 Crotone                        37/100
-    5/43 Salernitana                    36/100
-    6/43 Audace Cerignola               36/100
-    7/43 Arzignano Valchiampo           36/100
+    1/44 Atalanta U23                   43/100
+    2/44 Giugliano                      39/100
+    3/44 Pescara                        38/100
+    4/44 Crotone                        37/100
+    5/44 Salernitana                    36/100
+    6/44 Audace Cerignola               36/100
+    7/44 Arzignano Valchiampo           36/100
      ...
-   43/43 Novara                         21/100  (la fa meno spesso)
+   44/44 Novara                         21/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
@@ -619,31 +619,33 @@ SOTTOFREQUENZA 12 + GOAL
 SVIZZERA - CHALLENGE LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-     1/7 Yverdon                        44/100
-     2/7 Aarau                          41/100
-     3/7 Xamax                          39/100
-     4/7 Winterthur                     38/100
-     5/7 Wil                            38/100
+     1/9 Yverdon                        44/100
+     2/9 Kriens                         41/100
+     3/9 Aarau                          41/100
+     4/9 Xamax                          39/100
+     5/9 Winterthur                     38/100
+     6/9 Wil                            38/100
      ...
-     7/7 FC Stade Lausanne-Ouchy        37/100  (la fa meno spesso)
+     9/9 FC Rapperswil-Jona             36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-     1/7 Aarau                          49/100
-     2/7 Xamax                          38/100
-     3/7 Winterthur                     36/100
-     4/7 FC Stade Lausanne-Ouchy        36/100
-     5/7 Stade Nyonnais                 35/100
+     1/9 Aarau                          49/100
+     2/9 Xamax                          38/100
+     3/9 Winterthur                     36/100
+     4/9 FC Stade Lausanne-Ouchy        36/100
+     5/9 Stade Nyonnais                 35/100
      ...
-     7/7 Yverdon                        31/100  (la fa meno spesso)
+     9/9 Kriens                         25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-     1/7 Xamax                          51/100
-     2/7 Aarau                          48/100
-     3/7 Yverdon                        41/100
-     4/7 Winterthur                     38/100
-     5/7 Stade Nyonnais                 38/100
+     1/9 Xamax                          51/100
+     2/9 Aarau                          48/100
+     3/9 FC Rapperswil-Jona             46/100
+     4/9 Yverdon                        41/100
+     5/9 Winterthur                     38/100
+     6/9 Stade Nyonnais                 38/100
      ...
-     7/7 Wil                            32/100  (la fa meno spesso)
+     9/9 Wil                            32/100  (la fa meno spesso)
 
 ==================================================
 AUSTRIA - BUNDESLIGA
@@ -1459,7 +1461,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1498,32 +1500,32 @@ SOTTOFREQUENZA 12 + GOAL
 ITALIA - SERIE B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Virtus Entella                 49/100
-    2/20 Padova                         45/100
-    3/20 Benevento                      45/100
-    4/20 Mantova                        43/100
-    5/20 Pisa                           41/100
-    6/20 Cesena                         41/100
+    1/19 Virtus Entella                 49/100
+    2/19 Padova                         45/100
+    3/19 Benevento                      45/100
+    4/19 Mantova                        43/100
+    5/19 Pisa                           41/100
+    6/19 Cesena                         41/100
      ...
-   20/20 Sampdoria                      29/100  (la fa meno spesso)
+   19/19 Sampdoria                      29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Hellas Verona                  40/100
-    2/20 Empoli                         40/100
-    3/20 Pisa                           38/100
-    4/20 Sampdoria                      37/100
-    5/20 Cremonese                      37/100
+    1/19 Hellas Verona                  40/100
+    2/19 Empoli                         40/100
+    3/19 Pisa                           38/100
+    4/19 Sampdoria                      37/100
+    5/19 Cremonese                      37/100
      ...
-   20/20 Avellino                       21/100  (la fa meno spesso)
+   19/19 Avellino                       21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Hellas Verona                  40/100
-    2/20 Virtus Entella                 39/100
-    3/20 Pisa                           37/100
-    4/20 Modena                         36/100
-    5/20 Mantova                        34/100
+    1/19 Hellas Verona                  40/100
+    2/19 Virtus Entella                 39/100
+    3/19 Pisa                           37/100
+    4/19 Modena                         36/100
+    5/19 Mantova                        34/100
      ...
-   20/20 Südtirol                       24/100  (la fa meno spesso)
+   19/19 Südtirol                       24/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE C
@@ -2876,7 +2878,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2916,34 +2918,32 @@ SOTTOFREQUENZA 12 + GOAL
 ITALIA - SERIE B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Empoli                         47/100
-    2/20 Palermo                        46/100
-    3/20 Hellas Verona                  45/100
-    4/20 Sampdoria                      44/100
-    5/20 Carrarese                      44/100
+    1/19 Empoli                         47/100
+    2/19 Palermo                        46/100
+    3/19 Hellas Verona                  45/100
+    4/19 Sampdoria                      44/100
+    5/19 Carrarese                      44/100
      ...
-   20/20 Benevento                      26/100  (la fa meno spesso)
+   19/19 Benevento                      26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Palermo                        46/100
-    2/20 Catanzaro                      41/100
-    3/20 Modena                         39/100
-    4/20 Juve Stabia                    39/100
-    5/20 LR Vicenza                     37/100
-    6/20 Cremonese                      37/100
-    7/20 Ascoli                         37/100
+    1/19 Palermo                        46/100
+    2/19 Catanzaro                      41/100
+    3/19 Modena                         39/100
+    4/19 Juve Stabia                    39/100
+    5/19 Cremonese                      37/100
+    6/19 Ascoli                         37/100
      ...
-   20/20 Carrarese                      29/100  (la fa meno spesso)
+   19/19 Carrarese                      29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Modena                         36/100
-    2/20 Cremonese                      36/100
-    3/20 Hellas Verona                  34/100
-    4/20 Catanzaro                      34/100
-    5/20 Sampdoria                      33/100
-    6/20 LR Vicenza                     33/100
+    1/19 Modena                         36/100
+    2/19 Cremonese                      36/100
+    3/19 Hellas Verona                  34/100
+    4/19 Catanzaro                      34/100
+    5/19 Sampdoria                      33/100
      ...
-   20/20 Benevento                      21/100  (la fa meno spesso)
+   19/19 Benevento                      21/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE C

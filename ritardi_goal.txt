@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -157,7 +157,7 @@ RITARDI 1X + GOAL
    7. Catanzaro                         1  🔴  ❗ 11/39
    8. Cesena                            1  ❗ 11/39
    9. Juve Stabia                       1  ❗ 11/39
-  10. LR Vicenza                        1  🟢 100%  ❗ 11/39
+  10. Mantova                           1  ❗ 11/39
 
 RITARDI X2 + GOAL
    1. Carrarese                         9  🟢 56%  🔥 4/39
@@ -886,13 +886,13 @@ Stagione 2026/2027 (65 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Xamax                             8  🟢 75%  🔴
+   1. Xamax                             8  🟢 75%
    2. Aarau                             3  🟢 100%  🔴
    3. Stade Nyonnais                    3  🟢 100%
    4. FC Rapperswil-Jona                2  🟢 50%
    5. Wil                               2  🟢 100%
    6. FC Stade Lausanne-Ouchy           1  🟢 100%
-   7. Kriens                            1
+   7. Kriens                            1  🔴
    8. Yverdon                           1  🔴
    9. Etoile Carouge                    0
   10. Winterthur                        0
@@ -915,9 +915,9 @@ RITARDI 12 + GOAL
    3. Etoile Carouge                    2  🟢 100%
    4. Kriens                            2  🟢 50%
    5. Aarau                             1  🟢 100%  🔴
-   6. FC Rapperswil-Jona                1
+   6. FC Rapperswil-Jona                1  🔴
    7. Xamax                             1  🔴
-   8. Yverdon                           1  🔴
+   8. Yverdon                           1
    9. FC Stade Lausanne-Ouchy           0
   10. Stade Nyonnais                    0
 
@@ -1454,15 +1454,15 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (135 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (136 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
    1. MFK Bytca                         4  🟢 100%
-   2. FC STK 1914 Šamorín               3  🟢 67%
-   3. Tatran Prešov                     3  🟢 67%
-   4. Humenné                           2  🟢 50%
-   5. MFK Zvolen                        2  🟢 100%
+   2. Tatran Prešov                     4  🟢 50%
+   3. FC STK 1914 Šamorín               3  🟢 67%
+   4. MFK Zvolen                        3  🟢 67%
+   5. Humenné                           2  🟢 50%
    6. Malženice                         2  🟢 100%
    7. Slovan Bratislava B               2  🟢 50%  🔴
    8. FC Petržalka 1898                 1  🟢 100%
@@ -1470,28 +1470,28 @@ RITARDI 1X + GOAL
   10. Inter Bratislava                  1
 
 RITARDI X2 + GOAL
-   1. Považská Bystrica                 5  🟢 80%  🔴  👻 32/39
-   2. Žilina B                          4  🟢 75%  👻 32/39
-   3. Tatran Prešov                     3  🟢 67%  👻 32/39
-   4. FK Pohronie                       2  🟢 100%  👻 32/39
-   5. Inter Bratislava                  2  🟢 50%  👻 32/39
-   6. Slovan Bratislava B               2  🟢 50%  👻 32/39
-   7. Malženice                         1  🟢 100%  👻 32/39
-   8. Baník Lehota pod Vtacnikom        0  👻 32/39
-   9. FC Petržalka 1898                 0  👻 32/39
-  10. FC STK 1914 Šamorín               0  🔴  👻 32/39
+   1. Považská Bystrica                 5  🟢 80%  🔴  👻 33/39
+   2. Tatran Prešov                     4  🟢 50%  👻 33/39
+   3. Žilina B                          4  🟢 75%  👻 33/39
+   4. FK Pohronie                       2  🟢 100%  👻 33/39
+   5. Inter Bratislava                  2  🟢 50%  👻 33/39
+   6. Slovan Bratislava B               2  🟢 50%  👻 33/39
+   7. MFK Zvolen                        1  👻 33/39
+   8. Malženice                         1  🟢 100%  👻 33/39
+   9. Baník Lehota pod Vtacnikom        0  👻 33/39
+  10. FC Petržalka 1898                 0  👻 33/39
 
 RITARDI 12 + GOAL
    1. Slovan Bratislava B               8  🟢 88%
-   2. Tatran Prešov                     5  🟢 80%
+   2. Tatran Prešov                     6  🟢 67%
    3. Zlaté Moravce                     4  🟢 50%
    4. Liptovský Mikuláš                 2  🟢 100%
    5. Baník Lehota pod Vtacnikom        1  🟢 100%
    6. FK Pohronie                       1  🟢 100%
    7. Inter Bratislava                  1
-   8. Malženice                         1  🟢 100%  🔴
-   9. Považská Bystrica                 1  🟢 100%  🔴
-  10. Slovan Galanta                    1  🟢 100%
+   8. MFK Zvolen                        1
+   9. Malženice                         1  🟢 100%  🔴
+  10. Považská Bystrica                 1  🟢 100%  🔴
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1714,16 +1714,16 @@ RITARDI 1X + GOAL
   10. Aldosivi                          1  🟢 100%  👻 30/39
 
 RITARDI X2 + GOAL
-   1. Aldosivi                          4  🟢 75%  👻 33/39
-   2. Boca Juniors                      4  👻 33/39
-   3. River Plate                       4  🟢 50%  👻 33/39
-   4. Deportivo Riestra                 3  🟢 67%  👻 33/39
-   5. Huracán                           3  🟢 100%  👻 33/39
-   6. Racing Club                       3  🟢 67%  👻 33/39
-   7. Tigre                             3  👻 33/39
-   8. Club Atlético Platense            2  🟢 100%  👻 33/39
-   9. Argentinos Juniors                1  🟢 100%  👻 33/39
-  10. Barracas Central                  1  🟢 100%  🔴  👻 33/39
+   1. Aldosivi                          4  🟢 75%  👻 32/39
+   2. Boca Juniors                      4  👻 32/39
+   3. River Plate                       4  🟢 50%  👻 32/39
+   4. Deportivo Riestra                 3  🟢 67%  👻 32/39
+   5. Huracán                           3  🟢 100%  👻 32/39
+   6. Racing Club                       3  🟢 67%  👻 32/39
+   7. Tigre                             3  👻 32/39
+   8. Club Atlético Platense            2  🟢 100%  👻 32/39
+   9. Argentinos Juniors                1  🟢 100%  👻 32/39
+  10. Barracas Central                  1  🟢 100%  🔴  👻 32/39
 
 RITARDI 12 + GOAL
    1. Lanús                             6  🟢 67%  👻 37/39
@@ -1985,7 +1985,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2139,8 +2139,8 @@ RITARDI 1X + GOAL
    1. Arezzo                           5+  🟢 60%  ❗ 11/39
    2. Cremonese                         3  ❗ 11/39
    3. Juve Stabia                       3  ❗ 11/39
-   4. LR Vicenza                        3  🟢 100%  ❗ 11/39
-   5. Mantova                           3  🟢 67%  ❗ 11/39
+   4. Mantova                           3  🟢 67%  ❗ 11/39
+   5. Vicenza                           3  🟢 100%  ❗ 11/39
    6. Avellino                          2  🟢 50%  ❗ 11/39
    7. Sampdoria                         2  🟢 100%  ❗ 11/39
    8. Carrarese                         1  ❗ 11/39
@@ -3442,15 +3442,15 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (135 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (136 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
    1. Zlaté Moravce                     7
    2. Malženice                         5  🟢 80%
-   3. MFK Bytca                         2  🟢 100%
-   4. MFK Zvolen                        2  🟢 100%
-   5. Tatran Prešov                     2  🟢 50%
+   3. Tatran Prešov                     3
+   4. MFK Bytca                         2  🟢 100%
+   5. MFK Zvolen                        2  🟢 100%
    6. Humenné                           1  🟢 100%
    7. Liptovský Mikuláš                 1  🟢 100%
    8. Považská Bystrica                 1  🟢 100%
@@ -3458,21 +3458,21 @@ RITARDI 1X + GOAL
   10. Žilina B                          1  🔴
 
 RITARDI X2 + GOAL
-   1. Liptovský Mikuláš                 5  🟢 60%  👻 32/39
-   2. FC Petržalka 1898                 2  🟢 50%  👻 32/39
-   3. Považská Bystrica                 2  🟢 100%  👻 32/39
-   4. Tatran Prešov                     2  🟢 50%  👻 32/39
-   5. Zlaté Moravce                     2  🔴  👻 32/39
-   6. Žilina B                          2  🟢 50%  🔴  👻 32/39
-   7. FC STK 1914 Šamorín               1  🟢 100%  👻 32/39
-   8. FK Pohronie                       1  🟢 100%  🔴  👻 32/39
-   9. Inter Bratislava                  1  🟢 100%  👻 32/39
-  10. Slovan Bratislava B               1  🟢 100%  🔴  👻 32/39
+   1. Liptovský Mikuláš                 5  🟢 60%  👻 33/39
+   2. Tatran Prešov                     3  👻 33/39
+   3. FC Petržalka 1898                 2  🟢 50%  👻 33/39
+   4. Považská Bystrica                 2  🟢 100%  👻 33/39
+   5. Zlaté Moravce                     2  🔴  👻 33/39
+   6. Žilina B                          2  🟢 50%  🔴  👻 33/39
+   7. FC STK 1914 Šamorín               1  🟢 100%  👻 33/39
+   8. FK Pohronie                       1  🟢 100%  🔴  👻 33/39
+   9. Inter Bratislava                  1  🟢 100%  👻 33/39
+  10. Slovan Bratislava B               1  🟢 100%  🔴  👻 33/39
 
 RITARDI 12 + GOAL
    1. Slovan Bratislava B               7  🟢 100%  🔴
-   2. Baník Lehota pod Vtacnikom        3
-   3. Tatran Prešov                     3  🟢 67%
+   2. Tatran Prešov                     4  🟢 50%
+   3. Baník Lehota pod Vtacnikom        3
    4. Slovan Galanta                    2  🟢 100%
    5. Zlaté Moravce                     2
    6. Liptovský Mikuláš                 1  🟢 100%  🔴
@@ -3702,16 +3702,16 @@ RITARDI 1X + GOAL
   10. Club Atlético Platense            2  🟢 50%  👻 30/39
 
 RITARDI X2 + GOAL
-   1. San Lorenzo                       8  👻 33/39
-   2. Boca Juniors                      6  🟢 50%  👻 33/39
-   3. Barracas Central                  5  🟢 60%  👻 33/39
-   4. Rosario Central                   4  🟢 75%  👻 33/39
-   5. Argentinos Juniors                3  🟢 67%  👻 33/39
-   6. Unión                             3  🟢 100%  👻 33/39
-   7. Aldosivi                          2  🟢 50%  👻 33/39
-   8. Club Atlético Platense            2  🟢 50%  👻 33/39
-   9. Gimnasia LP                       2  🟢 100%  👻 33/39
-  10. Independiente                     2  🟢 50%  👻 33/39
+   1. San Lorenzo                       8  👻 32/39
+   2. Boca Juniors                      6  🟢 50%  👻 32/39
+   3. Barracas Central                  5  🟢 60%  👻 32/39
+   4. Rosario Central                   4  🟢 75%  👻 32/39
+   5. Argentinos Juniors                3  🟢 67%  👻 32/39
+   6. Unión                             3  🟢 100%  👻 32/39
+   7. Aldosivi                          2  🟢 50%  👻 32/39
+   8. Club Atlético Platense            2  🟢 50%  👻 32/39
+   9. Gimnasia LP                       2  🟢 100%  👻 32/39
+  10. Independiente                     2  🟢 50%  👻 32/39
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra               16+  🟢 62%  👻 37/39
@@ -3973,7 +3973,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 16/11/2026 00:55 (ora italiana)
+Aggiornato: 16/11/2026 21:48 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4123,8 +4123,8 @@ RITARDI X2 + GOAL
    2. Carrarese                         4  🟢 75%  🔥 4/39
    3. Hellas Verona                     4  🟢 50%  🔥 4/39
    4. Arezzo                            2  🟢 50%  🔥 4/39
-   5. LR Vicenza                        2  🟢 100%  🔥 4/39
-   6. Sampdoria                         2  🟢 50%  🔥 4/39
+   5. Sampdoria                         2  🟢 50%  🔥 4/39
+   6. Vicenza                           2  🟢 100%  🔥 4/39
    7. Ascoli                            1  🔥 4/39
    8. Catanzaro                         1  🔴  🔥 4/39
    9. Modena                            1  🟢 100%  🔴  🔥 4/39
@@ -5413,8 +5413,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (135 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (136 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
    1. Slovan Galanta                    4  🟢 100%
@@ -5424,21 +5424,21 @@ RITARDI 1X + GOAL
    5. FK Pohronie                       1  🟢 100%  🔴
    6. Humenné                           1
    7. Inter Bratislava                  1
-   8. Malženice                         1  🟢 100%
-   9. Slovan Bratislava B               1
-  10. Tatran Prešov                     1  🟢 100%
+   8. MFK Zvolen                        1
+   9. Malženice                         1  🟢 100%
+  10. Slovan Bratislava B               1
 
 RITARDI X2 + GOAL
-   1. MFK Bytca                        8+  🟢 100%  👻 32/39
-   2. MFK Zvolen                        4  🟢 75%  👻 32/39
-   3. Považská Bystrica                 3  🟢 67%  👻 32/39
-   4. FK Pohronie                       2  🟢 100%  👻 32/39
-   5. Žilina B                          2  🟢 100%  👻 32/39
-   6. Baník Lehota pod Vtacnikom        1  🟢 100%  👻 32/39
-   7. Humenné                           1  👻 32/39
-   8. Inter Bratislava                  1  👻 32/39
-   9. Malženice                         1  🟢 100%  👻 32/39
-  10. Slovan Bratislava B               1  👻 32/39
+   1. MFK Bytca                        8+  🟢 100%  👻 33/39
+   2. MFK Zvolen                        5  🟢 60%  👻 33/39
+   3. Považská Bystrica                 3  🟢 67%  👻 33/39
+   4. FK Pohronie                       2  🟢 100%  👻 33/39
+   5. Žilina B                          2  🟢 100%  👻 33/39
+   6. Baník Lehota pod Vtacnikom        1  🟢 100%  👻 33/39
+   7. Humenné                           1  👻 33/39
+   8. Inter Bratislava                  1  👻 33/39
+   9. Malženice                         1  🟢 100%  👻 33/39
+  10. Slovan Bratislava B               1  👻 33/39
 
 RITARDI 12 + GOAL
    1. Malženice                         4  🟢 75%
@@ -5450,7 +5450,7 @@ RITARDI 12 + GOAL
    7. Zlaté Moravce                     2  🟢 100%
    8. FK Pohronie                       1  🟢 100%
    9. Liptovský Mikuláš                 1  🟢 100%
-  10. Baník Lehota pod Vtacnikom        0
+  10. MFK Zvolen                        1
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -5673,16 +5673,16 @@ RITARDI 1X + GOAL
   10. Rosario Central                   2  🟢 100%  👻 30/39
 
 RITARDI X2 + GOAL
-   1. Aldosivi                          7  🟢 71%  👻 33/39
-   2. Talleres                          7  🟢 71%  👻 33/39
-   3. Estudiantes de Río Cuarto         5  🟢 80%  👻 33/39
-   4. Belgrano                          4  🟢 50%  👻 33/39
-   5. Deportivo Riestra                 4  👻 33/39
-   6. Huracán                           3  🟢 100%  👻 33/39
-   7. River Plate                       3  🟢 67%  🔴  👻 33/39
-   8. Vélez Sarsfield                   3  🟢 100%  👻 33/39
-   9. Central Córdoba de Santiago       2  🟢 100%  👻 33/39
-  10. Racing Club                       2  🟢 50%  👻 33/39
+   1. Aldosivi                          7  🟢 71%  👻 32/39
+   2. Talleres                          7  🟢 71%  👻 32/39
+   3. Estudiantes de Río Cuarto         5  🟢 80%  👻 32/39
+   4. Belgrano                          4  🟢 50%  👻 32/39
+   5. Deportivo Riestra                 4  👻 32/39
+   6. Huracán                           3  🟢 100%  👻 32/39
+   7. River Plate                       3  🟢 67%  🔴  👻 32/39
+   8. Vélez Sarsfield                   3  🟢 100%  👻 32/39
+   9. Central Córdoba de Santiago       2  🟢 100%  👻 32/39
+  10. Racing Club                       2  🟢 50%  👻 32/39
 
 RITARDI 12 + GOAL
    1. Boca Juniors                      8  🟢 88%  👻 37/39

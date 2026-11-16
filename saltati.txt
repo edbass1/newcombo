@@ -3,22 +3,20 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 16/11/2026 00:55 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 16/11/2026 21:48 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 15/11 14:30  [GOAL] Vitesse: 12 + GOAL uscita, era a 6 🔥 1/39  -  MVV Maastricht 2-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 12  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 17:30  [GOAL] Gubbio: 1X + GOAL uscita, era a 8  -  Gubbio 3-2 Grosseto   [ITALIA - SERIE C]
 14/11 16:30  [GOAL] NAC Breda: 12 + GOAL uscita, era a 6 🔥 1/39  -  NAC Breda 4-2 FC Emmen   [OLANDA - EERSTE DIVISIE]
-14/11 13:00  [GOAL] Liptovský Mikuláš: X2 + GOAL uscita, era a 6 👻 32/39  -  Slovan Galanta 1-1 Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
-09/11 21:15  [GOAL] Torreense: X2 + GOAL uscita, era a 6  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
-09/11 21:15  [GOAL] Torreense: 12 + GOAL uscita, era a 8 👻 30/39  -  Torreense 2-3 União de Leiria   [PORTOGALLO - LIGA PORTUGAL 2]
+14/11 13:00  [GOAL] Liptovský Mikuláš: X2 + GOAL uscita, era a 6 👻 33/39  -  Slovan Galanta 1-1 Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 16/11/2026 00:55 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 16/11/2026 21:48 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 6  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 18:30  [GOAL] Mallorca: X2 + GOAL uscita, era a 6 👻 34/39  -  Mallorca 3-3 Córdoba   [SPAGNA - LALIGA 2]
@@ -31,7 +29,7 @@ Aggiornato: 16/11/2026 00:55 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 16/11/2026 00:55 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 16/11/2026 21:48 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 15/11 17:30  [GOAL] Casertana: 1X + GOAL uscita, era a 6  -  Cosenza 2-1 Casertana   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Lecco: 1X + GOAL uscita, era a 6  -  Novara 1-1 Lecco   [ITALIA - SERIE C]
