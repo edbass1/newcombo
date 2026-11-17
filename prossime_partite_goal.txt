@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 17/11/2026 13:46 (ora italiana)
+Aggiornato: 17/11/2026 22:30 (ora italiana)
 Fasce: 1X + GOAL da 6 a 8, X2 + GOAL e 12 + GOAL da 9 in su. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -46,7 +46,7 @@ TRASFERTA 20:45  Cercle Brugge vs Westerlo [🔥A 🔥D]   [BELGIO - FIRST DIVIS
            xG: Cercle Brugge xG 3,53 (1,55+1,98) · Westerlo xG 3,57 (1,55+2,02)
            Westerlo: X2 + GOAL (9) 👻 37/39 [TOP 20]
 TOTALE    21:00  Barnsley [🧊A 🔥D] vs Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
-           xG: Barnsley xG 3,15 (1,42+1,73) · Sheffield Wednesday xG 3,23 (1,71+1,52)
+           xG: Barnsley xG 3,14 (1,41+1,73) · Sheffield Wednesday xG 3,23 (1,71+1,52)
            Sheffield Wednesday: 12 + GOAL (9) [TOP 20] 🔴 Barnsley
 
 ==================================================
@@ -191,3 +191,55 @@ CASA      13:30  Kaiserslautern [🧊A 🧊D] vs Dynamo Dresden [🔥D]   [GERMA
            Kaiserslautern: X2 + GOAL (9) [TOP 20]; 12 + GOAL (9) [TOP 20] 🔴 Kaiserslautern
 TOTALE    13:30  FC Vlašim [🧊D] vs SK Prostějov   [REP. CECA - FNL]
            FC Vlašim: X2 + GOAL (9) 🔥 2/39 [TOP 20] 🔴 FC Vlašim 🔴 SK Prostějov
+ALERT     14:00  AC Horsens vs Silkeborg   [DANIMARCA - SUPERLIGAEN]
+TRASFERTA 14:00  Viborg [🧊D] vs Randers FC [🧊A]   [DANIMARCA - SUPERLIGAEN]
+           xG: Viborg xG 2,89 (1,67+1,22) · Randers FC xG 3,15 (1,22+1,93)
+           Randers FC: X2 + GOAL (9) ❗ 13/39 [TOP 20]
+ALERT     14:00  Córdoba vs Real Oviedo   [SPAGNA - LALIGA 2]
+CASA      14:30  Torres [🧊D] vs Spezia [🔥A 🧊D]   [ITALIA - SERIE C]
+           Torres: X2 + GOAL (10) [TOP 20]
+TRASFERTA 14:30  Torres [🧊D] vs Spezia [🔥A 🧊D]   [ITALIA - SERIE C]
+           Spezia: 1X + GOAL (6)
+TOTALE    14:30  Lechia Gdańsk [🔥A] vs Odra Opole [🧊A]   [POLONIA - I LIGA]
+           Odra Opole: 1X + GOAL (7) [TOP 20] 🔴 Lechia Gdańsk
+CASA      15:00  Paris FC vs Angers [🧊A]   [FRANCIA - LIGUE 1]
+           xG: Paris FC xG 2,65 (1,67+0,98) · Angers xG 3,22 (1,36+1,86)
+           Paris FC: X2 + GOAL (12) [TOP 20]
+TOTALE    15:00  Hull City vs Brighton & Hove Albion [🔥A 🧊D]   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Hull City xG 2,40 (0,95+1,45) · Brighton & Hove Albion xG 3,29 (1,93+1,36)
+           Brighton & Hove Albion: 1X + GOAL (7) [TOP 20]
+ALERT     15:00  Avellino vs Mantova   [ITALIA - SERIE B]
+TRASFERTA 16:00  Kortrijk [🧊A] vs Union St.Gilloise [🔥A 🧊D]   [BELGIO - FIRST DIVISION A]
+           xG: Kortrijk xG 2,89 (1,07+1,82) · Union St.Gilloise xG 2,96 (1,96+1,00)
+           Union St.Gilloise: 1X + GOAL (7) 👻 34/39 [TOP 20]
+ALERT     16:30  Saarbrücken vs Wehen Wiesbaden   [GERMANIA - 3. LIGA]
+TOTALE    16:30  Brommapojkarna vs Halmstads BK [🧊A 🔥D]   [SVEZIA - ALLSVENSKAN]
+           xG: Brommapojkarna xG 2,79 (1,41+1,38) · Halmstads BK xG 3,13 (1,03+2,10)
+           Brommapojkarna: 1X + GOAL (7) 👻 33/39 [TOP 20] 🔴 Brommapojkarna
+ALERT     17:15  Arezzo vs Padova   [ITALIA - SERIE B]
+TOTALE    17:30  Liverpool [🧊D] vs Manchester United [🔥D]   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Liverpool xG 2,90 (1,58+1,32) · Manchester United xG 3,55 (1,76+1,79)
+           Liverpool: 1X + GOAL (8) [TOP 20] 🔴 Liverpool 🔴 Manchester United
+TRASFERTA 17:30  Liverpool [🧊D] vs Manchester United [🔥D]   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Liverpool xG 2,90 (1,58+1,32) · Manchester United xG 3,55 (1,76+1,79)
+           Manchester United: 12 + GOAL (9) 👻 38/39 [TOP 20] 🔴 Liverpool
+CASA      17:30  Desenzano [🧊A] vs AlbinoLeffe   [ITALIA - SERIE C]
+           Desenzano: 1X + GOAL (6+)
+TOTALE    17:30  Forlì vs Reggiana   [ITALIA - SERIE C]
+           Reggiana: X2 + GOAL (9) [TOP 20]
+CASA      18:00  Sparta Prague [🔥A 🧊D] vs Slovan Liberec [🧊D]   [REP. CECA - 1. LIGA]
+           Sparta Prague: X2 + GOAL (14) [TOP 20]
+TRASFERTA 18:00  Sparta Prague [🔥A 🧊D] vs Slovan Liberec [🧊D]   [REP. CECA - 1. LIGA]
+           Slovan Liberec: 1X + GOAL (7) 👻 36/39 [TOP 20]
+TRASFERTA 19:15  Gent U23 [🧊A] vs Francs Borains [🧊A 🧊D]   [BELGIO - FIRST DIVISION B]
+           xG: Gent U23 xG 2,64 (1,21+1,43) · Francs Borains xG 3,36 (1,74+1,62)
+           Francs Borains: 1X + GOAL (6) 👻 37/39
+ALERT     19:15  Sarpsborg 08 vs Lillestrøm   [NORVEGIA - ELITESERIEN]
+ALERT     20:00  Athletico Paranaense vs Remo   [BRASILE - SÉRIE A]
+ALERT     20:45  Atalanta vs Inter   [ITALIA - SERIE A]
+TRASFERTA 21:00  Getafe [🧊A] vs Atlético Madrid [🔥A 🧊D]   [SPAGNA - LALIGA]
+           xG: Getafe xG 2,13 (0,70+1,43) · Atlético Madrid xG 2,74 (1,61+1,13)
+           Atlético Madrid: 1X + GOAL (6)
+CASA      22:00  Nashville SC [🔥A 🧊D] vs Orlando City/FC Cincinnati   [USA/CANADA - MLS]
+           xG: Nashville SC xG 2,92 (1,67+1,25)
+           Nashville SC: X2 + GOAL (12) ❗ 10/39 [TOP 20]
