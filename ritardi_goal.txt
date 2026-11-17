@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -185,20 +185,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE C
-Stagione 2026/2027 (416 partite giocate) + 2025/2026
+Stagione 2026/2027 (418 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
    1. Barletta                          5
-   2. Catania                           4  🟢 50%
-   3. Forlì                             4  🟢 50%
-   4. Giugliano                         4  🟢 50%
-   5. Monopoli                          4  🟢 50%
-   6. Torres                            4  🟢 75%
-   7. Ospitaletto                       3
-   8. Treviso                           3  🟢 67%
-   9. Crotone                           2
-  10. Inter U23                         2
+   2. Torres                            5  🟢 60%
+   3. Catania                           4  🟢 50%
+   4. Forlì                             4  🟢 50%
+   5. Giugliano                         4  🟢 50%
+   6. Ospitaletto                       3
+   7. Treviso                           3  🟢 67%
+   8. Crotone                           2
+   9. Inter U23                         2
+  10. Juventus Next Gen                 2  🟢 100%
 
 RITARDI X2 + GOAL
    1. Reggiana                          9  🟢 56%
@@ -207,10 +207,10 @@ RITARDI X2 + GOAL
    4. Pineto                            7
    5. Dolomiti Bellunesi                6  🟢 83%
    6. Gubbio                            6  🟢 50%
-   7. Vis Pesaro                        6  🟢 50%
-   8. Barletta                          5
-   9. Crotone                           5
-  10. Forlì                             5  🟢 60%
+   7. Torres                            6  🟢 67%
+   8. Vis Pesaro                        6  🟢 50%
+   9. Barletta                          5
+  10. Crotone                           5
 
 RITARDI 12 + GOAL
    1. Latina                           10  🟢 80%
@@ -219,9 +219,9 @@ RITARDI 12 + GOAL
    4. Folgore Caratese                  6  🟢 67%
    5. Novara                            6  🟢 83%
    6. Salernitana                       6  🟢 50%
-   7. Catania                           4  🟢 50%
-   8. Forlì                             4  🟢 50%
-   9. Torres                            4  🟢 75%
+   7. Torres                            5  🟢 60%
+   8. Catania                           4  🟢 50%
+   9. Forlì                             4  🟢 50%
   10. Campobasso                        3  🟢 100%
 
 ==================================================
@@ -636,7 +636,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (150 partite giocate) + 2025/2026
+Stagione 2026/2027 (151 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -645,10 +645,10 @@ RITARDI 1X + GOAL
    3. AD Ceuta FC                       3  🟢 100%  🔴  👻 31/39
    4. Girona                            3  👻 31/39
    5. Real Oviedo                       3  🟢 100%  👻 31/39
-   6. Granada                           2  🟢 50%  👻 31/39
-   7. Real Valladolid                   2  🟢 50%  👻 31/39
-   8. Sabadell                          2  🟢 50%  👻 31/39
-   9. Albacete                          1  🟢 100%  👻 31/39
+   6. Albacete                          2  🟢 50%  👻 31/39
+   7. Granada                           2  🟢 50%  👻 31/39
+   8. Real Valladolid                   2  🟢 50%  👻 31/39
+   9. Sabadell                          2  🟢 50%  👻 31/39
   10. Castellón                         1  👻 31/39
 
 RITARDI X2 + GOAL
@@ -658,10 +658,10 @@ RITARDI X2 + GOAL
    4. Sabadell                          3  🟢 67%  👻 34/39
    5. Almería                           2  🟢 50%  👻 34/39
    6. Burgos CF                         2  🟢 100%  👻 34/39
-   7. Las Palmas                        2  🟢 50%  🔴  👻 34/39
-   8. Castellón                         1  👻 34/39
-   9. Celta Fortuna                     1  🟢 100%  👻 34/39
-  10. FC Andorra                        1  🟢 100%  👻 34/39
+   7. Celta Fortuna                     2  🟢 50%  👻 34/39
+   8. Las Palmas                        2  🟢 50%  🔴  👻 34/39
+   9. Albacete                          1  👻 34/39
+  10. Castellón                         1  👻 34/39
 
 RITARDI 12 + GOAL
    1. Castellón                         8  🟢 75%  🔴
@@ -1985,7 +1985,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2173,20 +2173,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE C
-Stagione 2026/2027 (416 partite giocate) + 2025/2026
+Stagione 2026/2027 (418 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
    1. Dolomiti Bellunesi                9  🟢 67%
    2. Desenzano                        6+  🟢 50%
    3. Foggia                            6  🟢 50%
-   4. Sorrento                          6  🟢 50%
-   5. Audace Cerignola                  5
+   4. Audace Cerignola                  5
+   5. Perugia                           5  🟢 60%
    6. Reggiana                          5
    7. Folgore Caratese                  4  🟢 75%
    8. Grosseto                          4  🟢 100%
-   9. Perugia                           4  🟢 75%
-  10. Pineto                            4  🟢 50%
+   9. Pineto                            4  🟢 50%
+  10. Barletta                          3
 
 RITARDI X2 + GOAL
    1. Torres                           10  🟢 70%
@@ -2624,7 +2624,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (150 partite giocate) + 2025/2026
+Stagione 2026/2027 (151 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -2634,18 +2634,18 @@ RITARDI 1X + GOAL
    4. Córdoba                           2  🟢 100%  👻 31/39
    5. Eldense                           2  🟢 100%  👻 31/39
    6. Real Oviedo                       2  🟢 100%  👻 31/39
-   7. Castellón                         1  🟢 100%  🔴  👻 31/39
-   8. Cádiz                             1  🟢 100%  👻 31/39
-   9. Girona                            1  👻 31/39
-  10. Granada                           1  👻 31/39
+   7. Albacete                          1  👻 31/39
+   8. Castellón                         1  🟢 100%  🔴  👻 31/39
+   9. Cádiz                             1  🟢 100%  👻 31/39
+  10. Girona                            1  👻 31/39
 
 RITARDI X2 + GOAL
    1. Girona                            5  🟢 60%  👻 34/39
    2. Córdoba                           4  🟢 100%  🔴  👻 34/39
    3. Eldense                           4  🟢 100%  👻 34/39
-   4. Granada                           3  🟢 67%  👻 34/39
-   5. Las Palmas                        3  🟢 67%  👻 34/39
-   6. Albacete                          2  🟢 100%  🔴  👻 34/39
+   4. Albacete                          3  🟢 67%  🔴  👻 34/39
+   5. Granada                           3  🟢 67%  👻 34/39
+   6. Las Palmas                        3  🟢 67%  👻 34/39
    7. Real Valladolid                   2  🟢 50%  👻 34/39
    8. AD Ceuta FC                       1  🟢 100%  👻 34/39
    9. Almería                           1  🟢 100%  👻 34/39
@@ -3973,7 +3973,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4144,7 +4144,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE C
-Stagione 2026/2027 (416 partite giocate) + 2025/2026
+Stagione 2026/2027 (418 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
@@ -4157,7 +4157,7 @@ RITARDI 1X + GOAL
    7. Treviso                           4  🟢 50%
    8. Vado                              4  🟢 75%
    9. Salernitana                       3
-  10. Trento                            3  🟢 67%
+  10. Torres                            3
 
 RITARDI X2 + GOAL
    1. Vis Pesaro                        7  🟢 57%
@@ -4172,12 +4172,12 @@ RITARDI X2 + GOAL
   10. Cittadella                        4  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Treviso                           6  🟢 67%
-   2. Giugliano                         5  🟢 60%
-   3. Gubbio                            5  🟢 60%
-   4. Ostia Mare                        5  🟢 80%
-   5. Pro Vercelli                      5  🟢 80%
-   6. Torres                            5  🟢 80%
+   1. Torres                            6  🟢 67%
+   2. Treviso                           6  🟢 67%
+   3. Giugliano                         5  🟢 60%
+   4. Gubbio                            5  🟢 60%
+   5. Ostia Mare                        5  🟢 80%
+   6. Pro Vercelli                      5  🟢 80%
    7. Barletta                          4
    8. Latina                            4  🟢 75%
    9. Lecco                             4  🟢 100%
@@ -4595,7 +4595,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (150 partite giocate) + 2025/2026
+Stagione 2026/2027 (151 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,7 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
@@ -4608,10 +4608,10 @@ RITARDI 1X + GOAL
    7. Albacete                          1  🟢 100%  🔴  👻 31/39
    8. Almería                           1  🔴  👻 31/39
    9. Castellón                         1  👻 31/39
-  10. Eibar                             1  🟢 100%  👻 31/39
+  10. Celta Fortuna                     1  👻 31/39
 
 RITARDI X2 + GOAL
-   1. Celta Fortuna                    6+  🟢 83%  👻 34/39
+   1. Celta Fortuna                    7+  🟢 71%  👻 34/39
    2. Leganés                           6  🟢 67%  👻 34/39
    3. Real Sociedad B                   4  🟢 50%  🔴  👻 34/39
    4. AD Ceuta FC                       3  🟢 100%  👻 34/39

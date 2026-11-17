@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -445,7 +445,6 @@ SOTTOFREQUENZA X2 + GOAL
     4/22 Eldense                        35/100
     5/22 Celta Fortuna                  35/100
     6/22 Castellón                      35/100
-    7/22 Albacete                       35/100
      ...
    22/22 Real Valladolid                23/100  (la fa meno spesso)
 
@@ -1461,7 +1460,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1873,15 +1872,15 @@ SOTTOFREQUENZA 1X + GOAL
     1/21 Celta Fortuna                  50/100
     2/21 Almería                        47/100
     3/21 Castellón                      43/100
-    4/21 Albacete                       43/100
-    5/21 Girona                         42/100
+    4/21 Girona                         42/100
+    5/21 Albacete                       42/100
      ...
    21/21 Cádiz                          26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/21 Real Sociedad B                41/100
     2/21 Córdoba                        37/100
-    3/21 Albacete                       37/100
+    3/21 Albacete                       36/100
     4/21 Las Palmas                     35/100
     5/21 Granada                        34/100
     6/21 Eldense                        34/100
@@ -2878,7 +2877,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 16/11/2026 21:48 (ora italiana)
+Aggiornato: 17/11/2026 13:46 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2955,7 +2954,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/33 Vis Pesaro                     43/100
     5/33 Novara                         43/100
      ...
-   33/33 Monopoli                       26/100  (la fa meno spesso)
+   33/33 Monopoli                       27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/33 Pescara                        43/100
