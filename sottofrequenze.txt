@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 19/11/2026 12:13 (ora italiana)
+Aggiornato: 19/11/2026 20:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -876,8 +876,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 Vendsyssel FF                  44/100
     3/12 AaB                            44/100
     4/12 Vejle Boldklub                 43/100
-    5/12 Hillerød                       42/100
-    6/12 Esbjerg fB                     42/100
+    5/12 Hillerød                       43/100
      ...
    12/12 Aarhus Fremad                  32/100  (la fa meno spesso)
 
@@ -895,7 +894,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 Vendsyssel FF                  41/100
     3/12 HB Køge                        38/100
     4/12 AB                             37/100
-    5/12 Hillerød                       35/100
+    5/12 Hillerød                       36/100
      ...
    12/12 Aarhus Fremad                  32/100  (la fa meno spesso)
 
@@ -1461,7 +1460,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 19/11/2026 12:13 (ora italiana)
+Aggiornato: 19/11/2026 20:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2305,7 +2304,7 @@ SOTTOFREQUENZA X2 + GOAL
     6/12 Kolding IF                     34/100
     7/12 Aarhus Fremad                  34/100
      ...
-   12/12 Esbjerg fB                     28/100  (la fa meno spesso)
+   12/12 Fredericia                     27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Aarhus Fremad                  45/100
@@ -2878,7 +2877,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 19/11/2026 12:13 (ora italiana)
+Aggiornato: 19/11/2026 20:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3749,9 +3748,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 Fredericia                     43/100
     3/12 Vendsyssel FF                  38/100
     4/12 AB                             37/100
-    5/12 Hvidovre                       34/100
-    6/12 Hillerød                       34/100
-    7/12 HB Køge                        34/100
+    5/12 Hillerød                       35/100
      ...
    12/12 Hobro                          26/100  (la fa meno spesso)
 

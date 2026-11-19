@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 19/11/2026 12:13 (ora italiana)
+Aggiornato: 19/11/2026 20:57 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -10,7 +10,7 @@ Fonte: FotMob
 1X + GOAL
 ==================================================
    1/39  OLANDA - EERSTE DIVISIE          1 ogni 2,0       (74/147, 15 giornate)
-   2/39  DANIMARCA - 1. DIVISION          1 ogni 2,1       (40/84, 14 giornate)
+   2/39  DANIMARCA - 1. DIVISION          1 ogni 2,1       (41/85, 15 giornate)
    3/39  DANIMARCA - SUPERLIGAEN          1 ogni 2,1       (40/84, 14 giornate)
    4/39  USA/CANADA - MLS                 1 ogni 2,1       (241/510, 35 giornate)
    5/39  INGHILTERRA - LEAGUE TWO         1 ogni 2,1       (81/174, 15 giornate)
@@ -57,8 +57,8 @@ X2 + GOAL
    3/39  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 2,2       (38/84, 14 giornate)
    4/39  ITALIA - SERIE B                 1 ogni 2,4       (46/110, 11 giornate)
    5/39  SVIZZERA - SUPER LEAGUE          1 ogni 2,4       (32/78, 13 giornate)
-   6/39  DANIMARCA - 1. DIVISION          1 ogni 2,5       (33/84, 14 giornate)
-   7/39  GERMANIA - 3. LIGA               1 ogni 2,5       (51/130, 13 giornate)
+   6/39  GERMANIA - 3. LIGA               1 ogni 2,5       (51/130, 13 giornate)
+   7/39  DANIMARCA - 1. DIVISION          1 ogni 2,6       (33/85, 15 giornate)
    8/39  FRANCIA - LIGUE 2                1 ogni 2,6       (41/108, 12 giornate)
    9/39  OLANDA - EERSTE DIVISIE          1 ogni 2,7       (55/147, 15 giornate)
   10/39  USA/CANADA - MLS                 1 ogni 2,7       (190/510, 35 giornate)
@@ -124,11 +124,11 @@ X2 + GOAL
   27/39  ITALIA - SERIE C                 1 ogni 2,9       (145/418, 14 giornate)
   28/39  SVIZZERA - CHALLENGE LEAGUE      1 ogni 3,0       (22/65, 13 giornate)
   29/39  BELGIO - FIRST DIVISION A        1 ogni 3,0       (33/99, 11 giornate)
-  30/39  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,1       (31/95, 11 giornate)
-  31/39  SVEZIA - ALLSVENSKAN             1 ogni 3,1       (73/224, 28 giornate)
-  32/39  POLONIA - I LIGA                 1 ogni 3,1       (41/126, 18 giornate)
-  33/39  INGHILTERRA - LEAGUE TWO         1 ogni 3,1       (56/174, 15 giornate)
-  34/39  DANIMARCA - 1. DIVISION          1 ogni 3,1       (27/84, 14 giornate)
+  30/39  DANIMARCA - 1. DIVISION          1 ogni 3,0       (28/85, 15 giornate)
+  31/39  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,1       (31/95, 11 giornate)
+  32/39  SVEZIA - ALLSVENSKAN             1 ogni 3,1       (73/224, 28 giornate)
+  33/39  POLONIA - I LIGA                 1 ogni 3,1       (41/126, 18 giornate)
+  34/39  INGHILTERRA - LEAGUE TWO         1 ogni 3,1       (56/174, 15 giornate)
   35/39  ITALIA - SERIE B                 1 ogni 3,1       (35/110, 11 giornate)
   36/39  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,2       (31/98, 11 giornate)
   37/39  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (73/240, 16 giornate)
