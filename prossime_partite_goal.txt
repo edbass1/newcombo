@@ -1,15 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 18/11/2026 22:06 (ora italiana)
+Aggiornato: 19/11/2026 12:13 (ora italiana)
 Fasce: 1X + GOAL da 6 a 8, X2 + GOAL e 12 + GOAL da 9 in su. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
-
-==================================================
-19/11/2026
-==================================================
-TOTALE    00:30  Cruzeiro [🔥A] vs Palmeiras [🔥A 🧊D]   [BRASILE - SÉRIE A]
-           xG: Cruzeiro xG 2,94 (1,63+1,31) · Palmeiras xG 2,43 (1,45+0,98)
-           Palmeiras: X2 + GOAL (9) [TOP 20]
-ALERT     00:30  Flamengo vs Athletico Paranaense   [BRASILE - SÉRIE A]
 
 ==================================================
 20/11/2026
@@ -166,14 +158,17 @@ TRASFERTA 20:00  New England Revolution [🧊D] vs Philadelphia Union [🔥A]   
            xG: New England Revolution xG 3,04 (1,56+1,48) · Philadelphia Union xG 3,37 (1,99+1,38)
            Philadelphia Union: 1X + GOAL (6) 🔥 4/39
 TOTALE    20:30  Palmeiras [🔥A 🧊D] vs Flamengo [🔥A 🧊D]   [BRASILE - SÉRIE A]
-           xG: Palmeiras xG 2,43 (1,45+0,98) · Flamengo xG 2,78 (1,81+0,97)
-           Palmeiras: X2 + GOAL (9) [TOP 20]
+           xG: Palmeiras xG 2,40 (1,43+0,97) · Flamengo xG 2,74 (1,80+0,94)
+           Palmeiras: X2 + GOAL (10) [TOP 20]
 CASA      20:45  Lille [🧊D] vs Lyon [🧊D]   [FRANCIA - LIGUE 1]
            xG: Lille xG 2,83 (1,33+1,50) · Lyon xG 2,74 (1,51+1,23)
            Lille: 12 + GOAL (12) 🔥 7/39 [TOP 20] 🔴 Lyon
 CASA      21:00  Motherwell vs Rangers [🧊D]   [SCOZIA - PREMIERSHIP]
            xG: Motherwell xG 3,29 (1,65+1,64) · Rangers xG 3,62 (2,47+1,15)
            Motherwell: 1X + GOAL (7) [TOP 20] 🔴 Rangers
+TOTALE    21:30  Bahia vs Coritiba [🔥D]   [BRASILE - SÉRIE A]
+           xG: Bahia xG 3,01 (1,52+1,49) · Coritiba xG 2,69 (1,08+1,61)
+           Coritiba: 12 + GOAL (9) [TOP 20]
 
 ==================================================
 22/11/2026
@@ -235,7 +230,6 @@ TRASFERTA 19:15  Gent U23 [🧊A] vs Francs Borains [🧊A 🧊D]   [BELGIO - FI
            xG: Gent U23 xG 2,64 (1,21+1,43) · Francs Borains xG 3,36 (1,74+1,62)
            Francs Borains: 1X + GOAL (6) 👻 37/39
 ALERT     19:15  Sarpsborg 08 vs Lillestrøm   [NORVEGIA - ELITESERIEN]
-ALERT     20:00  Athletico Paranaense vs Remo   [BRASILE - SÉRIE A]
 ALERT     20:45  Atalanta vs Inter   [ITALIA - SERIE A]
 TRASFERTA 21:00  Getafe [🧊A] vs Atlético Madrid [🔥A 🧊D]   [SPAGNA - LALIGA]
            xG: Getafe xG 2,13 (0,70+1,43) · Atlético Madrid xG 2,74 (1,61+1,13)
