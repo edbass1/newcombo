@@ -401,12 +401,44 @@ def _line_text(kind, row):
     dot = " 🔴" if row["red"] else ""
     return f"{kind.upper():<12} {row['team']}: ({_label(row['delay'], row['full'])}) #{row['rank']}/{row['total']}{dot}"
 
-def _line_html(kind, row):
+def _line_html(kind, row, view):
+    slug = {"all": "totale", "home": "casa", "away": "trasferta"}[view]
+    n = _label(row["delay"], row["full"])
     dot = " 🔴" if row["red"] else ""
     return (
-        f'<div class="tagrow">{esc(kind.upper())} · <b>{esc(row["team"])}</b> '
-        f'({esc(_label(row["delay"], row["full"]))}) · #{row["rank"]}/{row["total"]}{dot}</div>'
+        f'<div class="tagrow" data-kind="{esc(kind)}" data-team="{esc(row["team"])}" '
+        f'data-n="{esc(n)}" data-view="{slug}">'
+        f'{esc(kind.upper())} · <b>{esc(row["team"])}</b> '
+        f'({esc(n)}) · #{row["rank"]}/{row["total"]}{dot}</div>'
     )
+
+COPY_BUTTON_HTML = (
+    '<p><a href="#corner" id="copy-corner-today" role="button" '
+    'style="display:inline-block;font-size:1.35rem;font-weight:800;background:#000;color:#fff;'
+    'border:2px solid #fff;border-radius:10px;padding:.7rem 1.15rem;text-decoration:none;cursor:pointer">'
+    'Copia partite del giorno</a></p>'
+)
+
+COPY_SCRIPT = r"""<script>(function(){
+function romeStamp(ms){var fmt=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});var map={};fmt.formatToParts(new Date(ms)).forEach(function(p){if(p.type!=='literal')map[p.type]=p.value;});var hour=map.hour==='24'?'00':map.hour;return {date:map.year+'-'+map.month+'-'+map.day,hm:hour+':'+map.minute};}
+function visible(el){return el&&!el.hidden&&el.style.display!=='none';}
+function viewOf(card){var v=card.querySelector('.vtag');var t=(v?v.textContent:'').replace(/\s+/g,'').toUpperCase();if(t==='CASA')return 'casa';if(t==='TRASFERTA')return 'trasferta';return 'totale';}
+function rowInfo(row,view){if(row.getAttribute('data-kind')){return {kind:row.getAttribute('data-kind'),team:row.getAttribute('data-team'),n:row.getAttribute('data-n'),view:row.getAttribute('data-view')||view};}var b=row.querySelector('b');var team=b?(b.textContent||'').trim():'';var raw=(row.textContent||'');var kind=/RIPETIZIONE/i.test(raw)?'ripetizione':(/RITARDO/i.test(raw)?'ritardo':'');var nm=raw.match(/\(([^)]+)\)/);return {kind:kind,team:team,n:nm?nm[1].trim():'',view:view};}
+function buildCornerDay(){var today=romeStamp(Date.now()).date;var root=document.getElementById('corner');var sec=root?(root.closest('section')||root.parentElement):null;var list=sec?sec.querySelector('.fxlist[data-upcoming]'):null;var lines=['CORNER 9-11 | '+today];if(!list)return lines.join('\n');var groups={},order=[];[].slice.call(list.querySelectorAll(':scope > .fx')).forEach(function(card){if(!visible(card))return;var kick=card.getAttribute('data-kick');var when=kick?Date.parse(kick):NaN;if(isNaN(when))return;var stamp=romeStamp(when);if(stamp.date!==today)return;var home=card.getAttribute('data-home'),away=card.getAttribute('data-away');if(!home||!away){var copy=(card.querySelector('.time')||{}).getAttribute?card.querySelector('.time').getAttribute('data-copy'):'';var bits=(copy||'').split(' vs ');home=home||bits[0]||'';away=away||bits.slice(1).join(' vs ')||'';}var key=stamp.hm+'|'+home+'|'+away;if(!groups[key]){groups[key]={hm:stamp.hm,home:home,away:away,bits:[]};order.push(key);}var view=viewOf(card);[].slice.call(card.querySelectorAll('.tagrow')).forEach(function(row){var info=rowInfo(row,view);if(!info.kind||!info.team)return;groups[key].bits.push(info.team+' ('+info.kind+' '+info.n+' '+info.view+')');});});order.sort(function(a,b){if(groups[a].hm!==groups[b].hm)return groups[a].hm<groups[b].hm?-1:1;return a<b?-1:1;});order.forEach(function(key){var g=groups[key];lines.push(g.hm+' | '+g.home+' - '+g.away+' | '+g.bits.join('; '));});return lines.join('\n');}
+function showCopied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1.1rem;border-radius:10px;font-weight:800;font-size:1.25rem';document.body.appendChild(msg);}msg.textContent='Copiato!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},1600);}
+function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.setAttribute('readonly','');ta.style.position='fixed';ta.style.left='-9999px';document.body.appendChild(ta);ta.select();var ok=false;try{ok=document.execCommand('copy');}catch(e){ok=false;}ta.remove();if(ok)showCopied();else window.prompt('Copia il testo:',txt);}
+function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(showCopied).catch(function(){fallback(txt);});}else fallback(txt);}
+document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('#copy-corner-today');if(!btn)return;e.preventDefault();copyText(buildCornerDay());});
+})();</script>"""
+
+def ensure_day_copy(html):
+    """Aggiunge il pulsante e lo script se la pagina non li ha ancora."""
+    needle = '<div class="fxlist" data-upcoming="1">'
+    if 'id="copy-corner-today"' not in html and needle in html:
+        html = html.replace(needle, COPY_BUTTON_HTML + needle, 1)
+    if "function buildCornerDay" not in html and "<!-- /CORNER-SECTION -->" in html:
+        html = html.replace("<!-- /CORNER-SECTION -->", COPY_SCRIPT + "\n<!-- /CORNER-SECTION -->", 1)
+    return html
 
 def render_texts(model, stamp):
     leagues = model["leagues"]
@@ -612,6 +644,7 @@ def render_html(model, stamp):
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '
         '# &egrave; il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso. '
         'Le partite già iniziate non restano in elenco.</p>',
+        COPY_BUTTON_HTML,
         '<div class="fxlist" data-upcoming="1">',
     ]
     cards = _upcoming_cards(model)
@@ -627,11 +660,12 @@ def render_html(model, stamp):
         kick = card["when"].astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         copy = esc(card["home"] + " vs " + card["away"])
         parts.append(
-            f'<div class="fx" data-kick="{kick}"><span class="vtag {card["venue"]}">{esc(card["mark"])}</span>'
+            f'<div class="fx" data-kick="{kick}" data-home="{esc(card["home"])}" data-away="{esc(card["away"])}">'
+            f'<span class="vtag {card["venue"]}">{esc(card["mark"])}</span>'
             f'<div class="fxh"><span class="time copy-time" data-copy="{copy}" title="Clicca per copiare la partita">{local:%H:%M}</span> '
             f'{esc(card["home"])} vs {esc(card["away"])} '
             f'<span class="lg">{esc(card["country"])} - {esc(card["league"])}</span></div>'
-            + "".join(_line_html(kind, row) for kind, row in card["lines"])
+            + "".join(_line_html(kind, row, card["venue"]) for kind, row in card["lines"])
             + "</div>"
         )
     parts.append("</div>")
@@ -767,6 +801,7 @@ def render_html(model, stamp):
     if not any_salt:
         parts.append("<p>Nessun ritardo spezzato negli ultimi giorni.</p>")
     parts.append("</div>")
+    parts.append(COPY_SCRIPT)
     return "\n".join(parts)
 
 def _repeat_alerts(model):
@@ -843,6 +878,7 @@ def _patch_page(section_html):
             "function apply(){['prossime','corner'].forEach(function(id){hideUpcoming(document.getElementById(id));});"
         )
         page = page.replace(old, new, 1)
+    page = ensure_day_copy(page)
     tmp = path + ".corner-tmp"
     with open(tmp, "w", encoding="utf-8") as handle:
         handle.write(page)
