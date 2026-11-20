@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 19/11/2026 20:57 (ora italiana)
+Aggiornato: 20/11/2026 16:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1219,7 +1219,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Palmeiras                      35/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Internacional                  41/100
+    1/18 Internacional                  40/100
     2/18 Athletico Paranaense           40/100
     3/18 Santos                         38/100
     4/18 Chapecoense                    38/100
@@ -1298,7 +1298,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/29 Chicago Fire FC                52/100
     5/29 Columbus Crew                  50/100
      ...
-   29/29 Seattle Sounders FC            31/100  (la fa meno spesso)
+   29/29 Seattle Sounders FC            30/100  (la fa meno spesso)
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -1318,8 +1318,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/11 Newcastle Jets                 48/100
     3/11 Macarthur FC                   45/100
     4/11 Central Coast Mariners         43/100
-    5/11 Western Sydney Wanderers FC    42/100
-    6/11 Brisbane Roar FC               42/100
+    5/11 Brisbane Roar FC               42/100
      ...
    11/11 Wellington Phoenix             32/100  (la fa meno spesso)
 
@@ -1460,7 +1459,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 19/11/2026 20:57 (ora italiana)
+Aggiornato: 20/11/2026 16:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2648,7 +2647,7 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Palmeiras                      14/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Vasco da Gama                  38/100
+    1/18 Vasco da Gama                  39/100
     2/18 Grêmio                         37/100
     3/18 Internacional                  35/100
     4/18 Fluminense                     35/100
@@ -2715,7 +2714,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/27 LA Galaxy                      47/100
     5/27 Sporting Kansas City           46/100
      ...
-   27/27 Seattle Sounders FC            29/100  (la fa meno spesso)
+   27/27 Seattle Sounders FC            28/100  (la fa meno spesso)
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -2728,11 +2727,11 @@ SOTTOFREQUENZA 1X + GOAL
     5/10 Melbourne Victory              43/100
     6/10 Melbourne City FC              43/100
      ...
-   10/10 Western Sydney Wanderers FC    33/100  (la fa meno spesso)
+   10/10 Western Sydney Wanderers FC    34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Newcastle Jets                 50/100
-    2/10 Western Sydney Wanderers FC    42/100
+    2/10 Western Sydney Wanderers FC    41/100
     3/10 Perth Glory                    41/100
     4/10 Central Coast Mariners         40/100
     5/10 Adelaide United                40/100
@@ -2877,7 +2876,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 19/11/2026 20:57 (ora italiana)
+Aggiornato: 20/11/2026 16:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4135,10 +4134,10 @@ SOTTOFREQUENZA 1X + GOAL
    27/27 Inter Miami CF                 31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/27 FC Cincinnati                  50/100
+    1/27 FC Cincinnati                  51/100
     2/27 Columbus Crew                  48/100
-    3/27 FC Dallas                      44/100
-    4/27 Real Salt Lake                 43/100
+    3/27 Real Salt Lake                 44/100
+    4/27 FC Dallas                      44/100
     5/27 Inter Miami CF                 41/100
      ...
    27/27 Toronto FC                     22/100  (la fa meno spesso)
@@ -4166,7 +4165,7 @@ SOTTOFREQUENZA 1X + GOAL
    10/10 Sydney FC                      32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/10 Adelaide United                49/100
+    1/10 Adelaide United                48/100
     2/10 Melbourne City FC              44/100
     3/10 Western Sydney Wanderers FC    41/100
     4/10 Sydney FC                      38/100
@@ -4176,7 +4175,7 @@ SOTTOFREQUENZA X2 + GOAL
    10/10 Perth Glory                    31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Adelaide United                55/100
+    1/10 Adelaide United                56/100
     2/10 Brisbane Roar FC               44/100
     3/10 Wellington Phoenix             42/100
     4/10 Newcastle Jets                 42/100

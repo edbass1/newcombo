@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 19/11/2026 20:57 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 15/11 14:30  [GOAL] Vitesse: 12 + GOAL uscita, era a 6 🔥 1/39  -  MVV Maastricht 2-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 12  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
@@ -16,7 +16,7 @@ Aggiornato: 19/11/2026 20:57 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 19/11/2026 20:57 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 16/11 20:30  [GOAL] Sorrento: 1X + GOAL uscita, era a 6  -  Sorrento 2-1 Monopoli   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 6  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
@@ -30,12 +30,12 @@ Aggiornato: 19/11/2026 20:57 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 19/11/2026 20:57 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 15/11 17:30  [GOAL] Casertana: 1X + GOAL uscita, era a 6  -  Cosenza 2-1 Casertana   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Lecco: 1X + GOAL uscita, era a 6  -  Novara 1-1 Lecco   [ITALIA - SERIE C]
-14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 9/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
-14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 9/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
+14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 10/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
+14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 10/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
 14/11 17:30  [GOAL] Trento: 12 + GOAL uscita, era a 7  -  Lumezzane 1-2 Trento   [ITALIA - SERIE C]
 14/11 16:15  [GOAL] Sporting Gijón: 1X + GOAL uscita, era a 8 👻 31/39  -  Real Sociedad B 2-2 Sporting Gijón   [SPAGNA - LALIGA 2]
 14/11 16:00  [GOAL] Oldham Athletic: 12 + GOAL uscita, era a 6 👻 34/39  -  Shrewsbury Town 2-1 Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
