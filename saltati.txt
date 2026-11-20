@@ -3,8 +3,14 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 20/11/2026 23:13 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
+20/11 21:00  [GOAL] Sheffield Wednesday: 12 + GOAL uscita, era a 9  -  Barnsley 1-2 Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
+20/11 20:45  [GOAL] Troyes: 1X + GOAL uscita, era a 10  -  Troyes 3-1 Le Havre   [FRANCIA - LIGUE 1]
+20/11 20:30  [GOAL] Austria Salzburg: X2 + GOAL uscita, era a 6 👻 35/39  -  Austria Salzburg 1-2 Admira Wacker   [AUSTRIA - 2. LIGA]
+20/11 20:00  [GOAL] Annecy FC: 1X + GOAL uscita, era a 6 👻 31/39  -  Annecy FC 4-2 Clermont Foot   [FRANCIA - LIGUE 2]
+20/11 19:00  [GOAL] Aarhus Fremad: 1X + GOAL uscita, era a 7 🔥 1/39  -  Aarhus Fremad 1-1 Hobro   [DANIMARCA - 1. DIVISION]
+20/11 19:00  [GOAL] Bodø/Glimt: X2 + GOAL uscita, era a 7  -  Molde 2-4 Bodø/Glimt   [NORVEGIA - ELITESERIEN]
 15/11 14:30  [GOAL] Vitesse: 12 + GOAL uscita, era a 6 🔥 1/39  -  MVV Maastricht 2-1 Vitesse   [OLANDA - EERSTE DIVISIE]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 12  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 17:30  [GOAL] Gubbio: 1X + GOAL uscita, era a 8  -  Gubbio 3-2 Grosseto   [ITALIA - SERIE C]
@@ -16,13 +22,15 @@ Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 20/11/2026 23:13 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 12/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
+20/11 17:00  [GOAL] FC Silon Táborsko: 12 + GOAL uscita, era a 8 ❗ 14/39  -  FC Silon Táborsko 3-1 Slavia Prague B   [REP. CECA - FNL]
 16/11 20:30  [GOAL] Sorrento: 1X + GOAL uscita, era a 6  -  Sorrento 2-1 Monopoli   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 6  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 18:30  [GOAL] Mallorca: X2 + GOAL uscita, era a 6 👻 34/39  -  Mallorca 3-3 Córdoba   [SPAGNA - LALIGA 2]
 14/11 17:30  [GOAL] Bari: 12 + GOAL uscita, era a 7  -  Bari 3-2 Foggia   [ITALIA - SERIE C]
-14/11 16:00  [GOAL] Salford City: X2 + GOAL uscita, era a 7 ❗ 14/39  -  Salford City 1-1 Northampton Town   [INGHILTERRA - LEAGUE TWO]
+14/11 16:00  [GOAL] Salford City: X2 + GOAL uscita, era a 7 ❗ 13/39  -  Salford City 1-1 Northampton Town   [INGHILTERRA - LEAGUE TWO]
 14/11 16:00  [GOAL] Partick Thistle: 1X + GOAL uscita, era a 7 👻 39/39  -  Partick Thistle 3-2 Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
 
 ##################################################
@@ -30,14 +38,16 @@ Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 20/11/2026 16:01 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 20/11/2026 23:13 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
+20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 34/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
+20/11 20:00  [GOAL] Boulogne: 12 + GOAL uscita, era a 6  -  Metz 2-1 Boulogne   [FRANCIA - LIGUE 2]
 15/11 17:30  [GOAL] Casertana: 1X + GOAL uscita, era a 6  -  Cosenza 2-1 Casertana   [ITALIA - SERIE C]
 15/11 12:30  [GOAL] Lecco: 1X + GOAL uscita, era a 6  -  Novara 1-1 Lecco   [ITALIA - SERIE C]
-14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 10/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
-14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 10/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
+14/11 20:00  [GOAL] FC Eindhoven: X2 + GOAL uscita, era a 9 ❗ 11/39  -  VVV-Venlo 1-2 FC Eindhoven   [OLANDA - EERSTE DIVISIE]
+14/11 20:00  [GOAL] TOP Oss: X2 + GOAL uscita, era a 8 ❗ 11/39  -  De Graafschap 1-2 TOP Oss   [OLANDA - EERSTE DIVISIE]
 14/11 17:30  [GOAL] Trento: 12 + GOAL uscita, era a 7  -  Lumezzane 1-2 Trento   [ITALIA - SERIE C]
-14/11 16:15  [GOAL] Sporting Gijón: 1X + GOAL uscita, era a 8 👻 31/39  -  Real Sociedad B 2-2 Sporting Gijón   [SPAGNA - LALIGA 2]
-14/11 16:00  [GOAL] Oldham Athletic: 12 + GOAL uscita, era a 6 👻 34/39  -  Shrewsbury Town 2-1 Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
+14/11 16:15  [GOAL] Sporting Gijón: 1X + GOAL uscita, era a 8 👻 32/39  -  Real Sociedad B 2-2 Sporting Gijón   [SPAGNA - LALIGA 2]
+14/11 16:00  [GOAL] Oldham Athletic: 12 + GOAL uscita, era a 6 👻 33/39  -  Shrewsbury Town 2-1 Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
 14/11 13:00  [GOAL] FC Petržalka 1898: 12 + GOAL uscita, era a 11  -  MFK Bytca 1-2 FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]
 
