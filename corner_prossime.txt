@@ -1,6 +1,8 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 20/11/2026 23:59 (ora italiana)
-Solo squadre con ritardo da 6 in su, nella vista della scheda.
+Aggiornato: 21/11/2026 00:31 (ora italiana)
+Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
+Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
+Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
 Orari convertiti dall'ora del Regno Unito all'ora italiana.
 Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 
@@ -8,172 +10,96 @@ Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 ==================================================
 21/11/2026
 ==================================================
-TOTALE    13:00  Hannover vs Greuther Furth   [GERMANIA - 2. BUNDESLIGA]
-           Greuther Furth: CORNER 9-11 (6)
-TRASFERTA 13:00  Wolfsburg vs Holstein Kiel   [GERMANIA - 2. BUNDESLIGA]
-           Holstein Kiel: CORNER 9-11 (7)
-TRASFERTA 13:30  Millwall vs QPR   [INGHILTERRA - CHAMPIONSHIP]
-           QPR: CORNER 9-11 (6)
+TOTALE    13:00  Wolfsburg vs Holstein Kiel   [GERMANIA - 2. BUNDESLIGA]
+           RIPETIZIONE  Holstein Kiel: (10) #3/398
 TOTALE    13:30  Newport County vs Swindon   [INGHILTERRA - LEAGUE TWO]
-           Swindon: CORNER 9-11 (10)
-TRASFERTA 13:30  Newport County vs Swindon   [INGHILTERRA - LEAGUE TWO]
-           Swindon: CORNER 9-11 (6)
-TRASFERTA 13:30  Norwich vs Cardiff   [INGHILTERRA - CHAMPIONSHIP]
-           Cardiff: CORNER 9-11 (7+)
+           RITARDO      Swindon: (10) #10/398
 TOTALE    13:30  Southampton vs Derby   [INGHILTERRA - CHAMPIONSHIP]
-           Southampton: CORNER 9-11 (10)
-CASA      13:30  Southampton vs Derby   [INGHILTERRA - CHAMPIONSHIP]
-           Southampton: CORNER 9-11 (8)
-TOTALE    13:30  Tamworth vs Eastleigh   [INGHILTERRA - NATIONAL LEAGUE]
-           Tamworth: CORNER 9-11 (6)
-CASA      15:00  Ascoli vs Vicenza   [ITALIA - SERIE B]
-           Ascoli: CORNER 9-11 (6+)
+           RITARDO      Southampton: (10) #10/398
+CASA      14:00  Galatasaray vs Samsunspor   [TURCHIA - SUPER LIG]
+           RIPETIZIONE  Galatasaray: (10) #6/398
+TOTALE    15:00  Modena vs Juve Stabia   [ITALIA - SERIE B]
+           RIPETIZIONE  Modena: (9) #7/398
+           RIPETIZIONE  Juve Stabia: (10) #3/398
 CASA      15:00  Modena vs Juve Stabia   [ITALIA - SERIE B]
-           Modena: CORNER 9-11 (11)
-TOTALE    15:00  Sampdoria vs Benevento   [ITALIA - SERIE B]
-           Sampdoria: CORNER 9-11 (6)
-TOTALE    15:30  Leverkusen vs Paderborn   [GERMANIA - BUNDESLIGA]
-           Leverkusen: CORNER 9-11 (9)
-TOTALE    16:00  Arbroath vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
-           Arbroath: CORNER 9-11 (6)
-CASA      16:00  Bolton vs Portsmouth   [INGHILTERRA - CHAMPIONSHIP]
-           Bolton: CORNER 9-11 (7+)
-TRASFERTA 16:00  Bolton vs Portsmouth   [INGHILTERRA - CHAMPIONSHIP]
-           Portsmouth: CORNER 9-11 (6)
+           RITARDO      Modena: (11) #4/398
+CASA      15:00  Sudtirol vs Cremonese   [ITALIA - SERIE B]
+           RIPETIZIONE  Sudtirol: (21+) #1/398
+TRASFERTA 15:30  Elversberg vs Freiburg   [GERMANIA - BUNDESLIGA]
+           RIPETIZIONE  Freiburg: (9) #5/398
+CASA      16:00  Annan Athletic vs Forfar   [SCOZIA - LEAGUE TWO]
+           RIPETIZIONE  Annan Athletic: (15) #2/398
+TRASFERTA 16:00  Arbroath vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
+           RIPETIZIONE  Stenhousemuir: (10) #2/398
 CASA      16:00  Bournemouth vs Nott'm Forest   [INGHILTERRA - PREMIER LEAGUE]
-           Bournemouth: CORNER 9-11 (10)
-TRASFERTA 16:00  Bournemouth vs Nott'm Forest   [INGHILTERRA - PREMIER LEAGUE]
-           Nott'm Forest: CORNER 9-11 (6)
+           RITARDO      Bournemouth: (10) #5/398
 TRASFERTA 16:00  Chesterfield vs Shrewsbury   [INGHILTERRA - LEAGUE TWO]
-           Shrewsbury: CORNER 9-11 (8)
+           RITARDO      Shrewsbury: (8) #9/398
+TOTALE    16:00  Coventry vs Crystal Palace   [INGHILTERRA - PREMIER LEAGUE]
+           RIPETIZIONE  Coventry: (9) #7/398
 TRASFERTA 16:00  Coventry vs Crystal Palace   [INGHILTERRA - PREMIER LEAGUE]
-           Crystal Palace: CORNER 9-11 (9)
-CASA      16:00  Dunfermline vs Morton   [SCOZIA - CHAMPIONSHIP]
-           Dunfermline: CORNER 9-11 (7)
-TRASFERTA 16:00  Falkirk vs St Johnstone   [SCOZIA - PREMIERSHIP]
-           St Johnstone: CORNER 9-11 (6+)
-TOTALE    16:00  Gateshead vs Hartlepool   [INGHILTERRA - NATIONAL LEAGUE]
-           Hartlepool: CORNER 9-11 (9)
-TRASFERTA 16:00  Halifax vs Woking   [INGHILTERRA - NATIONAL LEAGUE]
-           Woking: CORNER 9-11 (6)
-TOTALE    16:00  Kidderminster vs Fylde   [INGHILTERRA - NATIONAL LEAGUE]
-           Fylde: CORNER 9-11 (6)
+           RITARDO      Crystal Palace: (9) #6/398
 TOTALE    16:00  Lincoln vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]
-           Lincoln: CORNER 9-11 (10)
-TOTALE    16:00  Mansfield vs Milton Keynes Dons   [INGHILTERRA - LEAGUE ONE]
-           Mansfield: CORNER 9-11 (6)
-TOTALE    16:00  Northampton vs Rochdale   [INGHILTERRA - LEAGUE TWO]
-           Rochdale: CORNER 9-11 (7)
+           RITARDO      Lincoln: (10) #10/398
+TRASFERTA 16:00  Plymouth vs Peterboro   [INGHILTERRA - LEAGUE ONE]
+           RIPETIZIONE  Peterboro: (9) #5/398
+TRASFERTA 16:00  Queen of Sth vs Hamilton   [SCOZIA - LEAGUE ONE]
+           RIPETIZIONE  Hamilton: (10) #2/398
 TOTALE    16:00  Raith Rvs vs Partick   [SCOZIA - CHAMPIONSHIP]
-           Raith Rvs: CORNER 9-11 (16)
-CASA      16:00  Raith Rvs vs Partick   [SCOZIA - CHAMPIONSHIP]
-           Raith Rvs: CORNER 9-11 (8)
-TOTALE    16:00  Sheffield United vs Watford   [INGHILTERRA - CHAMPIONSHIP]
-           Sheffield United: CORNER 9-11 (7)
-TOTALE    16:00  Tranmere vs Colchester   [INGHILTERRA - LEAGUE TWO]
-           Tranmere: CORNER 9-11 (7)
+           RITARDO      Raith Rvs: (16) #2/398 🔴
 TOTALE    16:00  Wealdstone vs Hornchurch   [INGHILTERRA - NATIONAL LEAGUE]
-           Hornchurch: CORNER 9-11 (11)
+           RITARDO      Hornchurch: (11) #6/398
 TRASFERTA 16:00  Wealdstone vs Hornchurch   [INGHILTERRA - NATIONAL LEAGUE]
-           Hornchurch: CORNER 9-11 (8)
-CASA      16:00  Wolves vs Charlton   [INGHILTERRA - CHAMPIONSHIP]
-           Wolves: CORNER 9-11 (6)
-CASA      16:15  Sociedad B vs Cadiz   [SPAGNA - LALIGA 2]
-           Sociedad B: CORNER 9-11 (7)
+           RITARDO      Hornchurch: (8) #9/398
+TOTALE    16:00  York vs Walsall   [INGHILTERRA - LEAGUE TWO]
+           RIPETIZIONE  York: (10) #3/398
 TOTALE    16:15  Vallecano vs Valencia   [SPAGNA - LALIGA]
-           Vallecano: CORNER 9-11 (12)
-CASA      16:30  Nijmegen vs PSV Eindhoven   [OLANDA - EREDIVISIE]
-           Nijmegen: CORNER 9-11 (7)
-TOTALE    17:00  Kocaelispor vs Fenerbahce   [TURCHIA - SUPER LIG]
-           Fenerbahce: CORNER 9-11 (7)
-TRASFERTA 17:00  Kocaelispor vs Fenerbahce   [TURCHIA - SUPER LIG]
-           Fenerbahce: CORNER 9-11 (7)
+           RITARDO      Vallecano: (12) #5/398
 TOTALE    17:15  Catanzaro vs Palermo   [ITALIA - SERIE B]
-           Palermo: CORNER 9-11 (13)
-TRASFERTA 17:15  Catanzaro vs Palermo   [ITALIA - SERIE B]
-           Palermo: CORNER 9-11 (7)
-TRASFERTA 18:30  Castellon vs Eldense   [SPAGNA - LALIGA 2]
-           Eldense: CORNER 9-11 (7+)
+           RITARDO      Palermo: (13) #4/398
 TOTALE    18:30  Kalamata vs AEK   [GRECIA - SUPER LEAGUE]
-           AEK: CORNER 9-11 (11)
-TRASFERTA 18:30  Schalke 04 vs Stuttgart   [GERMANIA - BUNDESLIGA]
-           Stuttgart: CORNER 9-11 (6)
-TOTALE    18:30  Sevilla vs Betis   [SPAGNA - LALIGA]
-           Betis: CORNER 9-11 (7)
+           RITARDO      AEK: (11) #6/398
+TOTALE    18:30  Montrose vs Alloa   [SCOZIA - LEAGUE ONE]
+           RIPETIZIONE  Montrose: (9) #7/398
 TOTALE    18:30  Yeovil vs Forest Green   [INGHILTERRA - NATIONAL LEAGUE]
-           Yeovil: CORNER 9-11 (11)
-CASA      18:30  Yeovil vs Forest Green   [INGHILTERRA - NATIONAL LEAGUE]
-           Yeovil: CORNER 9-11 (7)
-TOTALE    19:30  Empoli vs Pisa   [ITALIA - SERIE B]
-           Pisa: CORNER 9-11 (6)
-TOTALE    20:45  Lens vs Toulouse   [FRANCIA - LIGUE 1]
-           Toulouse: CORNER 9-11 (8)
+           RITARDO      Yeovil: (11) #6/398
+TOTALE    20:00  Reims vs St Etienne   [FRANCIA - LIGUE 2]
+           RIPETIZIONE  Reims: (12) #1/398
 TRASFERTA 20:45  Napoli vs Torino   [ITALIA - SERIE A]
-           Torino: CORNER 9-11 (9)
-TRASFERTA 20:45  Waregem vs Antwerp   [BELGIO - FIRST DIVISION A]
-           Antwerp: CORNER 9-11 (7)
-TOTALE    21:00  Real Madrid vs Celta   [SPAGNA - LALIGA]
-           Celta: CORNER 9-11 (9)
-TRASFERTA 21:00  Real Madrid vs Celta   [SPAGNA - LALIGA]
-           Celta: CORNER 9-11 (6)
-TOTALE    21:00  Telstar vs Zwolle   [OLANDA - EREDIVISIE]
-           Telstar: CORNER 9-11 (7)
+           RITARDO      Torino: (9) #6/398
 
 ==================================================
 22/11/2026
 ==================================================
-TRASFERTA 13:00  Burnley vs Blackburn   [INGHILTERRA - CHAMPIONSHIP]
-           Blackburn: CORNER 9-11 (6)
-TRASFERTA 14:00  Barcelona vs Villarreal   [SPAGNA - LALIGA]
-           Villarreal: CORNER 9-11 (6)
-TRASFERTA 14:00  Kasimpasa vs Alanyaspor   [TURCHIA - SUPER LIG]
-           Alanyaspor: CORNER 9-11 (7)
-TOTALE    15:00  Avellino vs Mantova   [ITALIA - SERIE B]
-           Avellino: CORNER 9-11 (9)
-TOTALE    15:00  Bologna vs Udinese   [ITALIA - SERIE A]
-           Bologna: CORNER 9-11 (7)
-CASA      15:00  Bologna vs Udinese   [ITALIA - SERIE A]
-           Bologna: CORNER 9-11 (6)
-TOTALE    15:00  Levadeiakos vs Atromitos   [GRECIA - SUPER LEAGUE]
-           Atromitos: CORNER 9-11 (6)
-TOTALE    15:00  Paris FC vs Angers   [FRANCIA - LIGUE 1]
-           Paris FC: CORNER 9-11 (7)
-CASA      15:00  Paris FC vs Angers   [FRANCIA - LIGUE 1]
-           Paris FC: CORNER 9-11 (6)
+TOTALE    11:30  Erzurumspor vs Goztep   [TURCHIA - SUPER LIG]
+           RIPETIZIONE  Goztep: (10) #3/398
+CASA      13:00  Burnley vs Blackburn   [INGHILTERRA - CHAMPIONSHIP]
+           RIPETIZIONE  Burnley: (10) #6/398
+TOTALE    13:30  Karlsruhe vs Osnabruck   [GERMANIA - 2. BUNDESLIGA]
+           RIPETIZIONE  Karlsruhe: (9) #7/398
+TOTALE    15:00  Sassuolo vs Genoa   [ITALIA - SERIE A]
+           RIPETIZIONE  Genoa: (9) #7/398
 TOTALE    15:30  Augsburg vs Mainz   [GERMANIA - BUNDESLIGA]
-           Augsburg: CORNER 9-11 (11)
+           RITARDO      Augsburg: (11) #6/398
 CASA      15:30  Augsburg vs Mainz   [GERMANIA - BUNDESLIGA]
-           Augsburg: CORNER 9-11 (10)
+           RITARDO      Augsburg: (10) #5/398
 CASA      16:00  Panetolikos vs Volos NFC   [GRECIA - SUPER LEAGUE]
-           Panetolikos: CORNER 9-11 (10)
-CASA      16:15  Sp Gijon vs Las Palmas   [SPAGNA - LALIGA 2]
-           Sp Gijon: CORNER 9-11 (6)
-TOTALE    16:30  Panathinaikos vs OFI Crete   [GRECIA - SUPER LEAGUE]
-           OFI Crete: CORNER 9-11 (6)
+           RITARDO      Panetolikos: (10) #5/398
+CASA      17:00  Trabzonspor vs Eyupspor   [TURCHIA - SUPER LIG]
+           RIPETIZIONE  Trabzonspor: (9) #9/398
 TRASFERTA 17:30  Liverpool vs Man United   [INGHILTERRA - PREMIER LEAGUE]
-           Man United: CORNER 9-11 (10)
-TOTALE    17:30  Werder Bremen vs Hamburg   [GERMANIA - BUNDESLIGA]
-           Werder Bremen: CORNER 9-11 (7)
-TOTALE    18:30  Anderlecht vs Oud-Heverlee Leuven   [BELGIO - FIRST DIVISION A]
-           Oud-Heverlee Leuven: CORNER 9-11 (7)
-TOTALE    18:30  Girona vs Eibar   [SPAGNA - LALIGA 2]
-           Eibar: CORNER 9-11 (7)
+           RITARDO      Man United: (10) #3/398 🔴
 CASA      20:45  Atalanta vs Inter   [ITALIA - SERIE A]
-           Atalanta: CORNER 9-11 (14)
-TOTALE    20:45  Marseille vs Le Mans   [FRANCIA - LIGUE 1]
-           Le Mans: CORNER 9-11 (9)
+           RITARDO      Atalanta: (14) #2/398 🔴
+TRASFERTA 20:45  Atalanta vs Inter   [ITALIA - SERIE A]
+           RIPETIZIONE  Inter: (10) #2/398
 TOTALE    21:00  Burgos vs Albacete   [SPAGNA - LALIGA 2]
-           Albacete: CORNER 9-11 (9)
+           RIPETIZIONE  Burgos: (11) #2/398
+CASA      21:00  Getafe vs Ath Madrid   [SPAGNA - LALIGA]
+           RIPETIZIONE  Getafe: (11) #5/398
 
 ==================================================
 23/11/2026
 ==================================================
-TRASFERTA 20:45  Monza vs Fiorentina   [ITALIA - SERIE A]
-           Fiorentina: CORNER 9-11 (6)
-TOTALE    20:45  Nantes vs Grenoble   [FRANCIA - LIGUE 2]
-           Nantes: CORNER 9-11 (6)
 TOTALE    21:00  Levante vs Elche   [SPAGNA - LALIGA]
-           Levante: CORNER 9-11 (8)
-           Elche: CORNER 9-11 (14)
-TRASFERTA 21:00  Levante vs Elche   [SPAGNA - LALIGA]
-           Elche: CORNER 9-11 (7)
+           RITARDO      Elche: (14) #3/398 🔴
