@@ -1784,18 +1784,14 @@ PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){document.querySelectorAll('pre').forEach(function(p){p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'});document.querySelectorAll('.fxlist').forEach(function(f){f.style.fontSize=(Z*100)+'%'})}function z(d){Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1>
-<p>Ultimo aggiornamento: <b>___NOW___</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
+<p>Ultimo aggiornamento: <b>___NOW___</b> (ora italiana) &middot; si aggiorna ogni 30 minuti</p>
 <p class="leg">Totali, Casa e Trasferta sono nella stessa pagina, una sotto l&rsquo;altra. In Prossime partite la stessa gara può comparire più volte: prima <b>TOTALE</b>, poi <b>CASA</b> e/o <b>TRASFERTA</b>. Il passaggio sul nome apre sempre la classifica totale, con i punti delle ultime 5 partite.</p>
 <button id="hamb" aria-label="Menu" onclick="document.getElementById('side').classList.toggle('open')">☰</button>
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
-<a class="sbig" href="#tips">🎯<span>TIPS DEL GIORNO</span></a>
 <a class="sbig" href="#prossime">📅<span>PROSSIME PARTITE</span></a>
 <a class="ssm" href="#goal">Ritardi + GOAL</a><a class="ssm" href="#ripetizione">Doppia ripetizione</a><a class="ssm" href="#frequenza">Frequenza campionati</a><a class="ssm" href="#sotto">Sottofrequenze</a><a class="ssm" href="#saltati">Saltati</a>
-<details class="stext"><summary>TEXT</summary><a href="tips_del_giorno.txt">tips_del_giorno.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="ritardi_ripetizione.txt">ritardi_ripetizione.txt</a><a href="frequenza_campionati.txt">frequenza_campionati.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
+<details class="stext"><summary>TEXT</summary><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="ritardi_ripetizione.txt">ritardi_ripetizione.txt</a><a href="frequenza_campionati.txt">frequenza_campionati.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
 </aside>
-<h2 id="tips">TIPS DEL GIORNO</h2>
-___TIPS___
-<details class="rules"><summary>Come viene calcolato il punteggio</summary><ul>___RULES___</ul></details>
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2>
 ___SOTTO___
 <h2 id="prossime">Prossime partite (5 giorni)</h2>
@@ -2011,13 +2007,6 @@ def main():
             double_fixtures.add((t.isoformat(), c, l, hn, an))
     repeat = render_repeat(data, pools, now, double_fixtures)
     prossime = render_prossime(chunks, now, repeat["alert_map"])
-    today = datetime.datetime.now(ROME).date()
-    tips = render_tips(rank_tips(collect_tip_candidates(data, today)), data, today, now)
-    print("TIPS", flush=True)
-    for line in tips["txt"].splitlines():
-        if line[:2].strip().isdigit() or line.startswith("    "):
-            print(line, flush=True)
-    open("tips_del_giorno.txt", "w").write(tips["txt"])
     open("saltati.txt", "w").write(_bundle(chunks, "saltati"))
     open("sottofrequenze.txt", "w").write(_bundle(chunks, "sotto"))
     open("prossime_partite.txt", "w").write(prossime["txt"])
@@ -2033,8 +2022,6 @@ def main():
         "___CSS___": _page_css(),
         "___NOW___": esc(now),
         "___THEMEOPTS___": opts,
-        "___TIPS___": tips["html"],
-        "___RULES___": "".join(f"<li>{esc(x)}</li>" for x in TIPS_RULES),
         "___SOTTO___": "".join(chunks[v]["sotto_html"] for v, _l, _d in VENUES),
         "___PROSSIME___": prossime["html"],
         "___GOAL___": "".join(chunks[v]["goal_html"] for v, _l, _d in VENUES),
