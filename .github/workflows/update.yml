@@ -9,6 +9,9 @@ on:
       - 'gen.py'
 permissions:
   contents: write
+concurrency:
+  group: aggiornamento-newcombo
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -28,4 +31,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add -A
           git commit -m "Aggiornamento automatico ogni 30 minuti" || echo "nessuna modifica"
+          git pull --rebase origin main
           git push
