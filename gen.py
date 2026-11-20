@@ -68,6 +68,12 @@ AD_ORDER = ("sa", "wa", "sd", "wd")
 AD_ICON = {"sa": ("hi", "🔥", "A"), "wa": ("lo", "🧊", "A"), "sd": ("lo", "🧊", "D"), "wd": ("hi", "🔥", "D")}
 AD_LABEL = {"sa": "Attacco forte", "wa": "Attacco debole", "sd": "Pochi gol subiti", "wd": "Tanti gol subiti"}
 ROME = ZoneInfo('Europe/Rome')
+
+def kick_attr(t):
+    """Istante della partita in UTC, per nasconderla nel browser dopo il calcio d'inizio."""
+    if t.tzinfo is None:
+        t = t.replace(tzinfo=datetime.timezone.utc)
+    return t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 # (campionato, combo) -> "🔥 2/16" oppure "" ; riempito a ogni aggiornamento
 LEAGUE_BADGES = {}
 # combo -> classifica campionati; league -> statistiche stagione
@@ -1631,7 +1637,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             alert_note = " | ".join(alert_lines)
             alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
             H.append(
-                f'<div class="fx"><span class="vtag all">TOTALE</span>'
+                f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag all">TOTALE</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{tspan(repeat_li, hn, an, hn, "all") if repeat_li is not None else esc(hn)} vs {tspan(repeat_li, hn, an, an, "all") if repeat_li is not None else esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
                 f'<div class="tagrow"><span class="tag goal">DOPPIA RIPETIZIONE</span> '
@@ -1673,7 +1679,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
                 alert_badge_shown = True
             H.append(
-                f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
+                f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{club_html(LIX, hn, an, hn, gol, venue, "home")} vs {club_html(LIX, hn, an, an, gol, venue, "away")} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
@@ -1784,7 +1790,7 @@ PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){document.querySelectorAll('pre').forEach(function(p){p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'});document.querySelectorAll('.fxlist').forEach(function(f){f.style.fontSize=(Z*100)+'%'})}function z(d){Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1>
-<p>Ultimo aggiornamento: <b>___NOW___</b> (ora italiana) &middot; si aggiorna ogni 30 minuti</p>
+<p>Ultimo aggiornamento: <b>___NOW___</b> (ora italiana) &middot; si aggiorna ogni 30 minuti. Le partite già iniziate non restano in elenco.</p>
 <p class="leg">Totali, Casa e Trasferta sono nella stessa pagina, una sotto l&rsquo;altra. In Prossime partite la stessa gara può comparire più volte: prima <b>TOTALE</b>, poi <b>CASA</b> e/o <b>TRASFERTA</b>. Il passaggio sul nome apre sempre la classifica totale, con i punti delle ultime 5 partite.</p>
 <button id="hamb" aria-label="Menu" onclick="document.getElementById('side').classList.toggle('open')">☰</button>
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
@@ -1820,11 +1826,21 @@ if(window.matchMedia('(hover:hover)').matches){document.addEventListener('mouseo
 document.addEventListener('keydown',function(e){if(e.key==='Escape')hide()})})();</script>
 <script>(function(){function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()})})();</script>
 <script>(function(){var hs=[].slice.call(document.querySelectorAll('body > h2[id]')),ids=[];hs.forEach(function(h){var sec=document.createElement('section');sec.className='tabsec';sec.dataset.id=h.id;h.parentNode.insertBefore(sec,h);var n=h;while(n&&!(n!==h&&n.tagName==='H2')&&!(n.id==='pop'||n.id==='totop'||n.tagName==='SCRIPT'||n.tagName==='ASIDE'||(n.tagName==='BUTTON'))){var nx=n.nextElementSibling;sec.appendChild(n);n=nx}ids.push(h.id)});
-function show(){var id=(location.hash||'').slice(1);if(ids.indexOf(id)<0)id='tips';document.querySelectorAll('section.tabsec').forEach(function(x){x.style.display=x.dataset.id===id?'':'none'});document.querySelectorAll('#side a.sbig,#side a.ssm').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)});window.scrollTo(0,0);var p=document.getElementById('pop');if(p)p.style.display='none'}
+function show(){var id=(location.hash||'').slice(1);if(ids.indexOf(id)<0)id=ids.indexOf('prossime')>=0?'prossime':(ids[0]||'');document.querySelectorAll('section.tabsec').forEach(function(x){x.style.display=x.dataset.id===id?'':'none'});document.querySelectorAll('#side a.sbig,#side a.ssm').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)});window.scrollTo(0,0);var p=document.getElementById('pop');if(p)p.style.display='none'}
 window.addEventListener('hashchange',show);show()})();</script>
 <script>(function(){function syncBar(){var t=document.documentElement.getAttribute('data-theme')||'notte';var sel=document.getElementById('theme');if(sel&&sel.value!==t)sel.value=t;var bar=document.getElementById('topbar');if(bar)document.documentElement.style.setProperty('--bar-h',bar.offsetHeight+'px')}
 document.getElementById('theme').addEventListener('change',function(){document.documentElement.setAttribute('data-theme',this.value);try{localStorage.setItem('themeRC',this.value)}catch(err){}syncBar()});
 window.addEventListener('resize',syncBar);syncBar()})();</script>
+<script>(function(){
+function setGone(el,gone){el.hidden=!!gone;el.style.display=gone?'none':'';}
+function romeParts(ms){var fmt=new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Rome',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});var map={};fmt.formatToParts(new Date(ms)).forEach(function(p){if(p.type!=='literal')map[p.type]=p.value;});return map;}
+function romeWallToMs(y,mo,d,h,mi){var guess=Date.UTC(y,mo-1,d,h,mi,0);function adjust(ms){var p=romeParts(ms);var asUtc=Date.UTC(+p.year,+p.month-1,+p.day,+p.hour,+p.minute);var target=Date.UTC(y,mo-1,d,h,mi);return ms-(asUtc-target);}return adjust(adjust(guess));}
+function kickMs(el){var iso=el.getAttribute('data-kick');if(iso){var parsed=Date.parse(iso);if(!isNaN(parsed))return parsed;}var timeEl=el.querySelector('.time');var hm=timeEl?(timeEl.textContent||'').trim():'';var m=hm.match(/^(\d{1,2}):(\d{2})$/);if(m){var dayEl=el.previousElementSibling;while(dayEl&&!(dayEl.tagName==='H3'&&dayEl.classList.contains('day')))dayEl=dayEl.previousElementSibling;if(dayEl){var dm=(dayEl.textContent||'').trim().match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);if(dm)return romeWallToMs(+dm[3],+dm[2],+dm[1],+m[1],+m[2]);}}var b=el.querySelector('b');if(b){var bm=(b.textContent||'').trim().match(/^(\d{1,2})\/(\d{1,2})\s+(\d{1,2}):(\d{2})$/);if(bm){var year=+(romeParts(Date.now()).year);var ms=romeWallToMs(year,+bm[2],+bm[1],+bm[3],+bm[4]);if(Date.now()-ms>200*86400000)ms=romeWallToMs(year+1,+bm[2],+bm[1],+bm[3],+bm[4]);else if(ms-Date.now()>200*86400000)ms=romeWallToMs(year-1,+bm[2],+bm[1],+bm[3],+bm[4]);return ms;}}return null;}
+function apply(){var now=Date.now();var root=document.getElementById('prossime');var sec=root?root.parentElement:null;var list=sec?sec.querySelector('.fxlist'):null;if(list){var nodes=[].slice.call(list.children);var shown=0;nodes.forEach(function(el){if(!(el.classList&&el.classList.contains('fx')))return;var ms=kickMs(el);var past=ms!==null&&ms<=now;setGone(el,past);if(!past)shown++;});nodes.forEach(function(el){if(!(el.tagName==='H3'&&el.classList.contains('day')))return;var n=el.nextElementSibling,any=false;while(n&&!(n.tagName==='H3'&&n.classList.contains('day'))){if(n.classList&&n.classList.contains('fx')&&!n.hidden)any=true;n=n.nextElementSibling;}setGone(el,!any);});var note=list.querySelector('.kick-empty');if(!shown){if(!note){note=document.createElement('p');note.className='leg kick-empty';note.textContent='Nessuna partita ancora da giocare. Quelle già iniziate restano nascoste.';list.appendChild(note);}setGone(note,false);}else if(note){setGone(note,true);}}document.querySelectorAll('.repeat-alerts').forEach(function(box){var cards=[].slice.call(box.querySelectorAll('.fx'));var any=false;cards.forEach(function(el){var ms=kickMs(el);if(ms===null){any=true;return;}var past=ms<=now;setGone(el,past);if(!past)any=true;});var h=box.querySelector('h3');if(h&&cards.length)setGone(h,!any);});}
+try{apply();}catch(e){}
+setInterval(function(){try{apply();}catch(e){}},30000);
+document.addEventListener('visibilitychange',function(){if(!document.hidden){try{apply();}catch(e){}}});
+})();</script>
 </body></html>"""
 
 
@@ -1960,7 +1976,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 f'#{row["rank"]}/{row["total"]}'
             )
         alert_html.append(
-            f'<div class="fx">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
+            f'<div class="fx" data-kick="{kick_attr(datetime.datetime.fromisoformat(t_iso))}">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
             f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span>'
             f'<div class="tagrow">{" &nbsp; | &nbsp; ".join(details)}</div></div>'
         )

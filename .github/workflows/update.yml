@@ -1,9 +1,17 @@
 name: Aggiorna ritardi
 on:
+  # GitHub often delays or drops a cron, especially at minute 0 and 30.
+  # Four starts an hour, on quiet minutes: if one is skipped, the next is
+  # 15 minutes later. A run still in progress is not cancelled.
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '7 * * * *'
+    - cron: '22 * * * *'
+    - cron: '37 * * * *'
+    - cron: '52 * * * *'
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - '.github/workflows/update.yml'
       - 'gen.py'
@@ -15,21 +23,110 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+      - name: Controlla se i dati sono già recenti
+        id: need
+        run: |
+          echo "esegui=true" >> "$GITHUB_OUTPUT"
+          if [ "${GITHUB_EVENT_NAME}" != "schedule" ]; then
+            exit 0
+          fi
+          last=$(git log -1 --format=%ct -- index.html || true)
+          if [ -z "${last}" ]; then
+            echo "Data dell'ultimo file sconosciuta: eseguo l'aggiornamento."
+            exit 0
+          fi
+          age=$(( $(date +%s) - last ))
+          echo "Ultimo file dei dati: ${age} secondi fa"
+          # The generator takes about 15 minutes. Skip only a start that
+          # landed while a fresh file is already on main.
+          if [ "${age}" -lt 600 ]; then
+            echo "esegui=false" >> "$GITHUB_OUTPUT"
+            echo "Salto: un aggiornamento è appena stato pubblicato."
+          fi
       - uses: actions/setup-python@v5
+        if: steps.need.outputs.esegui == 'true'
         with:
           python-version: '3.12'
-      - name: Installa browser per leggere gli eventi renderizzati
+      - name: Installa il browser, con nuovi tentativi
+        if: steps.need.outputs.esegui == 'true'
         run: |
-          python -m pip install playwright
-          python -m playwright install chromium --with-deps
-      - run: python3 gen.py
+          python -m pip install --disable-pip-version-check playwright || true
+          ok=0
+          for i in 1 2; do
+            if timeout 360 python -m playwright install chromium --with-deps; then
+              ok=1
+              break
+            fi
+            echo "Installazione del browser non riuscita, tentativo ${i}"
+            sleep $((i * 10))
+          done
+          if [ "${ok}" -ne 1 ]; then
+            echo "Continuo senza browser: i collegamenti restano quelli generici."
+          fi
+          exit 0
+      - name: Genera i dati, con nuovi tentativi
+        if: steps.need.outputs.esegui == 'true'
+        run: |
+          ok=0
+          for i in 1 2; do
+            if python3 gen.py; then
+              ok=1
+              break
+            fi
+            echo "Generazione non riuscita, tentativo ${i}"
+            sleep $((i * 15))
+          done
+          if [ "${ok}" -ne 1 ]; then
+            exit 1
+          fi
       - name: Salva aggiornamenti
+        if: steps.need.outputs.esegui == 'true'
         run: |
+          set -eu
+          if [ "${GITHUB_REF}" != "refs/heads/main" ]; then
+            echo "Non pubblico: questo avvio non è sul ramo main (${GITHUB_REF})."
+            exit 0
+          fi
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add -A
-          git commit -m "Aggiornamento automatico ogni 30 minuti" || echo "nessuna modifica"
-          git pull --rebase origin main
-          git push
+          stage="${RUNNER_TEMP:-/tmp}/newcombo-out"
+          rm -rf "${stage}"
+          mkdir -p "${stage}"
+          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt"
+          for f in ${files}; do
+            if [ -f "${f}" ]; then
+              cp -a "${f}" "${stage}/${f}"
+            fi
+          done
+          for attempt in 1 2 3 4 5; do
+            if ! git fetch origin main; then
+              echo "Lettura di main non riuscita, tentativo ${attempt}"
+              sleep $((attempt * 5))
+              continue
+            fi
+            git reset --hard
+            git checkout -B main origin/main
+            for f in ${files}; do
+              if [ -f "${stage}/${f}" ]; then
+                cp -a "${stage}/${f}" "${f}"
+                git add -- "${f}"
+              fi
+            done
+            if git diff --cached --quiet; then
+              echo "nessuna modifica"
+              exit 0
+            fi
+            git commit -m "Aggiornamento automatico dei dati"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Pubblicazione non riuscita, tentativo ${attempt}"
+            sleep $((attempt * 5))
+          done
+          echo "Impossibile pubblicare l'aggiornamento"
+          exit 1
