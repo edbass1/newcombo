@@ -1,0 +1,786 @@
+##################################################
+# TOTALI
+##################################################
+
+SOTTOFREQUENZE CORNER 9-11 (ultime 100 partite) — TOTALI
+Aggiornato: 20/11/2026 23:59 (ora italiana)
+Uscite di corner 9-11 sulle ultime 100 partite del paese, nella vista indicata.
+Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
+Fonte: football-data.co.uk
+
+==================================================
+INGHILTERRA - PREMIER LEAGUE
+==================================================
+   1/20  Nott'm Forest                44/100
+   2/20  Ipswich                      41/100
+   3/20  Aston Villa                  40/100
+   4/20  Chelsea                      40/100
+   5/20  Coventry                     39/100
+   6/20  Man City                     39/100
+     ...
+  20/20  Hull                         26/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - CHAMPIONSHIP
+==================================================
+   1/24  Wolves                       45/100
+   2/24  Swansea                      38/100
+   3/24  Blackburn                    36/100
+   4/24  Bristol City                 36/100
+   5/24  Portsmouth                   36/100
+   6/24  Preston                      36/100
+   7/24  Wrexham                      36/100
+     ...
+  24/24  West Ham                     26/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE ONE
+==================================================
+   1/24  Huddersfield                 41/100
+   2/24  Milton Keynes Dons           41/100
+   3/24  Luton                        40/100
+   4/24  Bromley                      39/100
+   5/24  Cambridge                    37/100
+   6/24  Stevenage                    37/100
+     ...
+  24/24  Barnsley                     22/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE TWO
+==================================================
+   1/23  Oldham                       44/100
+   2/23  Newport County               43/100
+   3/23  Accrington                   42/100
+   4/23  Cheltenham                   41/100
+   5/23  Crewe                        41/100
+   6/23  Exeter                       41/100
+     ...
+  23/23  Tranmere                     25/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - NATIONAL LEAGUE
+==================================================
+   1/9   Barrow                       38/100
+   2/9   Southend                     38/100
+   3/9   Forest Green                 37/100
+   4/9   Harrogate                    37/100
+   5/9   Carlisle                     36/100
+   6/9   Hartlepool                   36/100
+     ...
+   9/9   Scunthorpe                   29/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - PREMIERSHIP
+==================================================
+   1/12  Dundee                       43/100
+   2/12  Aberdeen                     41/100
+   3/12  Falkirk                      41/100
+   4/12  Hibernian                    41/100
+   5/12  Kilmarnock                   41/100
+     ...
+  12/12  Celtic                       23/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - CHAMPIONSHIP
+==================================================
+   1/10  Stenhousemuir                36/100
+   2/10  Ayr                          33/100
+   3/10  Livingston                   32/100
+   4/10  Queens Park                  31/100
+   5/10  Morton                       30/100
+   6/10  Raith Rvs                    30/100
+     ...
+  10/10  Inverness C                  23/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE ONE
+==================================================
+   1/9   Ross County                  37/100
+   2/9   Alloa                        34/100
+   3/9   Peterhead                    33/100
+   4/9   East Fife                    32/100
+   5/9   Airdrie Utd                  31/100
+   6/9   Cove Rangers                 31/100
+     ...
+   9/9   Hamilton                     21/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE TWO
+==================================================
+   1/10  Spartans                     38/100
+   2/10  Edinburgh City               36/100
+   3/10  Kelty Hearts                 36/100
+   4/10  Clyde                        35/100
+   5/10  Annan Athletic               34/100
+   6/10  Elgin                        34/100
+     ...
+  10/10  Forfar                       28/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - BUNDESLIGA
+==================================================
+   1/18  Union Berlin                 40/100
+   2/18  Ein Frankfurt                39/100
+   3/18  Hamburg                      37/100
+   4/18  Paderborn                    37/100
+   5/18  Hoffenheim                   36/100
+     ...
+  18/18  Augsburg                     23/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - 2. BUNDESLIGA
+==================================================
+   1/17  Hertha                       40/100
+   2/17  Greuther Furth               39/100
+   3/17  Heidenheim                   39/100
+   4/17  Bielefeld                    38/100
+   5/17  Braunschweig                 36/100
+   6/17  Dresden                      36/100
+     ...
+  17/17  Holstein Kiel                25/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE A
+==================================================
+   1/20  Cagliari                     39/100
+   2/20  Monza                        38/100
+   3/20  Roma                         38/100
+   4/20  Udinese                      36/100
+   5/20  Venezia                      36/100
+     ...
+  20/20  Napoli                       25/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE B
+==================================================
+   1/14  Empoli                       42/100
+   2/14  Ascoli                       38/100
+   3/14  Benevento                    34/100
+   4/14  Modena                       34/100
+   5/14  Verona                       33/100
+     ...
+  14/14  Sudtirol                     26/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA
+==================================================
+   1/20  Malaga                       40/100
+   2/20  Betis                        38/100
+   3/20  Villarreal                   38/100
+   4/20  Ath Bilbao                   37/100
+   5/20  Sevilla                      37/100
+     ...
+  20/20  Getafe                       23/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA 2
+==================================================
+   1/17  Albacete                     37/100
+   2/17  Valladolid                   37/100
+   3/17  Leganes                      36/100
+   4/17  Mallorca                     36/100
+   5/17  Tenerife                     36/100
+     ...
+  17/17  Girona                       29/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 1
+==================================================
+   1/17  Lens                         39/100
+   2/17  Lyon                         39/100
+   3/17  Monaco                       39/100
+   4/17  Paris SG                     38/100
+   5/17  Strasbourg                   37/100
+     ...
+  17/17  Toulouse                     19/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 2
+==================================================
+   1/17  Nancy                        39/100
+   2/17  Laval                        38/100
+   3/17  Clermont                     37/100
+   4/17  Red Star                     36/100
+   5/17  St Etienne                   36/100
+     ...
+  17/17  Grenoble                     27/100  (la fa meno spesso)
+
+==================================================
+OLANDA - EREDIVISIE
+==================================================
+   1/16  Heerenveen                   43/100
+   2/16  Utrecht                      43/100
+   3/16  AZ Alkmaar                   39/100
+   4/16  Twente                       39/100
+   5/16  Feyenoord                    38/100
+     ...
+  16/16  Nijmegen                     27/100  (la fa meno spesso)
+
+==================================================
+BELGIO - FIRST DIVISION A
+==================================================
+   1/15  St. Gilloise                 43/100
+   2/15  Antwerp                      42/100
+   3/15  Anderlecht                   41/100
+   4/15  Charleroi                    41/100
+   5/15  St Truiden                   39/100
+     ...
+  15/15  Gent                         29/100  (la fa meno spesso)
+
+==================================================
+PORTOGALLO - LIGA PORTUGAL
+==================================================
+   1/16  Rio Ave                      37/100
+   2/16  Sp Lisbon                    37/100
+   3/16  Estoril                      35/100
+   4/16  Moreirense                   34/100
+   5/16  Porto                        34/100
+     ...
+  16/16  Arouca                       30/100  (la fa meno spesso)
+
+==================================================
+TURCHIA - SUPER LIG
+==================================================
+   1/13  Genclerbirligi               42/100
+   2/13  Goztep                       38/100
+   3/13  Kasimpasa                    38/100
+   4/13  Besiktas                     36/100
+   5/13  Konyaspor                    36/100
+   6/13  Trabzonspor                  36/100
+     ...
+  13/13  Galatasaray                  21/100  (la fa meno spesso)
+
+==================================================
+GRECIA - SUPER LEAGUE
+==================================================
+   1/11  Aris                         43/100
+   2/11  PAOK                         38/100
+   3/11  Levadeiakos                  36/100
+   4/11  Panathinaikos                36/100
+   5/11  Asteras Tripolis             32/100
+   6/11  OFI Crete                    32/100
+     ...
+  11/11  Atromitos                    23/100  (la fa meno spesso)
+
+##################################################
+# CASA
+##################################################
+
+SOTTOFREQUENZE CORNER 9-11 (ultime 100 partite) — CASA
+Aggiornato: 20/11/2026 23:59 (ora italiana)
+Uscite di corner 9-11 sulle ultime 100 partite del paese, nella vista indicata.
+Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
+Fonte: football-data.co.uk
+
+==================================================
+INGHILTERRA - PREMIER LEAGUE
+==================================================
+   1/20  Crystal Palace               43/100
+   2/20  Nott'm Forest                41/100
+   3/20  Leeds                        40/100
+   4/20  Bournemouth                  39/100
+   5/20  Aston Villa                  38/100
+     ...
+  20/20  Tottenham                    27/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - CHAMPIONSHIP
+==================================================
+   1/24  Swansea                      42/100
+   2/24  Stoke                        40/100
+   3/24  Blackburn                    39/100
+   4/24  Burnley                      39/100
+   5/24  Cardiff                      39/100
+     ...
+  24/24  Middlesbrough                22/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE ONE
+==================================================
+   1/23  Wycombe                      41/100
+   2/23  Bradford                     40/100
+   3/23  Huddersfield                 39/100
+   4/23  Peterboro                    37/100
+   5/23  Notts County                 36/100
+     ...
+  23/23  Mansfield                    25/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE TWO
+==================================================
+   1/22  Cheltenham                   45/100
+   2/22  Bristol Rvs                  44/100
+   3/22  Accrington                   42/100
+   4/22  Colchester                   39/100
+   5/22  Exeter                       39/100
+   6/22  Newport County               39/100
+   7/22  Northampton                  39/100
+     ...
+  22/22  Port Vale                    27/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - NATIONAL LEAGUE
+==================================================
+   1/8   Forest Green                 39/100
+   2/8   Southend                     39/100
+   3/8   Harrogate                    36/100
+   4/8   Scunthorpe                   35/100
+   5/8   Barrow                       34/100
+     ...
+   8/8   Yeovil                       29/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - PREMIERSHIP
+==================================================
+   1/12  Rangers                      41/100
+   2/12  Dundee                       39/100
+   3/12  Kilmarnock                   37/100
+   4/12  Hibernian                    36/100
+   5/12  Aberdeen                     35/100
+     ...
+  12/12  Motherwell                   27/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - CHAMPIONSHIP
+==================================================
+   1/10  Arbroath                     39/100
+   2/10  Stenhousemuir                38/100
+   3/10  Morton                       36/100
+   4/10  Raith Rvs                    34/100
+   5/10  Partick                      31/100
+     ...
+  10/10  Dunfermline                  25/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE ONE
+==================================================
+   1/9   Airdrie Utd                  34/100
+   2/9   Ross County                  33/100
+   3/9   Peterhead                    32/100
+   4/9   Hamilton                     31/100
+   5/9   Queen of Sth                 31/100
+     ...
+   9/9   Cove Rangers                 25/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE TWO
+==================================================
+   1/8   Clyde                        42/100
+   2/8   Stirling                     37/100
+   3/8   Edinburgh City               36/100
+   4/8   Forfar                       36/100
+   5/8   Stranraer                    32/100
+     ...
+   8/8   Elgin                        26/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - BUNDESLIGA
+==================================================
+   1/17  Ein Frankfurt                42/100
+   2/17  Paderborn                    38/100
+   3/17  Hoffenheim                   36/100
+   4/17  Union Berlin                 36/100
+   5/17  Leverkusen                   35/100
+   6/17  M'gladbach                   35/100
+   7/17  Schalke 04                   35/100
+     ...
+  17/17  Augsburg                     25/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - 2. BUNDESLIGA
+==================================================
+   1/13  Greuther Furth               40/100
+   2/13  Hertha                       38/100
+   3/13  Nurnberg                     38/100
+   4/13  Bochum                       36/100
+   5/13  Heidenheim                   36/100
+     ...
+  13/13  Darmstadt                    24/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE A
+==================================================
+   1/19  Torino                       47/100
+   2/19  Sassuolo                     41/100
+   3/19  Monza                        40/100
+   4/19  Udinese                      39/100
+   5/19  Cagliari                     38/100
+     ...
+  19/19  Inter                        27/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE B
+==================================================
+   1/8   Empoli                       44/100
+   2/8   Benevento                    41/100
+   3/8   Ascoli                       38/100
+   4/8   Pisa                         33/100
+   5/8   Verona                       31/100
+     ...
+   8/8   Sampdoria                    25/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA
+==================================================
+   1/20  Ath Madrid                   43/100
+   2/20  Villarreal                   43/100
+   3/20  Osasuna                      42/100
+   4/20  Real Madrid                  38/100
+   5/20  Malaga                       37/100
+   6/20  Sevilla                      37/100
+   7/20  Vallecano                    37/100
+     ...
+  20/20  Celta                        25/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA 2
+==================================================
+   1/14  Granada                      41/100
+   2/14  Burgos                       38/100
+   3/14  Tenerife                     38/100
+   4/14  Almeria                      36/100
+   5/14  Cadiz                        36/100
+   6/14  Mallorca                     36/100
+     ...
+  14/14  Girona                       22/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 1
+==================================================
+   1/17  Lens                         42/100
+   2/17  Strasbourg                   42/100
+   3/17  Marseille                    41/100
+   4/17  Brest                        37/100
+   5/17  Lyon                         37/100
+     ...
+  17/17  Lille                        23/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 2
+==================================================
+   1/13  Montpellier                  38/100
+   2/13  Clermont                     36/100
+   3/13  Metz                         36/100
+   4/13  Nantes                       36/100
+   5/13  Pau FC                       36/100
+     ...
+  13/13  Grenoble                     25/100  (la fa meno spesso)
+
+==================================================
+OLANDA - EREDIVISIE
+==================================================
+   1/12  Heerenveen                   44/100
+   2/12  Groningen                    43/100
+   3/12  Utrecht                      38/100
+   4/12  PSV Eindhoven                37/100
+   5/12  Twente                       37/100
+     ...
+  12/12  Sparta Rotterdam             27/100  (la fa meno spesso)
+
+==================================================
+BELGIO - FIRST DIVISION A
+==================================================
+   1/13  Genk                         38/100
+   2/13  Mechelen                     38/100
+   3/13  Anderlecht                   37/100
+   4/13  Antwerp                      37/100
+   5/13  Standard                     37/100
+     ...
+  13/13  Cercle Brugge                28/100  (la fa meno spesso)
+
+==================================================
+PORTOGALLO - LIGA PORTUGAL
+==================================================
+   1/12  Porto                        40/100
+   2/12  Estoril                      39/100
+   3/12  Famalicao                    39/100
+   4/12  Guimaraes                    38/100
+   5/12  Moreirense                   36/100
+     ...
+  12/12  Gil Vicente                  24/100  (la fa meno spesso)
+
+==================================================
+TURCHIA - SUPER LIG
+==================================================
+   1/11  Besiktas                     44/100
+   2/11  Goztep                       40/100
+   3/11  Kasimpasa                    37/100
+   4/11  Alanyaspor                   35/100
+   5/11  Trabzonspor                  35/100
+     ...
+  11/11  Rizespor                     27/100  (la fa meno spesso)
+
+==================================================
+GRECIA - SUPER LEAGUE
+==================================================
+   1/10  Aris                         42/100
+   2/10  PAOK                         42/100
+   3/10  Panetolikos                  38/100
+   4/10  Olympiakos                   34/100
+   5/10  Volos NFC                    31/100
+     ...
+  10/10  Atromitos                    24/100  (la fa meno spesso)
+
+##################################################
+# TRASFERTA
+##################################################
+
+SOTTOFREQUENZE CORNER 9-11 (ultime 100 partite) — TRASFERTA
+Aggiornato: 20/11/2026 23:59 (ora italiana)
+Uscite di corner 9-11 sulle ultime 100 partite del paese, nella vista indicata.
+Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
+Fonte: football-data.co.uk
+
+==================================================
+INGHILTERRA - PREMIER LEAGUE
+==================================================
+   1/20  Sunderland                   41/100
+   2/20  Brighton                     40/100
+   3/20  Coventry                     39/100
+   4/20  Fulham                       39/100
+   5/20  Bournemouth                  38/100
+   6/20  Ipswich                      38/100
+   7/20  Newcastle                    38/100
+     ...
+  20/20  Liverpool                    25/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - CHAMPIONSHIP
+==================================================
+   1/23  Bristol City                 43/100
+   2/23  West Brom                    43/100
+   3/23  Wolves                       42/100
+   4/23  Middlesbrough                39/100
+   5/23  Portsmouth                   38/100
+     ...
+  23/23  QPR                          20/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE ONE
+==================================================
+   1/22  AFC Wimbledon                44/100
+   2/22  Milton Keynes Dons           42/100
+   3/22  Leicester                    40/100
+   4/22  Cambridge                    39/100
+   5/22  Luton                        38/100
+   6/22  Notts County                 38/100
+     ...
+  22/22  Reading                      24/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - LEAGUE TWO
+==================================================
+   1/22  Accrington                   44/100
+   2/22  Rochdale                     42/100
+   3/22  Cheltenham                   40/100
+   4/22  Newport County               40/100
+   5/22  Fleetwood Town               39/100
+   6/22  Walsall                      39/100
+     ...
+  22/22  Northampton                  23/100  (la fa meno spesso)
+
+==================================================
+INGHILTERRA - NATIONAL LEAGUE
+==================================================
+   1/8   Barrow                       45/100
+   2/8   Hartlepool                   38/100
+   3/8   Yeovil                       37/100
+   4/8   Forest Green                 35/100
+   5/8   Harrogate                    35/100
+     ...
+   8/8   Scunthorpe                   26/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - PREMIERSHIP
+==================================================
+   1/12  Falkirk                      41/100
+   2/12  Hibernian                    41/100
+   3/12  Kilmarnock                   41/100
+   4/12  St Johnstone                 39/100
+   5/12  Dundee                       36/100
+     ...
+  12/12  Celtic                       20/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - CHAMPIONSHIP
+==================================================
+   1/10  Ayr                          36/100
+   2/10  Morton                       36/100
+   3/10  Raith Rvs                    36/100
+   4/10  Queens Park                  33/100
+   5/10  Livingston                   31/100
+   6/10  Partick                      31/100
+   7/10  Stenhousemuir                31/100
+     ...
+  10/10  Inverness C                  27/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE ONE
+==================================================
+   1/9   Alloa                        41/100
+   2/9   Airdrie Utd                  39/100
+   3/9   East Fife                    37/100
+   4/9   Ross County                  33/100
+   5/9   Montrose                     32/100
+     ...
+   9/9   Hamilton                     23/100  (la fa meno spesso)
+
+==================================================
+SCOZIA - LEAGUE TWO
+==================================================
+   1/8   Annan Athletic               35/100
+   2/8   Edinburgh City               34/100
+   3/8   Dumbarton                    32/100
+   4/8   Elgin                        32/100
+   5/8   Clyde                        31/100
+     ...
+   8/8   Stirling                     26/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - BUNDESLIGA
+==================================================
+   1/17  Ein Frankfurt                47/100
+   2/17  Bayern Munich                39/100
+   3/17  Schalke 04                   37/100
+   4/17  Hamburg                      36/100
+   5/17  Union Berlin                 35/100
+     ...
+  17/17  Werder Bremen                24/100  (la fa meno spesso)
+
+==================================================
+GERMANIA - 2. BUNDESLIGA
+==================================================
+   1/13  Braunschweig                 39/100
+   2/13  Greuther Furth               39/100
+   3/13  Darmstadt                    38/100
+   4/13  Hannover                     38/100
+   5/13  Heidenheim                   36/100
+     ...
+  13/13  Wolfsburg                    26/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE A
+==================================================
+   1/20  Frosinone                    39/100
+   2/20  Venezia                      39/100
+   3/20  Cagliari                     36/100
+   4/20  Genoa                        36/100
+   5/20  Juventus                     36/100
+   6/20  Udinese                      36/100
+     ...
+  20/20  Sassuolo                     28/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE B
+==================================================
+   1/8   Empoli                       42/100
+   2/8   Ascoli                       39/100
+   3/8   Palermo                      38/100
+   4/8   Sampdoria                    36/100
+   5/8   Benevento                    35/100
+     ...
+   8/8   Pisa                         26/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA
+==================================================
+   1/20  Celta                        43/100
+   2/20  Malaga                       42/100
+   3/20  Betis                        40/100
+   4/20  Sevilla                      40/100
+   5/20  Vallecano                    39/100
+     ...
+  20/20  La Coruna                    27/100  (la fa meno spesso)
+
+==================================================
+SPAGNA - LALIGA 2
+==================================================
+   1/14  Tenerife                     41/100
+   2/14  Cadiz                        38/100
+   3/14  Leganes                      38/100
+   4/14  Sp Gijon                     38/100
+   5/14  Albacete                     35/100
+   6/14  Valladolid                   35/100
+     ...
+  14/14  Burgos                       25/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 1
+==================================================
+   1/17  Lyon                         43/100
+   2/17  Auxerre                      40/100
+   3/17  Paris SG                     40/100
+   4/17  Rennes                       37/100
+   5/17  Strasbourg                   37/100
+   6/17  Troyes                       37/100
+     ...
+  17/17  Toulouse                     24/100  (la fa meno spesso)
+
+==================================================
+FRANCIA - LIGUE 2
+==================================================
+   1/13  Nantes                       39/100
+   2/13  Rodez                        37/100
+   3/13  Metz                         34/100
+   4/13  Reims                        34/100
+   5/13  St Etienne                   34/100
+     ...
+  13/13  Pau FC                       27/100  (la fa meno spesso)
+
+==================================================
+OLANDA - EREDIVISIE
+==================================================
+   1/12  Utrecht                      42/100
+   2/12  AZ Alkmaar                   40/100
+   3/12  Sparta Rotterdam             40/100
+   4/12  Heerenveen                   39/100
+   5/12  For Sittard                  38/100
+     ...
+  12/12  PSV Eindhoven                31/100  (la fa meno spesso)
+
+==================================================
+BELGIO - FIRST DIVISION A
+==================================================
+   1/13  Anderlecht                   42/100
+   2/13  Antwerp                      42/100
+   3/13  Genk                         36/100
+   4/13  Cercle Brugge                35/100
+   5/13  Gent                         34/100
+   6/13  Kortrijk                     34/100
+   7/13  Waregem                      34/100
+     ...
+  13/13  Mechelen                     24/100  (la fa meno spesso)
+
+==================================================
+PORTOGALLO - LIGA PORTUGAL
+==================================================
+   1/12  Gil Vicente                  43/100
+   2/12  Moreirense                   39/100
+   3/12  Sp Braga                     38/100
+   4/12  Sp Lisbon                    38/100
+   5/12  Rio Ave                      37/100
+     ...
+  12/12  Guimaraes                    26/100  (la fa meno spesso)
+
+==================================================
+TURCHIA - SUPER LIG
+==================================================
+   1/11  Konyaspor                    44/100
+   2/11  Goztep                       36/100
+   3/11  Kasimpasa                    35/100
+   4/11  Trabzonspor                  35/100
+   5/11  Gaziantep                    34/100
+     ...
+  11/11  Alanyaspor                   26/100  (la fa meno spesso)
+
+==================================================
+GRECIA - SUPER LEAGUE
+==================================================
+   1/10  Panathinaikos                37/100
+   2/10  PAOK                         36/100
+   3/10  Aris                         35/100
+   4/10  OFI Crete                    34/100
+   5/10  Volos NFC                    32/100
+     ...
+  10/10  AEK                          28/100  (la fa meno spesso)
+

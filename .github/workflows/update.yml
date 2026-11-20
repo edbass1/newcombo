@@ -84,6 +84,39 @@ jobs:
           if [ "${ok}" -ne 1 ]; then
             exit 1
           fi
+      - name: Conserva la sezione Corner già pubblicata
+        if: steps.need.outputs.esegui == 'true'
+        run: |
+          python3 - << 'PY'
+          from pathlib import Path
+          text = Path("index.html").read_text(encoding="utf-8") if Path("index.html").exists() else ""
+          start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
+          if start in text and end in text:
+              block = text[text.index(start):text.index(end) + len(end)]
+              Path("/tmp/corner-section.html").write_text(block, encoding="utf-8")
+          PY
+      - name: Sezione Corner
+        if: steps.need.outputs.esegui == 'true'
+        continue-on-error: true
+        timeout-minutes: 8
+        run: python3 corner.py
+      - name: Se Corner fallisce, rimetti la sezione precedente
+        if: steps.need.outputs.esegui == 'true'
+        run: |
+          python3 - << 'PY'
+          from pathlib import Path
+          page_path, saved = Path("index.html"), Path("/tmp/corner-section.html")
+          if not page_path.exists() or not saved.exists():
+              raise SystemExit(0)
+          page = page_path.read_text(encoding="utf-8")
+          start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
+          if "Sezione non disponibile in questo aggiornamento." in page and start in page and end in page:
+              old = saved.read_text(encoding="utf-8")
+              if "Sezione non disponibile in questo aggiornamento." not in old:
+                  page = page[:page.index(start)] + old + page[page.index(end) + len(end):]
+                  page_path.write_text(page, encoding="utf-8")
+                  print("Sezione Corner precedente ripristinata")
+          PY
       - name: Salva aggiornamenti
         if: steps.need.outputs.esegui == 'true'
         run: |
@@ -97,7 +130,7 @@ jobs:
           stage="${RUNNER_TEMP:-/tmp}/newcombo-out"
           rm -rf "${stage}"
           mkdir -p "${stage}"
-          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt"
+          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt corner_ritardi.txt corner_prossime.txt corner_ripetizioni.txt corner_frequenza.txt corner_sottofrequenze.txt corner_saltati.txt"
           for f in ${files}; do
             if [ -f "${f}" ]; then
               cp -a "${f}" "${stage}/${f}"
