@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 21/11/2026 14:02 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 20/11 21:00  [GOAL] Sheffield Wednesday: 12 + GOAL uscita, era a 9  -  Barnsley 1-2 Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
 20/11 20:45  [GOAL] Troyes: 1X + GOAL uscita, era a 10  -  Troyes 3-1 Le Havre   [FRANCIA - LIGUE 1]
@@ -21,7 +21,7 @@ Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 21/11/2026 14:02 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 12/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
 20/11 17:00  [GOAL] FC Silon Táborsko: 12 + GOAL uscita, era a 8 ❗ 14/39  -  FC Silon Táborsko 3-1 Slavia Prague B   [REP. CECA - FNL]
@@ -37,7 +37,7 @@ Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 21/11/2026 14:02 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 34/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
 20/11 20:00  [GOAL] Boulogne: 12 + GOAL uscita, era a 6  -  Metz 2-1 Boulogne   [FRANCIA - LIGUE 2]
