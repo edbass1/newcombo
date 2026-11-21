@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1783,14 +1783,14 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (24 partite giocate) + 2025/2026
+Stagione 2026/2027 (25 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Wellington Phoenix                3  🟢 67%
    2. Macarthur FC                      2  🟢 50%  🔴
-   3. Auckland FC                       1
-   4. Brisbane Roar FC                  1  🟢 100%
-   5. Adelaide United                   0  🔴
+   3. Brisbane Roar FC                  1  🟢 100%
+   4. Adelaide United                   0  🔴
+   5. Auckland FC                       0
    6. Central Coast Mariners            0
    7. Melbourne City FC                 0
    8. Melbourne Victory                 0
@@ -1805,14 +1805,14 @@ RITARDI X2 + GOAL
    5. Melbourne City FC                 2  🟢 100%
    6. Newcastle Jets                    2  🟢 100%  🔴
    7. Adelaide United                   1  🟢 100%  🔴
-   8. Auckland FC                       1
-   9. Central Coast Mariners            1  🟢 100%
+   8. Central Coast Mariners            1  🟢 100%
+   9. Auckland FC                       0
   10. Brisbane Roar FC                  0
 
 RITARDI 12 + GOAL
-   1. Melbourne Victory                 3  🟢 100%
-   2. Wellington Phoenix                3  🟢 67%
-   3. Auckland FC                       2  🟢 50%
+   1. Melbourne Victory                 4  🟢 100%
+   2. Auckland FC                       3  🟢 67%
+   3. Wellington Phoenix                3  🟢 67%
    4. Adelaide United                   0  🔴
    5. Brisbane Roar FC                  0  🔴
    6. Central Coast Mariners            0
@@ -1988,7 +1988,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3759,14 +3759,14 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (24 partite giocate) + 2025/2026
+Stagione 2026/2027 (25 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Macarthur FC                      2  🟢 50%
-   2. Auckland FC                       1
-   3. Newcastle Jets                    1  🟢 100%
-   4. Wellington Phoenix                1  🟢 100%  🔴
-   5. Adelaide United                   0  🔴
+   2. Newcastle Jets                    1  🟢 100%
+   3. Wellington Phoenix                1  🟢 100%  🔴
+   4. Adelaide United                   0  🔴
+   5. Auckland FC                       0
    6. Brisbane Roar FC                  0
    7. Central Coast Mariners            0
    8. Melbourne City FC                 0
@@ -3777,11 +3777,11 @@ RITARDI X2 + GOAL
    1. Wellington Phoenix                6  🟢 83%
    2. Perth Glory                       4  🟢 100%  🔴
    3. Western Sydney Wanderers FC       4  🟢 100%  🔴
-   4. Auckland FC                       3
-   5. Sydney FC                         3  🟢 67%
-   6. Melbourne City FC                 2  🟢 100%
-   7. Newcastle Jets                    1  🟢 100%  🔴
-   8. Adelaide United                   0
+   4. Sydney FC                         3  🟢 67%
+   5. Melbourne City FC                 2  🟢 100%
+   6. Newcastle Jets                    1  🟢 100%  🔴
+   7. Adelaide United                   0
+   8. Auckland FC                       0
    9. Brisbane Roar FC                  0
   10. Central Coast Mariners            0
 
@@ -3790,7 +3790,7 @@ RITARDI 12 + GOAL
    2. Melbourne Victory                 5  🟢 60%
    3. Newcastle Jets                    5  🟢 100%  🔴
    4. Adelaide United                   2  🟢 100%  🔴
-   5. Auckland FC                       1
+   5. Auckland FC                       2  🟢 50%
    6. Brisbane Roar FC                  1  🟢 100%
    7. Wellington Phoenix                1  🟢 100%  🔴
    8. Macarthur FC                      0
@@ -3964,7 +3964,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5734,7 +5734,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (24 partite giocate) + 2025/2026
+Stagione 2026/2027 (25 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Wellington Phoenix                6  🟢 67%
@@ -5762,10 +5762,10 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Wellington Phoenix                5  🟢 60%  🔴
-   2. Auckland FC                       1  🟢 100%
-   3. Macarthur FC                      1  🟢 100%
-   4. Melbourne City FC                 1  🟢 100%
-   5. Melbourne Victory                 1  🟢 100%  🔴
+   2. Melbourne Victory                 2  🟢 100%  🔴
+   3. Auckland FC                       1  🟢 100%
+   4. Macarthur FC                      1  🟢 100%
+   5. Melbourne City FC                 1  🟢 100%
    6. Adelaide United                   0  🔴
    7. Brisbane Roar FC                  0  🔴
    8. Central Coast Mariners            0

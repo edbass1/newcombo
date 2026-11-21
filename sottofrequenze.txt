@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1309,8 +1309,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/11 Perth Glory                    48/100
     3/11 Newcastle Jets                 47/100
     4/11 Macarthur FC                   47/100
-    5/11 Wellington Phoenix             44/100
-    6/11 Melbourne Victory              44/100
+    5/11 Melbourne Victory              45/100
      ...
    11/11 Sydney FC                      39/100  (la fa meno spesso)
 
@@ -1460,7 +1459,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2879,7 +2878,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 21/11/2026 05:04 (ora italiana)
+Aggiornato: 21/11/2026 07:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4169,8 +4168,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/10 Adelaide United                48/100
     2/10 Melbourne City FC              44/100
     3/10 Western Sydney Wanderers FC    41/100
-    4/10 Sydney FC                      38/100
-    5/10 Melbourne Victory              38/100
+    4/10 Melbourne Victory              39/100
+    5/10 Sydney FC                      38/100
     6/10 Brisbane Roar FC               38/100
      ...
    10/10 Perth Glory                    31/100  (la fa meno spesso)
