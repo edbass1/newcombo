@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 21/11/2026 21:10 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 21/11/2026 21:22 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 21/11 18:30  [GOAL] Arsenal: X2 + GOAL uscita, era a 10 👻 36/39  -  Newcastle United 2-2 Arsenal   [INGHILTERRA - PREMIER LEAGUE]
 21/11 17:30  [GOAL] Folgore Caratese: 12 + GOAL uscita, era a 6  -  Folgore Caratese 2-1 Arzignano Valchiampo   [ITALIA - SERIE C]
@@ -44,7 +44,7 @@ Aggiornato: 21/11/2026 21:10 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 21/11/2026 21:10 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 21/11/2026 21:22 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 21/11 18:45  [GOAL] Feyenoord: 12 + GOAL uscita, era a 6 🔥 5/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
 21/11 18:00  [GOAL] Bohemians 1905: 12 + GOAL uscita, era a 6  -  Bohemians 1905 1-2 Viktoria Plzeň   [REP. CECA - 1. LIGA]
@@ -66,7 +66,7 @@ Aggiornato: 21/11/2026 21:10 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 21/11/2026 21:10 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 21/11/2026 21:22 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 21/11 18:45  [GOAL] Excelsior: 12 + GOAL uscita, era a 6 🔥 5/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
 21/11 18:30  [GOAL] Arsenal: 1X + GOAL uscita, era a 7  -  Newcastle United 2-2 Arsenal   [INGHILTERRA - PREMIER LEAGUE]

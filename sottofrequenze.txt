@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 21/11/2026 21:10 (ora italiana)
+Aggiornato: 21/11/2026 21:22 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -47,10 +47,9 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Empoli                         44/100
     3/20 Virtus Entella                 43/100
     4/20 Mantova                        43/100
-    5/20 Pisa                           42/100
-    6/20 Juve Stabia                    42/100
-    7/20 Carrarese                      42/100
-    8/20 Avellino                       42/100
+    5/20 Juve Stabia                    42/100
+    6/20 Carrarese                      42/100
+    7/20 Avellino                       42/100
      ...
    20/20 Arezzo                         28/100  (la fa meno spesso)
 
@@ -60,12 +59,11 @@ SOTTOFREQUENZA X2 + GOAL
     3/20 Modena                         40/100
     4/20 Cesena                         40/100
     5/20 Mantova                        37/100
-    6/20 Empoli                         37/100
      ...
    20/20 Carrarese                      24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Pisa                           35/100
+    1/20 Pisa                           34/100
     2/20 Cremonese                      34/100
     3/20 Cesena                         34/100
     4/20 Modena                         33/100
@@ -653,8 +651,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Sturm Graz                     41/100
-    2/12 Grazer AK                      40/100
-    3/12 Hartberg                       39/100
+    2/12 Hartberg                       39/100
+    3/12 Grazer AK                      39/100
     4/12 Salzburg                       36/100
     5/12 LASK                           34/100
     6/12 Altach                         34/100
@@ -668,7 +666,6 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Austria Wien                   37/100
     5/12 Ried                           36/100
     6/12 Hartberg                       36/100
-    7/12 Grazer AK                      36/100
      ...
    12/12 Altach                         22/100  (la fa meno spesso)
 
@@ -1456,7 +1453,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 21/11/2026 21:10 (ora italiana)
+Aggiornato: 21/11/2026 21:22 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1505,8 +1502,8 @@ SOTTOFREQUENZA 1X + GOAL
    19/19 Sampdoria                      30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/19 Empoli                         40/100
-    2/19 Hellas Verona                  39/100
+    1/19 Hellas Verona                  39/100
+    2/19 Empoli                         39/100
     3/19 Pisa                           38/100
     4/19 Sampdoria                      37/100
     5/19 Cremonese                      37/100
@@ -2876,7 +2873,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 21/11/2026 21:10 (ora italiana)
+Aggiornato: 21/11/2026 21:22 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3513,8 +3510,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 Sturm Graz                     45/100
     2/12 Salzburg                       45/100
     3/12 LASK                           44/100
-    4/12 Rapid Wien                     40/100
-    5/12 Grazer AK                      40/100
+    4/12 Grazer AK                      40/100
+    5/12 Rapid Wien                     39/100
      ...
    12/12 Altach                         23/100  (la fa meno spesso)
 
