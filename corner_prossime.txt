@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 21/11/2026 08:06 (ora italiana)
+Aggiornato: 21/11/2026 14:01 (ora italiana)
 Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
 Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
 Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
@@ -10,14 +10,6 @@ Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 ==================================================
 21/11/2026
 ==================================================
-TOTALE    13:00  Wolfsburg vs Holstein Kiel   [GERMANIA - 2. BUNDESLIGA]
-           RIPETIZIONE  Holstein Kiel: (10) #3/398
-TOTALE    13:30  Newport County vs Swindon   [INGHILTERRA - LEAGUE TWO]
-           RITARDO      Swindon: (10) #10/398
-TOTALE    13:30  Southampton vs Derby   [INGHILTERRA - CHAMPIONSHIP]
-           RITARDO      Southampton: (10) #10/398
-CASA      14:00  Galatasaray vs Samsunspor   [TURCHIA - SUPER LIG]
-           RIPETIZIONE  Galatasaray: (10) #6/398
 TOTALE    15:00  Modena vs Juve Stabia   [ITALIA - SERIE B]
            RIPETIZIONE  Modena: (9) #7/398
            RIPETIZIONE  Juve Stabia: (10) #3/398

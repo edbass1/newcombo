@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 20/11 21:00  [GOAL] Sheffield Wednesday: 12 + GOAL uscita, era a 9  -  Barnsley 1-2 Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
 20/11 20:45  [GOAL] Troyes: 1X + GOAL uscita, era a 10  -  Troyes 3-1 Le Havre   [FRANCIA - LIGUE 1]
@@ -15,14 +15,13 @@ Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite
 15/11 12:30  [GOAL] Giugliano: X2 + GOAL uscita, era a 12  -  Giugliano 2-3 Savoia   [ITALIA - SERIE C]
 14/11 17:30  [GOAL] Gubbio: 1X + GOAL uscita, era a 8  -  Gubbio 3-2 Grosseto   [ITALIA - SERIE C]
 14/11 16:30  [GOAL] NAC Breda: 12 + GOAL uscita, era a 6 🔥 1/39  -  NAC Breda 4-2 FC Emmen   [OLANDA - EERSTE DIVISIE]
-14/11 13:00  [GOAL] Liptovský Mikuláš: X2 + GOAL uscita, era a 6 👻 33/39  -  Slovan Galanta 1-1 Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
 
 ##################################################
 # CASA
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 12/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
 20/11 17:00  [GOAL] FC Silon Táborsko: 12 + GOAL uscita, era a 8 ❗ 14/39  -  FC Silon Táborsko 3-1 Slavia Prague B   [REP. CECA - FNL]
@@ -38,7 +37,7 @@ Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 21/11/2026 13:51 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 34/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
 20/11 20:00  [GOAL] Boulogne: 12 + GOAL uscita, era a 6  -  Metz 2-1 Boulogne   [FRANCIA - LIGUE 2]
@@ -49,5 +48,4 @@ Aggiornato: 21/11/2026 07:57 (ora italiana). Dal più recente. Ritardo = partite
 14/11 17:30  [GOAL] Trento: 12 + GOAL uscita, era a 7  -  Lumezzane 1-2 Trento   [ITALIA - SERIE C]
 14/11 16:15  [GOAL] Sporting Gijón: 1X + GOAL uscita, era a 8 👻 32/39  -  Real Sociedad B 2-2 Sporting Gijón   [SPAGNA - LALIGA 2]
 14/11 16:00  [GOAL] Oldham Athletic: 12 + GOAL uscita, era a 6 👻 33/39  -  Shrewsbury Town 2-1 Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
-14/11 13:00  [GOAL] FC Petržalka 1898: 12 + GOAL uscita, era a 11  -  MFK Bytca 1-2 FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]
 
