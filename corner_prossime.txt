@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 21/11/2026 14:11 (ora italiana)
+Aggiornato: 21/11/2026 16:25 (ora italiana)
 Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
 Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
 Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
@@ -10,43 +10,6 @@ Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 ==================================================
 21/11/2026
 ==================================================
-TOTALE    15:00  Modena vs Juve Stabia   [ITALIA - SERIE B]
-           RIPETIZIONE  Modena: (9) #7/398
-           RIPETIZIONE  Juve Stabia: (10) #3/398
-CASA      15:00  Modena vs Juve Stabia   [ITALIA - SERIE B]
-           RITARDO      Modena: (11) #4/398
-CASA      15:00  Sudtirol vs Cremonese   [ITALIA - SERIE B]
-           RIPETIZIONE  Sudtirol: (21+) #1/398
-TRASFERTA 15:30  Elversberg vs Freiburg   [GERMANIA - BUNDESLIGA]
-           RIPETIZIONE  Freiburg: (9) #5/398
-CASA      16:00  Annan Athletic vs Forfar   [SCOZIA - LEAGUE TWO]
-           RIPETIZIONE  Annan Athletic: (15) #2/398
-TRASFERTA 16:00  Arbroath vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
-           RIPETIZIONE  Stenhousemuir: (10) #2/398
-CASA      16:00  Bournemouth vs Nott'm Forest   [INGHILTERRA - PREMIER LEAGUE]
-           RITARDO      Bournemouth: (10) #5/398
-TRASFERTA 16:00  Chesterfield vs Shrewsbury   [INGHILTERRA - LEAGUE TWO]
-           RITARDO      Shrewsbury: (8) #9/398
-TOTALE    16:00  Coventry vs Crystal Palace   [INGHILTERRA - PREMIER LEAGUE]
-           RIPETIZIONE  Coventry: (9) #7/398
-TRASFERTA 16:00  Coventry vs Crystal Palace   [INGHILTERRA - PREMIER LEAGUE]
-           RITARDO      Crystal Palace: (9) #6/398
-TOTALE    16:00  Lincoln vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]
-           RITARDO      Lincoln: (10) #10/398
-TRASFERTA 16:00  Plymouth vs Peterboro   [INGHILTERRA - LEAGUE ONE]
-           RIPETIZIONE  Peterboro: (9) #5/398
-TRASFERTA 16:00  Queen of Sth vs Hamilton   [SCOZIA - LEAGUE ONE]
-           RIPETIZIONE  Hamilton: (10) #2/398
-TOTALE    16:00  Raith Rvs vs Partick   [SCOZIA - CHAMPIONSHIP]
-           RITARDO      Raith Rvs: (16) #2/398 🔴
-TOTALE    16:00  Wealdstone vs Hornchurch   [INGHILTERRA - NATIONAL LEAGUE]
-           RITARDO      Hornchurch: (11) #6/398
-TRASFERTA 16:00  Wealdstone vs Hornchurch   [INGHILTERRA - NATIONAL LEAGUE]
-           RITARDO      Hornchurch: (8) #9/398
-TOTALE    16:00  York vs Walsall   [INGHILTERRA - LEAGUE TWO]
-           RIPETIZIONE  York: (10) #3/398
-TOTALE    16:15  Vallecano vs Valencia   [SPAGNA - LALIGA]
-           RITARDO      Vallecano: (12) #5/398
 TOTALE    17:15  Catanzaro vs Palermo   [ITALIA - SERIE B]
            RITARDO      Palermo: (13) #4/398
 TOTALE    18:30  Kalamata vs AEK   [GRECIA - SUPER LEAGUE]

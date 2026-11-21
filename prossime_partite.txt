@@ -1,92 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 21/11/2026 14:02 (ora italiana)
+Aggiornato: 21/11/2026 16:16 (ora italiana)
 Fasce: 1X + GOAL da 6 a 8, X2 + GOAL e 12 + GOAL da 9 in su. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 21/11/2026
 ==================================================
-CASA      14:30  Monopoli [🧊A 🧊D] vs Cavese [🔥A]   [ITALIA - SERIE C]  [ALT 12+GOAL]
-           [GOAL] Monopoli: 12 + GOAL (9) [TOP 20]
-TOTALE    14:30  Treviso [🧊D] vs Pergolettese   [ITALIA - SERIE C]  [ALT X2+GOAL]
-           [GOAL] Treviso: X2 + GOAL (9) [TOP 20]
-TOTALE    14:30  Vado vs Latina   [ITALIA - SERIE C]  [OK 12+GOAL]
-           [GOAL] Latina: 12 + GOAL (10) [TOP 20]
-TOTALE    14:45  Cracovia [🧊A] vs Jagiellonia Białystok   [POLONIA - EKSTRAKLASA]  [OK 1X+GOAL]
-           xG: Cracovia xG 3,02 (1,61+1,41) · Jagiellonia Białystok xG 3,36 (1,71+1,65)
-           [GOAL] Jagiellonia Białystok: 1X + GOAL (7) ❗ 8/39 [TOP 20]
-TOTALE    15:00  Carrarese [🧊A] vs Virtus Entella [🧊A]   [ITALIA - SERIE B]  [OK X2+GOAL]
-           xG: Carrarese xG 2,50 (1,29+1,21) · Virtus Entella xG 1,97 (1,05+0,92)
-           [GOAL] Carrarese: X2 + GOAL (9) 🔥 4/39 [TOP 20]
-TRASFERTA 15:00  Carrarese [🧊A] vs Virtus Entella [🧊A]   [ITALIA - SERIE B]  [OK 1X+GOAL]
-           xG: Carrarese xG 2,50 (1,29+1,21) · Virtus Entella xG 1,97 (1,05+0,92)
-           [GOAL] Virtus Entella: 1X + GOAL (6) ❗ 13/39
-TOTALE    15:00  Como [🧊D] vs Cagliari [🧊A]   [ITALIA - SERIE A]  [OK 1X+GOAL]
-           xG: Como xG 2,98 (1,68+1,30) · Cagliari xG 3,08 (1,22+1,86)
-           [GOAL] Como: 1X + GOAL (7) [TOP 20]
-TOTALE    15:00  Modena [🔥A 🧊D] vs Juve Stabia [🧊D]   [ITALIA - SERIE B]  [OK 12+GOAL]
-           xG: Modena xG 2,30 (1,51+0,79) · Juve Stabia xG 2,47 (1,24+1,23)
-           [GOAL] Juve Stabia: 12 + GOAL (9) 👻 36/39 [TOP 20]
-CASA      15:00  Südtirol vs Cremonese   [ITALIA - SERIE B]  [OK 12+GOAL]
-           xG: Südtirol xG 2,52 (1,09+1,43) · Cremonese xG 2,56 (1,32+1,24)
-           [GOAL] Südtirol: 12 + GOAL (10) 👻 36/39 [TOP 20]
-TOTALE    15:00  Mjällby vs Malmö FF   [SVEZIA - ALLSVENSKAN]  [OK 1X+GOAL]
-           xG: Mjällby xG 2,99 (1,15+1,84) · Malmö FF xG 2,90 (1,39+1,51)
-           [GOAL] Malmö FF: 1X + GOAL (7) 👻 33/39 [TOP 20]
-TRASFERTA 15:00  Mjällby vs Malmö FF   [SVEZIA - ALLSVENSKAN]  [OK 1X+GOAL]
-           xG: Mjällby xG 2,99 (1,15+1,84) · Malmö FF xG 2,90 (1,39+1,51)
-           [GOAL] Malmö FF: 1X + GOAL (7) 👻 33/39 [TOP 20]
-CASA      15:30  Borussia Mönchengladbach [🔥D] vs Borussia Dortmund [🧊D]   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
-           xG: Borussia Mönchengladbach xG 3,86 (1,68+2,18) · Borussia Dortmund xG 2,98 (1,54+1,44)
-           [GOAL] Borussia Mönchengladbach: 1X + GOAL (6)
-TOTALE    15:30  Union Berlin [🧊A 🔥D] vs RB Leipzig [🔥A]   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
-           xG: Union Berlin xG 2,94 (0,96+1,98) · RB Leipzig xG 4,01 (2,50+1,51)
-           [GOAL] RB Leipzig: X2 + GOAL (13) [TOP 20]
-CASA      16:00  AFC Bournemouth [🔥A] vs Nottingham Forest [🧊A]   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
-           xG: AFC Bournemouth xG 2,93 (1,80+1,13) · Nottingham Forest xG 2,67 (1,57+1,10)
-           [GOAL] AFC Bournemouth: 12 + GOAL (12) 👻 38/39 [TOP 20]
-CASA      16:00  Bolton Wanderers [🔥D] vs Portsmouth [🧊D]   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Bolton Wanderers xG 3,38 (1,38+2,00) · Portsmouth xG 2,41 (1,17+1,24)
-           [GOAL] Bolton Wanderers: 1X + GOAL (6) ❗ 11/39 🔴 Bolton Wanderers 🔴 Portsmouth
-TOTALE    16:00  Bradford City [🧊A 🧊D] vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]  [ALT 12+GOAL]
-           xG: Bradford City xG 2,27 (1,21+1,06) · Doncaster Rovers xG 3,21 (1,35+1,86)
-           [GOAL] Bradford City: 12 + GOAL (9) [TOP 20]
-CASA      16:00  Bradford City [🧊A 🧊D] vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
-           xG: Bradford City xG 2,27 (1,21+1,06) · Doncaster Rovers xG 3,21 (1,35+1,86)
-           [GOAL] Bradford City: 1X + GOAL (7) [TOP 20]
-TOTALE    16:00  Coventry City [🧊A 🔥D] vs Crystal Palace [🧊A 🔥D]   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
-           xG: Coventry City xG 2,46 (0,95+1,51) · Crystal Palace xG 3,57 (1,38+2,19)
-           [GOAL] Coventry City: X2 + GOAL (10+) 👻 36/39 [TOP 20]
-CASA      16:00  Leyton Orient vs AFC Wimbledon [🧊A]   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
-           xG: Leyton Orient xG 2,79 (1,19+1,60) · AFC Wimbledon xG 2,67 (0,95+1,72)
-           [GOAL] Leyton Orient: 1X + GOAL (7) [TOP 20]
-TOTALE    16:00  Middlesbrough [🔥A] vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Middlesbrough xG 3,03 (2,06+0,97) · Bristol City xG 2,93 (1,44+1,49)
-           [GOAL] Bristol City: 1X + GOAL (6) ❗ 11/39
-TOTALE    16:00  Northampton Town [🧊A 🧊D] vs Rochdale [🔥D]   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-           xG: Northampton Town xG 2,07 (0,89+1,18) · Rochdale xG 2,78 (0,93+1,85)
-           [GOAL] Northampton Town: 12 + GOAL (14+) 👻 33/39 [TOP 20]
-TOTALE    16:00  Oldham Athletic vs Exeter City [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [OK X2+GOAL]
-           xG: Oldham Athletic xG 2,79 (1,43+1,36) · Exeter City xG 2,16 (1,09+1,07)
-           [GOAL] Exeter City: X2 + GOAL (11) ❗ 13/39 [TOP 20]
-TOTALE    16:00  Stoke City [🧊D] vs Birmingham City [🧊D]   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Stoke City xG 2,51 (1,05+1,46) · Birmingham City xG 3,12 (1,75+1,37)
-           [GOAL] Stoke City: 1X + GOAL (7) ❗ 11/39 [TOP 20]
-ALERT     16:00  Arbroath vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
-           DOPPIA RIPETIZIONE: Stenhousemuir · 1X + GOAL · TRASFERTA · ritardo 11 · #6/823
-TRASFERTA 16:00  Celtic [🔥A 🧊D] vs St. Mirren [🧊A 🔥D]   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
-           xG: Celtic xG 3,72 (2,65+1,07) · St. Mirren xG 3,47 (1,42+2,05)
-           [GOAL] St. Mirren: X2 + GOAL (9) [TOP 20] 🔴 Celtic
-TOTALE    16:00  Falkirk vs St. Johnstone   [SCOZIA - PREMIERSHIP]  [OK 1X+GOAL]
-           xG: Falkirk xG 3,05 (1,24+1,81) · St. Johnstone xG 3,12 (1,27+1,85)
-           [GOAL] Falkirk: 1X + GOAL (6)
-TRASFERTA 16:00  Hibernian vs Dundee United   [SCOZIA - PREMIERSHIP]  [OK 12+GOAL]
-           xG: Hibernian xG 3,08 (1,57+1,51) · Dundee United xG 3,08 (1,56+1,52)
-           [GOAL] Dundee United: 12 + GOAL (9) [TOP 20] 🔴 Hibernian
-TOTALE    16:00  Queen's Park [🧊A 🔥D] vs Livingston [🔥A]   [SCOZIA - CHAMPIONSHIP]  [OK X2+GOAL]
-           [GOAL] Queen's Park: X2 + GOAL (13) 👻 39/39 [TOP 20] 🔴 Livingston
-CASA      16:00  Raith Rovers [🔥A] vs Partick Thistle [🔥A 🧊D]   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL]
-           [GOAL] Raith Rovers: 1X + GOAL (6) 👻 39/39 🔴 Raith Rovers 🔴 Partick Thistle
 ALERT     16:30  FC Eindhoven vs RKC Waalwijk   [OLANDA - EERSTE DIVISIE]
            DOPPIA RIPETIZIONE: FC Eindhoven · X2 + GOAL · TOTALE · ritardo 10 · #20/823
 ALERT     17:15  Catanzaro vs Palermo   [ITALIA - SERIE B]
@@ -99,7 +18,7 @@ ALERT     17:30  GAIS vs Västerås SK   [SVEZIA - ALLSVENSKAN]
 TOTALE    18:30  Schalke 04 [🧊A] vs VfB Stuttgart   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
            xG: Schalke 04 xG 3,23 (1,14+2,09) · VfB Stuttgart xG 4,21 (1,91+2,30)
            [GOAL] VfB Stuttgart: 1X + GOAL (6)
-TOTALE    18:30  Newcastle United vs Arsenal [🧊D]   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+TOTALE    18:30  Newcastle United vs Arsenal [🧊D]   [INGHILTERRA - PREMIER LEAGUE]  [ALT X2+GOAL]
            xG: Newcastle United xG 2,82 (1,15+1,67) · Arsenal xG 2,38 (1,62+0,76)
            [GOAL] Arsenal: X2 + GOAL (10) 👻 36/39 [TOP 20]
 TRASFERTA 18:30  Newcastle United vs Arsenal [🧊D]   [INGHILTERRA - PREMIER LEAGUE]  [OK 1X+GOAL]
@@ -107,7 +26,7 @@ TRASFERTA 18:30  Newcastle United vs Arsenal [🧊D]   [INGHILTERRA - PREMIER LE
            [GOAL] Arsenal: 1X + GOAL (7) [TOP 20]
 TRASFERTA 18:30  Castellón [🔥A 🧊D] vs Eldense [🧊A]   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
            xG: Castellón xG 2,85 (1,86+0,99) · Eldense xG 2,52 (1,29+1,23)
-           [GOAL] Eldense: 1X + GOAL (7+) 👻 32/39 [TOP 20]
+           [GOAL] Eldense: 1X + GOAL (7+) 👻 31/39 [TOP 20]
 TOTALE    19:30  Grazer AK [🧊A 🔥D] vs Rapid Wien [🔥A 🧊D]   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
            xG: Grazer AK xG 3,00 (1,16+1,84) · Rapid Wien xG 3,43 (2,41+1,02)
            [GOAL] Rapid Wien: X2 + GOAL (10) 👻 37/39 [TOP 20] 🔴 Grazer AK
@@ -131,13 +50,13 @@ TOTALE    21:30  Bahia vs Coritiba [🔥D]   [BRASILE - SÉRIE A]  [OK 12+GOAL]
 22/11/2026
 ==================================================
 TRASFERTA 12:00  Skierniewice [🔥D] vs Pogoń Siedlce [🧊A]   [POLONIA - I LIGA]  [OK 12+GOAL]
-           [GOAL] Pogoń Siedlce: 12 + GOAL (16) 👻 34/39 [TOP 20]
+           [GOAL] Pogoń Siedlce: 12 + GOAL (16) 👻 32/39 [TOP 20]
 CASA      12:30  Juventus [🧊D] vs Venezia [🧊A]   [ITALIA - SERIE A]  [OK 12+GOAL]
            xG: Juventus xG 2,18 (1,46+0,72) · Venezia xG 3,44 (1,47+1,97)
-           [GOAL] Juventus: 12 + GOAL (16) ❗ 11/39 [TOP 20] 🔴 Venezia
+           [GOAL] Juventus: 12 + GOAL (16) ❗ 10/39 [TOP 20] 🔴 Venezia
 TRASFERTA 13:30  Energie Cottbus vs Hertha BSC [🧊D]   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
            xG: Energie Cottbus xG 3,62 (1,48+2,14) · Hertha BSC xG 3,48 (2,26+1,22)
-           [GOAL] Hertha BSC: 1X + GOAL (6) ❗ 10/39
+           [GOAL] Hertha BSC: 1X + GOAL (6) ❗ 13/39
 CASA      13:30  Kaiserslautern [🧊A 🧊D] vs Dynamo Dresden   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL] [OK 12+GOAL]
            xG: Kaiserslautern xG 3,01 (1,47+1,54) · Dynamo Dresden xG 3,28 (1,40+1,88)
            [GOAL] Kaiserslautern: X2 + GOAL (9) [TOP 20]; 12 + GOAL (9) [TOP 20] 🔴 Kaiserslautern
@@ -159,7 +78,7 @@ TOTALE    14:30  Lechia Gdańsk [🔥A] vs Odra Opole [🧊A]   [POLONIA - I LIG
 CASA      15:00  Paris FC vs Angers [🧊A]   [FRANCIA - LIGUE 1]  [OK X2+GOAL]
            xG: Paris FC xG 2,65 (1,67+0,98) · Angers xG 3,22 (1,36+1,86)
            [GOAL] Paris FC: X2 + GOAL (12) [TOP 20]
-TOTALE    15:00  Hull City vs Brighton & Hove Albion [🔥A 🧊D]   [INGHILTERRA - PREMIER LEAGUE]  [OK 1X+GOAL]
+TOTALE    15:00  Hull City [🧊A] vs Brighton & Hove Albion [🔥A 🧊D]   [INGHILTERRA - PREMIER LEAGUE]  [OK 1X+GOAL]
            xG: Hull City xG 2,40 (0,95+1,45) · Brighton & Hove Albion xG 3,29 (1,93+1,36)
            [GOAL] Brighton & Hove Albion: 1X + GOAL (7) [TOP 20]
 ALERT     15:00  Avellino vs Mantova   [ITALIA - SERIE B]
@@ -228,35 +147,35 @@ TOTALE    21:00  Levante [🔥D] vs Elche   [SPAGNA - LALIGA]  [OK 1X+GOAL]
 24/11/2026
 ==================================================
 TOTALE    19:00  Juve Stabia [🧊D] vs Catanzaro [🧊A 🔥D]   [ITALIA - SERIE B]  [OK 12+GOAL]
-           xG: Juve Stabia xG 2,47 (1,24+1,23) · Catanzaro xG 3,26 (1,30+1,96)
-           [GOAL] Juve Stabia: 12 + GOAL (9) 👻 36/39 [TOP 20]
+           xG: Juve Stabia xG 2,43 (1,18+1,25) · Catanzaro xG 3,26 (1,30+1,96)
+           [GOAL] Juve Stabia: 12 + GOAL (9) 👻 35/39 [TOP 20]
 CASA      19:00  Juve Stabia [🧊D] vs Catanzaro [🧊A 🔥D]   [ITALIA - SERIE B]  [OK 12+GOAL]
-           xG: Juve Stabia xG 2,47 (1,24+1,23) · Catanzaro xG 3,26 (1,30+1,96)
-           [GOAL] Juve Stabia: 12 + GOAL (9) 👻 36/39 [TOP 20]
+           xG: Juve Stabia xG 2,43 (1,18+1,25) · Catanzaro xG 3,26 (1,30+1,96)
+           [GOAL] Juve Stabia: 12 + GOAL (9) 👻 35/39 [TOP 20]
 ALERT     20:00  Benevento vs Empoli   [ITALIA - SERIE B]
            DOPPIA RIPETIZIONE: Empoli · X2 + GOAL · TRASFERTA · ritardo 11 · #12/823
 CASA      20:00  Palermo [🔥A] vs Südtirol   [ITALIA - SERIE B]  [OK X2+GOAL]
-           xG: Palermo xG 3,64 (2,04+1,60) · Südtirol xG 2,52 (1,09+1,43)
+           xG: Palermo xG 3,64 (2,04+1,60) · Südtirol xG 2,42 (1,10+1,32)
            [GOAL] Palermo: X2 + GOAL (9) 🔥 4/39 [TOP 20]
 TOTALE    20:00  Vicenza [🔥D] vs Carrarese [🧊A]   [ITALIA - SERIE B]  [OK X2+GOAL]
-           xG: Vicenza xG 2,84 (1,14+1,70) · Carrarese xG 2,50 (1,29+1,21)
+           xG: Vicenza xG 2,79 (1,12+1,67) · Carrarese xG 2,45 (1,34+1,11)
            [GOAL] Carrarese: X2 + GOAL (9) 🔥 4/39 [TOP 20]
 TOTALE    20:45  Bradford City [🧊A 🧊D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]  [ALT 12+GOAL]
-           xG: Bradford City xG 2,27 (1,21+1,06) · Barnsley xG 3,06 (1,38+1,68)
+           xG: Bradford City xG 2,11 (1,13+0,98) · Barnsley xG 3,06 (1,38+1,68)
            [GOAL] Bradford City: 12 + GOAL (9) [TOP 20] 🔴 Barnsley
 CASA      20:45  Bradford City [🧊A 🧊D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
-           xG: Bradford City xG 2,27 (1,21+1,06) · Barnsley xG 3,06 (1,38+1,68)
+           xG: Bradford City xG 2,11 (1,13+0,98) · Barnsley xG 3,06 (1,38+1,68)
            [GOAL] Bradford City: 1X + GOAL (7) [TOP 20] 🔴 Barnsley
 TOTALE    20:45  Bristol City vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Bristol City xG 2,93 (1,44+1,49) · Wrexham xG 2,33 (1,12+1,21)
-           [GOAL] Bristol City: 1X + GOAL (6) ❗ 11/39
+           xG: Bristol City xG 2,75 (1,35+1,40) · Wrexham xG 2,19 (1,05+1,14)
+           [GOAL] Bristol City: 1X + GOAL (6) ❗ 12/39
 CASA      20:45  Bristol City vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Bristol City xG 2,93 (1,44+1,49) · Wrexham xG 2,33 (1,12+1,21)
-           [GOAL] Bristol City: 1X + GOAL (6) ❗ 11/39 🔴 Wrexham
+           xG: Bristol City xG 2,75 (1,35+1,40) · Wrexham xG 2,19 (1,05+1,14)
+           [GOAL] Bristol City: 1X + GOAL (6) ❗ 12/39 🔴 Wrexham
 ALERT     20:45  Charlton Athletic vs Lincoln City   [INGHILTERRA - CHAMPIONSHIP]
            DOPPIA RIPETIZIONE: Lincoln City · 12 + GOAL · TRASFERTA · ritardo 10 · #14/823
-TOTALE    20:45  Port Vale [🧊A 🧊D] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-           xG: Port Vale xG 2,46 (1,46+1,00) · Northampton Town xG 2,07 (0,89+1,18)
+TOTALE    20:45  Port Vale [🧊D] vs Northampton Town [🧊A 🧊D]   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
+           xG: Port Vale xG 2,31 (1,36+0,95) · Northampton Town xG 1,95 (0,85+1,10)
            [GOAL] Northampton Town: 12 + GOAL (14+) 👻 33/39 [TOP 20]
 TOTALE    22:00  Chapecoense [🧊A 🔥D] vs Palmeiras [🔥A 🧊D]   [BRASILE - SÉRIE A]  [OK X2+GOAL]
            xG: Chapecoense xG 2,81 (0,99+1,82) · Palmeiras xG 2,40 (1,43+0,97)
@@ -268,8 +187,8 @@ TOTALE    22:00  Chapecoense [🧊A 🔥D] vs Palmeiras [🔥A 🧊D]   [BRASILE
 ALERT     19:00  Cremonese vs Avellino   [ITALIA - SERIE B]
            DOPPIA RIPETIZIONE: Avellino · X2 + GOAL · TOTALE · ritardo 10 · #16/823
 CASA      20:45  Bolton Wanderers [🔥D] vs West Bromwich Albion [🧊D]   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Bolton Wanderers xG 3,38 (1,38+2,00) · West Bromwich Albion xG 3,05 (1,66+1,39)
-           [GOAL] Bolton Wanderers: 1X + GOAL (6) ❗ 11/39 🔴 Bolton Wanderers
+           xG: Bolton Wanderers xG 3,20 (1,30+1,90) · West Bromwich Albion xG 2,94 (1,63+1,31)
+           [GOAL] Bolton Wanderers: 1X + GOAL (6) ❗ 12/39 🔴 Bolton Wanderers
 TOTALE    21:00  Stoke City [🧊D] vs Millwall   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-           xG: Stoke City xG 2,51 (1,05+1,46) · Millwall xG 3,08 (1,69+1,39)
-           [GOAL] Stoke City: 1X + GOAL (7) ❗ 11/39 [TOP 20]
+           xG: Stoke City xG 2,36 (0,99+1,37) · Millwall xG 3,16 (1,69+1,47)
+           [GOAL] Stoke City: 1X + GOAL (7) ❗ 12/39 [TOP 20]
