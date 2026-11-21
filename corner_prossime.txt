@@ -1,27 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 21/11/2026 16:25 (ora italiana)
+Aggiornato: 21/11/2026 21:21 (ora italiana)
 Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
 Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
 Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
 Orari convertiti dall'ora del Regno Unito all'ora italiana.
 Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 
-
-==================================================
-21/11/2026
-==================================================
-TOTALE    17:15  Catanzaro vs Palermo   [ITALIA - SERIE B]
-           RITARDO      Palermo: (13) #4/398
-TOTALE    18:30  Kalamata vs AEK   [GRECIA - SUPER LEAGUE]
-           RITARDO      AEK: (11) #6/398
-TOTALE    18:30  Montrose vs Alloa   [SCOZIA - LEAGUE ONE]
-           RIPETIZIONE  Montrose: (9) #7/398
-TOTALE    18:30  Yeovil vs Forest Green   [INGHILTERRA - NATIONAL LEAGUE]
-           RITARDO      Yeovil: (11) #6/398
-TOTALE    20:00  Reims vs St Etienne   [FRANCIA - LIGUE 2]
-           RIPETIZIONE  Reims: (12) #1/398
-TRASFERTA 20:45  Napoli vs Torino   [ITALIA - SERIE A]
-           RITARDO      Torino: (9) #6/398
 
 ==================================================
 22/11/2026
