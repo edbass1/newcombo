@@ -11,7 +11,7 @@ I file «new» (campionati extra) non hanno le colonne dei corner: si usano solo
 i CSV stagionali mmz4281 che le pubblicano. Un errore qui non deve impedire
 il salvataggio dei dati combo: lo script scrive i file solo alla fine.
 """
-import csv, io, os, html, urllib.request
+import csv, io, os, html, re, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -413,31 +413,66 @@ def _line_html(kind, row, view):
     )
 
 COPY_BUTTON_HTML = (
-    '<p><a href="#corner" id="copy-corner-today" role="button" '
+    '<div id="copy-corner-bar" style="display:flex;flex-wrap:wrap;align-items:center;gap:.75rem 1.1rem;margin:.35rem 0 .9rem">'
+    '<a href="#corner" id="copy-corner-today" role="button" '
     'style="display:inline-block;font-size:1.35rem;font-weight:800;background:#000;color:#fff;'
     'border:2px solid #fff;border-radius:10px;padding:.7rem 1.15rem;text-decoration:none;cursor:pointer">'
-    'Copia partite del giorno</a></p>'
+    'Copia partite del giorno</a>'
+    '<span id="copy-corner-days" role="group" aria-label="Giorni da copiare" '
+    'style="display:flex;flex-wrap:wrap;align-items:center;gap:.35rem .95rem"></span>'
+    '</div>'
 )
 
 COPY_SCRIPT = r"""<script>(function(){
-function romeStamp(ms){var fmt=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});var map={};fmt.formatToParts(new Date(ms)).forEach(function(p){if(p.type!=='literal')map[p.type]=p.value;});var hour=map.hour==='24'?'00':map.hour;return {date:map.year+'-'+map.month+'-'+map.day,hm:hour+':'+map.minute};}
+/* corner-days-v2: copia i giorni spuntati, non solo la data di oggi */
+function romeStamp(ms){var fmt=new Intl.DateTimeFormat('it-IT',{timeZone:'Europe/Rome',hourCycle:'h23',weekday:'short',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});var map={};fmt.formatToParts(new Date(ms)).forEach(function(p){if(p.type!=='literal')map[p.type]=p.value;});var hour=map.hour==='24'?'00':map.hour;var wd=(map.weekday||'').replace(/\./g,'');wd=wd.charAt(0).toUpperCase()+wd.slice(1);return {date:map.year+'-'+map.month+'-'+map.day,hm:hour+':'+map.minute,label:wd+' '+map.day+'/'+map.month};}
 function visible(el){return el&&!el.hidden&&el.style.display!=='none';}
 function viewOf(card){var v=card.querySelector('.vtag');var t=(v?v.textContent:'').replace(/\s+/g,'').toUpperCase();if(t==='CASA')return 'casa';if(t==='TRASFERTA')return 'trasferta';return 'totale';}
 function rowInfo(row,view){if(row.getAttribute('data-kind')){return {kind:row.getAttribute('data-kind'),team:row.getAttribute('data-team'),n:row.getAttribute('data-n'),view:row.getAttribute('data-view')||view};}var b=row.querySelector('b');var team=b?(b.textContent||'').trim():'';var raw=(row.textContent||'');var kind=/RIPETIZIONE/i.test(raw)?'ripetizione':(/RITARDO/i.test(raw)?'ritardo':'');var nm=raw.match(/\(([^)]+)\)/);return {kind:kind,team:team,n:nm?nm[1].trim():'',view:view};}
-function buildCornerDay(){var today=romeStamp(Date.now()).date;var root=document.getElementById('corner');var sec=root?(root.closest('section')||root.parentElement):null;var list=sec?sec.querySelector('.fxlist[data-upcoming]'):null;var lines=['CORNER 9-11 | '+today];if(!list)return lines.join('\n');var groups={},order=[];[].slice.call(list.querySelectorAll(':scope > .fx')).forEach(function(card){if(!visible(card))return;var kick=card.getAttribute('data-kick');var when=kick?Date.parse(kick):NaN;if(isNaN(when))return;var stamp=romeStamp(when);if(stamp.date!==today)return;var home=card.getAttribute('data-home'),away=card.getAttribute('data-away');if(!home||!away){var copy=(card.querySelector('.time')||{}).getAttribute?card.querySelector('.time').getAttribute('data-copy'):'';var bits=(copy||'').split(' vs ');home=home||bits[0]||'';away=away||bits.slice(1).join(' vs ')||'';}var key=stamp.hm+'|'+home+'|'+away;if(!groups[key]){groups[key]={hm:stamp.hm,home:home,away:away,bits:[]};order.push(key);}var view=viewOf(card);[].slice.call(card.querySelectorAll('.tagrow')).forEach(function(row){var info=rowInfo(row,view);if(!info.kind||!info.team)return;groups[key].bits.push(info.team+' ('+info.kind+' '+info.n+' '+info.view+')');});});order.sort(function(a,b){if(groups[a].hm!==groups[b].hm)return groups[a].hm<groups[b].hm?-1:1;return a<b?-1:1;});order.forEach(function(key){var g=groups[key];lines.push(g.hm+' | '+g.home+' - '+g.away+' | '+g.bits.join('; '));});return lines.join('\n');}
-function showCopied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1.1rem;border-radius:10px;font-weight:800;font-size:1.25rem';document.body.appendChild(msg);}msg.textContent='Copiato!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},1600);}
-function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.setAttribute('readonly','');ta.style.position='fixed';ta.style.left='-9999px';document.body.appendChild(ta);ta.select();var ok=false;try{ok=document.execCommand('copy');}catch(e){ok=false;}ta.remove();if(ok)showCopied();else window.prompt('Copia il testo:',txt);}
-function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(showCopied).catch(function(){fallback(txt);});}else fallback(txt);}
-document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('#copy-corner-today');if(!btn)return;e.preventDefault();copyText(buildCornerDay());});
+function upcomingList(){var root=document.getElementById('corner');if(!root)return null;var sec=root.closest('section')||root.parentElement;return sec?sec.querySelector('.fxlist[data-upcoming]'):null;}
+function readCard(card){if(!visible(card))return null;var kick=card.getAttribute('data-kick');var when=kick?Date.parse(kick):NaN;if(isNaN(when))return null;var stamp=romeStamp(when);var home=card.getAttribute('data-home'),away=card.getAttribute('data-away');if(!home||!away){var time=card.querySelector('.time');var copy=time?time.getAttribute('data-copy'):'';var parts=(copy||'').split(' vs ');home=home||parts[0]||'';away=away||parts.slice(1).join(' vs ')||'';}var bits=[],view=viewOf(card);[].slice.call(card.querySelectorAll('.tagrow')).forEach(function(row){var info=rowInfo(row,view);if(!info.kind||!info.team)return;bits.push(info.team+' ('+info.kind+' '+info.n+' '+info.view+')');});return {date:stamp.date,label:stamp.label,hm:stamp.hm,home:home,away:away,key:stamp.hm+'|'+home+'|'+away,bits:bits};}
+function collectDays(){var list=upcomingList(),days=[],by={};if(!list)return days;[].slice.call(list.querySelectorAll(':scope > .fx')).forEach(function(card){var info=readCard(card);if(!info)return;if(!by[info.date]){by[info.date]={date:info.date,label:info.label,matches:{}};days.push(by[info.date]);}var bucket=by[info.date].matches;if(!bucket[info.key])bucket[info.key]={hm:info.hm,home:info.home,away:info.away,bits:[]};info.bits.forEach(function(bit){bucket[info.key].bits.push(bit);});});days.forEach(function(day){day.keys=Object.keys(day.matches).sort(function(a,b){var ga=day.matches[a],gb=day.matches[b];if(ga.hm!==gb.hm)return ga.hm<gb.hm?-1:1;return a<b?-1:1;});day.count=day.keys.length;});days.sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:0;});return days;}
+function paintDays(){var box=document.getElementById('copy-corner-days');if(!box)return;var days=collectDays();var sig=days.map(function(day){return day.date+':'+day.count;}).join('|');if(box.getAttribute('data-sig')===sig)return;var prev={},had=!!box.querySelector('input'),hadChecked=false;[].forEach.call(box.querySelectorAll('input'),function(inp){prev[inp.value]=inp.checked;if(inp.checked)hadChecked=true;});box.setAttribute('data-sig',sig);box.textContent='';days.forEach(function(day,index){var label=document.createElement('label');label.style.cssText='display:inline-flex;align-items:center;gap:.4rem;color:#fff;font-weight:700;font-size:1.05rem;cursor:pointer;background:#000';var input=document.createElement('input');input.type='checkbox';input.value=day.date;input.style.cssText='width:1.15rem;height:1.15rem;accent-color:#fff';if(!had)input.checked=index===0;else if(Object.prototype.hasOwnProperty.call(prev,day.date))input.checked=!!prev[day.date];var text=document.createElement('span');text.textContent=day.label+' ('+day.count+')';label.appendChild(input);label.appendChild(text);box.appendChild(label);});var inputs=box.querySelectorAll('input'),any=false;[].forEach.call(inputs,function(inp){if(inp.checked)any=true;});if(!any&&inputs[0]&&(!had||hadChecked))inputs[0].checked=true;}
+function buildCornerDay(){var days=collectDays(),picked={},box=document.getElementById('copy-corner-days');if(box)[].forEach.call(box.querySelectorAll('input:checked'),function(inp){picked[inp.value]=true;});var lines=[];days.forEach(function(day){if(!picked[day.date])return;lines.push('CORNER 9-11 | '+day.date);day.keys.forEach(function(key){var match=day.matches[key];lines.push(match.hm+' | '+match.home+' - '+match.away+' | '+match.bits.join('; '));});});return lines.join('\n');}
+function showNote(text){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';document.body.appendChild(msg);}msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1.1rem;border-radius:10px;font-weight:800;font-size:1.25rem';msg.textContent=text;msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},1800);}
+function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.setAttribute('readonly','');ta.style.position='fixed';ta.style.left='-9999px';document.body.appendChild(ta);ta.select();var ok=false;try{ok=document.execCommand('copy');}catch(e){ok=false;}ta.remove();if(ok)showNote('Copiato!');else window.prompt('Copia il testo:',txt);}
+function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){showNote('Copiato!');}).catch(function(){fallback(txt);});}else fallback(txt);}
+function arm(){var list=upcomingList();if(list&&!list._cornerDays){list._cornerDays=new MutationObserver(function(){paintDays();});list._cornerDays.observe(list,{subtree:true,attributes:true,attributeFilter:['hidden','style','class'],childList:true});}paintDays();}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',arm);else arm();setTimeout(arm,0);setTimeout(arm,400);
+document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('#copy-corner-today');if(!btn)return;e.preventDefault();var txt=buildCornerDay();if(!txt){showNote('Seleziona un giorno');return;}copyText(txt);});
 })();</script>"""
 
+_OLD_COPY_BUTTON = re.compile(
+    r'<p><a href="#corner" id="copy-corner-today"[\s\S]*?</a></p>'
+)
+
 def ensure_day_copy(html):
-    """Aggiunge il pulsante e lo script se la pagina non li ha ancora."""
-    needle = '<div class="fxlist" data-upcoming="1">'
-    if 'id="copy-corner-today"' not in html and needle in html:
-        html = html.replace(needle, COPY_BUTTON_HTML + needle, 1)
-    if "function buildCornerDay" not in html and "<!-- /CORNER-SECTION -->" in html:
-        html = html.replace("<!-- /CORNER-SECTION -->", COPY_SCRIPT + "\n<!-- /CORNER-SECTION -->", 1)
+    """Inserisce o aggiorna il pulsante, le caselle dei giorni e lo script."""
+    if 'id="copy-corner-days"' not in html:
+        if _OLD_COPY_BUTTON.search(html):
+            html = _OLD_COPY_BUTTON.sub(COPY_BUTTON_HTML, html, count=1)
+        else:
+            needle = '<div class="fxlist" data-upcoming="1">'
+            if needle in html and 'id="copy-corner-today"' not in html:
+                html = html.replace(needle, COPY_BUTTON_HTML + needle, 1)
+    if "corner-days-v2" not in html:
+        start = 0
+        replaced = False
+        while True:
+            index = html.find("<script>(function(){", start)
+            if index < 0:
+                break
+            end = html.find("</script>", index)
+            if end < 0:
+                break
+            chunk = html[index:end]
+            if "function buildCornerDay" in chunk:
+                html = html[:index] + COPY_SCRIPT + html[end + len("</script>"):]
+                replaced = True
+                break
+            start = end + len("</script>")
+        if not replaced and "<!-- /CORNER-SECTION -->" in html:
+            html = html.replace("<!-- /CORNER-SECTION -->", COPY_SCRIPT + "\n<!-- /CORNER-SECTION -->", 1)
     return html
 
 def render_texts(model, stamp):
