@@ -1,15 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 22/11/2026 18:23 (ora italiana)
+Aggiornato: 22/11/2026 20:30 (ora italiana)
 Fasce: 1X + GOAL da 6 a 8, X2 + GOAL e 12 + GOAL da 9 in su. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 22/11/2026
 ==================================================
-TRASFERTA 19:15  Gent U23 [🧊A] vs Francs Borains [🧊A 🧊D]   [BELGIO - FIRST DIVISION B]
-           xG: Gent U23 xG 2,64 (1,21+1,43) · Francs Borains xG 3,36 (1,74+1,62)
-           Francs Borains: 1X + GOAL (6) 👻 35/39
-ALERT     19:15  Sarpsborg 08 vs Lillestrøm   [NORVEGIA - ELITESERIEN]
 ALERT     20:45  Atalanta vs Inter   [ITALIA - SERIE A]
 TRASFERTA 21:00  Getafe [🧊A] vs Atlético Madrid [🔥A 🧊D]   [SPAGNA - LALIGA]
            xG: Getafe xG 2,13 (0,70+1,43) · Atlético Madrid xG 2,74 (1,61+1,13)
@@ -26,7 +22,7 @@ TRASFERTA 23:30  RB Bragantino vs Vasco da Gama   [BRASILE - SÉRIE A]
 ==================================================
 TOTALE    02:00  Instituto [🔥A] vs Huracán [🧊A]   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Instituto xG 2,26 (1,43+0,83) · Huracán xG 2,64 (1,24+1,40)
-           Huracán: 1X + GOAL (7) 👻 30/39 [TOP 20]
+           Huracán: 1X + GOAL (7) [TOP 20]
 TRASFERTA 19:00  Örgryte [🔥D] vs Kalmar FF [🧊A]   [SVEZIA - ALLSVENSKAN]
            xG: Örgryte xG 3,26 (1,11+2,15) · Kalmar FF xG 2,58 (1,34+1,24)
            Kalmar FF: 1X + GOAL (6) 👻 33/39 🔴 Örgryte
@@ -43,17 +39,17 @@ TOTALE    21:00  Levante vs Elche   [SPAGNA - LALIGA]
 24/11/2026
 ==================================================
 TOTALE    19:00  Juve Stabia [🧊A] vs Catanzaro [🔥D]   [ITALIA - SERIE B]
-           xG: Juve Stabia xG 2,49 (1,19+1,30) · Catanzaro xG 3,21 (1,31+1,90)
+           xG: Juve Stabia xG 2,49 (1,19+1,30) · Catanzaro xG 3,26 (1,33+1,93)
            Juve Stabia: 12 + GOAL (10) 👻 34/39 [TOP 20]
 CASA      19:00  Juve Stabia [🧊A] vs Catanzaro [🔥D]   [ITALIA - SERIE B]
-           xG: Juve Stabia xG 2,49 (1,19+1,30) · Catanzaro xG 3,21 (1,31+1,90)
+           xG: Juve Stabia xG 2,49 (1,19+1,30) · Catanzaro xG 3,26 (1,33+1,93)
            Juve Stabia: 12 + GOAL (9) 👻 34/39 [TOP 20]
 ALERT     20:00  Benevento vs Empoli   [ITALIA - SERIE B]
 CASA      20:00  Palermo [🔥A] vs Südtirol [🧊D]   [ITALIA - SERIE B]
-           xG: Palermo xG 3,57 (1,98+1,59) · Südtirol xG 2,50 (1,14+1,36)
+           xG: Palermo xG 3,62 (2,01+1,61) · Südtirol xG 2,50 (1,14+1,36)
            Palermo: X2 + GOAL (9) 🔥 6/39 [TOP 20]
 TOTALE    20:00  Vicenza [🔥D] vs Carrarese [🧊A]   [ITALIA - SERIE B]
-           xG: Vicenza xG 2,90 (1,11+1,79) · Carrarese xG 2,48 (1,34+1,14)
+           xG: Vicenza xG 2,90 (1,11+1,79) · Carrarese xG 2,50 (1,36+1,14)
            Carrarese: X2 + GOAL (10) 🔥 6/39 [TOP 20]
 TOTALE    20:45  Bradford City [🧊A 🧊D] vs Barnsley [🔥D]   [INGHILTERRA - LEAGUE ONE]
            xG: Bradford City xG 2,25 (1,22+1,03) · Barnsley xG 3,06 (1,38+1,68)
@@ -81,3 +77,15 @@ TOTALE    21:00  Stoke City [🧊D] vs Millwall   [INGHILTERRA - CHAMPIONSHIP]
 ==================================================
 TRASFERTA 18:00  Warta Poznań vs Pogoń Siedlce [🧊A]   [POLONIA - I LIGA]
            Pogoń Siedlce: 12 + GOAL (17) [TOP 20]
+TOTALE    19:00  Feirense [🧊A] vs Portimonense [🧊A 🧊D]   [PORTOGALLO - LIGA PORTUGAL 2]
+           Portimonense: 1X + GOAL (8) 👻 34/39 [TOP 20]
+TRASFERTA 19:30  Grazer AK [🧊A 🔥D] vs Altach   [AUSTRIA - BUNDESLIGA]
+           xG: Grazer AK xG 3,09 (1,12+1,97) · Altach xG 2,46 (1,21+1,25)
+           Altach: 1X + GOAL (6) ❗ 13/39; 12 + GOAL (9) [TOP 20] 🔴 Grazer AK
+TOTALE    20:30  FC Wacker Innsbruck [🧊D] vs First Vienna FC   [AUSTRIA - 2. LIGA]
+           FC Wacker Innsbruck: 1X + GOAL (6)
+CASA      20:30  Foggia vs Casertana   [ITALIA - SERIE C]
+           Foggia: 1X + GOAL (6)
+CASA      20:30  Chrobry Głogów [🧊A] vs Skierniewice [🔥D]   [POLONIA - I LIGA]
+           Chrobry Głogów: 1X + GOAL (6); 12 + GOAL (9) [TOP 20]
+ALERT     20:30  Leganés vs Sabadell   [SPAGNA - LALIGA 2]
