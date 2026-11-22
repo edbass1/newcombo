@@ -15,6 +15,8 @@ on:
     paths:
       - '.github/workflows/update.yml'
       - 'gen.py'
+      - 'corner.py'
+      - 'corner_multi.py'
 permissions:
   contents: write
 concurrency:
@@ -99,7 +101,7 @@ jobs:
         if: steps.need.outputs.esegui == 'true'
         continue-on-error: true
         timeout-minutes: 8
-        run: python3 corner.py
+        run: python3 corner_multi.py
       - name: Se Corner fallisce, rimetti la sezione precedente
         if: steps.need.outputs.esegui == 'true'
         run: |
@@ -130,7 +132,7 @@ jobs:
           stage="${RUNNER_TEMP:-/tmp}/newcombo-out"
           rm -rf "${stage}"
           mkdir -p "${stage}"
-          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt corner_ritardi.txt corner_prossime.txt corner_ripetizioni.txt corner_frequenza.txt corner_sottofrequenze.txt corner_saltati.txt"
+          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt corner_ritardi.txt corner_prossime.txt corner_ripetizioni.txt corner_frequenza.txt corner_sottofrequenze.txt corner_saltati.txt corner_ritardi_6_8.txt corner_prossime_6_8.txt corner_ripetizioni_6_8.txt corner_frequenza_6_8.txt corner_sottofrequenze_6_8.txt corner_saltati_6_8.txt corner_ritardi_12_14.txt corner_prossime_12_14.txt corner_ripetizioni_12_14.txt corner_frequenza_12_14.txt corner_sottofrequenze_12_14.txt corner_saltati_12_14.txt"
           for f in ${files}; do
             if [ -f "${f}" ]; then
               cp -a "${f}" "${stage}/${f}"
