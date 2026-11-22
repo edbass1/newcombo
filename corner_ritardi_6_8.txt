@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI CORNER 6-8 — TOTALI
-Aggiornato: 22/11/2026 11:14 (ora italiana)
+Aggiornato: 22/11/2026 11:11 (ora italiana)
 Vista Totali: tutte le partite, in casa o in trasferta.
 Uscita = corner totali 6, 7 o 8. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -371,7 +371,7 @@ RITARDI CORNER 6-8
 ##################################################
 
 RITARDI CORNER 6-8 — CASA
-Aggiornato: 22/11/2026 11:14 (ora italiana)
+Aggiornato: 22/11/2026 11:11 (ora italiana)
 Vista Casa: solo le partite giocate in casa.
 Uscita = corner totali 6, 7 o 8. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -742,7 +742,7 @@ RITARDI CORNER 6-8
 ##################################################
 
 RITARDI CORNER 6-8 — TRASFERTA
-Aggiornato: 22/11/2026 11:14 (ora italiana)
+Aggiornato: 22/11/2026 11:11 (ora italiana)
 Vista Trasferta: solo le partite giocate in trasferta.
 Uscita = corner totali 6, 7 o 8. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
