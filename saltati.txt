@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 22/11/2026 01:30 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 21/11 20:30  [GOAL] Palmeiras: X2 + GOAL uscita, era a 10  -  Palmeiras 1-1 Flamengo   [BRASILE - SÉRIE A]
 21/11 18:30  [GOAL] Arsenal: X2 + GOAL uscita, era a 10 👻 36/39  -  Newcastle United 2-2 Arsenal   [INGHILTERRA - PREMIER LEAGUE]
@@ -27,7 +27,7 @@ Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite
 21/11 15:30  [GOAL] Stal Mielec: X2 + GOAL uscita, era a 6 ❗ 11/39  -  Polonia Warszawa 1-1 Stal Mielec   [POLONIA - I LIGA]
 21/11 15:00  [GOAL] Benevento: 12 + GOAL uscita, era a 7 👻 35/39  -  Sampdoria 3-1 Benevento   [ITALIA - SERIE B]
 21/11 15:00  [GOAL] Malmö FF: 1X + GOAL uscita, era a 7 👻 33/39  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
-21/11 14:45  [GOAL] Jagiellonia Białystok: 1X + GOAL uscita, era a 7 ❗ 8/39  -  Cracovia 3-1 Jagiellonia Białystok   [POLONIA - EKSTRAKLASA]
+21/11 14:45  [GOAL] Jagiellonia Białystok: 1X + GOAL uscita, era a 7 🔥 7/39  -  Cracovia 3-1 Jagiellonia Białystok   [POLONIA - EKSTRAKLASA]
 21/11 13:30  [GOAL] Manchester City: X2 + GOAL uscita, era a 8 👻 36/39  -  Manchester City 1-1 Fulham   [INGHILTERRA - PREMIER LEAGUE]
 21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 20  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
 21/11 13:00  [GOAL] Eintracht Braunschweig: X2 + GOAL uscita, era a 6  -  1. FC Nürnberg 1-2 Eintracht Braunschweig   [GERMANIA - 2. BUNDESLIGA]
@@ -45,10 +45,12 @@ Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 22/11/2026 01:30 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+21/11 21:00  [GOAL] Motherwell: X2 + GOAL uscita, era a 6  -  Motherwell 1-2 Rangers   [SCOZIA - PREMIERSHIP]
+21/11 21:00  [GOAL] Motherwell: 12 + GOAL uscita, era a 6  -  Motherwell 1-2 Rangers   [SCOZIA - PREMIERSHIP]
 21/11 20:30  [GOAL] Palmeiras: X2 + GOAL uscita, era a 7  -  Palmeiras 1-1 Flamengo   [BRASILE - SÉRIE A]
-21/11 18:45  [GOAL] Feyenoord: 12 + GOAL uscita, era a 6 🔥 5/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
+21/11 18:45  [GOAL] Feyenoord: 12 + GOAL uscita, era a 6 🔥 4/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
 21/11 18:00  [GOAL] Bohemians 1905: 12 + GOAL uscita, era a 6  -  Bohemians 1905 1-2 Viktoria Plzeň   [REP. CECA - 1. LIGA]
 21/11 16:00  [GOAL] Bolton Wanderers: 1X + GOAL uscita, era a 6 ❗ 9/39  -  Bolton Wanderers 1-1 Portsmouth   [INGHILTERRA - CHAMPIONSHIP]
 21/11 16:00  [GOAL] Bradford City: 1X + GOAL uscita, era a 7  -  Bradford City 2-2 Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
@@ -68,10 +70,11 @@ Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 21/11/2026 22:37 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 22/11/2026 01:30 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
+21/11 21:00  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 7 ❗ 14/39  -  Real Madrid 2-1 Celta Vigo   [SPAGNA - LALIGA]
 21/11 20:45  [GOAL] Royal Antwerp: X2 + GOAL uscita, era a 7 👻 37/39  -  Zulte Waregem 2-2 Royal Antwerp   [BELGIO - FIRST DIVISION A]
-21/11 18:45  [GOAL] Excelsior: 12 + GOAL uscita, era a 6 🔥 5/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
+21/11 18:45  [GOAL] Excelsior: 12 + GOAL uscita, era a 6 🔥 4/39  -  Feyenoord 2-3 Excelsior   [OLANDA - EREDIVISIE]
 21/11 18:30  [GOAL] Arsenal: 1X + GOAL uscita, era a 7  -  Newcastle United 2-2 Arsenal   [INGHILTERRA - PREMIER LEAGUE]
 21/11 17:30  [GOAL] Juventus Next Gen: X2 + GOAL uscita, era a 6  -  Giana Erminio 1-3 Juventus Next Gen   [ITALIA - SERIE C]
 21/11 17:30  [GOAL] Vis Pesaro: X2 + GOAL uscita, era a 7  -  Campobasso 3-3 Vis Pesaro   [ITALIA - SERIE C]
