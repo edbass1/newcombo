@@ -3,8 +3,9 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 22/11/2026 18:23 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
+22/11 16:00  [GOAL] Genk U23: 12 + GOAL uscita, era a 7  -  Beerschot 5-1 Genk U23   [BELGIO - FIRST DIVISION B]
 22/11 14:30  [GOAL] Torres: X2 + GOAL uscita, era a 6  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 22/11 14:30  [GOAL] Odra Opole: 1X + GOAL uscita, era a 7  -  Lechia Gdańsk 2-1 Odra Opole   [POLONIA - I LIGA]
 22/11 13:30  [GOAL] Kaiserslautern: 1X + GOAL uscita, era a 20 ❗ 14/39  -  Kaiserslautern 2-2 Dynamo Dresden   [GERMANIA - 2. BUNDESLIGA]
@@ -16,29 +17,29 @@ Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite
 21/11 17:30  [GOAL] Pineto: X2 + GOAL uscita, era a 7  -  Pineto 1-1 Pescara   [ITALIA - SERIE C]
 21/11 17:30  [GOAL] Vis Pesaro: X2 + GOAL uscita, era a 6  -  Campobasso 3-3 Vis Pesaro   [ITALIA - SERIE C]
 21/11 17:30  [GOAL] Västerås SK: 1X + GOAL uscita, era a 20 👻 33/39  -  GAIS 3-1 Västerås SK   [SVEZIA - ALLSVENSKAN]
-21/11 16:00  [GOAL] Sporting Hasselt: 1X + GOAL uscita, era a 9 👻 37/39  -  Eupen 1-1 Sporting Hasselt   [BELGIO - FIRST DIVISION B]
+21/11 16:00  [GOAL] Sporting Hasselt: 1X + GOAL uscita, era a 9 👻 35/39  -  Eupen 1-1 Sporting Hasselt   [BELGIO - FIRST DIVISION B]
 21/11 16:00  [GOAL] Chelsea: X2 + GOAL uscita, era a 6 👻 36/39  -  Chelsea 1-4 Leeds United   [INGHILTERRA - PREMIER LEAGUE]
-21/11 16:00  [GOAL] Doncaster Rovers: X2 + GOAL uscita, era a 8 ❗ 14/39  -  Bradford City 2-2 Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
+21/11 16:00  [GOAL] Doncaster Rovers: X2 + GOAL uscita, era a 8  -  Bradford City 2-2 Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
 21/11 16:00  [GOAL] Exeter City: X2 + GOAL uscita, era a 11  -  Oldham Athletic 1-1 Exeter City   [INGHILTERRA - LEAGUE TWO]
-21/11 16:00  [GOAL] Milton Keynes Dons: X2 + GOAL uscita, era a 6 ❗ 14/39  -  Mansfield Town 1-1 Milton Keynes Dons   [INGHILTERRA - LEAGUE ONE]
+21/11 16:00  [GOAL] Milton Keynes Dons: X2 + GOAL uscita, era a 6  -  Mansfield Town 1-1 Milton Keynes Dons   [INGHILTERRA - LEAGUE ONE]
 21/11 16:00  [GOAL] Northampton Town: 12 + GOAL uscita, era a 14 👻 30/39  -  Northampton Town 3-2 Rochdale   [INGHILTERRA - LEAGUE TWO]
-21/11 16:00  [GOAL] Swansea City: X2 + GOAL uscita, era a 7 ❗ 10/39  -  Swansea City 2-2 West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
+21/11 16:00  [GOAL] Swansea City: X2 + GOAL uscita, era a 7 ❗ 9/39  -  Swansea City 2-2 West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
 21/11 16:00  [GOAL] Falkirk: 1X + GOAL uscita, era a 6  -  Falkirk 2-1 St. Johnstone   [SCOZIA - PREMIERSHIP]
 21/11 16:00  [GOAL] Queen's Park: X2 + GOAL uscita, era a 13 👻 39/39  -  Queen's Park 1-4 Livingston   [SCOZIA - CHAMPIONSHIP]
 21/11 15:30  [GOAL] RB Leipzig: X2 + GOAL uscita, era a 13  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
 21/11 15:30  [GOAL] Union Berlin: 12 + GOAL uscita, era a 6 🔥 5/39  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
-21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: X2 + GOAL uscita, era a 8 ❗ 13/39  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
+21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: X2 + GOAL uscita, era a 8 ❗ 14/39  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 15:30  [GOAL] Ruch Chorzów: 12 + GOAL uscita, era a 7  -  Ruch Chorzów 1-2 Warta Poznań   [POLONIA - I LIGA]
-21/11 15:30  [GOAL] Stal Mielec: X2 + GOAL uscita, era a 6 ❗ 13/39  -  Polonia Warszawa 1-1 Stal Mielec   [POLONIA - I LIGA]
+21/11 15:30  [GOAL] Stal Mielec: X2 + GOAL uscita, era a 6 ❗ 14/39  -  Polonia Warszawa 1-1 Stal Mielec   [POLONIA - I LIGA]
 21/11 15:00  [GOAL] Benevento: 12 + GOAL uscita, era a 7 👻 34/39  -  Sampdoria 3-1 Benevento   [ITALIA - SERIE B]
 21/11 15:00  [GOAL] Malmö FF: 1X + GOAL uscita, era a 7 👻 33/39  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
 21/11 14:45  [GOAL] Jagiellonia Białystok: 1X + GOAL uscita, era a 7 🔥 7/39  -  Cracovia 3-1 Jagiellonia Białystok   [POLONIA - EKSTRAKLASA]
 21/11 13:30  [GOAL] Manchester City: X2 + GOAL uscita, era a 8 👻 36/39  -  Manchester City 1-1 Fulham   [INGHILTERRA - PREMIER LEAGUE]
-21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 20 ❗ 14/39  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
+21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 20  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
 21/11 13:00  [GOAL] Eintracht Braunschweig: X2 + GOAL uscita, era a 6  -  1. FC Nürnberg 1-2 Eintracht Braunschweig   [GERMANIA - 2. BUNDESLIGA]
 20/11 21:00  [GOAL] Sheffield Wednesday: 12 + GOAL uscita, era a 9  -  Barnsley 1-2 Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
 20/11 20:45  [GOAL] Troyes: 1X + GOAL uscita, era a 10  -  Troyes 3-1 Le Havre   [FRANCIA - LIGUE 1]
-20/11 20:30  [GOAL] Austria Salzburg: X2 + GOAL uscita, era a 6 👻 35/39  -  Austria Salzburg 1-2 Admira Wacker   [AUSTRIA - 2. LIGA]
+20/11 20:30  [GOAL] Austria Salzburg: X2 + GOAL uscita, era a 6 👻 34/39  -  Austria Salzburg 1-2 Admira Wacker   [AUSTRIA - 2. LIGA]
 20/11 20:00  [GOAL] Annecy FC: 1X + GOAL uscita, era a 6 👻 31/39  -  Annecy FC 4-2 Clermont Foot   [FRANCIA - LIGUE 2]
 20/11 19:00  [GOAL] Aarhus Fremad: 1X + GOAL uscita, era a 7 🔥 2/39  -  Aarhus Fremad 1-1 Hobro   [DANIMARCA - 1. DIVISION]
 20/11 19:00  [GOAL] Bodø/Glimt: X2 + GOAL uscita, era a 7  -  Molde 2-4 Bodø/Glimt   [NORVEGIA - ELITESERIEN]
@@ -48,7 +49,7 @@ Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 22/11/2026 18:23 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 22/11 15:00  [GOAL] Vizela: X2 + GOAL uscita, era a 8  -  Vizela 2-2 Feirense   [PORTOGALLO - LIGA PORTUGAL 2]
 22/11 14:30  [GOAL] Torres: X2 + GOAL uscita, era a 10  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
@@ -64,7 +65,7 @@ Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite
 21/11 16:00  [GOAL] Bradford City: 1X + GOAL uscita, era a 7  -  Bradford City 2-2 Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
 21/11 16:00  [GOAL] Leyton Orient: 1X + GOAL uscita, era a 7  -  Leyton Orient 4-1 AFC Wimbledon   [INGHILTERRA - LEAGUE ONE]
 21/11 16:00  [GOAL] Northampton Town: 12 + GOAL uscita, era a 7 👻 30/39  -  Northampton Town 3-2 Rochdale   [INGHILTERRA - LEAGUE TWO]
-21/11 16:00  [GOAL] Swansea City: X2 + GOAL uscita, era a 8 ❗ 10/39  -  Swansea City 2-2 West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
+21/11 16:00  [GOAL] Swansea City: X2 + GOAL uscita, era a 8 ❗ 9/39  -  Swansea City 2-2 West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
 21/11 16:00  [GOAL] Queen's Park: X2 + GOAL uscita, era a 6 👻 39/39  -  Queen's Park 1-4 Livingston   [SCOZIA - CHAMPIONSHIP]
 21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: 12 + GOAL uscita, era a 8  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 14:30  [GOAL] Audace Cerignola: X2 + GOAL uscita, era a 6  -  Audace Cerignola 1-1 Barletta   [ITALIA - SERIE C]
@@ -77,7 +78,7 @@ Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 22/11/2026 18:23 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 22/11 14:30  [GOAL] Spezia: 1X + GOAL uscita, era a 6  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 21/11 21:00  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 7 ❗ 14/39  -  Real Madrid 2-1 Celta Vigo   [SPAGNA - LALIGA]
@@ -90,11 +91,10 @@ Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite
 21/11 16:30  [GOAL] RKC Waalwijk: 12 + GOAL uscita, era a 7 🔥 1/39  -  FC Eindhoven 3-2 RKC Waalwijk   [OLANDA - EERSTE DIVISIE]
 21/11 16:00  [GOAL] Exeter City: X2 + GOAL uscita, era a 7  -  Oldham Athletic 1-1 Exeter City   [INGHILTERRA - LEAGUE TWO]
 21/11 15:30  [GOAL] RB Leipzig: X2 + GOAL uscita, era a 6  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
-21/11 15:30  [GOAL] Arka Gdynia: X2 + GOAL uscita, era a 7 ❗ 13/39  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
+21/11 15:30  [GOAL] Arka Gdynia: X2 + GOAL uscita, era a 7 ❗ 14/39  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 15:00  [GOAL] Malmö FF: 1X + GOAL uscita, era a 7 👻 33/39  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
 21/11 15:00  [GOAL] Malmö FF: X2 + GOAL uscita, era a 6  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
-21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 9 ❗ 14/39  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
-20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 34/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
+21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 9  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
+20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 35/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
 20/11 20:00  [GOAL] Boulogne: 12 + GOAL uscita, era a 6  -  Metz 2-1 Boulogne   [FRANCIA - LIGUE 2]
-15/11 17:30  [GOAL] Casertana: 1X + GOAL uscita, era a 6  -  Cosenza 2-1 Casertana   [ITALIA - SERIE C]
 
