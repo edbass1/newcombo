@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 22/11/2026 11:03 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 22/11/2026 11:24 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 22/11 03:00  [GOAL] Wellington Phoenix: X2 + GOAL uscita, era a 8  -  Wellington Phoenix 1-2 Macarthur FC   [AUSTRALIA - A-LEAGUE MEN]
 21/11 20:30  [GOAL] Palmeiras: X2 + GOAL uscita, era a 10  -  Palmeiras 1-1 Flamengo   [BRASILE - SÉRIE A]
@@ -46,7 +46,7 @@ Aggiornato: 22/11/2026 11:03 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 22/11/2026 11:03 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 22/11/2026 11:24 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 22/11 03:00  [GOAL] Wellington Phoenix: X2 + GOAL uscita, era a 6  -  Wellington Phoenix 1-2 Macarthur FC   [AUSTRALIA - A-LEAGUE MEN]
 21/11 21:00  [GOAL] Motherwell: X2 + GOAL uscita, era a 6  -  Motherwell 1-2 Rangers   [SCOZIA - PREMIERSHIP]
@@ -72,7 +72,7 @@ Aggiornato: 22/11/2026 11:03 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 22/11/2026 11:03 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 22/11/2026 11:24 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 21/11 21:00  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 7 ❗ 14/39  -  Real Madrid 2-1 Celta Vigo   [SPAGNA - LALIGA]
 21/11 20:45  [GOAL] Royal Antwerp: X2 + GOAL uscita, era a 7 👻 37/39  -  Zulte Waregem 2-2 Royal Antwerp   [BELGIO - FIRST DIVISION A]
