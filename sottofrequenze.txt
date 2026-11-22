@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 22/11/2026 22:20 (ora italiana)
+Aggiornato: 22/11/2026 23:37 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -12,11 +12,9 @@ ITALIA - SERIE A
 SOTTOFREQUENZA 1X + GOAL
     1/20 Sassuolo                       43/100
     2/20 Fiorentina                     43/100
-    3/20 Frosinone                      42/100
-    4/20 Atalanta                       42/100
-    5/20 Venezia                        41/100
-    6/20 Monza                          41/100
-    7/20 Inter                          41/100
+    3/20 Atalanta                       43/100
+    4/20 Inter                          42/100
+    5/20 Frosinone                      42/100
      ...
    20/20 Lecce                          27/100  (la fa meno spesso)
 
@@ -338,10 +336,11 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Paris Saint-Germain            44/100
-    2/18 Le Mans                        40/100
+    2/18 Le Mans                        41/100
     3/18 Toulouse                       39/100
     4/18 Monaco                         37/100
     5/18 Nice                           36/100
+    6/18 Marseille                      36/100
      ...
    18/18 Troyes                         22/100  (la fa meno spesso)
 
@@ -351,8 +350,9 @@ SOTTOFREQUENZA 12 + GOAL
     3/18 Monaco                         47/100
     4/18 Lyon                           46/100
     5/18 Rennes                         44/100
+    6/18 Marseille                      44/100
      ...
-   18/18 Le Mans                        28/100  (la fa meno spesso)
+   18/18 Angers                         29/100  (la fa meno spesso)
 
 ==================================================
 FRANCIA - LIGUE 2
@@ -394,7 +394,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 Deportivo A Coruña             45/100
     5/20 Celta Vigo                     45/100
      ...
-   20/20 Getafe                         22/100  (la fa meno spesso)
+   20/20 Getafe                         21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Real Betis                     46/100
@@ -433,7 +433,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/22 Celta Fortuna                  36/100
     5/22 Eldense                        35/100
      ...
-   22/22 Burgos CF                      24/100  (la fa meno spesso)
+   22/22 Burgos CF                      23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/22 Almería                        50/100
@@ -1455,7 +1455,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 22/11/2026 22:20 (ora italiana)
+Aggiornato: 22/11/2026 23:37 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1468,6 +1468,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 Napoli                         45/100
     5/20 Fiorentina                     44/100
     6/20 Cagliari                       44/100
+    7/20 Atalanta                       44/100
      ...
    20/20 Genoa                          32/100  (la fa meno spesso)
 
@@ -1483,7 +1484,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 Venezia                        44/100
-    2/20 Atalanta                       44/100
+    2/20 Atalanta                       43/100
     3/20 Sassuolo                       42/100
     4/20 Cagliari                       38/100
     5/20 Inter                          37/100
@@ -1793,7 +1794,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 Lyon                           48/100
     2/18 Strasbourg                     47/100
     3/18 Paris Saint-Germain            47/100
-    4/18 Marseille                      45/100
+    4/18 Marseille                      46/100
     5/18 Rennes                         42/100
      ...
    18/18 Le Mans                        21/100  (la fa meno spesso)
@@ -2873,7 +2874,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 22/11/2026 22:20 (ora italiana)
+Aggiornato: 22/11/2026 23:37 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3217,7 +3218,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 Paris Saint-Germain            56/100
     2/18 Monaco                         46/100
     3/18 Lens                           43/100
-    4/18 Le Mans                        41/100
+    4/18 Le Mans                        42/100
     5/18 Auxerre                        39/100
      ...
    18/18 Troyes                         25/100  (la fa meno spesso)

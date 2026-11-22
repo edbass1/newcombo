@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 22/11/2026 23:37 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 22/11 17:30  [GOAL] Dolomiti Bellunesi: X2 + GOAL uscita, era a 6  -  Dolomiti Bellunesi 1-1 Carpi   [ITALIA - SERIE C]
 22/11 17:30  [GOAL] Reggiana: X2 + GOAL uscita, era a 9  -  Forlì 1-1 Reggiana   [ITALIA - SERIE C]
@@ -42,7 +42,7 @@ Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite
 21/11 13:00  [GOAL] Eintracht Braunschweig: X2 + GOAL uscita, era a 6  -  1. FC Nürnberg 1-2 Eintracht Braunschweig   [GERMANIA - 2. BUNDESLIGA]
 20/11 21:00  [GOAL] Sheffield Wednesday: 12 + GOAL uscita, era a 9  -  Barnsley 1-2 Sheffield Wednesday   [INGHILTERRA - LEAGUE ONE]
 20/11 20:45  [GOAL] Troyes: 1X + GOAL uscita, era a 10  -  Troyes 3-1 Le Havre   [FRANCIA - LIGUE 1]
-20/11 20:30  [GOAL] Austria Salzburg: X2 + GOAL uscita, era a 6 👻 34/39  -  Austria Salzburg 1-2 Admira Wacker   [AUSTRIA - 2. LIGA]
+20/11 20:30  [GOAL] Austria Salzburg: X2 + GOAL uscita, era a 6 👻 33/39  -  Austria Salzburg 1-2 Admira Wacker   [AUSTRIA - 2. LIGA]
 20/11 20:00  [GOAL] Annecy FC: 1X + GOAL uscita, era a 6 👻 32/39  -  Annecy FC 4-2 Clermont Foot   [FRANCIA - LIGUE 2]
 20/11 19:00  [GOAL] Aarhus Fremad: 1X + GOAL uscita, era a 7 🔥 2/39  -  Aarhus Fremad 1-1 Hobro   [DANIMARCA - 1. DIVISION]
 20/11 19:00  [GOAL] Bodø/Glimt: X2 + GOAL uscita, era a 7  -  Molde 2-4 Bodø/Glimt   [NORVEGIA - ELITESERIEN]
@@ -52,7 +52,7 @@ Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 22/11/2026 23:37 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 22/11 18:00  [GOAL] Sparta Prague: X2 + GOAL uscita, era a 14  -  Sparta Prague 1-3 Slovan Liberec   [REP. CECA - 1. LIGA]
 22/11 17:30  [GOAL] Dolomiti Bellunesi: 1X + GOAL uscita, era a 9  -  Dolomiti Bellunesi 1-1 Carpi   [ITALIA - SERIE C]
@@ -74,7 +74,7 @@ Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite
 21/11 16:00  [GOAL] Queen's Park: X2 + GOAL uscita, era a 6 👻 39/39  -  Queen's Park 1-4 Livingston   [SCOZIA - CHAMPIONSHIP]
 21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: 12 + GOAL uscita, era a 8  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 14:30  [GOAL] Audace Cerignola: X2 + GOAL uscita, era a 6  -  Audace Cerignola 1-1 Barletta   [ITALIA - SERIE C]
-20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 11/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
+20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 10/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
 20/11 17:00  [GOAL] FC Silon Táborsko: 12 + GOAL uscita, era a 8 ❗ 13/39  -  FC Silon Táborsko 3-1 Slavia Prague B   [REP. CECA - FNL]
 16/11 20:30  [GOAL] Sorrento: 1X + GOAL uscita, era a 6  -  Sorrento 2-1 Monopoli   [ITALIA - SERIE C]
 
@@ -83,7 +83,7 @@ Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 22/11/2026 23:37 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 22/11 14:30  [GOAL] Spezia: 1X + GOAL uscita, era a 6  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 21/11 21:00  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 7 ❗ 14/39  -  Real Madrid 2-1 Celta Vigo   [SPAGNA - LALIGA]
@@ -100,6 +100,6 @@ Aggiornato: 22/11/2026 22:20 (ora italiana). Dal più recente. Ritardo = partite
 21/11 15:00  [GOAL] Malmö FF: 1X + GOAL uscita, era a 7 👻 33/39  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
 21/11 15:00  [GOAL] Malmö FF: X2 + GOAL uscita, era a 6  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
 21/11 13:30  [GOAL] Wigan Athletic: X2 + GOAL uscita, era a 9 ❗ 13/39  -  Blackpool 1-2 Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
-20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 33/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
+20/11 20:30  [GOAL] Leganés: X2 + GOAL uscita, era a 6 👻 34/39  -  FC Andorra 1-3 Leganés   [SPAGNA - LALIGA 2]
 20/11 20:00  [GOAL] Boulogne: 12 + GOAL uscita, era a 6  -  Metz 2-1 Boulogne   [FRANCIA - LIGUE 2]
 
