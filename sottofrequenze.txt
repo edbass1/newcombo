@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 22/11/2026 03:08 (ora italiana)
+Aggiornato: 22/11/2026 08:32 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1307,16 +1307,16 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/11 Adelaide United                50/100
     2/11 Newcastle Jets                 48/100
-    3/11 Macarthur FC                   45/100
+    3/11 Macarthur FC                   46/100
     4/11 Central Coast Mariners         42/100
     5/11 Western Sydney Wanderers FC    41/100
     6/11 Brisbane Roar FC               41/100
      ...
-   11/11 Wellington Phoenix             32/100  (la fa meno spesso)
+   11/11 Wellington Phoenix             33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/11 Adelaide United                51/100
-    2/11 Macarthur FC                   46/100
+    2/11 Macarthur FC                   47/100
     3/11 Brisbane Roar FC               45/100
     4/11 Perth Glory                    44/100
     5/11 Newcastle Jets                 43/100
@@ -1452,7 +1452,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 22/11/2026 03:08 (ora italiana)
+Aggiornato: 22/11/2026 08:32 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2718,8 +2718,8 @@ SOTTOFREQUENZA 12 + GOAL
 AUSTRALIA - A-LEAGUE MEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/10 Wellington Phoenix             49/100
-    2/10 Sydney FC                      49/100
+    1/10 Sydney FC                      49/100
+    2/10 Wellington Phoenix             48/100
     3/10 Adelaide United                46/100
     4/10 Central Coast Mariners         45/100
     5/10 Melbourne Victory              43/100
@@ -2739,7 +2739,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/10 Newcastle Jets                 46/100
     2/10 Adelaide United                46/100
-    3/10 Wellington Phoenix             43/100
+    3/10 Wellington Phoenix             44/100
     4/10 Perth Glory                    43/100
     5/10 Sydney FC                      42/100
      ...
@@ -2874,7 +2874,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 22/11/2026 03:08 (ora italiana)
+Aggiornato: 22/11/2026 08:32 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
