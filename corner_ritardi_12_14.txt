@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI CORNER 12-14 — TOTALI
-Aggiornato: 22/11/2026 12:16 (ora italiana)
+Aggiornato: 22/11/2026 12:25 (ora italiana)
 Vista Totali: tutte le partite, in casa o in trasferta.
 Uscita = corner totali 12, 13 o 14. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -369,7 +369,7 @@ RITARDI CORNER 12-14
 ##################################################
 
 RITARDI CORNER 12-14 — CASA
-Aggiornato: 22/11/2026 12:16 (ora italiana)
+Aggiornato: 22/11/2026 12:25 (ora italiana)
 Vista Casa: solo le partite giocate in casa.
 Uscita = corner totali 12, 13 o 14. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -736,7 +736,7 @@ RITARDI CORNER 12-14
 ##################################################
 
 RITARDI CORNER 12-14 — TRASFERTA
-Aggiornato: 22/11/2026 12:16 (ora italiana)
+Aggiornato: 22/11/2026 12:25 (ora italiana)
 Vista Trasferta: solo le partite giocate in trasferta.
 Uscita = corner totali 12, 13 o 14. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
