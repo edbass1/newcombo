@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 22/11/2026 12:25 (ora italiana)
+Aggiornato: 22/11/2026 16:53 (ora italiana)
 Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
 Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
 Il numero dopo # è il posto nella classifica di quella vista.
@@ -10,18 +10,6 @@ Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 ==================================================
 22/11/2026
 ==================================================
-CASA      13:00  Burnley vs Blackburn   [INGHILTERRA - CHAMPIONSHIP]
-           RIPETIZIONE  Burnley: (10) #6/398
-TOTALE    13:30  Karlsruhe vs Osnabruck   [GERMANIA - 2. BUNDESLIGA]
-           RIPETIZIONE  Karlsruhe: (9) #7/398
-TOTALE    15:00  Sassuolo vs Genoa   [ITALIA - SERIE A]
-           RIPETIZIONE  Genoa: (9) #7/398
-TOTALE    15:30  Augsburg vs Mainz   [GERMANIA - BUNDESLIGA]
-           RITARDO      Augsburg: (11) #6/398
-CASA      15:30  Augsburg vs Mainz   [GERMANIA - BUNDESLIGA]
-           RITARDO      Augsburg: (10) #5/398
-CASA      16:00  Panetolikos vs Volos NFC   [GRECIA - SUPER LEAGUE]
-           RITARDO      Panetolikos: (10) #5/398
 CASA      17:00  Trabzonspor vs Eyupspor   [TURCHIA - SUPER LIG]
            RIPETIZIONE  Trabzonspor: (9) #9/398
 TRASFERTA 17:30  Liverpool vs Man United   [INGHILTERRA - PREMIER LEAGUE]
