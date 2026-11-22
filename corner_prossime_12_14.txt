@@ -1,0 +1,44 @@
+PROSSIME PARTITE (5 GIORNI) — CORNER 12-14
+Aggiornato: 22/11/2026 11:11 (ora italiana)
+Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
+Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
+Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
+Orari convertiti dall'ora del Regno Unito all'ora italiana.
+Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
+
+
+==================================================
+22/11/2026
+==================================================
+TOTALE    14:00  Barcelona vs Villarreal   [SPAGNA - LALIGA]
+           RIPETIZIONE  Villarreal: (18) #4/398
+TOTALE    14:00  Cordoba vs Oviedo   [SPAGNA - LALIGA 2]
+           RIPETIZIONE  Oviedo: (16) #6/398
+TOTALE    14:30  Sparta Rotterdam vs AZ Alkmaar   [OLANDA - EREDIVISIE]
+           RIPETIZIONE  AZ Alkmaar: (17) #5/398
+TRASFERTA 16:00  Panetolikos vs Volos NFC   [GRECIA - SUPER LEAGUE]
+           RITARDO      Volos NFC: (17) #7/398
+CASA      18:00  Olympiakos vs Iraklis   [GRECIA - SUPER LEAGUE]
+           RITARDO      Olympiakos: (16) #9/398
+TRASFERTA 18:30  Celta B vs Valladolid   [SPAGNA - LALIGA 2]
+           RIPETIZIONE  Valladolid: (21) #9/398
+CASA      18:30  Girona vs Eibar   [SPAGNA - LALIGA 2]
+           RIPETIZIONE  Girona: (18+) #4/398
+TOTALE    18:30  PAOK vs Kifisia   [GRECIA - SUPER LEAGUE]
+           RIPETIZIONE  PAOK: (16) #6/398
+CASA      20:45  Atalanta vs Inter   [ITALIA - SERIE A]
+           RIPETIZIONE  Atalanta: (15) #9/398
+CASA      20:45  Marseille vs Le Mans   [FRANCIA - LIGUE 1]
+           RITARDO      Marseille: (22+) #1/398 🔴
+TOTALE    21:00  Getafe vs Ath Madrid   [SPAGNA - LALIGA]
+           RIPETIZIONE  Getafe: (16) #6/398
+
+==================================================
+23/11/2026
+==================================================
+TOTALE    16:00  Asteras Tripolis vs Aris   [GRECIA - SUPER LEAGUE]
+           RITARDO      Aris: (17) #5/398
+TOTALE    20:45  Monza vs Fiorentina   [ITALIA - SERIE A]
+           RIPETIZIONE  Fiorentina: (19) #2/398
+TRASFERTA 20:45  Monza vs Fiorentina   [ITALIA - SERIE A]
+           RITARDO      Fiorentina: (19) #4/398

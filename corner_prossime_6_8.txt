@@ -1,0 +1,36 @@
+PROSSIME PARTITE (5 GIORNI) — CORNER 6-8
+Aggiornato: 22/11/2026 11:11 (ora italiana)
+Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
+Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
+Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.
+Orari convertiti dall'ora del Regno Unito all'ora italiana.
+Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
+
+
+==================================================
+22/11/2026
+==================================================
+CASA      14:00  Barcelona vs Villarreal   [SPAGNA - LALIGA]
+           RIPETIZIONE  Barcelona: (17) #2/398
+TOTALE    14:00  Cordoba vs Oviedo   [SPAGNA - LALIGA 2]
+           RITARDO      Oviedo: (14+) #5/398
+CASA      14:00  Cordoba vs Oviedo   [SPAGNA - LALIGA 2]
+           RITARDO      Cordoba: (11) #8/398
+TRASFERTA 15:00  Hull vs Brighton   [INGHILTERRA - PREMIER LEAGUE]
+           RIPETIZIONE  Brighton: (13) #2/398
+TOTALE    15:00  Levadeiakos vs Atromitos   [GRECIA - SUPER LEAGUE]
+           RITARDO      Levadeiakos: (11) #7/398
+TOTALE    16:15  Santander vs Sociedad   [SPAGNA - LALIGA]
+           RITARDO      Sociedad: (12) #6/398
+TRASFERTA 17:30  Werder Bremen vs Hamburg   [GERMANIA - BUNDESLIGA]
+           RITARDO      Hamburg: (15) #2/398 🔴
+TOTALE    18:00  Milan vs Frosinone   [ITALIA - SERIE A]
+           RIPETIZIONE  Frosinone: (11) #8/398
+TOTALE    18:30  Anderlecht vs Oud-Heverlee Leuven   [BELGIO - FIRST DIVISION A]
+           RIPETIZIONE  Anderlecht: (18) #2/398
+
+==================================================
+23/11/2026
+==================================================
+CASA      21:00  Brentford vs Everton   [INGHILTERRA - PREMIER LEAGUE]
+           RIPETIZIONE  Brentford: (11) #7/398
