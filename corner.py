@@ -398,18 +398,16 @@ def _by_team(rows):
     return {(row["div"], row["team"]): row for row in rows}
 
 def _line_text(kind, row):
-    dot = " 🔴" if row["red"] else ""
-    return f"{kind.upper():<12} {row['team']}: ({_label(row['delay'], row['full'])}) #{row['rank']}/{row['total']}{dot}"
+    return f"{kind.upper():<12} {row['team']}: ({_label(row['delay'], row['full'])}) #{row['rank']}/{row['total']}"
 
 def _line_html(kind, row, view):
     slug = {"all": "totale", "home": "casa", "away": "trasferta"}[view]
     n = _label(row["delay"], row["full"])
-    dot = " 🔴" if row["red"] else ""
     return (
         f'<div class="tagrow" data-kind="{esc(kind)}" data-team="{esc(row["team"])}" '
         f'data-n="{esc(n)}" data-view="{slug}">'
         f'{esc(kind.upper())} · <b>{esc(row["team"])}</b> '
-        f'({esc(n)}) · #{row["rank"]}/{row["total"]}{dot}</div>'
+        f'({esc(n)}) · #{row["rank"]}/{row["total"]}</div>'
     )
 
 COPY_BUTTON_HTML = (
@@ -595,7 +593,7 @@ def render_texts(model, stamp):
         f"Aggiornato: {stamp} (ora italiana)",
         "Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.",
         "Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.",
-        "Il numero dopo # è il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso.",
+        "Il numero dopo # è il posto nella classifica di quella vista.",
         "Orari convertiti dall'ora del Regno Unito all'ora italiana.",
         "Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.", "",
     ]
@@ -677,7 +675,7 @@ def render_html(model, stamp):
         '<h3>Prossime partite (5 giorni)</h3>',
         '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 10 per ritardo oppure tra le prime 10 per ripetizione. '
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '
-        '# &egrave; il posto nella classifica di quella vista. 🔴 = tra le prime 3 per ritardo, pari merito incluso. '
+        '# &egrave; il posto nella classifica di quella vista. '
         'Le partite già iniziate non restano in elenco.</p>',
         COPY_BUTTON_HTML,
         '<div class="fxlist" data-upcoming="1">',
