@@ -22,6 +22,7 @@ def namespace(section, key, event):
     for name in ("copy-corner-bar", "copy-corner-today", "copy-corner-days", "copymsg"):
         section = section.replace(name, name + "-" + key)
     section = section.replace("getElementById('corner')", f"getElementById('corner-panel-{key}')")
+    section = section.replace("var sec=root.closest('section')||root.parentElement;return sec?sec.querySelector('.fxlist[data-upcoming]'):null;", "return root.querySelector('.fxlist[data-upcoming]');")
     section = section.replace("CORNER 9-11 |", event + " |")
     return section
 
@@ -97,8 +98,10 @@ def main():
             for kind in ("ritardi", "prossime", "ripetizioni", "frequenza", "sottofrequenze", "saltati")
         )
         if "corner_ritardi_6_8.txt" not in page:
-            page = page.replace("</details>", extra + "</details>", 1)
-            Path("index.html").write_text(page, encoding="utf-8")
+            marker = "corner_saltati.txt</a>"
+            if marker in page:
+                page = page.replace(marker, marker + extra, 1)
+                Path("index.html").write_text(page, encoding="utf-8")
     c._patch_page = patch_page
     c._patch_page("")
     print("Sezione CORNER 6-8 / 9-11 / 12-14 aggiornata.", flush=True)
