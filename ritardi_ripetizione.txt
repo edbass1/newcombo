@@ -1,5 +1,5 @@
 RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — TOTALE / CASA / TRASFERTA
-Aggiornato: 22/11/2026 11:24 (ora italiana)
+Aggiornato: 22/11/2026 12:06 (ora italiana)
 TOTALE considera tutte le partite della squadra; CASA soltanto le gare giocate in casa; TRASFERTA soltanto le gare giocate fuori casa.
 Ogni categoria ha una sequenza cronologica e un ritardo indipendenti.
 Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.
@@ -345,7 +345,7 @@ Squadre: 823
  335. Nice                             2  | FRANCIA - LIGUE 1  | 293 gare
  336. Notts County                     2  | INGHILTERRA - LEAGUE ONE  | 249 gare
  337. Odra Opole                       2  | POLONIA - I LIGA  | 356 gare
- 338. Opava                            2  | REP. CECA - FNL  | 354 gare
+ 338. Opava                            2  | REP. CECA - FNL  | 355 gare
  339. Ostia Mare                       2  | ITALIA - SERIE C  | 15 gare
  340. Oxford United                    2  | INGHILTERRA - LEAGUE ONE  | 247 gare
  341. Pardubice                        2  | REP. CECA - 1. LIGA  | 368 gare
@@ -704,7 +704,7 @@ Squadre: 823
  694. Åsane                            1  | NORVEGIA - OBOS-LIGAEN  | 356 gare
  695. Žilina                           1  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 368 gare
  696. Žilina B                         1  | SLOVACCHIA - 2. LIGA  | 339 gare
- 697. Žižkov                           1  | REP. CECA - FNL  | 280 gare
+ 697. Žižkov                           1  | REP. CECA - FNL  | 281 gare
  698. AaB                              0  | DANIMARCA - 1. DIVISION  | 245 gare
  699. Accrington Stanley               0  | INGHILTERRA - LEAGUE TWO  | 246 gare
  700. Adelaide United                  0  | AUSTRALIA - A-LEAGUE MEN  | 311 gare
@@ -1473,7 +1473,7 @@ Squadre: 823
  637. Newcastle Jets                   1  | AUSTRALIA - A-LEAGUE MEN  | 299 gare
  638. Nordic United FC                 1  | SVEZIA - SUPERETTAN  | 30 gare
  639. OH Leuven                        1  | BELGIO - FIRST DIVISION A  | 398 gare
- 640. Opava                            1  | REP. CECA - FNL  | 354 gare
+ 640. Opava                            1  | REP. CECA - FNL  | 355 gare
  641. Orlando City                     1  | USA/CANADA - MLS  | 415 gare
  642. Perth Glory                      1  | AUSTRALIA - A-LEAGUE MEN  | 303 gare
  643. Perugia                          1  | ITALIA - SERIE C  | 452 gare
@@ -1570,7 +1570,7 @@ Squadre: 823
  734. Ústí nad Labem                   1  | REP. CECA - FNL  | 249 gare
  735. Česká Lípa                       1  | REP. CECA - FNL  | 15 gare
  736. Žilina B                         1  | SLOVACCHIA - 2. LIGA  | 339 gare
- 737. Žižkov                           1  | REP. CECA - FNL  | 280 gare
+ 737. Žižkov                           1  | REP. CECA - FNL  | 281 gare
  738. 1. FC Köln                       0  | GERMANIA - BUNDESLIGA  | 282 gare
  739. AaB                              0  | DANIMARCA - 1. DIVISION  | 245 gare
  740. Admira Wacker                    0  | AUSTRIA - 2. LIGA  | 367 gare
@@ -1934,7 +1934,7 @@ Squadre: 823
  272. Würzburger Kickers               3  | GERMANIA - 3. LIGA  | 304 gare
  273. Xamax                            3  | SVIZZERA - CHALLENGE LEAGUE  | 408 gare
  274. Östersunds FK                    3  | SVEZIA - SUPERETTAN  | 360 gare
- 275. Žižkov                           3  | REP. CECA - FNL  | 280 gare
+ 275. Žižkov                           3  | REP. CECA - FNL  | 281 gare
  276. 1. FC Köln                       2  | GERMANIA - BUNDESLIGA  | 282 gare
  277. AC Horsens                       2  | DANIMARCA - SUPERLIGAEN  | 240 gare
  278. Adelaide United                  2  | AUSTRALIA - A-LEAGUE MEN  | 311 gare
@@ -2241,7 +2241,7 @@ Squadre: 823
  579. Nice                             1  | FRANCIA - LIGUE 1  | 293 gare
  580. Norwich City                     1  | INGHILTERRA - CHAMPIONSHIP  | 240 gare
  581. Odra Opole                       1  | POLONIA - I LIGA  | 356 gare
- 582. Opava                            1  | REP. CECA - FNL  | 354 gare
+ 582. Opava                            1  | REP. CECA - FNL  | 355 gare
  583. Ospitaletto                      1  | ITALIA - SERIE C  | 52 gare
  584. Palmeiras                        1  | BRASILE - SÉRIE A  | 454 gare
  585. Paris FC                         1  | FRANCIA - LIGUE 1  | 296 gare
@@ -2715,7 +2715,7 @@ Squadre: 823
  227. ŁKS Łódź                         3  | POLONIA - I LIGA  | 163 gare
  228. Śląsk Wrocław                    3  | POLONIA - EKSTRAKLASA  | 199 gare
  229. Žilina B                         3  | SLOVACCHIA - 2. LIGA  | 169 gare
- 230. Žižkov                           3  | REP. CECA - FNL  | 139 gare
+ 230. Žižkov                           3  | REP. CECA - FNL  | 140 gare
  231. Aalesund                         2  | NORVEGIA - ELITESERIEN  | 178 gare
  232. Albacete                         2  | SPAGNA - LALIGA 2  | 239 gare
  233. Aldosivi                         2  | ARGENTINA - PRIMERA DIVISIÓN  | 97 gare
@@ -3757,7 +3757,7 @@ Squadre: 823
  443. Örgryte                          2  | SVEZIA - ALLSVENSKAN  | 164 gare
  444. Žilina                           2  | SLOVACCHIA - 1. LIGA (NIKE LIGA)  | 188 gare
  445. Žilina B                         2  | SLOVACCHIA - 2. LIGA  | 169 gare
- 446. Žižkov                           2  | REP. CECA - FNL  | 139 gare
+ 446. Žižkov                           2  | REP. CECA - FNL  | 140 gare
  447. Aarau                            1  | SVIZZERA - CHALLENGE LEAGUE  | 205 gare
  448. AB                               1  | DANIMARCA - 1. DIVISION  | 111 gare
  449. Aberdeen                         1  | SCOZIA - PREMIERSHIP  | 212 gare
@@ -4154,7 +4154,7 @@ Squadre: 823
   14. Famalicão                        9  | PORTOGALLO - LIGA PORTUGAL  | 181 gare
   15. Granada                          9  | SPAGNA - LALIGA 2  | 224 gare
   16. Motherwell                       9  | SCOZIA - PREMIERSHIP  | 212 gare
-  17. Žižkov                           9  | REP. CECA - FNL  | 139 gare
+  17. Žižkov                           9  | REP. CECA - FNL  | 140 gare
   18. Austria Wien                     8  | AUSTRIA - BUNDESLIGA  | 192 gare
   19. Belgrano                         8  | ARGENTINA - PRIMERA DIVISIÓN  | 101 gare
   20. Boca Juniors                     8  | ARGENTINA - PRIMERA DIVISIÓN  | 144 gare
@@ -5542,7 +5542,7 @@ Squadre: 823
  576. Notts County                     1  | INGHILTERRA - LEAGUE ONE  | 123 gare
  577. OB                               1  | DANIMARCA - SUPERLIGAEN  | 122 gare
  578. Odra Opole                       1  | POLONIA - I LIGA  | 179 gare
- 579. Opava                            1  | REP. CECA - FNL  | 176 gare
+ 579. Opava                            1  | REP. CECA - FNL  | 177 gare
  580. Orlando City                     1  | USA/CANADA - MLS  | 205 gare
  581. Padova                           1  | ITALIA - SERIE B  | 213 gare
  582. Palmeiras                        1  | BRASILE - SÉRIE A  | 227 gare
@@ -6419,7 +6419,7 @@ Squadre: 823
  627. Novara                           1  | ITALIA - SERIE C  | 205 gare
  628. OB                               1  | DANIMARCA - SUPERLIGAEN  | 122 gare
  629. Odra Opole                       1  | POLONIA - I LIGA  | 179 gare
- 630. Opava                            1  | REP. CECA - FNL  | 176 gare
+ 630. Opava                            1  | REP. CECA - FNL  | 177 gare
  631. Orlando City                     1  | USA/CANADA - MLS  | 205 gare
  632. Ospitaletto                      1  | ITALIA - SERIE C  | 25 gare
  633. Palermo                          1  | ITALIA - SERIE B  | 207 gare
@@ -6766,7 +6766,7 @@ Squadre: 823
  148. Mirassol                         4  | BRASILE - SÉRIE A  | 36 gare
  149. Nantes                           4  | FRANCIA - LIGUE 2  | 147 gare
  150. Norrby                           4  | SVEZIA - SUPERETTAN  | 105 gare
- 151. Opava                            4  | REP. CECA - FNL  | 176 gare
+ 151. Opava                            4  | REP. CECA - FNL  | 177 gare
  152. Palmeiras                        4  | BRASILE - SÉRIE A  | 227 gare
  153. Partick Thistle                  4  | SCOZIA - CHAMPIONSHIP  | 197 gare
  154. Příbram                          4  | REP. CECA - FNL  | 165 gare

@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 22/11/2026 11:24 (ora italiana)
+Aggiornato: 22/11/2026 12:06 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -991,7 +991,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 FC Vlašim                      50/100
     3/12 Vysočina Jihlava               49/100
     4/12 SK Prostějov                   45/100
-    5/12 Žižkov                         43/100
+    5/12 Žižkov                         44/100
      ...
    12/12 Dukla Praha                    32/100  (la fa meno spesso)
 
@@ -1012,7 +1012,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Slavia Prague B                39/100
     5/12 Ústí nad Labem                 36/100
      ...
-   12/12 Opava                          30/100  (la fa meno spesso)
+   12/12 Třinec                         30/100  (la fa meno spesso)
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1452,7 +1452,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 22/11/2026 11:24 (ora italiana)
+Aggiornato: 22/11/2026 12:06 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2408,9 +2408,9 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/11 FC Vlašim                      47/100
-    2/11 Vysočina Jihlava               45/100
-    3/11 SK Prostějov                   45/100
-    4/11 Žižkov                         44/100
+    2/11 Žižkov                         45/100
+    3/11 Vysočina Jihlava               45/100
+    4/11 SK Prostějov                   45/100
     5/11 Třinec                         42/100
     6/11 Opava                          42/100
      ...
@@ -2426,7 +2426,7 @@ SOTTOFREQUENZA X2 + GOAL
    11/11 Ústí nad Labem                 29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/11 Žižkov                         40/100
+    1/11 Žižkov                         41/100
     2/11 FC Vlašim                      39/100
     3/11 SK Prostějov                   38/100
     4/11 Dukla Praha                    37/100
@@ -2874,7 +2874,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 22/11/2026 11:24 (ora italiana)
+Aggiornato: 22/11/2026 12:06 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
