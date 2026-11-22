@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 22/11/2026 16:43 (ora italiana)
+Aggiornato: 22/11/2026 17:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -21,17 +21,17 @@ SOTTOFREQUENZA 1X + GOAL
    20/20 Lecce                          27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Milan                          40/100
-    2/20 Fiorentina                     40/100
-    3/20 Bologna                        40/100
-    4/20 Frosinone                      39/100
-    5/20 Udinese                        38/100
+    1/20 Bologna                        41/100
+    2/20 Milan                          40/100
+    3/20 Fiorentina                     40/100
+    4/20 Udinese                        39/100
+    5/20 Frosinone                      39/100
      ...
    20/20 Lecce                          23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Sassuolo                       41/100
-    2/20 Fiorentina                     41/100
+    1/20 Fiorentina                     41/100
+    2/20 Sassuolo                       40/100
     3/20 Monza                          36/100
     4/20 Como                           36/100
     5/20 Milan                          35/100
@@ -57,7 +57,10 @@ SOTTOFREQUENZA X2 + GOAL
     2/20 Catanzaro                      41/100
     3/20 Modena                         40/100
     4/20 Cesena                         40/100
-    5/20 Mantova                        37/100
+    5/20 Südtirol                       36/100
+    6/20 Mantova                        36/100
+    7/20 Empoli                         36/100
+    8/20 Cremonese                      36/100
      ...
    20/20 Carrarese                      24/100  (la fa meno spesso)
 
@@ -66,8 +69,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Cremonese                      34/100
     3/20 Cesena                         34/100
     4/20 Modena                         33/100
-    5/20 Hellas Verona                  33/100
-    6/20 Catanzaro                      33/100
+    5/20 Mantova                        33/100
+    6/20 Hellas Verona                  33/100
+    7/20 Catanzaro                      33/100
      ...
    20/20 Juve Stabia                    25/100  (la fa meno spesso)
 
@@ -77,11 +81,11 @@ ITALIA - SERIE C
 SOTTOFREQUENZA 1X + GOAL
     1/43 Cosenza                        47/100
     2/43 Potenza                        46/100
-    3/43 Bari                           45/100
+    3/43 Bari                           44/100
     4/43 Atalanta U23                   44/100
     5/43 AZ Picerno                     44/100
      ...
-   43/43 Catania                        30/100  (la fa meno spesso)
+   43/43 Catania                        29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/43 Lumezzane                      41/100
@@ -242,8 +246,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Eintracht Frankfurt            49/100
     2/18 Bayer Leverkusen               46/100
-    3/18 Mainz 05                       44/100
-    4/18 1. FC Köln                     44/100
+    3/18 1. FC Köln                     44/100
+    4/18 Mainz 05                       43/100
     5/18 Paderborn                      40/100
      ...
    18/18 Freiburg                       31/100  (la fa meno spesso)
@@ -958,8 +962,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/16 Mladá Boleslav                 39/100
     3/16 FC Zlín                        39/100
     4/16 FC Zbrojovka Brno              38/100
-    5/16 Slovácko                       35/100
-    6/16 Artis Brno                     35/100
+    5/16 Slovácko                       36/100
      ...
    16/16 Baník Ostrava                  30/100  (la fa meno spesso)
 
@@ -1018,7 +1021,7 @@ SOTTOFREQUENZA 12 + GOAL
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 FC Košice                      48/100
+    1/12 FC Košice                      49/100
     2/12 Žilina                         44/100
     3/12 Ružomberok                     42/100
     4/12 Zemplín Michalovce             40/100
@@ -1029,7 +1032,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Komárno                        40/100
     2/12 Slovan Bratislava              38/100
-    3/12 FC Košice                      36/100
+    3/12 FC Košice                      37/100
     4/12 Zeleziarne Podbrezová          35/100
     5/12 Žilina                         34/100
      ...
@@ -1452,7 +1455,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 22/11/2026 16:43 (ora italiana)
+Aggiornato: 22/11/2026 17:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1562,8 +1565,8 @@ SOTTOFREQUENZA 1X + GOAL
    20/20 Everton                        25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Hull City                      39/100
-    2/20 Crystal Palace                 39/100
+    1/20 Crystal Palace                 39/100
+    2/20 Hull City                      38/100
     3/20 Brentford                      37/100
     4/20 Tottenham Hotspur              36/100
     5/20 Everton                        36/100
@@ -1688,9 +1691,9 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Eintracht Frankfurt            43/100
     2/18 Werder Bremen                  42/100
-    3/18 Augsburg                       42/100
-    4/18 Mainz 05                       41/100
-    5/18 Hoffenheim                     41/100
+    3/18 Mainz 05                       41/100
+    4/18 Hoffenheim                     41/100
+    5/18 Augsburg                       41/100
      ...
    18/18 Bayern München                 21/100  (la fa meno spesso)
 
@@ -2874,7 +2877,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 22/11/2026 16:43 (ora italiana)
+Aggiornato: 22/11/2026 17:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2883,7 +2886,7 @@ ITALIA - SERIE A
 SOTTOFREQUENZA 1X + GOAL
     1/20 Sassuolo                       47/100
     2/20 Venezia                        44/100
-    3/20 Udinese                        40/100
+    3/20 Udinese                        41/100
     4/20 Roma                           39/100
     5/20 Monza                          39/100
     6/20 Frosinone                      39/100
@@ -2988,8 +2991,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 Liverpool                      42/100
     2/20 Ipswich Town                   42/100
     3/20 Manchester City                40/100
-    4/20 Brighton & Hove Albion         39/100
-    5/20 Manchester United              38/100
+    4/20 Manchester United              38/100
+    5/20 Brighton & Hove Albion         38/100
      ...
    20/20 Tottenham Hotspur              30/100  (la fa meno spesso)
 
@@ -3000,8 +3003,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Brentford                      39/100
     5/20 Hull City                      38/100
     6/20 Fulham                         38/100
-    7/20 Brighton & Hove Albion         38/100
-    8/20 Aston Villa                    38/100
+    7/20 Aston Villa                    38/100
      ...
    20/20 Arsenal                        24/100  (la fa meno spesso)
 
@@ -3876,7 +3878,7 @@ SLOVACCHIA - 1. LIGA (NIKE LIGA)
 SOTTOFREQUENZA 1X + GOAL
     1/12 Žilina                         46/100
     2/12 Zemplín Michalovce             46/100
-    3/12 Skalica                        41/100
+    3/12 Skalica                        42/100
     4/12 Ružomberok                     41/100
     5/12 FC Košice                      41/100
      ...

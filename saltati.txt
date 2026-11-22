@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 22/11 14:30  [GOAL] Torres: X2 + GOAL uscita, era a 6  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 22/11 14:30  [GOAL] Odra Opole: 1X + GOAL uscita, era a 7  -  Lechia Gdańsk 2-1 Odra Opole   [POLONIA - I LIGA]
@@ -16,7 +16,7 @@ Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite
 21/11 17:30  [GOAL] Pineto: X2 + GOAL uscita, era a 7  -  Pineto 1-1 Pescara   [ITALIA - SERIE C]
 21/11 17:30  [GOAL] Vis Pesaro: X2 + GOAL uscita, era a 6  -  Campobasso 3-3 Vis Pesaro   [ITALIA - SERIE C]
 21/11 17:30  [GOAL] Västerås SK: 1X + GOAL uscita, era a 20 👻 33/39  -  GAIS 3-1 Västerås SK   [SVEZIA - ALLSVENSKAN]
-21/11 16:00  [GOAL] Sporting Hasselt: 1X + GOAL uscita, era a 9 👻 36/39  -  Eupen 1-1 Sporting Hasselt   [BELGIO - FIRST DIVISION B]
+21/11 16:00  [GOAL] Sporting Hasselt: 1X + GOAL uscita, era a 9 👻 37/39  -  Eupen 1-1 Sporting Hasselt   [BELGIO - FIRST DIVISION B]
 21/11 16:00  [GOAL] Chelsea: X2 + GOAL uscita, era a 6 👻 36/39  -  Chelsea 1-4 Leeds United   [INGHILTERRA - PREMIER LEAGUE]
 21/11 16:00  [GOAL] Doncaster Rovers: X2 + GOAL uscita, era a 8 ❗ 14/39  -  Bradford City 2-2 Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
 21/11 16:00  [GOAL] Exeter City: X2 + GOAL uscita, era a 11  -  Oldham Athletic 1-1 Exeter City   [INGHILTERRA - LEAGUE TWO]
@@ -26,11 +26,11 @@ Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite
 21/11 16:00  [GOAL] Falkirk: 1X + GOAL uscita, era a 6  -  Falkirk 2-1 St. Johnstone   [SCOZIA - PREMIERSHIP]
 21/11 16:00  [GOAL] Queen's Park: X2 + GOAL uscita, era a 13 👻 39/39  -  Queen's Park 1-4 Livingston   [SCOZIA - CHAMPIONSHIP]
 21/11 15:30  [GOAL] RB Leipzig: X2 + GOAL uscita, era a 13  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
-21/11 15:30  [GOAL] Union Berlin: 12 + GOAL uscita, era a 6 🔥 6/39  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
+21/11 15:30  [GOAL] Union Berlin: 12 + GOAL uscita, era a 6 🔥 5/39  -  Union Berlin 1-5 RB Leipzig   [GERMANIA - BUNDESLIGA]
 21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: X2 + GOAL uscita, era a 8 ❗ 13/39  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 15:30  [GOAL] Ruch Chorzów: 12 + GOAL uscita, era a 7  -  Ruch Chorzów 1-2 Warta Poznań   [POLONIA - I LIGA]
 21/11 15:30  [GOAL] Stal Mielec: X2 + GOAL uscita, era a 6 ❗ 13/39  -  Polonia Warszawa 1-1 Stal Mielec   [POLONIA - I LIGA]
-21/11 15:00  [GOAL] Benevento: 12 + GOAL uscita, era a 7 👻 35/39  -  Sampdoria 3-1 Benevento   [ITALIA - SERIE B]
+21/11 15:00  [GOAL] Benevento: 12 + GOAL uscita, era a 7 👻 34/39  -  Sampdoria 3-1 Benevento   [ITALIA - SERIE B]
 21/11 15:00  [GOAL] Malmö FF: 1X + GOAL uscita, era a 7 👻 33/39  -  Mjällby 1-1 Malmö FF   [SVEZIA - ALLSVENSKAN]
 21/11 14:45  [GOAL] Jagiellonia Białystok: 1X + GOAL uscita, era a 7 🔥 7/39  -  Cracovia 3-1 Jagiellonia Białystok   [POLONIA - EKSTRAKLASA]
 21/11 13:30  [GOAL] Manchester City: X2 + GOAL uscita, era a 8 👻 36/39  -  Manchester City 1-1 Fulham   [INGHILTERRA - PREMIER LEAGUE]
@@ -48,8 +48,9 @@ Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
+22/11 15:00  [GOAL] Vizela: X2 + GOAL uscita, era a 8  -  Vizela 2-2 Feirense   [PORTOGALLO - LIGA PORTUGAL 2]
 22/11 14:30  [GOAL] Torres: X2 + GOAL uscita, era a 10  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 22/11 13:30  [GOAL] Kaiserslautern: 1X + GOAL uscita, era a 12 ❗ 14/39  -  Kaiserslautern 2-2 Dynamo Dresden   [GERMANIA - 2. BUNDESLIGA]
 22/11 13:30  [GOAL] Kaiserslautern: X2 + GOAL uscita, era a 9  -  Kaiserslautern 2-2 Dynamo Dresden   [GERMANIA - 2. BUNDESLIGA]
@@ -67,7 +68,7 @@ Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite
 21/11 16:00  [GOAL] Queen's Park: X2 + GOAL uscita, era a 6 👻 39/39  -  Queen's Park 1-4 Livingston   [SCOZIA - CHAMPIONSHIP]
 21/11 15:30  [GOAL] Pogoń Grodzisk Mazowiecki: 12 + GOAL uscita, era a 8  -  Pogoń Grodzisk Mazowiecki 2-3 Arka Gdynia   [POLONIA - I LIGA]
 21/11 14:30  [GOAL] Audace Cerignola: X2 + GOAL uscita, era a 6  -  Audace Cerignola 1-1 Barletta   [ITALIA - SERIE C]
-20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 11/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
+20/11 18:30  [GOAL] Floridsdorfer AC: 12 + GOAL uscita, era a 12 ❗ 10/39  -  Floridsdorfer AC 3-1 Austria Wien II   [AUSTRIA - 2. LIGA]
 20/11 17:00  [GOAL] FC Silon Táborsko: 12 + GOAL uscita, era a 8 ❗ 13/39  -  FC Silon Táborsko 3-1 Slavia Prague B   [REP. CECA - FNL]
 16/11 20:30  [GOAL] Sorrento: 1X + GOAL uscita, era a 6  -  Sorrento 2-1 Monopoli   [ITALIA - SERIE C]
 
@@ -76,7 +77,7 @@ Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 22/11/2026 16:43 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 22/11/2026 17:28 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 22/11 14:30  [GOAL] Spezia: 1X + GOAL uscita, era a 6  -  Torres 1-1 Spezia   [ITALIA - SERIE C]
 21/11 21:00  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 7 ❗ 14/39  -  Real Madrid 2-1 Celta Vigo   [SPAGNA - LALIGA]

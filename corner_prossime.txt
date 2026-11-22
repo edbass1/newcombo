@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) — CORNER 9-11
-Aggiornato: 22/11/2026 16:53 (ora italiana)
+Aggiornato: 22/11/2026 17:37 (ora italiana)
 Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.
 Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.
 Il numero dopo # è il posto nella classifica di quella vista.
@@ -10,10 +10,6 @@ Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.
 ==================================================
 22/11/2026
 ==================================================
-CASA      17:00  Trabzonspor vs Eyupspor   [TURCHIA - SUPER LIG]
-           RIPETIZIONE  Trabzonspor: (9) #9/398
-TRASFERTA 17:30  Liverpool vs Man United   [INGHILTERRA - PREMIER LEAGUE]
-           RITARDO      Man United: (10) #3/398
 CASA      20:45  Atalanta vs Inter   [ITALIA - SERIE A]
            RITARDO      Atalanta: (14) #2/398
 TRASFERTA 20:45  Atalanta vs Inter   [ITALIA - SERIE A]
