@@ -1,2 +1,20 @@
 run.log
 __pycache__/
+*.py[cod]
+.cache/
+docs/
+index.html
+*.html.tmp
+*.txt.tmp
+
+# Dati generati: restano sul runner e, cifrati, nella pagina pubblicata.
+saltati.txt
+sottofrequenze.txt
+prossime_partite.txt
+prossime_partite_goal.txt
+prossime_partite_over.txt
+ritardi_goal.txt
+ritardi_over.txt
+ritardi_ripetizione.txt
+frequenza_campionati.txt
+corner_*.txt

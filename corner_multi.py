@@ -7,6 +7,7 @@ calcolo: cambia solo quali totali di corner contano come uscita.
 import os
 from pathlib import Path
 import corner as c
+import corner_adamchoi as adam
 
 BANDS = (
     ("corner-6-8", "CORNER 6-8", 6, 8, "_6_8"),
@@ -135,19 +136,43 @@ def selfcheck():
     assert same == "CORNER 9-11 | id=\"copy-corner-today\""
 
 
+def _with_extra(source, fixtures):
+    """Aggiunge i campionati gratuiti di adamchoi. Un loro errore lascia i 22 di football-data."""
+    leagues = list(c.LEAGUES)
+    try:
+        extra = adam.load()
+    except Exception as exc:
+        print(f"adamchoi: errore imprevisto, continuo senza ({exc}).", flush=True)
+        return source, fixtures, leagues
+    known = {div for _country, _league, div in leagues}
+    added = 0
+    for country, league, div in extra.get("leagues") or []:
+        seasons = (extra.get("history") or {}).get(div)
+        if div in known or not seasons:
+            continue
+        leagues.append((country, league, div))
+        source[div] = seasons
+        added += 1
+    fixtures = list(fixtures) + list(extra.get("fixtures") or [])
+    print(f"Campionati corner extra: {added}.", flush=True)
+    return source, fixtures, leagues
+
+
 def main():
     selfcheck()
     c.selftest()
+    adam.selftest()
     print("Scarico una sola volta gli storici corner...", flush=True)
     source = c.load_history()
     fixtures = c.load_fixtures()
+    source, fixtures, leagues = _with_extra(source, fixtures)
     stamp = c.datetime.now(c.ROME).strftime("%d/%m/%Y %H:%M")
     saved = c.EVENT
     blocks = ["<!-- CORNER-SECTION -->"]
     try:
         for section_id, event, low, high, suffix in BANDS:
             c.EVENT = event
-            model = c.build(with_band(source, low, high), fixtures)
+            model = c.build(with_band(source, low, high), fixtures, leagues=leagues)
             if not model["leagues"]:
                 raise SystemExit(f"Nessun campionato con dati corner per {event}.")
             texts = {key: adapt(value, low, high, event) for key, value in c.render_texts(model, stamp).items()}
