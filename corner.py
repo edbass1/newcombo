@@ -242,10 +242,11 @@ def _dedupe(matches):
         out.append(match)
     return out
 
-def build(history, fixtures, now=None):
+def build(history, fixtures, now=None, leagues=None):
     now = now or datetime.now(timezone.utc)
+    leagues = leagues or LEAGUES
     by_div = {}
-    for country, league, div in LEAGUES:
+    for country, league, div in leagues:
         seasons = history.get(div) or {}
         if not seasons:
             continue
@@ -473,6 +474,66 @@ def ensure_day_copy(html):
             html = html.replace("<!-- /CORNER-SECTION -->", COPY_SCRIPT + "\n<!-- /CORNER-SECTION -->", 1)
     return html
 
+def _extra_blocks(model):
+    known = {div for _country, _league, div in LEAGUES}
+    return [item["block"] for item in model["leagues"] if item["block"]["div"] not in known]
+
+
+def _pretty(text):
+    words = []
+    for word in text.split(" "):
+        if word.isupper() and len(word) <= 3:
+            words.append(word)
+        else:
+            words.append(word.title())
+    return " ".join(words)
+
+
+def fonte(model):
+    """Riga di fonte per i testi. Non contiene la fascia, così le tre sezioni restano sostituibili."""
+    if not _extra_blocks(model):
+        return "Fonte: football-data.co.uk."
+    return ("Fonte: football-data.co.uk per i campionati già coperti. "
+            "Gli altri campionati gratuiti arrivano da adamchoi.co.uk.")
+
+
+# Campionati chiesti per primi nella nota, se davvero presenti nei dati.
+_FONTE_PRIMI = (
+    ("OLANDA", "EERSTE DIVISIE"),
+    ("SVIZZERA", "SUPER LEAGUE"),
+    ("AUSTRIA", "BUNDESLIGA"),
+    ("NORVEGIA", "ELITESERIEN"),
+    ("DANIMARCA", "SUPERLIGAEN"),
+    ("SVEZIA", "ALLSVENSKAN"),
+    ("REPUBBLICA CECA", "CZECH LIGA"),
+    ("BRASILE", "SERIE A"),
+    ("BRASILE", "SERIE B"),
+    ("ARGENTINA", "PRIMERA"),
+    ("USA", "MLS"),
+    ("AUSTRALIA", "A-LEAGUE"),
+    ("FINLANDIA", "VEIKKAUSLIIGA"),
+    ("POLONIA", "EKSTRAKLASA"),
+    ("GIAPPONE", "J LEAGUE"),
+    ("MESSICO", "LIGA MX"),
+    ("COLOMBIA", "PRIMERA A"),
+)
+
+
+def fonte_page(model):
+    extra = _extra_blocks(model)
+    if not extra:
+        return "Fonte: football-data.co.uk. Gli orari delle prossime partite sono in ora italiana."
+    present = {(block["country"], block["league"]) for block in extra}
+    names = [f"{_pretty(country)} {_pretty(league)}" for country, league in _FONTE_PRIMI if (country, league) in present]
+    others = len(present - set(_FONTE_PRIMI))
+    listed = ", ".join(names)
+    if others:
+        listed += f" e altri {others}"
+    return ("Fonte: football-data.co.uk per i campionati già coperti. "
+            f"Campionati extra gratuiti da adamchoi.co.uk: {esc(listed)}. "
+            "Gli orari sono in ora italiana.")
+
+
 def render_texts(model, stamp):
     leagues = model["leagues"]
     ritardi, sotto, saltati, freq_lines, repeat_lines, prossime = [], [], [], [], [], []
@@ -485,7 +546,7 @@ def render_texts(model, stamp):
             "Uscita = corner totali 9, 10 o 11. Ritardo = partite consecutive senza uscita.",
             "Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.",
             "+ = nessuna uscita nel periodo considerato.",
-            "Fonte: football-data.co.uk", "",
+            fonte(model), "",
             "TOP 20 GLOBALE",
         ]
         shown_rows = _top_slice(_classifica(model, venue, "ritardo"), 20)
@@ -512,7 +573,7 @@ def render_texts(model, stamp):
             f"Aggiornato: {stamp} (ora italiana)",
             "Uscite di corner 9-11 sulle ultime 100 partite del paese, nella vista indicata.",
             "Solo squadre con almeno 100 partite. In cima chi le fa più spesso.",
-            "Fonte: football-data.co.uk", "",
+            fonte(model), "",
         ]
         for item in leagues:
             block = item["block"]
@@ -560,7 +621,7 @@ def render_texts(model, stamp):
             f"Aggiornato: {stamp} (ora italiana)",
             "Il ritardo sale quando un'uscita non si ripete nella partita immediatamente successiva.",
             "Due uscite consecutive azzerano il ritardo. + = nello storico non c'è mai stata una coppia.",
-            "Fonte: football-data.co.uk", "",
+            fonte(model), "",
         ]
         ranked = _classifica(model, venue, "ripetizione")
         for row in ranked:
@@ -574,7 +635,7 @@ def render_texts(model, stamp):
         f"Aggiornato: {stamp} (ora italiana)",
         "Solo stagione in corso, tutte le partite. 1 ogni N = partite giocate / uscite.",
         f"Servono almeno {MIN_GIORNATE} giornate (partite giocate dalla squadra più attiva).",
-        "Fonte: football-data.co.uk", "",
+        fonte(model), "",
     ]
     ranked = [item for item in leagues if item["freq"]]
     ranked.sort(key=lambda item: ((item["freq"]["ogni"] is None), item["freq"]["ogni"] or 10**9, item["block"]["league"]))
@@ -594,8 +655,8 @@ def render_texts(model, stamp):
         "Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.",
         "Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.",
         "Il numero dopo # è il posto nella classifica di quella vista.",
-        "Orari convertiti dall'ora del Regno Unito all'ora italiana.",
-        "Fonte partite: football-data.co.uk fixtures.csv. Fonte ritardi: CSV stagionali.", "",
+        "Orari in ora italiana.",
+        fonte(model), "",
     ]
     return {
         "ritardi": "\n".join(ritardi) + "\n",
@@ -671,7 +732,7 @@ def render_html(model, stamp):
         f'<p class="leg">Uscita = corner totali della partita, casa più trasferta, pari a 9, 10 o 11. '
         f'Ritardo = partite consecutive senza quella uscita. Le viste sono una sotto l&rsquo;altra: '
         f'<b>Totali</b>, <b>Casa</b>, <b>Trasferta</b>. Aggiornato: {esc(stamp)} (ora italiana). '
-        f'Fonte: football-data.co.uk. Gli orari delle prossime partite sono convertiti in ora italiana.</p>',
+        f'{fonte_page(model)}</p>',
         '<h3>Prossime partite (5 giorni)</h3>',
         '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 10 per ritardo oppure tra le prime 10 per ripetizione. '
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '

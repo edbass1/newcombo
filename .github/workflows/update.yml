@@ -17,151 +17,172 @@ on:
       - 'gen.py'
       - 'corner.py'
       - 'corner_multi.py'
+      - 'corner_adamchoi.py'
+      - 'publish_page.py'
+      - 'encrypt_page.py'
+      - 'site/**'
+      - 'requirements.txt'
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 concurrency:
   group: aggiornamento-newcombo
   cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 5
-      - name: Controlla se i dati sono già recenti
-        id: need
-        run: |
-          echo "esegui=true" >> "$GITHUB_OUTPUT"
-          if [ "${GITHUB_EVENT_NAME}" != "schedule" ]; then
-            exit 0
-          fi
-          last=$(git log -1 --format=%ct -- index.html || true)
-          if [ -z "${last}" ]; then
-            echo "Data dell'ultimo file sconosciuta: eseguo l'aggiornamento."
-            exit 0
-          fi
-          age=$(( $(date +%s) - last ))
-          echo "Ultimo file dei dati: ${age} secondi fa"
-          # The generator takes about 15 minutes. Skip only a start that
-          # landed while a fresh file is already on main.
-          if [ "${age}" -lt 600 ]; then
-            echo "esegui=false" >> "$GITHUB_OUTPUT"
-            echo "Salto: un aggiornamento è appena stato pubblicato."
-          fi
-      - uses: actions/setup-python@v5
-        if: steps.need.outputs.esegui == 'true'
-        with:
-          python-version: '3.12'
-      - name: Installa il browser, con nuovi tentativi
-        if: steps.need.outputs.esegui == 'true'
-        run: |
-          python -m pip install --disable-pip-version-check playwright || true
-          ok=0
-          for i in 1 2; do
-            if timeout 360 python -m playwright install chromium --with-deps; then
-              ok=1
-              break
-            fi
-            echo "Installazione del browser non riuscita, tentativo ${i}"
-            sleep $((i * 10))
-          done
-          if [ "${ok}" -ne 1 ]; then
-            echo "Continuo senza browser: i collegamenti restano quelli generici."
-          fi
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+    - name: Ripristina la cache privata
+      id: cache
+      uses: actions/cache/restore@v4
+      with:
+        path: .cache
+        key: newcombo-${{ github.run_id }}
+        restore-keys: |
+          newcombo-
+    - name: Controlla se i dati sono già recenti
+      id: need
+      run: |
+        echo "esegui=true" >> "$GITHUB_OUTPUT"
+        if [ "${GITHUB_EVENT_NAME}" != "schedule" ]; then
           exit 0
-      - name: Genera i dati, con nuovi tentativi
-        if: steps.need.outputs.esegui == 'true'
-        run: |
-          ok=0
-          for i in 1 2; do
-            if python3 gen.py; then
-              ok=1
-              break
-            fi
-            echo "Generazione non riuscita, tentativo ${i}"
-            sleep $((i * 15))
-          done
-          if [ "${ok}" -ne 1 ]; then
-            exit 1
-          fi
-      - name: Conserva la sezione Corner già pubblicata
-        if: steps.need.outputs.esegui == 'true'
-        run: |
-          python3 - << 'PY'
-          from pathlib import Path
-          text = Path("index.html").read_text(encoding="utf-8") if Path("index.html").exists() else ""
-          start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
-          if start in text and end in text:
-              block = text[text.index(start):text.index(end) + len(end)]
-              Path("/tmp/corner-section.html").write_text(block, encoding="utf-8")
-          PY
-      - name: Sezione Corner
-        if: steps.need.outputs.esegui == 'true'
-        continue-on-error: true
-        timeout-minutes: 8
-        run: python3 corner_multi.py
-      - name: Se Corner fallisce, rimetti la sezione precedente
-        if: steps.need.outputs.esegui == 'true'
-        run: |
-          python3 - << 'PY'
-          from pathlib import Path
-          page_path, saved = Path("index.html"), Path("/tmp/corner-section.html")
-          if not page_path.exists() or not saved.exists():
-              raise SystemExit(0)
-          page = page_path.read_text(encoding="utf-8")
-          start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
-          if "Sezione non disponibile in questo aggiornamento." in page and start in page and end in page:
-              old = saved.read_text(encoding="utf-8")
-              if "Sezione non disponibile in questo aggiornamento." not in old:
-                  page = page[:page.index(start)] + old + page[page.index(end) + len(end):]
-                  page_path.write_text(page, encoding="utf-8")
-                  print("Sezione Corner precedente ripristinata")
-          PY
-      - name: Salva aggiornamenti
-        if: steps.need.outputs.esegui == 'true'
-        run: |
-          set -eu
-          if [ "${GITHUB_REF}" != "refs/heads/main" ]; then
-            echo "Non pubblico: questo avvio non è sul ramo main (${GITHUB_REF})."
-            exit 0
-          fi
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          stage="${RUNNER_TEMP:-/tmp}/newcombo-out"
-          rm -rf "${stage}"
-          mkdir -p "${stage}"
-          files="index.html saltati.txt sottofrequenze.txt prossime_partite.txt prossime_partite_goal.txt ritardi_goal.txt ritardi_ripetizione.txt frequenza_campionati.txt corner_ritardi.txt corner_prossime.txt corner_ripetizioni.txt corner_frequenza.txt corner_sottofrequenze.txt corner_saltati.txt corner_ritardi_6_8.txt corner_prossime_6_8.txt corner_ripetizioni_6_8.txt corner_frequenza_6_8.txt corner_sottofrequenze_6_8.txt corner_saltati_6_8.txt corner_ritardi_12_14.txt corner_prossime_12_14.txt corner_ripetizioni_12_14.txt corner_frequenza_12_14.txt corner_sottofrequenze_12_14.txt corner_saltati_12_14.txt"
-          for f in ${files}; do
-            if [ -f "${f}" ]; then
-              cp -a "${f}" "${stage}/${f}"
-            fi
-          done
-          for attempt in 1 2 3 4 5; do
-            if ! git fetch origin main; then
-              echo "Lettura di main non riuscita, tentativo ${attempt}"
-              sleep $((attempt * 5))
-              continue
-            fi
-            git reset --hard
-            git checkout -B main origin/main
-            for f in ${files}; do
-              if [ -f "${stage}/${f}" ]; then
-                cp -a "${stage}/${f}" "${f}"
-                git add -- "${f}"
-              fi
-            done
-            if git diff --cached --quiet; then
-              echo "nessuna modifica"
-              exit 0
-            fi
-            git commit -m "Aggiornamento automatico dei dati"
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-            echo "Pubblicazione non riuscita, tentativo ${attempt}"
-            sleep $((attempt * 5))
-          done
-          echo "Impossibile pubblicare l'aggiornamento"
+        fi
+        stamp=".cache/newcombo/published_at"
+        if [ ! -f "${stamp}" ]; then
+          echo "Nessuna pubblicazione in cache: eseguo l'aggiornamento."
+          exit 0
+        fi
+        last=$(cat "${stamp}" || true)
+        if [ -z "${last}" ]; then
+          echo "Data dell'ultima pubblicazione sconosciuta: eseguo l'aggiornamento."
+          exit 0
+        fi
+        age=$(( $(date +%s) - last ))
+        echo "Ultima pubblicazione: ${age} secondi fa"
+        # The generator takes about 15 minutes. Skip only a start that
+        # landed while a fresh file is already published.
+        if [ "${age}" -lt 600 ]; then
+          echo "esegui=false" >> "$GITHUB_OUTPUT"
+          echo "Salto: un aggiornamento è appena stato pubblicato."
+        fi
+    - name: La password è obbligatoria
+      if: steps.need.outputs.esegui == 'true'
+      env:
+        NEWCOMBO_PASS: ${{ secrets.NEWCOMBO_PASS }}
+      run: |
+        if [ -z "${NEWCOMBO_PASS}" ]; then
+          echo "::error::Manca il secret NEWCOMBO_PASS. Aggiungilo in Settings → Secrets and variables → Actions. Senza password l'aggiornamento si ferma e non pubblica dati in chiaro."
           exit 1
+        fi
+    - uses: actions/setup-python@v5
+      if: steps.need.outputs.esegui == 'true'
+      with:
+        python-version: '3.12'
+    - name: Installa le dipendenze
+      if: steps.need.outputs.esegui == 'true'
+      run: python -m pip install --disable-pip-version-check -r requirements.txt
+    - name: Installa il browser, con nuovi tentativi
+      if: steps.need.outputs.esegui == 'true'
+      run: |
+        python -m pip install --disable-pip-version-check playwright || true
+        ok=0
+        for i in 1 2; do
+          if timeout 360 python -m playwright install chromium --with-deps; then
+            ok=1
+            break
+          fi
+          echo "Installazione del browser non riuscita, tentativo ${i}"
+          sleep $((i * 10))
+        done
+        if [ "${ok}" -ne 1 ]; then
+          echo "Continuo senza browser: i collegamenti restano quelli generici."
+        fi
+        exit 0
+    - name: Conserva la sezione Corner della cache
+      if: steps.need.outputs.esegui == 'true'
+      run: |
+        python3 - << 'PY'
+        from pathlib import Path
+        src = Path(".cache/newcombo/index.html")
+        if not src.exists():
+            raise SystemExit(0)
+        text = src.read_text(encoding="utf-8")
+        start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
+        if start in text and end in text:
+            block = text[text.index(start):text.index(end) + len(end)]
+            if "Sezione non disponibile in questo aggiornamento." not in block:
+                Path("/tmp/corner-section.html").write_text(block, encoding="utf-8")
+                print("Sezione Corner precedente conservata")
+        PY
+    - name: Genera i dati, con nuovi tentativi
+      if: steps.need.outputs.esegui == 'true'
+      run: |
+        ok=0
+        for i in 1 2; do
+          if python3 gen.py; then
+            ok=1
+            break
+          fi
+          echo "Generazione non riuscita, tentativo ${i}"
+          sleep $((i * 15))
+        done
+        if [ "${ok}" -ne 1 ]; then
+          exit 1
+        fi
+    - name: Sezione Corner
+      if: steps.need.outputs.esegui == 'true'
+      continue-on-error: true
+      timeout-minutes: 40
+      run: python3 corner_multi.py
+    - name: Se Corner fallisce, rimetti la sezione precedente
+      if: steps.need.outputs.esegui == 'true'
+      run: |
+        python3 - << 'PY'
+        from pathlib import Path
+        page_path, saved = Path("index.html"), Path("/tmp/corner-section.html")
+        if not page_path.exists() or not saved.exists():
+            raise SystemExit(0)
+        page = page_path.read_text(encoding="utf-8")
+        start, end = "<!-- CORNER-SECTION -->", "<!-- /CORNER-SECTION -->"
+        if "Sezione non disponibile in questo aggiornamento." in page and start in page and end in page:
+            old = saved.read_text(encoding="utf-8")
+            if "Sezione non disponibile in questo aggiornamento." not in old:
+                page = page[:page.index(start)] + old + page[page.index(end) + len(end):]
+                page_path.write_text(page, encoding="utf-8")
+                print("Sezione Corner precedente ripristinata")
+        PY
+    - name: Cifra la pagina
+      id: publish
+      if: steps.need.outputs.esegui == 'true'
+      env:
+        NEWCOMBO_PASS: ${{ secrets.NEWCOMBO_PASS }}
+      run: python3 publish_page.py
+    - uses: actions/configure-pages@v5
+      if: steps.need.outputs.esegui == 'true'
+    - uses: actions/upload-pages-artifact@v3
+      if: steps.need.outputs.esegui == 'true'
+      with:
+        path: docs
+    - id: deployment
+      if: steps.need.outputs.esegui == 'true'
+      uses: actions/deploy-pages@v4
+    - name: Ricorda la pagina per il prossimo giro
+      if: steps.need.outputs.esegui == 'true'
+      run: |
+        mkdir -p .cache/newcombo
+        cp -a index.html .cache/newcombo/index.html
+        date +%s > .cache/newcombo/published_at
+    - name: Salva la cache privata
+      if: steps.need.outputs.esegui == 'true'
+      uses: actions/cache/save@v4
+      with:
+        path: .cache
+        key: ${{ steps.cache.outputs.cache-primary-key }}
