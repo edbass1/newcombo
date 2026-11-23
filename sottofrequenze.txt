@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1204,7 +1204,7 @@ BRASILE - SÉRIE A
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Grêmio                         47/100
-    2/18 RB Bragantino                  46/100
+    2/18 RB Bragantino                  45/100
     3/18 Corinthians                    44/100
     4/18 Santos                         43/100
     5/18 Internacional                  43/100
@@ -1226,8 +1226,10 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 Santos                         37/100
     2/18 Palmeiras                      37/100
     3/18 Corinthians                    37/100
-    4/18 RB Bragantino                  36/100
-    5/18 Cruzeiro                       36/100
+    4/18 Cruzeiro                       36/100
+    5/18 RB Bragantino                  35/100
+    6/18 Internacional                  35/100
+    7/18 Coritiba                       35/100
      ...
    18/18 Atlético-MG                    26/100  (la fa meno spesso)
 
@@ -1236,8 +1238,8 @@ ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/26 Banfield                       40/100
-    2/26 Defensa y Justicia             39/100
-    3/26 Lanús                          38/100
+    2/26 Lanús                          39/100
+    3/26 Defensa y Justicia             39/100
     4/26 Rosario Central                37/100
     5/26 Estudiantes                    37/100
      ...
@@ -1284,7 +1286,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/29 Atlanta United                 43/100
     5/29 Chicago Fire FC                42/100
      ...
-   29/29 Nashville SC                   24/100  (la fa meno spesso)
+   29/29 Nashville SC                   23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/29 Sporting Kansas City           55/100
@@ -1455,7 +1457,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2674,8 +2676,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/21 Racing Club                    35/100
-    2/21 Rosario Central                32/100
-    3/21 River Plate                    32/100
+    2/21 River Plate                    33/100
+    3/21 Rosario Central                32/100
     4/21 Talleres                       29/100
     5/21 Sarmiento                      29/100
     6/21 Defensa y Justicia             29/100
@@ -2691,8 +2693,7 @@ SOTTOFREQUENZA 1X + GOAL
     3/27 LA Galaxy                      54/100
     4/27 Atlanta United                 50/100
     5/27 Toronto FC                     49/100
-    6/27 Nashville SC                   49/100
-    7/27 FC Dallas                      49/100
+    6/27 FC Dallas                      49/100
      ...
    27/27 DC United                      36/100  (la fa meno spesso)
 
@@ -2874,7 +2875,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4088,7 +4089,7 @@ SOTTOFREQUENZA 12 + GOAL
 ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/21 Lanús                          43/100
+    1/21 Lanús                          44/100
     2/21 Estudiantes                    41/100
     3/21 Vélez Sarsfield                37/100
     4/21 Rosario Central                36/100
@@ -4109,9 +4110,9 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/21 Tigre                          36/100
     2/21 Talleres                       31/100
-    3/21 Defensa y Justicia             31/100
-    4/21 Unión                          30/100
-    5/21 Lanús                          30/100
+    3/21 Lanús                          31/100
+    4/21 Defensa y Justicia             31/100
+    5/21 Unión                          30/100
      ...
    21/21 Gimnasia LP                    21/100  (la fa meno spesso)
 

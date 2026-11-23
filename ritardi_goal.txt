@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -274,16 +274,16 @@ Stagione 2026/2027 (192 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Stoke City                        8  🟢 62%  ❗ 9/39
-   2. Bristol City                      7  🟢 57%  ❗ 9/39
-   3. Middlesbrough                     5  🟢 80%  ❗ 9/39
-   4. Millwall                          3  🟢 67%  ❗ 9/39
-   5. Watford                           3  ❗ 9/39
-   6. Southampton                       2  🟢 50%  ❗ 9/39
-   7. Birmingham City                   1  ❗ 9/39
-   8. Derby County                      1  🟢 100%  ❗ 9/39
-   9. Lincoln City                      1  ❗ 9/39
-  10. Queens Park Rangers               1  ❗ 9/39
+   1. Stoke City                        8  🟢 62%  ❗ 8/39
+   2. Bristol City                      7  🟢 57%  ❗ 8/39
+   3. Middlesbrough                     5  🟢 80%  ❗ 8/39
+   4. Millwall                          3  🟢 67%  ❗ 8/39
+   5. Watford                           3  ❗ 8/39
+   6. Southampton                       2  🟢 50%  ❗ 8/39
+   7. Birmingham City                   1  ❗ 8/39
+   8. Derby County                      1  🟢 100%  ❗ 8/39
+   9. Lincoln City                      1  ❗ 8/39
+  10. Queens Park Rangers               1  ❗ 8/39
 
 RITARDI X2 + GOAL
    1. Watford                           9  🟢 56%  ❗ 9/39
@@ -1660,66 +1660,66 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (354 partite giocate) + 2025
+Stagione 2026 (356 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          6  ❗ 8/39
-   2. Chapecoense                       5  🟢 100%  ❗ 8/39
-   3. Atlético-MG                       3  ❗ 8/39
-   4. Corinthians                       3  🟢 67%  🔴  ❗ 8/39
-   5. Mirassol                          3  🟢 67%  ❗ 8/39
-   6. Bahia                             2  ❗ 8/39
-   7. Botafogo                          2  🟢 50%  ❗ 8/39
-   8. Fluminense                        2  🟢 50%  ❗ 8/39
-   9. São Paulo                         2  ❗ 8/39
-  10. Cruzeiro                          1  🟢 100%  ❗ 8/39
+   1. Coritiba                          6  ❗ 10/39
+   2. Chapecoense                       5  🟢 100%  ❗ 10/39
+   3. Mirassol                          4  🟢 50%  ❗ 10/39
+   4. Atlético-MG                       3  ❗ 10/39
+   5. Corinthians                       3  🟢 67%  🔴  ❗ 10/39
+   6. Fluminense                        3  ❗ 10/39
+   7. Bahia                             2  ❗ 10/39
+   8. Botafogo                          2  🟢 50%  ❗ 10/39
+   9. São Paulo                         2  ❗ 10/39
+  10. Cruzeiro                          1  🟢 100%  ❗ 10/39
 
 RITARDI X2 + GOAL
    1. Atlético-MG                       6
    2. Coritiba                          6
    3. Botafogo                          5  🟢 60%
-   4. Internacional                     5  🟢 80%  🔴
-   5. Remo                              5  🟢 80%
-   6. Bahia                             4  🟢 50%
-   7. Corinthians                       4  🟢 75%
-   8. Fluminense                        4  🟢 75%
-   9. Grêmio                            4  🟢 50%
-  10. RB Bragantino                     4  🟢 100%
+   4. Fluminense                        5  🟢 60%
+   5. Internacional                     5  🟢 80%  🔴
+   6. RB Bragantino                     5  🟢 80%
+   7. Remo                              5  🟢 80%
+   8. Bahia                             4  🟢 50%
+   9. Corinthians                       4  🟢 75%
+  10. Grêmio                            4  🟢 50%
 
 RITARDI 12 + GOAL
    1. Coritiba                         10  🟢 50%
    2. Atlético-MG                       3
    3. Corinthians                       3  🟢 67%  🔴
-   4. Bahia                             2
-   5. Botafogo                          2  🟢 50%
-   6. Fluminense                        2  🟢 50%
-   7. São Paulo                         2
-   8. Flamengo                          1  🟢 100%
-   9. Grêmio                            1
-  10. Mirassol                          1
+   4. Fluminense                        3
+   5. Bahia                             2
+   6. Botafogo                          2  🟢 50%
+   7. Mirassol                          2
+   8. São Paulo                         2
+   9. Flamengo                          1  🟢 100%
+  10. Grêmio                            1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (244 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,3
+Stagione 2026 - Clausura (245 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Huracán                           7  🟢 86%
    2. Argentinos Juniors                5  🟢 60%
    3. Club Atlético Platense            4  🟢 75%
-   4. River Plate                       4  🟢 50%
-   5. Boca Juniors                      3
-   6. Sarmiento                         3  🟢 67%
-   7. Tigre                             3
-   8. Barracas Central                  2  🟢 50%
-   9. Defensa y Justicia                2  🔴
-  10. Estudiantes de Río Cuarto         2  🟢 100%
+   4. Boca Juniors                      3
+   5. Sarmiento                         3  🟢 67%
+   6. Tigre                             3
+   7. Barracas Central                  2  🟢 50%
+   8. Defensa y Justicia                2  🔴
+   9. Estudiantes de Río Cuarto         2  🟢 100%
+  10. Aldosivi                          1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Aldosivi                          4  🟢 75%
-   2. Boca Juniors                      4
-   3. River Plate                       4  🟢 50%
+   1. River Plate                       5  🟢 60%
+   2. Aldosivi                          4  🟢 75%
+   3. Boca Juniors                      4
    4. Deportivo Riestra                 3  🟢 67%
    5. Huracán                           3  🟢 100%
    6. Racing Club                       3  🟢 67%
@@ -1730,39 +1730,39 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Vélez Sarsfield                   7  🟢 86%  👻 37/39
-   2. Lanús                             6  🟢 67%  👻 37/39
-   3. River Plate                       6  🟢 50%  👻 37/39
-   4. Instituto                         5  🟢 60%  👻 37/39
-   5. Tigre                             4  🟢 50%  👻 37/39
-   6. Barracas Central                  3  🟢 67%  👻 37/39
-   7. Boca Juniors                      3  👻 37/39
-   8. Central Córdoba de Santiago       3  🟢 100%  👻 37/39
-   9. Defensa y Justicia                3  👻 37/39
-  10. Huracán                           3  🟢 100%  👻 37/39
+   2. Instituto                         5  🟢 60%  👻 37/39
+   3. Tigre                             4  🟢 50%  👻 37/39
+   4. Barracas Central                  3  🟢 67%  👻 37/39
+   5. Boca Juniors                      3  👻 37/39
+   6. Central Córdoba de Santiago       3  🟢 100%  👻 37/39
+   7. Defensa y Justicia                3  👻 37/39
+   8. Huracán                           3  🟢 100%  👻 37/39
+   9. Newell's Old Boys                 3  🟢 67%  👻 37/39
+  10. San Lorenzo                       3  🟢 67%  👻 37/39
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (515 partite giocate) + 2025
+Stagione 2026 (516 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Columbus Crew                     4  🟢 100%  🔥 5/39
-   2. St. Louis City                    4  🟢 50%  🔥 5/39
-   3. FC Cincinnati                     3  🟢 67%  🔥 5/39
+   2. FC Cincinnati                     4  🟢 50%  🔥 5/39
+   3. St. Louis City                    4  🟢 50%  🔥 5/39
    4. New England Revolution            3  🟢 67%  🔥 5/39
    5. Orlando City                      3  🟢 67%  🔥 5/39
    6. Chicago Fire FC                   2  🟢 100%  🔥 5/39
    7. DC United                         2  🟢 50%  🔥 5/39
-   8. Portland Timbers                  2  🟢 100%  🔴  🔥 5/39
-   9. San Diego FC                      2  🔥 5/39
-  10. Atlanta United                    1  🟢 100%  🔥 5/39
+   8. Nashville SC                      2  🟢 50%  🔥 5/39
+   9. Portland Timbers                  2  🟢 100%  🔴  🔥 5/39
+  10. San Diego FC                      2  🔥 5/39
 
 RITARDI X2 + GOAL
    1. Red Bull New York                12  🟢 75%  🔥 7/39
    2. DC United                         8  🟢 88%  🔴  🔥 7/39
-   3. Toronto FC                        5  🟢 100%  🔥 7/39
-   4. Houston Dynamo FC                 4  🔥 7/39
-   5. Nashville SC                      4  🟢 75%  🔥 7/39
+   3. Nashville SC                      5  🟢 60%  🔥 7/39
+   4. Toronto FC                        5  🟢 100%  🔥 7/39
+   5. Houston Dynamo FC                 4  🔥 7/39
    6. Philadelphia Union                4  🟢 50%  🔥 7/39
    7. Vancouver Whitecaps               4  🟢 75%  🔥 7/39
    8. Atlanta United                    3  🟢 100%  🔥 7/39
@@ -1774,12 +1774,12 @@ RITARDI 12 + GOAL
    2. Charlotte FC                      3  🟢 100%  ❗ 8/39
    3. DC United                         2  🟢 50%  ❗ 8/39
    4. Inter Miami CF                    2  🟢 100%  🔴  ❗ 8/39
-   5. New England Revolution            2  🟢 50%  ❗ 8/39
-   6. New York City FC                  2  🟢 50%  ❗ 8/39
-   7. Portland Timbers                  2  🟢 100%  ❗ 8/39
-   8. San Diego FC                      2  ❗ 8/39
-   9. Sporting Kansas City              2  🟢 50%  🔴  ❗ 8/39
-  10. St. Louis City                    2  ❗ 8/39
+   5. Nashville SC                      2  🟢 50%  ❗ 8/39
+   6. New England Revolution            2  🟢 50%  ❗ 8/39
+   7. New York City FC                  2  🟢 50%  ❗ 8/39
+   8. Portland Timbers                  2  🟢 100%  ❗ 8/39
+   9. San Diego FC                      2  ❗ 8/39
+  10. Sporting Kansas City              2  🟢 50%  🔴  ❗ 8/39
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -1907,16 +1907,16 @@ Stagione 2026/2027 (132 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Korona Kielce                     4  🟢 50%  ❗ 10/39
-   2. Legia Warszawa                    4  🟢 50%  🔴  ❗ 10/39
-   3. GKS Katowice                      2  ❗ 10/39
-   4. Piast Gliwice                     2  🟢 50%  ❗ 10/39
-   5. Pogoń Szczecin                    2  🟢 100%  ❗ 10/39
-   6. Radomiak Radom                    2  🟢 50%  🔴  ❗ 10/39
-   7. Śląsk Wrocław                     2  🟢 50%  🔴  ❗ 10/39
-   8. Górnik Zabrze                     1  🟢 100%  ❗ 10/39
-   9. Lech Poznań                       1  ❗ 10/39
-  10. Wisła Kraków                      1  ❗ 10/39
+   1. Korona Kielce                     4  🟢 50%  ❗ 9/39
+   2. Legia Warszawa                    4  🟢 50%  🔴  ❗ 9/39
+   3. GKS Katowice                      2  ❗ 9/39
+   4. Piast Gliwice                     2  🟢 50%  ❗ 9/39
+   5. Pogoń Szczecin                    2  🟢 100%  ❗ 9/39
+   6. Radomiak Radom                    2  🟢 50%  🔴  ❗ 9/39
+   7. Śląsk Wrocław                     2  🟢 50%  🔴  ❗ 9/39
+   8. Górnik Zabrze                     1  🟢 100%  ❗ 9/39
+   9. Lech Poznań                       1  ❗ 9/39
+  10. Wisła Kraków                      1  ❗ 9/39
 
 RITARDI X2 + GOAL
    1. Korona Kielce                     8  🟢 75%  👻 31/39
@@ -1988,7 +1988,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2036,9 +2036,9 @@ TOP 20 — X2 + GOAL
    3. Wigan Athletic                 17  | INGHILTERRA - LEAGUE ONE
    4. Rapid Wien                     15  | AUSTRIA - BUNDESLIGA
    4. Saint-Étienne                  15  | FRANCIA - LIGUE 2
+   6. Nashville SC                   13  | USA/CANADA - MLS
    6. Paris FC                       13  | FRANCIA - LIGUE 1
    6. SKN St. Pölten                 13  | AUSTRIA - 2. LIGA
-   8. Nashville SC                   12  | USA/CANADA - MLS
    9. Aberdeen                       11  | SCOZIA - PREMIERSHIP
   10. FC Stade Lausanne-Ouchy        10  | SVIZZERA - CHALLENGE LEAGUE
   10. RB Leipzig                     10  | GERMANIA - BUNDESLIGA
@@ -2268,16 +2268,16 @@ Stagione 2026/2027 (192 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bristol City                      6  ❗ 9/39
-   2. Watford                           5  🟢 60%  ❗ 9/39
-   3. Stoke City                        4  🟢 50%  ❗ 9/39
-   4. Lincoln City                      2  🟢 50%  ❗ 9/39
-   5. Middlesbrough                     2  🟢 100%  ❗ 9/39
-   6. Preston North End                 2  🟢 50%  ❗ 9/39
-   7. Sheffield United                  2  🟢 50%  ❗ 9/39
-   8. Millwall                          1  ❗ 9/39
-   9. Portsmouth                        1  🟢 100%  🔴  ❗ 9/39
-  10. Southampton                       1  🟢 100%  ❗ 9/39
+   1. Bristol City                      6  ❗ 8/39
+   2. Watford                           5  🟢 60%  ❗ 8/39
+   3. Stoke City                        4  🟢 50%  ❗ 8/39
+   4. Lincoln City                      2  🟢 50%  ❗ 8/39
+   5. Middlesbrough                     2  🟢 100%  ❗ 8/39
+   6. Preston North End                 2  🟢 50%  ❗ 8/39
+   7. Sheffield United                  2  🟢 50%  ❗ 8/39
+   8. Millwall                          1  ❗ 8/39
+   9. Portsmouth                        1  🟢 100%  🔴  ❗ 8/39
+  10. Southampton                       1  🟢 100%  ❗ 8/39
 
 RITARDI X2 + GOAL
    1. Southampton                       8  🟢 75%  ❗ 9/39
@@ -3654,30 +3654,30 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (354 partite giocate) + 2025
+Stagione 2026 (356 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Botafogo                          3  ❗ 8/39
-   2. Chapecoense                       3  🟢 100%  ❗ 8/39
-   3. Coritiba                          3  ❗ 8/39
-   4. Grêmio                            3  🟢 67%  ❗ 8/39
-   5. São Paulo                         3  ❗ 8/39
-   6. Atlético-MG                       2  🔴  ❗ 8/39
-   7. Corinthians                       2  🟢 100%  ❗ 8/39
-   8. Internacional                     2  🟢 50%  ❗ 8/39
-   9. Bahia                             1  ❗ 8/39
-  10. Mirassol                          1  ❗ 8/39
+   1. Botafogo                          3  ❗ 10/39
+   2. Chapecoense                       3  🟢 100%  ❗ 10/39
+   3. Coritiba                          3  ❗ 10/39
+   4. Grêmio                            3  🟢 67%  ❗ 10/39
+   5. São Paulo                         3  ❗ 10/39
+   6. Atlético-MG                       2  🔴  ❗ 10/39
+   7. Corinthians                       2  🟢 100%  ❗ 10/39
+   8. Internacional                     2  🟢 50%  ❗ 10/39
+   9. Bahia                             1  ❗ 10/39
+  10. Fluminense                        1  🔴  ❗ 10/39
 
 RITARDI X2 + GOAL
    1. Flamengo                          9  🟢 89%
    2. Cruzeiro                          8  🟢 75%
    3. Bahia                             7  🟢 57%
    4. Atlético-MG                       4
-   5. São Paulo                         4
-   6. Coritiba                          3
-   7. Internacional                     3  🟢 67%  🔴
-   8. RB Bragantino                     3  🟢 100%
+   5. RB Bragantino                     4  🟢 75%
+   6. São Paulo                         4
+   7. Coritiba                          3
+   8. Internacional                     3  🟢 67%  🔴
    9. Botafogo                          2
   10. Corinthians                       2  🟢 100%  🔴
 
@@ -3695,8 +3695,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (244 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,3
+Stagione 2026 - Clausura (245 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. San Lorenzo                      12
@@ -3705,22 +3705,22 @@ RITARDI 1X + GOAL
    4. Aldosivi                          4  🟢 50%
    5. Argentinos Juniors                3  🟢 67%
    6. Huracán                           3  🟢 67%
-   7. River Plate                       3
-   8. Boca Juniors                      2
-   9. Club Atlético Platense            2  🟢 50%
-  10. Barracas Central                  1  🟢 100%
+   7. Boca Juniors                      2
+   8. Club Atlético Platense            2  🟢 50%
+   9. Barracas Central                  1  🟢 100%
+  10. Defensa y Justicia                1  🔴
 
 RITARDI X2 + GOAL
    1. San Lorenzo                       8
    2. Boca Juniors                      6  🟢 50%
    3. Barracas Central                  5  🟢 60%
    4. Rosario Central                   5  🟢 80%
-   5. Unión                             3  🟢 100%
-   6. Aldosivi                          2  🟢 50%
-   7. Club Atlético Platense            2  🟢 50%
-   8. Gimnasia LP                       2  🟢 100%
-   9. Independiente                     2  🟢 50%
-  10. River Plate                       2
+   5. River Plate                       3
+   6. Unión                             3  🟢 100%
+   7. Aldosivi                          2  🟢 50%
+   8. Club Atlético Platense            2  🟢 50%
+   9. Gimnasia LP                       2  🟢 100%
+  10. Independiente                     2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra               16+  🟢 62%  👻 37/39
@@ -3736,7 +3736,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (515 partite giocate) + 2025
+Stagione 2026 (516 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
@@ -3752,7 +3752,7 @@ RITARDI 1X + GOAL
   10. New England Revolution            2  🟢 100%  🔥 5/39
 
 RITARDI X2 + GOAL
-   1. Nashville SC                     12  🟢 75%  🔥 7/39
+   1. Nashville SC                     13  🟢 69%  🔥 7/39
    2. FC Dallas                         9  🟢 67%  🔥 7/39
    3. Charlotte FC                      7  🟢 71%  🔥 7/39
    4. Columbus Crew                     6  🟢 83%  🔥 7/39
@@ -3901,16 +3901,16 @@ Stagione 2026/2027 (132 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Jagiellonia Białystok             4  🟢 50%  🔴  ❗ 10/39
-   2. Zagłębie Lubin                    4  🟢 50%  ❗ 10/39
-   3. Śląsk Wrocław                     4  🟢 75%  🔴  ❗ 10/39
-   4. Legia Warszawa                    3  🟢 100%  🔴  ❗ 10/39
-   5. Wieczysta Kraków                  3  🟢 100%  ❗ 10/39
-   6. Korona Kielce                     2  🟢 50%  ❗ 10/39
-   7. GKS Katowice                      1  ❗ 10/39
-   8. Piast Gliwice                     1  🟢 100%  ❗ 10/39
-   9. Pogoń Szczecin                    1  🟢 100%  🔴  ❗ 10/39
-  10. Radomiak Radom                    1  ❗ 10/39
+   1. Jagiellonia Białystok             4  🟢 50%  🔴  ❗ 9/39
+   2. Zagłębie Lubin                    4  🟢 50%  ❗ 9/39
+   3. Śląsk Wrocław                     4  🟢 75%  🔴  ❗ 9/39
+   4. Legia Warszawa                    3  🟢 100%  🔴  ❗ 9/39
+   5. Wieczysta Kraków                  3  🟢 100%  ❗ 9/39
+   6. Korona Kielce                     2  🟢 50%  ❗ 9/39
+   7. GKS Katowice                      1  ❗ 9/39
+   8. Piast Gliwice                     1  🟢 100%  ❗ 9/39
+   9. Pogoń Szczecin                    1  🟢 100%  🔴  ❗ 9/39
+  10. Radomiak Radom                    1  ❗ 9/39
 
 RITARDI X2 + GOAL
    1. Zagłębie Lubin                   10  🟢 50%  👻 31/39
@@ -3982,7 +3982,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 22/11/2026 23:48 (ora italiana)
+Aggiornato: 23/11/2026 01:48 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4018,6 +4018,7 @@ TOP 20 — 1X + GOAL
   16. Philadelphia Union              7  | USA/CANADA - MLS
   16. Plymouth Argyle                 7  | INGHILTERRA - LEAGUE ONE
   16. Sporting CP B                   7  | PORTOGALLO - LIGA PORTUGAL 2
+  16. Vasco da Gama                   7  | BRASILE - SÉRIE A
   16. Virtus Entella                  7  | ITALIA - SERIE B
 
 TOP 20 — X2 + GOAL
@@ -4064,7 +4065,6 @@ TOP 20 — 12 + GOAL
   14. Everton                         7  | INGHILTERRA - PREMIER LEAGUE
   14. Gent U23                        7  | BELGIO - FIRST DIVISION B
   14. Ingolstadt                      7  | GERMANIA - 3. LIGA
-  14. Lanús                           7  | ARGENTINA - PRIMERA DIVISIÓN
   14. Mallorca                       7+  | SPAGNA - LALIGA 2
   14. Malmö FF                        7  | SVEZIA - ALLSVENSKAN
   14. Mladá Boleslav                  7  | REP. CECA - 1. LIGA
@@ -4250,16 +4250,16 @@ Stagione 2026/2027 (192 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Birmingham City                   5  ❗ 9/39
-   2. Stoke City                        5  🟢 80%  ❗ 9/39
-   3. Middlesbrough                     4  🟢 75%  ❗ 9/39
-   4. Bristol City                      3  🟢 67%  ❗ 9/39
-   5. Norwich City                      3  🟢 100%  🔴  ❗ 9/39
-   6. Wrexham                           3  ❗ 9/39
-   7. Millwall                          2  🟢 100%  ❗ 9/39
-   8. Derby County                      1  🟢 100%  ❗ 9/39
-   9. Queens Park Rangers               1  ❗ 9/39
-  10. Southampton                       1  🔴  ❗ 9/39
+   1. Birmingham City                   5  ❗ 8/39
+   2. Stoke City                        5  🟢 80%  ❗ 8/39
+   3. Middlesbrough                     4  🟢 75%  ❗ 8/39
+   4. Bristol City                      3  🟢 67%  ❗ 8/39
+   5. Norwich City                      3  🟢 100%  🔴  ❗ 8/39
+   6. Wrexham                           3  ❗ 8/39
+   7. Millwall                          2  🟢 100%  ❗ 8/39
+   8. Derby County                      1  🟢 100%  ❗ 8/39
+   9. Queens Park Rangers               1  ❗ 8/39
+  10. Southampton                       1  🔴  ❗ 8/39
 
 RITARDI X2 + GOAL
    1. Watford                           7  🟢 57%  ❗ 9/39
@@ -5636,20 +5636,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (354 partite giocate) + 2025
+Stagione 2026 (356 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          6  🟢 50%  🔴  ❗ 8/39
-   2. Vasco da Gama                     6  🟢 67%  ❗ 8/39
-   3. Chapecoense                       4  🟢 75%  ❗ 8/39
-   4. Cruzeiro                          3  🟢 67%  ❗ 8/39
-   5. Mirassol                          3  🟢 67%  ❗ 8/39
-   6. Atlético-MG                       2  ❗ 8/39
-   7. Fluminense                        2  🟢 50%  ❗ 8/39
-   8. Bahia                             1  ❗ 8/39
-   9. Botafogo                          1  🟢 100%  ❗ 8/39
-  10. Corinthians                       1  ❗ 8/39
+   1. Vasco da Gama                     7  🟢 57%  ❗ 10/39
+   2. Coritiba                          6  🟢 50%  🔴  ❗ 10/39
+   3. Chapecoense                       4  🟢 75%  ❗ 10/39
+   4. Mirassol                          4  🟢 50%  ❗ 10/39
+   5. Cruzeiro                          3  🟢 67%  ❗ 10/39
+   6. Atlético-MG                       2  ❗ 10/39
+   7. Fluminense                        2  🟢 50%  ❗ 10/39
+   8. Bahia                             1  ❗ 10/39
+   9. Botafogo                          1  🟢 100%  ❗ 10/39
+  10. Corinthians                       1  ❗ 10/39
 
 RITARDI X2 + GOAL
    1. Corinthians                       7  🟢 86%
@@ -5668,17 +5668,17 @@ RITARDI 12 + GOAL
    2. Coritiba                          5  🔴
    3. Atlético-MG                       2
    4. Fluminense                        2  🟢 50%
-   5. Vitória                           2  🟢 100%  🔴
-   6. Bahia                             1
-   7. Botafogo                          1  🟢 100%
-   8. Corinthians                       1
-   9. Flamengo                          1  🟢 100%  🔴
-  10. Santos                            1
+   5. Vasco da Gama                     2  🟢 50%
+   6. Vitória                           2  🟢 100%  🔴
+   7. Bahia                             1
+   8. Botafogo                          1  🟢 100%
+   9. Corinthians                       1
+  10. Flamengo                          1  🟢 100%  🔴
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (244 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,3
+Stagione 2026 - Clausura (245 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,6 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Huracán                           4  🟢 100%
@@ -5706,19 +5706,19 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. Boca Juniors                      8  🟢 88%  👻 37/39
-   2. Lanús                             7  🟢 57%  👻 37/39
-   3. Vélez Sarsfield                   7  🟢 100%  👻 37/39
-   4. Newell's Old Boys                 6  👻 37/39
-   5. Atlético Tucumán                  4  🟢 50%  👻 37/39
-   6. Independiente Rivadavia           4  🟢 50%  👻 37/39
-   7. River Plate                       4  🟢 75%  👻 37/39
-   8. Barracas Central                  3  🟢 67%  👻 37/39
-   9. Huracán                           3  🟢 100%  👻 37/39
-  10. Unión                             3  🟢 100%  👻 37/39
+   2. Vélez Sarsfield                   7  🟢 100%  👻 37/39
+   3. Newell's Old Boys                 6  👻 37/39
+   4. Atlético Tucumán                  4  🟢 50%  👻 37/39
+   5. Independiente Rivadavia           4  🟢 50%  👻 37/39
+   6. River Plate                       4  🟢 75%  👻 37/39
+   7. Barracas Central                  3  🟢 67%  👻 37/39
+   8. Huracán                           3  🟢 100%  👻 37/39
+   9. Unión                             3  🟢 100%  👻 37/39
+  10. Instituto                         2  🟢 50%  👻 37/39
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (515 partite giocate) + 2025
+Stagione 2026 (516 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
@@ -5729,9 +5729,9 @@ RITARDI 1X + GOAL
    5. Portland Timbers                  4  🟢 100%  🔥 5/39
    6. Vancouver Whitecaps               4  🟢 50%  🔥 5/39
    7. Inter Miami CF                    3  🟢 100%  🔥 5/39
-   8. Minnesota United                  2  🟢 50%  🔥 5/39
-   9. Nashville SC                      2  🟢 100%  🔥 5/39
-  10. St. Louis City                    2  🟢 50%  🔥 5/39
+   8. FC Cincinnati                     2  🟢 50%  🔥 5/39
+   9. Minnesota United                  2  🟢 50%  🔥 5/39
+  10. Nashville SC                      2  🟢 100%  🔥 5/39
 
 RITARDI X2 + GOAL
    1. Sporting Kansas City             10  🟢 90%  🔥 7/39
@@ -5883,16 +5883,16 @@ Stagione 2026/2027 (132 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. GKS Katowice                      3  ❗ 10/39
-   2. Lech Poznań                       3  🟢 67%  ❗ 10/39
-   3. Korona Kielce                     2  🟢 50%  🔴  ❗ 10/39
-   4. Legia Warszawa                    2  ❗ 10/39
-   5. Motor Lublin                      2  🟢 100%  ❗ 10/39
-   6. Górnik Zabrze                     1  🟢 100%  ❗ 10/39
-   7. Piast Gliwice                     1  ❗ 10/39
-   8. Pogoń Szczecin                    1  🟢 100%  ❗ 10/39
-   9. Radomiak Radom                    1  🟢 100%  ❗ 10/39
-  10. Raków Częstochowa                 1  🟢 100%  ❗ 10/39
+   1. GKS Katowice                      3  ❗ 9/39
+   2. Lech Poznań                       3  🟢 67%  ❗ 9/39
+   3. Korona Kielce                     2  🟢 50%  🔴  ❗ 9/39
+   4. Legia Warszawa                    2  ❗ 9/39
+   5. Motor Lublin                      2  🟢 100%  ❗ 9/39
+   6. Górnik Zabrze                     1  🟢 100%  ❗ 9/39
+   7. Piast Gliwice                     1  ❗ 9/39
+   8. Pogoń Szczecin                    1  🟢 100%  ❗ 9/39
+   9. Radomiak Radom                    1  🟢 100%  ❗ 9/39
+  10. Raków Częstochowa                 1  🟢 100%  ❗ 9/39
 
 RITARDI X2 + GOAL
    1. Radomiak Radom                   12  🟢 58%  👻 31/39
