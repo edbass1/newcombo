@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI CORNER 9-11 — TOTALI
-Aggiornato: 23/11/2026 05:01 (ora italiana)
+Aggiornato: 23/11/2026 05:11 (ora italiana)
 Vista Totali: tutte le partite, in casa o in trasferta.
 Uscita = corner totali 9, 10 o 11. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -368,7 +368,7 @@ RITARDI CORNER 9-11
 ##################################################
 
 RITARDI CORNER 9-11 — CASA
-Aggiornato: 23/11/2026 05:01 (ora italiana)
+Aggiornato: 23/11/2026 05:11 (ora italiana)
 Vista Casa: solo le partite giocate in casa.
 Uscita = corner totali 9, 10 o 11. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
@@ -738,7 +738,7 @@ RITARDI CORNER 9-11
 ##################################################
 
 RITARDI CORNER 9-11 — TRASFERTA
-Aggiornato: 23/11/2026 05:01 (ora italiana)
+Aggiornato: 23/11/2026 05:11 (ora italiana)
 Vista Trasferta: solo le partite giocate in trasferta.
 Uscita = corner totali 9, 10 o 11. Ritardo = partite consecutive senza uscita.
 Lo storico del ritardo è la stagione in corso più la precedente, se la squadra era nella stessa divisione.
