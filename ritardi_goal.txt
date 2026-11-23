@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 23/11/2026 01:48 (ora italiana)
+Aggiornato: 23/11/2026 03:01 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1742,16 +1742,16 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (516 partite giocate) + 2025
+Stagione 2026 (517 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Columbus Crew                     4  🟢 100%  🔥 5/39
    2. FC Cincinnati                     4  🟢 50%  🔥 5/39
    3. St. Louis City                    4  🟢 50%  🔥 5/39
-   4. New England Revolution            3  🟢 67%  🔥 5/39
-   5. Orlando City                      3  🟢 67%  🔥 5/39
-   6. Chicago Fire FC                   2  🟢 100%  🔥 5/39
+   4. Chicago Fire FC                   3  🟢 100%  🔥 5/39
+   5. New England Revolution            3  🟢 67%  🔥 5/39
+   6. Orlando City                      3  🟢 67%  🔥 5/39
    7. DC United                         2  🟢 50%  🔥 5/39
    8. Nashville SC                      2  🟢 50%  🔥 5/39
    9. Portland Timbers                  2  🟢 100%  🔴  🔥 5/39
@@ -1771,15 +1771,15 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. CF Montréal                       6  🟢 100%  ❗ 8/39
-   2. Charlotte FC                      3  🟢 100%  ❗ 8/39
-   3. DC United                         2  🟢 50%  ❗ 8/39
-   4. Inter Miami CF                    2  🟢 100%  🔴  ❗ 8/39
-   5. Nashville SC                      2  🟢 50%  ❗ 8/39
-   6. New England Revolution            2  🟢 50%  ❗ 8/39
-   7. New York City FC                  2  🟢 50%  ❗ 8/39
-   8. Portland Timbers                  2  🟢 100%  ❗ 8/39
-   9. San Diego FC                      2  ❗ 8/39
-  10. Sporting Kansas City              2  🟢 50%  🔴  ❗ 8/39
+   2. DC United                         2  🟢 50%  ❗ 8/39
+   3. Inter Miami CF                    2  🟢 100%  🔴  ❗ 8/39
+   4. Nashville SC                      2  🟢 50%  ❗ 8/39
+   5. New England Revolution            2  🟢 50%  ❗ 8/39
+   6. New York City FC                  2  🟢 50%  ❗ 8/39
+   7. Portland Timbers                  2  🟢 100%  ❗ 8/39
+   8. San Diego FC                      2  ❗ 8/39
+   9. Sporting Kansas City              2  🟢 50%  🔴  ❗ 8/39
+  10. St. Louis City                    2  ❗ 8/39
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -1988,7 +1988,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 23/11/2026 01:48 (ora italiana)
+Aggiornato: 23/11/2026 03:01 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3736,7 +3736,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (516 partite giocate) + 2025
+Stagione 2026 (517 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
@@ -3745,11 +3745,11 @@ RITARDI 1X + GOAL
    3. Red Bull New York                 3  🟢 100%  🔥 5/39
    4. St. Louis City                    3  🔥 5/39
    5. Charlotte FC                      2  🟢 100%  🔥 5/39
-   6. Colorado Rapids                   2  🟢 50%  🔥 5/39
-   7. DC United                         2  🟢 50%  🔥 5/39
-   8. FC Cincinnati                     2  🟢 50%  🔥 5/39
-   9. Houston Dynamo FC                 2  🔥 5/39
-  10. New England Revolution            2  🟢 100%  🔥 5/39
+   6. Chicago Fire FC                   2  🟢 100%  🔥 5/39
+   7. Colorado Rapids                   2  🟢 50%  🔥 5/39
+   8. DC United                         2  🟢 50%  🔥 5/39
+   9. FC Cincinnati                     2  🟢 50%  🔥 5/39
+  10. Houston Dynamo FC                 2  🔥 5/39
 
 RITARDI X2 + GOAL
    1. Nashville SC                     13  🟢 69%  🔥 7/39
@@ -3982,7 +3982,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 23/11/2026 01:48 (ora italiana)
+Aggiornato: 23/11/2026 03:01 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5718,7 +5718,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (516 partite giocate) + 2025
+Stagione 2026 (517 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL

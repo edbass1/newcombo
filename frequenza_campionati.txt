@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 23/11/2026 01:48 (ora italiana)
+Aggiornato: 23/11/2026 03:01 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -13,7 +13,7 @@ Fonte: FotMob
    2/39  DANIMARCA - 1. DIVISION          1 ogni 2,0       (44/90, 15 giornate)
    3/39  INGHILTERRA - LEAGUE TWO         1 ogni 2,1       (89/186, 16 giornate)
    4/39  DANIMARCA - SUPERLIGAEN          1 ogni 2,1       (42/89, 15 giornate)
-   5/39  USA/CANADA - MLS                 1 ogni 2,1       (242/516, 37 giornate)
+   5/39  USA/CANADA - MLS                 1 ogni 2,1       (242/517, 37 giornate)
    6/39  SVIZZERA - SUPER LEAGUE          1 ogni 2,2       (38/84, 14 giornate)
    7/39  ITALIA - SERIE B                 1 ogni 2,2       (54/120, 12 giornate)
    8/39  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,2       (86/192, 16 giornate)
@@ -58,7 +58,7 @@ X2 + GOAL
    4/39  SVIZZERA - SUPER LEAGUE          1 ogni 2,5       (34/84, 14 giornate)
    5/39  DANIMARCA - 1. DIVISION          1 ogni 2,5       (36/90, 15 giornate)
    6/39  ITALIA - SERIE B                 1 ogni 2,5       (48/120, 12 giornate)
-   7/39  USA/CANADA - MLS                 1 ogni 2,7       (192/516, 37 giornate)
+   7/39  USA/CANADA - MLS                 1 ogni 2,7       (193/517, 37 giornate)
    8/39  GERMANIA - 3. LIGA               1 ogni 2,7       (52/140, 14 giornate)
    9/39  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,7       (71/192, 16 giornate)
   10/39  FRANCIA - LIGUE 2                1 ogni 2,7       (42/115, 13 giornate)
@@ -102,7 +102,7 @@ X2 + GOAL
    5/39  GERMANIA - 3. LIGA               1 ogni 2,2       (63/140, 14 giornate)
    6/39  GERMANIA - BUNDESLIGA            1 ogni 2,2       (40/90, 10 giornate)
    7/39  NORVEGIA - ELITESERIEN           1 ogni 2,3       (94/216, 27 giornate)
-   8/39  USA/CANADA - MLS                 1 ogni 2,3       (220/516, 37 giornate)
+   8/39  USA/CANADA - MLS                 1 ogni 2,3       (221/517, 37 giornate)
    9/39  FRANCIA - LIGUE 1                1 ogni 2,4       (42/99, 11 giornate)
   10/39  AUSTRIA - 2. LIGA                1 ogni 2,4       (43/104, 13 giornate)
   11/39  ITALIA - SERIE A                 1 ogni 2,4       (49/119, 12 giornate)
