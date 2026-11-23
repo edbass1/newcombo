@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE CORNER 6-8 (ultime 100 partite) — TOTALI
-Aggiornato: 23/11/2026 16:11 (ora italiana)
+Aggiornato: 23/11/2026 22:26 (ora italiana)
 Uscite di corner 6-8 sulle ultime 100 partite del paese, nella vista indicata.
 Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
 Fonte: football-data.co.uk
@@ -11,8 +11,8 @@ Fonte: football-data.co.uk
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
 ==================================================
-   1/20  Sunderland                   34/100
-   2/20  Hull                         32/100
+   1/20  Hull                         33/100
+   2/20  Sunderland                   33/100
    3/20  Arsenal                      29/100
    4/20  Man United                   28/100
    5/20  Coventry                     27/100
@@ -23,43 +23,43 @@ INGHILTERRA - PREMIER LEAGUE
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
    1/24  Burnley                      38/100
-   2/24  Birmingham                   35/100
+   2/24  Birmingham                   34/100
    3/24  Charlton                     33/100
    4/24  Norwich                      33/100
    5/24  Derby                        32/100
      ...
-  24/24  Portsmouth                   20/100  (la fa meno spesso)
+  24/24  Portsmouth                   19/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
 ==================================================
    1/24  Notts County                 39/100
-   2/24  Mansfield                    37/100
+   2/24  Mansfield                    36/100
    3/24  Stevenage                    34/100
    4/24  AFC Wimbledon                32/100
    5/24  Milton Keynes Dons           32/100
    6/24  Reading                      32/100
      ...
-  24/24  Oxford                       19/100  (la fa meno spesso)
+  24/24  Oxford                       18/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
 ==================================================
-   1/23  Tranmere                     39/100
+   1/23  Tranmere                     40/100
    2/23  Gillingham                   36/100
    3/23  Salford                      36/100
    4/23  Rochdale                     33/100
    5/23  Colchester                   32/100
      ...
-  23/23  Fleetwood Town               19/100  (la fa meno spesso)
+  23/23  Newport County               19/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - NATIONAL LEAGUE
 ==================================================
    1/9   Scunthorpe                   38/100
-   2/9   Sutton                       36/100
-   3/9   Hartlepool                   29/100
-   4/9   Yeovil                       29/100
+   2/9   Sutton                       35/100
+   3/9   Yeovil                       29/100
+   4/9   Hartlepool                   28/100
    5/9   Southend                     28/100
      ...
    9/9   Harrogate                    21/100  (la fa meno spesso)
@@ -67,13 +67,13 @@ INGHILTERRA - NATIONAL LEAGUE
 ==================================================
 SCOZIA - PREMIERSHIP
 ==================================================
-   1/12  Hearts                       30/100
-   2/12  St Mirren                    25/100
-   3/12  Motherwell                   24/100
-   4/12  St Johnstone                 24/100
+   1/12  Hearts                       29/100
+   2/12  Motherwell                   24/100
+   3/12  St Johnstone                 24/100
+   4/12  St Mirren                    24/100
    5/12  Dundee                       23/100
      ...
-  12/12  Rangers                      15/100  (la fa meno spesso)
+  12/12  Rangers                      14/100  (la fa meno spesso)
 
 ==================================================
 SCOZIA - CHAMPIONSHIP
@@ -89,8 +89,8 @@ SCOZIA - CHAMPIONSHIP
 ==================================================
 SCOZIA - LEAGUE ONE
 ==================================================
-   1/9   Peterhead                    34/100
-   2/9   Queen of Sth                 34/100
+   1/9   Peterhead                    35/100
+   2/9   Queen of Sth                 33/100
    3/9   Cove Rangers                 31/100
    4/9   Montrose                     31/100
    5/9   Alloa                        30/100
@@ -101,7 +101,7 @@ SCOZIA - LEAGUE ONE
 ==================================================
 SCOZIA - LEAGUE TWO
 ==================================================
-   1/10  Forfar                       39/100
+   1/10  Forfar                       38/100
    2/10  Edinburgh City               34/100
    3/10  Spartans                     33/100
    4/10  Clyde                        32/100
@@ -112,11 +112,12 @@ SCOZIA - LEAGUE TWO
 ==================================================
 GERMANIA - BUNDESLIGA
 ==================================================
-   1/18  Freiburg                     40/100
+   1/18  Freiburg                     41/100
    2/18  Dortmund                     35/100
    3/18  Schalke 04                   33/100
    4/18  Bayern Munich                32/100
-   5/18  Leverkusen                   31/100
+   5/18  Leverkusen                   30/100
+   6/18  Union Berlin                 30/100
      ...
   18/18  RB Leipzig                   19/100  (la fa meno spesso)
 
@@ -126,42 +127,42 @@ GERMANIA - 2. BUNDESLIGA
    1/17  Bielefeld                    30/100
    2/17  Nurnberg                     29/100
    3/17  Bochum                       28/100
-   4/17  Holstein Kiel                27/100
-   5/17  Karlsruhe                    27/100
-   6/17  Magdeburg                    27/100
+   4/17  Magdeburg                    28/100
+   5/17  Holstein Kiel                27/100
+   6/17  Karlsruhe                    27/100
    7/17  St Pauli                     27/100
      ...
-  17/17  Wolfsburg                    20/100  (la fa meno spesso)
+  17/17  Wolfsburg                    19/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE A
 ==================================================
    1/20  Fiorentina                   42/100
    2/20  Atalanta                     39/100
-   3/20  Genoa                        38/100
-   4/20  Milan                        37/100
-   5/20  Sassuolo                     36/100
+   3/20  Genoa                        39/100
+   4/20  Sassuolo                     37/100
+   5/20  Milan                        36/100
      ...
   20/20  Udinese                      24/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE B
 ==================================================
-   1/14  Sudtirol                     42/100
+   1/14  Sudtirol                     41/100
    2/14  Cremonese                    38/100
    3/14  Modena                       34/100
    4/14  Sampdoria                    34/100
-   5/14  Pisa                         33/100
+   5/14  Catanzaro                    33/100
      ...
   14/14  Benevento                    14/100  (la fa meno spesso)
 
 ==================================================
 SPAGNA - LALIGA
 ==================================================
-   1/20  Celta                        46/100
-   2/20  Getafe                       39/100
-   3/20  Osasuna                      39/100
-   4/20  Ath Bilbao                   34/100
+   1/20  Celta                        45/100
+   2/20  Osasuna                      39/100
+   3/20  Getafe                       38/100
+   4/20  Ath Bilbao                   33/100
    5/20  Elche                        33/100
      ...
   20/20  Malaga                       18/100  (la fa meno spesso)
@@ -171,18 +172,18 @@ SPAGNA - LALIGA 2
 ==================================================
    1/17  Granada                      38/100
    2/17  Las Palmas                   38/100
-   3/17  Girona                       37/100
-   4/17  Valladolid                   36/100
+   3/17  Girona                       36/100
+   4/17  Valladolid                   35/100
    5/17  Leganes                      34/100
      ...
-  17/17  Cordoba                      21/100  (la fa meno spesso)
+  17/17  Cordoba                      20/100  (la fa meno spesso)
 
 ==================================================
 FRANCIA - LIGUE 1
 ==================================================
-   1/17  Troyes                       43/100
-   2/17  Lille                        41/100
-   3/17  Toulouse                     41/100
+   1/17  Troyes                       44/100
+   2/17  Lille                        40/100
+   3/17  Toulouse                     40/100
    4/17  Angers                       36/100
    5/17  Marseille                    36/100
      ...
@@ -192,10 +193,11 @@ FRANCIA - LIGUE 1
 FRANCIA - LIGUE 2
 ==================================================
    1/17  Metz                         38/100
-   2/17  Annecy                       37/100
-   3/17  Dijon                        36/100
-   4/17  Guingamp                     35/100
-   5/17  Pau FC                       35/100
+   2/17  Annecy                       36/100
+   3/17  Dijon                        35/100
+   4/17  Guingamp                     34/100
+   5/17  Pau FC                       34/100
+   6/17  Sochaux                      34/100
      ...
   17/17  Nantes                       17/100  (la fa meno spesso)
 
@@ -203,28 +205,26 @@ FRANCIA - LIGUE 2
 OLANDA - EREDIVISIE
 ==================================================
    1/16  Ajax                         30/100
-   2/16  Go Ahead Eagles              27/100
-   3/16  Twente                       27/100
+   2/16  Twente                       28/100
+   3/16  Go Ahead Eagles              27/100
    4/16  Willem II                    26/100
    5/16  AZ Alkmaar                   25/100
    6/16  Den Haag                     25/100
    7/16  Excelsior                    25/100
-   8/16  Zwolle                       25/100
+   8/16  Groningen                    25/100
      ...
-  16/16  Utrecht                      19/100  (la fa meno spesso)
+  16/16  Nijmegen                     19/100  (la fa meno spesso)
 
 ==================================================
 BELGIO - FIRST DIVISION A
 ==================================================
-   1/15  Gent                         35/100
-   2/15  Antwerp                      32/100
-   3/15  Waregem                      32/100
-   4/15  Genk                         29/100
-   5/15  Anderlecht                   28/100
-   6/15  Cercle Brugge                28/100
-   7/15  Standard                     28/100
+   1/15  Gent                         34/100
+   2/15  Antwerp                      31/100
+   3/15  Waregem                      31/100
+   4/15  Cercle Brugge                29/100
+   5/15  Genk                         29/100
      ...
-  15/15  Westerlo                     20/100  (la fa meno spesso)
+  15/15  Westerlo                     21/100  (la fa meno spesso)
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
@@ -241,23 +241,24 @@ PORTOGALLO - LIGA PORTUGAL
 ==================================================
 TURCHIA - SUPER LIG
 ==================================================
-   1/13  Alanyaspor                   35/100
+   1/13  Alanyaspor                   34/100
    2/13  Buyuksehyr                   34/100
    3/13  Goztep                       34/100
    4/13  Rizespor                     32/100
-   5/13  Trabzonspor                  32/100
+   5/13  Konyaspor                    31/100
+   6/13  Trabzonspor                  31/100
      ...
-  13/13  Fenerbahce                   25/100  (la fa meno spesso)
+  13/13  Kasimpasa                    25/100  (la fa meno spesso)
 
 ==================================================
 GRECIA - SUPER LEAGUE
 ==================================================
-   1/11  Atromitos                    45/100
-   2/11  OFI Crete                    42/100
+   1/11  Atromitos                    44/100
+   2/11  OFI Crete                    43/100
    3/11  Volos NFC                    39/100
-   4/11  AEK                          37/100
-   5/11  Levadeiakos                  37/100
-   6/11  Panetolikos                  37/100
+   4/11  Panetolikos                  38/100
+   5/11  AEK                          37/100
+   6/11  Levadeiakos                  37/100
      ...
   11/11  Aris                         29/100  (la fa meno spesso)
 
@@ -266,7 +267,7 @@ GRECIA - SUPER LEAGUE
 ##################################################
 
 SOTTOFREQUENZE CORNER 6-8 (ultime 100 partite) — CASA
-Aggiornato: 23/11/2026 16:11 (ora italiana)
+Aggiornato: 23/11/2026 22:26 (ora italiana)
 Uscite di corner 6-8 sulle ultime 100 partite del paese, nella vista indicata.
 Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
 Fonte: football-data.co.uk
@@ -278,17 +279,16 @@ INGHILTERRA - PREMIER LEAGUE
    2/20  Ipswich                      31/100
    3/20  Arsenal                      28/100
    4/20  Brentford                    28/100
-   5/20  Coventry                     28/100
-   6/20  Crystal Palace               28/100
-   7/20  Everton                      28/100
+   5/20  Crystal Palace               28/100
+   6/20  Everton                      28/100
      ...
-  20/20  Liverpool                    19/100  (la fa meno spesso)
+  20/20  Man City                     19/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
    1/24  Norwich                      34/100
-   2/24  Burnley                      30/100
+   2/24  Burnley                      31/100
    3/24  Derby                        30/100
    4/24  Millwall                     30/100
    5/24  Portsmouth                   30/100
@@ -310,20 +310,21 @@ INGHILTERRA - LEAGUE ONE
 ==================================================
 INGHILTERRA - LEAGUE TWO
 ==================================================
-   1/22  Gillingham                   36/100
-   2/22  Rochdale                     33/100
-   3/22  Salford                      31/100
-   4/22  Newport County               30/100
-   5/22  Port Vale                    30/100
-   6/22  Walsall                      30/100
+   1/23  Gillingham                   36/100
+   2/23  Rochdale                     33/100
+   3/23  Salford                      31/100
+   4/23  Newport County               30/100
+   5/23  Port Vale                    30/100
+   6/23  Tranmere                     30/100
+   7/23  Walsall                      30/100
      ...
-  22/22  Fleetwood Town               19/100  (la fa meno spesso)
+  23/23  Fleetwood Town               19/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - NATIONAL LEAGUE
 ==================================================
    1/8   Yeovil                       32/100
-   2/8   Barrow                       29/100
+   2/8   Barrow                       30/100
    3/8   Carlisle                     29/100
    4/8   Hartlepool                   28/100
    5/8   Forest Green                 26/100
@@ -333,10 +334,10 @@ INGHILTERRA - NATIONAL LEAGUE
 ==================================================
 SCOZIA - PREMIERSHIP
 ==================================================
-   1/12  Motherwell                   36/100
+   1/12  Motherwell                   35/100
    2/12  Kilmarnock                   31/100
    3/12  Hearts                       29/100
-   4/12  Falkirk                      27/100
+   4/12  Falkirk                      26/100
    5/12  St Johnstone                 25/100
      ...
   12/12  Dundee                       12/100  (la fa meno spesso)
@@ -344,23 +345,22 @@ SCOZIA - PREMIERSHIP
 ==================================================
 SCOZIA - CHAMPIONSHIP
 ==================================================
-   1/10  Arbroath                     33/100
+   1/10  Arbroath                     32/100
    2/10  Ayr                          31/100
    3/10  Partick                      31/100
    4/10  Raith Rvs                    31/100
    5/10  Dunfermline                  30/100
-   6/10  Inverness C                  30/100
      ...
   10/10  Stenhousemuir                24/100  (la fa meno spesso)
 
 ==================================================
 SCOZIA - LEAGUE ONE
 ==================================================
-   1/9   Queen of Sth                 37/100
-   2/9   Cove Rangers                 36/100
-   3/9   Montrose                     34/100
-   4/9   Peterhead                    34/100
-   5/9   Alloa                        33/100
+   1/9   Cove Rangers                 36/100
+   2/9   Queen of Sth                 36/100
+   3/9   Peterhead                    34/100
+   4/9   Alloa                        33/100
+   5/9   Montrose                     33/100
      ...
    9/9   Airdrie Utd                  17/100  (la fa meno spesso)
 
@@ -380,12 +380,13 @@ GERMANIA - BUNDESLIGA
 ==================================================
    1/17  Freiburg                     40/100
    2/17  RB Leipzig                   32/100
-   3/17  Schalke 04                   31/100
+   3/17  Schalke 04                   30/100
    4/17  Union Berlin                 30/100
-   5/17  Bayern Munich                29/100
-   6/17  Hoffenheim                   29/100
-   7/17  Leverkusen                   29/100
-   8/17  Stuttgart                    29/100
+   5/17  Augsburg                     29/100
+   6/17  Bayern Munich                29/100
+   7/17  Hoffenheim                   29/100
+   8/17  Leverkusen                   29/100
+   9/17  Stuttgart                    29/100
      ...
   17/17  Paderborn                    15/100  (la fa meno spesso)
 
@@ -400,23 +401,23 @@ GERMANIA - 2. BUNDESLIGA
    6/13  Hertha                       27/100
    7/13  Holstein Kiel                27/100
      ...
-  13/13  Wolfsburg                    24/100  (la fa meno spesso)
+  13/13  Nurnberg                     23/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE A
 ==================================================
-   1/19  Lazio                        38/100
-   2/19  Atalanta                     37/100
-   3/19  Fiorentina                   37/100
-   4/19  Roma                         34/100
-   5/19  Torino                       33/100
+   1/20  Atalanta                     37/100
+   2/20  Fiorentina                   37/100
+   3/20  Lazio                        37/100
+   4/20  Como                         34/100
+   5/20  Roma                         34/100
      ...
-  19/19  Monza                        19/100  (la fa meno spesso)
+  20/20  Monza                        19/100  (la fa meno spesso)
 
 ==================================================
 ITALIA - SERIE B
 ==================================================
-   1/8   Sampdoria                    39/100
+   1/8   Sampdoria                    38/100
    2/8   Cremonese                    37/100
    3/8   Palermo                      33/100
    4/8   Verona                       30/100
@@ -451,8 +452,8 @@ SPAGNA - LALIGA 2
 ==================================================
 FRANCIA - LIGUE 1
 ==================================================
-   1/17  Monaco                       41/100
-   2/17  Le Havre                     40/100
+   1/17  Le Havre                     40/100
+   2/17  Monaco                       40/100
    3/17  Lille                        39/100
    4/17  Auxerre                      36/100
    5/17  Angers                       35/100
@@ -463,8 +464,8 @@ FRANCIA - LIGUE 1
 FRANCIA - LIGUE 2
 ==================================================
    1/13  Clermont                     41/100
-   2/13  Guingamp                     40/100
-   3/13  Sochaux                      40/100
+   2/13  Sochaux                      40/100
+   3/13  Guingamp                     39/100
    4/13  Reims                        37/100
    5/13  Nancy                        36/100
      ...
@@ -473,20 +474,20 @@ FRANCIA - LIGUE 2
 ==================================================
 OLANDA - EREDIVISIE
 ==================================================
-   1/12  Twente                       34/100
-   2/12  Sparta Rotterdam             32/100
+   1/12  Twente                       35/100
+   2/12  Sparta Rotterdam             31/100
    3/12  Ajax                         30/100
    4/12  Zwolle                       30/100
    5/12  AZ Alkmaar                   28/100
      ...
-  12/12  Utrecht                      19/100  (la fa meno spesso)
+  12/12  Utrecht                      20/100  (la fa meno spesso)
 
 ==================================================
 BELGIO - FIRST DIVISION A
 ==================================================
    1/13  Gent                         33/100
-   2/13  Anderlecht                   31/100
-   3/13  Kortrijk                     31/100
+   2/13  Kortrijk                     31/100
+   3/13  Anderlecht                   30/100
    4/13  Antwerp                      30/100
    5/13  Club Brugge                  29/100
    6/13  St Truiden                   29/100
@@ -509,8 +510,8 @@ TURCHIA - SUPER LIG
 ==================================================
    1/11  Buyuksehyr                   37/100
    2/11  Goztep                       36/100
-   3/11  Trabzonspor                  35/100
-   4/11  Rizespor                     34/100
+   3/11  Rizespor                     34/100
+   4/11  Trabzonspor                  34/100
    5/11  Alanyaspor                   33/100
      ...
   11/11  Besiktas                     18/100  (la fa meno spesso)
@@ -521,8 +522,9 @@ GRECIA - SUPER LEAGUE
    1/10  Atromitos                    43/100
    2/10  OFI Crete                    40/100
    3/10  Asteras Tripolis             36/100
-   4/10  AEK                          35/100
-   5/10  Panathinaikos                35/100
+   4/10  Panathinaikos                36/100
+   5/10  AEK                          35/100
+   6/10  Panetolikos                  35/100
      ...
   10/10  PAOK                         29/100  (la fa meno spesso)
 
@@ -531,7 +533,7 @@ GRECIA - SUPER LEAGUE
 ##################################################
 
 SOTTOFREQUENZE CORNER 6-8 (ultime 100 partite) — TRASFERTA
-Aggiornato: 23/11/2026 16:11 (ora italiana)
+Aggiornato: 23/11/2026 22:26 (ora italiana)
 Uscite di corner 6-8 sulle ultime 100 partite del paese, nella vista indicata.
 Solo squadre con almeno 100 partite. In cima chi le fa più spesso.
 Fonte: football-data.co.uk
@@ -540,9 +542,9 @@ Fonte: football-data.co.uk
 INGHILTERRA - PREMIER LEAGUE
 ==================================================
    1/20  Sunderland                   32/100
-   2/20  Arsenal                      31/100
-   3/20  Chelsea                      31/100
-   4/20  Crystal Palace               31/100
+   2/20  Chelsea                      31/100
+   3/20  Arsenal                      30/100
+   4/20  Crystal Palace               30/100
    5/20  Liverpool                    29/100
      ...
   20/20  Bournemouth                  18/100  (la fa meno spesso)
@@ -550,34 +552,34 @@ INGHILTERRA - PREMIER LEAGUE
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
-   1/23  Birmingham                   32/100
-   2/23  Burnley                      32/100
-   3/23  Millwall                     31/100
-   4/23  Cardiff                      30/100
-   5/23  Preston                      30/100
-   6/23  QPR                          30/100
-   7/23  Wolves                       30/100
+   1/24  Birmingham                   32/100
+   2/24  Burnley                      32/100
+   3/24  Millwall                     31/100
+   4/24  Preston                      30/100
+   5/24  QPR                          30/100
+   6/24  Wolves                       30/100
      ...
-  23/23  Sheffield United             20/100  (la fa meno spesso)
+  24/24  Sheffield United             20/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
 ==================================================
-   1/22  Burton                       39/100
-   2/22  Leyton Orient                34/100
-   3/22  Notts County                 32/100
-   4/22  Huddersfield                 30/100
-   5/22  Mansfield                    30/100
+   1/23  Burton                       39/100
+   2/23  Leyton Orient                34/100
+   3/23  Notts County                 32/100
+   4/23  Huddersfield                 30/100
+   5/23  Mansfield                    30/100
+   6/23  Stockport                    30/100
      ...
-  22/22  Oxford                       16/100  (la fa meno spesso)
+  23/23  Oxford                       16/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
 ==================================================
    1/22  Northampton                  39/100
    2/22  Salford                      38/100
-   3/22  Gillingham                   33/100
-   4/22  Colchester                   32/100
+   3/22  Colchester                   33/100
+   4/22  Gillingham                   33/100
    5/22  Tranmere                     32/100
      ...
   22/22  Crawley Town                 18/100  (la fa meno spesso)
@@ -587,9 +589,10 @@ INGHILTERRA - NATIONAL LEAGUE
 ==================================================
    1/8   Scunthorpe                   39/100
    2/8   Yeovil                       31/100
-   3/8   Hartlepool                   28/100
-   4/8   Forest Green                 26/100
-   5/8   Southend                     26/100
+   3/8   Hartlepool                   27/100
+   4/8   Carlisle                     26/100
+   5/8   Forest Green                 26/100
+   6/8   Southend                     26/100
      ...
    8/8   Barrow                       22/100  (la fa meno spesso)
 
@@ -599,8 +602,10 @@ SCOZIA - PREMIERSHIP
    1/12  Dundee                       33/100
    2/12  Hearts                       26/100
    3/12  Rangers                      25/100
-   4/12  Aberdeen                     23/100
-   5/12  Hibernian                    23/100
+   4/12  Hibernian                    23/100
+   5/12  Aberdeen                     22/100
+   6/12  Dundee United                22/100
+   7/12  St Mirren                    22/100
      ...
   12/12  Motherwell                   14/100  (la fa meno spesso)
 
@@ -609,9 +614,9 @@ SCOZIA - CHAMPIONSHIP
 ==================================================
    1/10  Inverness C                  40/100
    2/10  Raith Rvs                    31/100
-   3/10  Ayr                          30/100
-   4/10  Livingston                   30/100
-   5/10  Stenhousemuir                30/100
+   3/10  Livingston                   30/100
+   4/10  Stenhousemuir                30/100
+   5/10  Ayr                          29/100
      ...
   10/10  Arbroath                     22/100  (la fa meno spesso)
 
@@ -619,21 +624,21 @@ SCOZIA - CHAMPIONSHIP
 SCOZIA - LEAGUE ONE
 ==================================================
    1/9   Peterhead                    34/100
-   2/9   Hamilton                     31/100
-   3/9   Montrose                     31/100
-   4/9   Cove Rangers                 30/100
+   2/9   Montrose                     31/100
+   3/9   Hamilton                     30/100
+   4/9   Cove Rangers                 29/100
    5/9   Alloa                        28/100
      ...
-   9/9   Airdrie Utd                  23/100  (la fa meno spesso)
+   9/9   Ross County                  24/100  (la fa meno spesso)
 
 ==================================================
 SCOZIA - LEAGUE TWO
 ==================================================
    1/8   Forfar                       35/100
    2/8   Clyde                        34/100
-   3/8   Stirling                     32/100
-   4/8   Edinburgh City               31/100
-   5/8   Elgin                        31/100
+   3/8   Edinburgh City               31/100
+   4/8   Elgin                        31/100
+   5/8   Stirling                     31/100
      ...
    8/8   Dumbarton                    23/100  (la fa meno spesso)
 
@@ -643,8 +648,9 @@ GERMANIA - BUNDESLIGA
    1/17  Union Berlin                 37/100
    2/17  Dortmund                     35/100
    3/17  Stuttgart                    35/100
-   4/17  Leverkusen                   34/100
-   5/17  Werder Bremen                34/100
+   4/17  Freiburg                     34/100
+   5/17  Leverkusen                   34/100
+   6/17  Werder Bremen                34/100
      ...
   17/17  Hamburg                      23/100  (la fa meno spesso)
 
@@ -666,10 +672,10 @@ ITALIA - SERIE A
 ==================================================
    1/20  Bologna                      40/100
    2/20  Milan                        39/100
-   3/20  Torino                       37/100
-   4/20  Atalanta                     35/100
-   5/20  Fiorentina                   35/100
-   6/20  Genoa                        35/100
+   3/20  Genoa                        36/100
+   4/20  Torino                       36/100
+   5/20  Atalanta                     35/100
+   6/20  Fiorentina                   35/100
    7/20  Monza                        35/100
      ...
   20/20  Frosinone                    21/100  (la fa meno spesso)
@@ -677,11 +683,11 @@ ITALIA - SERIE A
 ==================================================
 ITALIA - SERIE B
 ==================================================
-   1/8   Pisa                         36/100
-   2/8   Verona                       36/100
+   1/8   Verona                       36/100
+   2/8   Pisa                         35/100
    3/8   Sampdoria                    33/100
    4/8   Ascoli                       32/100
-   5/8   Cremonese                    31/100
+   5/8   Cremonese                    30/100
      ...
    8/8   Empoli                       18/100  (la fa meno spesso)
 
@@ -714,9 +720,9 @@ SPAGNA - LALIGA 2
 FRANCIA - LIGUE 1
 ==================================================
    1/17  Toulouse                     42/100
-   2/17  Angers                       37/100
-   3/17  Paris FC                     37/100
-   4/17  Rennes                       37/100
+   2/17  Paris FC                     37/100
+   3/17  Rennes                       37/100
+   4/17  Angers                       36/100
    5/17  Le Havre                     36/100
      ...
   17/17  Auxerre                      27/100  (la fa meno spesso)
@@ -731,7 +737,7 @@ FRANCIA - LIGUE 2
    5/13  Nancy                        34/100
    6/13  Sochaux                      34/100
      ...
-  13/13  St Etienne                   21/100  (la fa meno spesso)
+  13/13  St Etienne                   22/100  (la fa meno spesso)
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -740,20 +746,20 @@ OLANDA - EREDIVISIE
    2/12  Sparta Rotterdam             28/100
    3/12  Zwolle                       27/100
    4/12  AZ Alkmaar                   26/100
-   5/12  Willem II                    25/100
+   5/12  Willem II                    26/100
      ...
   12/12  For Sittard                  19/100  (la fa meno spesso)
 
 ==================================================
 BELGIO - FIRST DIVISION A
 ==================================================
-   1/13  Waregem                      36/100
-   2/13  Genk                         32/100
-   3/13  Gent                         32/100
-   4/13  St Truiden                   32/100
-   5/13  Mechelen                     31/100
+   1/14  Waregem                      36/100
+   2/14  Genk                         32/100
+   3/14  Gent                         32/100
+   4/14  St Truiden                   32/100
+   5/14  Mechelen                     31/100
      ...
-  13/13  Kortrijk                     19/100  (la fa meno spesso)
+  14/14  Kortrijk                     19/100  (la fa meno spesso)
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
@@ -782,8 +788,8 @@ GRECIA - SUPER LEAGUE
 ==================================================
    1/10  Olympiakos                   41/100
    2/10  Volos NFC                    40/100
-   3/10  Atromitos                    38/100
-   4/10  OFI Crete                    38/100
+   3/10  OFI Crete                    39/100
+   4/10  Atromitos                    37/100
    5/10  Panetolikos                  36/100
      ...
   10/10  Asteras Tripolis             28/100  (la fa meno spesso)
