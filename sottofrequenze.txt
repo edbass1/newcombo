@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 23/11/2026 03:01 (ora italiana)
+Aggiornato: 23/11/2026 04:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1258,8 +1258,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/26 Racing Club                    36/100
     2/26 Banfield                       33/100
     3/26 Atlético Tucumán               31/100
-    4/26 Rosario Central                29/100
-    5/26 Instituto                      29/100
+    4/26 Instituto                      30/100
+    5/26 Rosario Central                29/100
     6/26 Defensa y Justicia             29/100
     7/26 Aldosivi                       29/100
      ...
@@ -1271,10 +1271,10 @@ USA/CANADA - MLS
 SOTTOFREQUENZA 1X + GOAL
     1/29 LA Galaxy                      56/100
     2/29 Portland Timbers               53/100
-    3/29 Real Salt Lake                 50/100
-    4/29 Toronto FC                     49/100
-    5/29 San Jose Earthquakes           49/100
-    6/29 Red Bull New York              49/100
+    3/29 Toronto FC                     49/100
+    4/29 San Jose Earthquakes           49/100
+    5/29 Red Bull New York              49/100
+    6/29 Real Salt Lake                 49/100
     7/29 Inter Miami CF                 49/100
      ...
    29/29 New England Revolution         36/100  (la fa meno spesso)
@@ -1457,7 +1457,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 23/11/2026 03:01 (ora italiana)
+Aggiornato: 23/11/2026 04:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2875,7 +2875,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 23/11/2026 03:01 (ora italiana)
+Aggiornato: 23/11/2026 04:50 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4132,8 +4132,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/27 FC Cincinnati                  51/100
     2/27 Columbus Crew                  48/100
-    3/27 Real Salt Lake                 44/100
-    4/27 FC Dallas                      44/100
+    3/27 FC Dallas                      44/100
+    4/27 Real Salt Lake                 43/100
     5/27 Inter Miami CF                 41/100
      ...
    27/27 Toronto FC                     22/100  (la fa meno spesso)
