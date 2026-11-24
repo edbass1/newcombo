@@ -26,16 +26,16 @@ permissions:
   contents: read
   pages: write
   id-token: write
+# One Pages deployment at a time. A run still in progress is not cancelled.
 concurrency:
-  group: aggiornamento-newcombo
+  group: pages
   cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 90
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      esegui: ${{ steps.need.outputs.esegui }}
     steps:
     - uses: actions/checkout@v4
       with:
@@ -165,24 +165,40 @@ jobs:
       env:
         NEWCOMBO_PASS: ${{ secrets.NEWCOMBO_PASS }}
       run: python3 publish_page.py
-    - uses: actions/configure-pages@v5
-      if: steps.need.outputs.esegui == 'true'
-    - uses: actions/upload-pages-artifact@v3
-      if: steps.need.outputs.esegui == 'true'
-      with:
-        path: docs
-    - id: deployment
-      if: steps.need.outputs.esegui == 'true'
-      uses: actions/deploy-pages@v4
+    # Saved before the upload so a later deploy failure does not drop the corner cache.
     - name: Ricorda la pagina per il prossimo giro
-      if: steps.need.outputs.esegui == 'true'
+      if: always() && steps.need.outputs.esegui == 'true' && steps.publish.outcome == 'success'
       run: |
         mkdir -p .cache/newcombo
         cp -a index.html .cache/newcombo/index.html
         date +%s > .cache/newcombo/published_at
     - name: Salva la cache privata
-      if: steps.need.outputs.esegui == 'true'
+      if: always() && steps.need.outputs.esegui == 'true' && steps.publish.outcome == 'success'
       uses: actions/cache/save@v4
       with:
         path: .cache
         key: ${{ steps.cache.outputs.cache-primary-key }}
+    - uses: actions/configure-pages@v5
+      if: steps.need.outputs.esegui == 'true' && steps.publish.outcome == 'success'
+    - uses: actions/upload-pages-artifact@v3
+      if: steps.need.outputs.esegui == 'true' && steps.publish.outcome == 'success'
+      with:
+        path: docs
+  # deploy-pages lists artifacts with the results API. That list stays empty
+  # until the job that uploaded github-pages has finished, so the same job
+  # often reports "No artifacts named github-pages".
+  deploy:
+    needs: update
+    if: needs.update.result == 'success' && needs.update.outputs.esegui == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
