@@ -1641,7 +1641,7 @@ def _check_prossime(model):
             selected_keys = set()
             for report in model["leagues"]:
                 source = report["views"][venue]["rows"] if kind == "ritardo" else report["repeats"][venue]
-                selected = _top2_by_league(source, minimum=REPEAT_ALERT_MIN if kind == "ripetizione" else 4)
+                selected = _top2_by_league(source, minimum=REPEAT_ALERT_MIN if kind == "ripetizione" else 5)
                 for item in selected:
                     if kind == "ritardo" or item.get("last"):
                         selected_keys.add((report["block"]["div"], item["team"]))
