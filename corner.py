@@ -1748,7 +1748,7 @@ def selftest():
     assert len(parsed) == 1 and parsed[0]["hit"] and parsed[0]["total"] == 10
     names = [f"T{i:02d}" for i in range(1, 13)]
     rit = [{"team": name, "delay": 13 - i, "full": False} for i, name in enumerate(names, 1)]
-    rep = [{"team": name, "delay": i, "full": False, "last": True} for i, name in enumerate(names, 1)]
+    rep = [{"team": name, "delay": i, "full": False, "last": name != "T12"} for i, name in enumerate(names, 1)]
     views = {venue: {"rows": list(rit), "sotto": [], "salt": []} for venue, _l, _d in VENUES}
     repeats = {venue: list(rep) for venue, _l, _d in VENUES}
     league = {
@@ -1772,13 +1772,16 @@ def selftest():
     assert both["lines"][0][1]["rank"] == 1 and both["lines"][1][1]["rank"] == 2
     mixed = next(card for card in cards if card["home"] == "T01" and card["away"] == "T12" and card["venue"] == "all")
     assert [(kind, row["team"], row["red"]) for kind, row in mixed["lines"]] == [
-        ("ritardo", "T01", True), ("ripetizione", "T12", False),
+        ("ritardo", "T01", True),
     ]
     casa = next(card for card in cards if card["home"] == "T01" and card["away"] == "T02" and card["venue"] == "home")
     assert [row["team"] for _k, row in casa["lines"]] == ["T01"]
     only_rep = next(card for card in cards if card["home"] == "T12" and card["away"] == "T11" and card["venue"] == "all")
-    assert [kind for kind, _r in only_rep["lines"]] == ["ripetizione", "ripetizione"]
+    assert [(kind, row["team"]) for kind, row in only_rep["lines"]] == [("ripetizione", "T11")]
     assert all(not row["red"] for _k, row in only_rep["lines"])
+    repeat_alerts = _repeat_alerts(model)
+    assert len(repeat_alerts) == 1
+    assert [row[0] for row in repeat_alerts[0]["rows"]] == ["T11"]
     ranked = _classifica(model, "all", "ritardo")
     tied_top = _top2_by_league([
         {"team": "A", "delay": 7}, {"team": "B", "delay": 6},
