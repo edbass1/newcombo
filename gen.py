@@ -1684,7 +1684,8 @@ def render_prossime(chunks, now, repeat_alerts=None):
             }
         groups[fixture_key]["repeat_alerts"] = alerts
     ordered = sorted(groups.values(), key=lambda g: (g["t"], g["c"], g["hn"]))
-    note = ("La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: "
+    note = ("Entrano anche tutte le partite delle squadre nelle prime 3 posizioni della classifica del rispettivo contesto: totale, casa o trasferta, pari merito inclusi. "
+            "La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: "
             "TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), "
             "TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). "
             "Una scheda c'è solo se in quel contesto almeno una combo rientra nella sua fascia. "
@@ -1695,13 +1696,13 @@ def render_prossime(chunks, now, repeat_alerts=None):
             "(20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. "
             f"Servono almeno {AD_MIN_ROUNDS} giornate già giocate, altrimenti nessuna icona. "
             "Il passaggio sull'icona mostra quella fetta di classifica.")
-    full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO",
+    full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO O PRIME 3 CLASSIFICHE",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Fasce: {prossime_fascia_txt()}. Orari in ora italiana. {note} "
                    "xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. "
                    "🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. "
                    "[ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
-    goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO",
+    goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - RITARDI E PRIME 3 CLASSIFICHE",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Fasce: {prossime_fascia_txt()}. Orari in ora italiana. {note} "
                    "xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. "
@@ -1724,7 +1725,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
     P, PG, H = list(full_header), list(goal_header), []
     day = None
     if not ordered:
-        msg = "Nessuna partita nei prossimi giorni con ritardi in fascia."
+        msg = "Nessuna partita nei prossimi giorni con ritardi in fascia o squadre nelle prime 3 posizioni."
         P.append(msg)
         PG.append(msg)
         H.append(f"<p>{msg}</p>")
@@ -1755,15 +1756,15 @@ def render_prossime(chunks, now, repeat_alerts=None):
             alert_note = " | ".join(alert_lines)
             badge_label = "TOP 3 CLASSIFICA" if fixture_alerts and all(row.get("reason") for _team, _combo, row in fixture_alerts) else "ALERT"
             alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">{badge_label}</span> '
+            only_top3 = bool(fixture_alerts) and all(row.get("reason") for _team, _combo, row in fixture_alerts)
+            selection_label = "TOP 3 CLASSIFICA" if only_top3 else "DOPPIA RIPETIZIONE"
             H.append(
                 f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag all">TOTALE</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{tspan(repeat_li, hn, an, hn, "all") if repeat_li is not None else esc(hn)} vs {tspan(repeat_li, hn, an, an, "all") if repeat_li is not None else esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
-                f'<div class="tagrow"><span class="tag goal">DOPPIA RIPETIZIONE</span> '
+                f'<div class="tagrow"><span class="tag goal">{selection_label}</span> '
                 f'{esc(alert_note)}</div></div>'
             )
-            only_top3 = bool(fixture_alerts) and all(row.get("reason") for _team, _combo, row in fixture_alerts)
-            selection_label = "TOP 3 CLASSIFICA" if only_top3 else "DOPPIA RIPETIZIONE"
             P.append(f'{selection_label:<20} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
                 if alert_row.get("reason"):
@@ -1795,7 +1796,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             alert_badge = ""
             alert_note = ""
             if fixture_alerts and not alert_badge_shown:
-                    labels = []
+                labels = []
                 for alert_team_name, alert_combo, alert_row in fixture_alerts:
                     if alert_row.get("reason"):
                         labels.append(f'{alert_team_name}: {alert_row["reason"]}')
@@ -1803,7 +1804,9 @@ def render_prossime(chunks, now, repeat_alerts=None):
                         delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
                         labels.append(f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
                 alert_note = " | ".join(labels)
-                alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
+                only_top3 = all(row.get("reason") for _team, _combo, row in fixture_alerts)
+                badge_label = "TOP 3 CLASSIFICA" if only_top3 else "ALERT"
+                alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">{badge_label}</span> '
                 alert_badge_shown = True
             H.append(
                 f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag {venue}">{mark}</span>'
@@ -2112,7 +2115,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
 
     alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — DOPPIA RIPETIZIONE E PRIME 3 CLASSIFICHE</h3>']
     if not alert_map:
-        alert_html.append('<p class="leg">Nessuna partita in arrivo nei prossimi giorni con i requisiti per completare la doppia ripetizione.</p>')
+        alert_html.append('<p class="leg">Nessuna partita in arrivo con doppia ripetizione o squadre nelle prime 3 posizioni delle classifiche.</p>')
     for fixture_key, fixture_alerts in sorted(
         alert_map.items(), key=lambda item: (datetime.datetime.fromisoformat(item[0][0]), item[0][1], item[0][3])
     ):
