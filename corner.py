@@ -1278,8 +1278,8 @@ def render_texts(model, stamp):
     prossime = [
         f"PROSSIME PARTITE ({GIORNI} GIORNI) — {EVENT}",
         f"Aggiornato: {stamp} (ora italiana)",
-        "Gare in arrivo in cui almeno una squadra è tra le prime 10 per ritardo, oppure tra le prime 10 per ripetizione, nella vista della scheda.",
-        "Pari merito sull'ultimo posto incluso. Se lo sono entrambe, la scheda riporta tutte e due.",
+        "Gare in arrivo in cui almeno una squadra è tra le prime 2 della propria classifica per ritardo o ripetizione, con ritardo minimo 4 e pari merito inclusi.",
+        "Pari merito sulla seconda posizione incluso. Se lo sono entrambe, la scheda riporta tutte e due.",
         "Il numero dopo # è il posto nella classifica di quella vista.",
         "Orari in ora italiana.",
         fonte(model), "",
@@ -1396,7 +1396,7 @@ def render_html(model, stamp):
     cards = _upcoming_cards(model)
     day = None
     if not cards:
-        parts.append("<p>Nessuna partita in arrivo con una squadra nelle prime 10.</p>")
+        parts.append("<p>Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 4.</p>")
     for card in cards:
         local = card["when"].astimezone(ROME)
         stamp_day = local.strftime("%d/%m/%Y")
