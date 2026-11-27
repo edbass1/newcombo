@@ -166,6 +166,15 @@ def main():
     source = c.load_history()
     fixtures = c.load_fixtures()
     source, fixtures, leagues = _with_extra(source, fixtures)
+    print("Prossime partite: prima FotMob, poi football-data e adamchoi.", flush=True)
+    teams = c.current_teams(source, leagues)
+    fotmob = c.fetch_fotmob_fixtures([div for _country, _league, div in leagues])
+    fixtures, fx_stats = c.merge_fixtures(teams, [
+        ("fotmob", fotmob),
+        ("altre", fixtures),
+        ("fotmob-json", c.load_fotmob_fixtures()),
+    ])
+    c.report_fixtures(fx_stats)
     stamp = c.datetime.now(c.ROME).strftime("%d/%m/%Y %H:%M")
     saved = c.EVENT
     blocks = ["<!-- CORNER-SECTION -->"]

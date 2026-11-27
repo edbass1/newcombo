@@ -177,10 +177,11 @@ def _matches(lid, season=None):
         st = m["status"]
         for side in ("home","away"):
             teams[m[side]["id"]] = m[side]["name"]
-        if not st.get("finished") and not st.get("started") and not st.get("cancelled"):
+        if not st.get("finished") and not st.get("cancelled"):
             try:
                 t = datetime.datetime.fromisoformat(st["utcTime"].replace("Z", "+00:00"))
-                if now <= t <= now + datetime.timedelta(days=GIORNI):
+                start = datetime.datetime.now(ZoneInfo("Europe/Madrid")).replace(hour=0, minute=0, second=0, microsecond=0).astimezone(datetime.timezone.utc)
+                if start <= t <= now + datetime.timedelta(days=GIORNI):
                     up.append((t, m["home"]["id"], m["away"]["id"]))
             except Exception: pass
         if not st.get("finished") or st.get("cancelled") or st.get("awarded"): continue
@@ -695,12 +696,13 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
         if len(rows) > 5:
             cut = rows[4][0]; rows = [r for r in rows if r[0] >= cut]
         sotto.append((name, rows))
-    res, allr, salt, danger, gg, hist = {}, {}, [], {}, {}, {}
+    res, res_full, allr, salt, danger, gg, hist = {}, {}, {}, [], {}, {}, {}
     for tid, tname in teams.items():
         gg[tname] = _gg(_seq_for(tid, cur, prev_m, prev_teams, venue))
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=SALTATI_GIORNI)
     for key, combos in COMBOS.items():
         res[key] = []
+        res_full[key] = []
         for name, f in combos:
             rows, seqs = [], {}
             for tid, tname in teams.items():
@@ -724,6 +726,7 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
                 rows.append((n, tname, full, pct))
             rows.sort(key=lambda r: (-r[0], r[1]))
             res[key].append((name, rows[:TOP]))
+            res_full[key].append((name, rows))
             def d_at(tid, t0, _seqs=seqs, _f=f):
                 n0 = 0
                 for m in reversed([m for m in _seqs[tid] if m[0] < t0]):
@@ -748,7 +751,7 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
             danger[name] = [b0 for _, b0 in sorted(ev, reverse=True)]
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
             hist[name] = {teams[tid]: (sum(1 for m in seq if f(m[3], m[4])), len(seq)) for tid, seq in seqs.items() if seq}
-    return {"res": res, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue, forms),
+    return {"res": res, "res_full": res_full, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue, forms),
             "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg, "hist": hist}
 
 TIPS_MAX = 10
@@ -1360,7 +1363,64 @@ def _ritardo_line(venue):
         return "Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta."
     return "Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente)."
 
-def build_global_top30(data, venue):
+def _madrid_day(when):
+    local = when.astimezone(ZoneInfo("Europe/Madrid")).date()
+    today = datetime.datetime.now(ZoneInfo("Europe/Madrid")).date()
+    if local == today:
+        return "oggi"
+    if local == today + datetime.timedelta(days=1):
+        return "domani"
+    return None
+
+
+def _combo_playing(teams, upcoming, venue):
+    """Squadra -> partita di oggi o domani. I nomi sono quelli FotMob, gli stessi della classifica."""
+    best = {}
+    for item in upcoming or []:
+        when, hid, aid = item[0], item[1], item[2]
+        if when.tzinfo is None:
+            when = when.replace(tzinfo=datetime.timezone.utc)
+        day = _madrid_day(when)
+        if not day:
+            continue
+        home, away = teams.get(hid), teams.get(aid)
+        if not home or not away:
+            continue
+        if venue == "home":
+            sides = [home]
+        elif venue == "away":
+            sides = [away]
+        else:
+            sides = [home, away]
+        for team in sides:
+            prev = best.get(team)
+            if prev is None or when < prev["when"]:
+                best[team] = {"when": when, "day": day, "home": home, "away": away}
+    return best
+
+
+def _combo_badge(info):
+    if not info:
+        return "", ""
+    word = "OGGI" if info["day"] == "oggi" else "DOMANI"
+    copy = f"{info['home']} - {info['away']}"
+    html_badge = (
+        f' <button type="button" class="corner-when {info["day"]}" data-copy="{esc(copy)}">{word}</button>'
+    )
+    return html_badge, " " + word
+
+
+def _playing_index(data, venue):
+    index = {}
+    for country, league, result, err in data:
+        if err or not result:
+            continue
+        for team, info in _combo_playing(result["teams"], result.get("up") or [], venue).items():
+            index[(country, league, team)] = info
+    return index
+
+
+def build_global_top30(data, venue, playing=None):
     """Top 20 globale dei ritardi per contesto e combo, pari merito sul confine inclusi."""
     label = next(x[1] for x in VENUES if x[0] == venue)
     rankings = {name: [] for name, _f in COMBOS["goal"]}
@@ -1403,9 +1463,12 @@ def build_global_top30(data, venue):
                 f"  {rank:>2}. {row['team']:<28.28} {delay_label:>4}  | "
                 f"{row['country']} - {row['league']}"
             )
+            badge_html, badge_txt = _combo_badge((playing or {}).get((row["country"], row["league"], row["team"])))
+            if badge_txt:
+                lines[-1] = lines[-1] + badge_txt
             card_rows.append(
                 '<div class="top30-row">'
-                f'<b class="top30-rank">{rank}.</b> <strong>{esc(row["team"])}</strong>'
+                f'<b class="top30-rank">{rank}.</b> <strong>{esc(row["team"])}</strong>{badge_html}'
                 f'<span class="top30-delay">{esc(delay_label)}</span>'
                 f'<small>{esc(row["country"])} - {esc(row["league"])}</small>'
                 '</div>'
@@ -1428,14 +1491,16 @@ def build_global_top30(data, venue):
 def render_venue(data, venue, now):
     label = next(x[1] for x in VENUES if x[0] == venue)
     scope = _scope_phrase(venue)
-    top30_lines, top30_html, top30_members = build_global_top30(data, venue)
+    playing = _playing_index(data, venue)
+    top30_lines, top30_html, top30_members = build_global_top30(data, venue, playing)
     goal_L = [f"RITARDI DOPPIA CHANCE + GOAL — {label.upper()}", f"Aggiornato: {now} (ora italiana)",
               _ritardo_line(venue),
               "Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.",
               "🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.",
               "🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).",
               "🏅 TOP 20 = squadra presente nella top 20 globale della stessa combo e dello stesso contesto, pari merito inclusi.",
-              "Fonte: FotMob", ""] + top30_lines + ["=" * 50, ""]
+              "OGGI = gioca oggi, DOMANI = gioca domani (ora di Madrid). Fonte: FotMob", ""] + top30_lines + ["=" * 50, ""]
+    goal_H = ['<p class="leg">OGGI in rosso e DOMANI in viola: la squadra gioca quel giorno (ora di Madrid). Il clic copia solo il nome della partita, casa - trasferta.</p>']
     sotto_L = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali {scope})",
                f"Aggiornato: {now} (ora italiana)",
                "Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali " + scope + " (N<100 = storico insufficiente). Fonte: FotMob", ""]
@@ -1457,17 +1522,40 @@ def render_venue(data, venue, now):
         if fl:
             goal_L.append(fl)
         goal_L.append("=" * 50)
-        for name, rows in view["res"]["goal"]:
+        goal_H.append(f'<h4 class="cr-h">{esc(c)} - {esc(l)}</h4>')
+        full_goal = (view.get("res_full") or view["res"])["goal"]
+        top_goal = {name: {t for _streak, t, _full, _pct in rows} for name, rows in view["res"]["goal"]}
+        league_playing = _combo_playing(r["teams"], r.get("up") or [], venue)
+        for name, rows in full_goal:
             goal_L.append(f"RITARDI {name}")
+            goal_H.append(f'<h4 class="cr-h">RITARDI {esc(name)}</h4><div class="cr-list">')
+            keep = top_goal.get(name, set())
             for i, (streak, t, full, pct) in enumerate(rows, 1):
+                if t not in keep and t not in league_playing:
+                    continue
+                badge_html, badge_txt = _combo_badge(league_playing.get(t))
                 dot = f"  🟢 {pct}%" if streak and pct >= 50 else ""
                 if t in red.get(name, ()):
                     dot += "  🔴"
                 bdg = league_badge_txt(lg, name)
                 if bdg:
                     dot += f"  {bdg}"
-                goal_L.append(f"  {i:>2}. {t:<30} {str(streak)+('+' if full else ''):>4}{dot}")
+                goal_L.append(f"  {i:>2}. {t:<30} {str(streak)+('+' if full else ''):>4}{dot}{badge_txt}")
+                dots = []
+                if streak and pct >= 50:
+                    dots.append(f'🟢 {pct}%')
+                if t in red.get(name, ()):
+                    dots.append("🔴")
+                if bdg:
+                    dots.append(bdg)
+                extra = f' <span class="cr-lg">{" ".join(dots)}</span>' if dots else ""
+                goal_H.append(
+                    f'<div class="cr-row"><span class="cr-rank">{i}.</span>'
+                    f'<span class="cr-team">{esc(t)}{badge_html}</span>'
+                    f'<span class="cr-delay">{esc(str(streak)+("+" if full else ""))}</span>{extra}</div>'
+                )
             goal_L.append("")
+            goal_H.append("</div>")
         for name, rows in view["sotto"]:
             sotto_L.append(f"SOTTOFREQUENZA {name}")
             N, last = view["sinfo"].get(name, (len(rows), None))
@@ -1536,7 +1624,7 @@ def render_venue(data, venue, now):
         "cards": cf,
         "saltati": "\n".join(ST) + "\n",
         "saltati_html": vwrap(venue, '<div class="fxlist">' + "\n".join(SH) + "</div>"),
-        "goal_html": vwrap(venue, top30_html + "<pre>" + html.escape("\n".join(goal_L) + "\n") + "</pre>"),
+        "goal_html": vwrap(venue, top30_html + "".join(goal_H)),
         "sotto_html": vwrap(venue, "<pre>" + html.escape("\n".join(sotto_L) + "\n") + "</pre>"),
         "pop": pop,
     }
@@ -1717,6 +1805,11 @@ h3.day{color:var(--accent);margin:1.4rem 0 .5rem;border-bottom:1px solid var(--l
 @media (max-width:700px){.adb{padding:.14rem .42rem;font-size:.74rem}}
 .copy-time{cursor:pointer;border-bottom:1px dotted var(--accent)}.copy-time:hover{color:var(--fg)}
 .lg{color:var(--muted);font-weight:400;font-size:.85em;margin-left:.4rem}
+.corner-when{display:inline-block;margin-left:.4rem;padding:.08rem .42rem;border:0;border-radius:6px;font-size:.68rem;font-weight:900;letter-spacing:.04em;cursor:pointer;vertical-align:middle}
+.corner-when.oggi{background:#d50000;color:#fff}.corner-when.domani{background:#6a1b9a;color:#fff}
+.cr-list{margin:.2rem 0 .8rem}.cr-row{display:grid;grid-template-columns:2.6rem minmax(0,1fr) auto;gap:.05rem .5rem;align-items:baseline;padding:.16rem 0;border-bottom:1px solid var(--line);font-size:.92rem}
+.cr-rank{color:var(--accent);font-variant-numeric:tabular-nums}.cr-delay{font-weight:900;color:var(--accent2);font-variant-numeric:tabular-nums}
+.cr-h{margin:.9rem 0 .15rem;color:var(--accent2);font-size:1rem}.cr-lg{color:var(--muted);font-size:.76rem}
 .tagrow{margin-top:.35rem;line-height:1.5}
 .tag{display:inline-block;padding:.05rem .5rem;border-radius:6px;font-size:.78em;font-weight:700}
 .tag.goal{background:var(--ok);color:var(--on)}.tag.over{background:#d9822b;color:#000}
@@ -1828,7 +1921,9 @@ function hide(){pop.style.display='none';cur=null}
 document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
 if(window.matchMedia('(hover:hover)').matches){document.addEventListener('mouseover',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el&&el!==cur)show(el)})}
 document.addEventListener('keydown',function(e){if(e.key==='Escape')hide()})})();</script>
-<script>(function(){function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()})})();</script>
+<script>(function(){function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()});
+if(!window.__cornerWhen){window.__cornerWhen=true;document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('.corner-when');if(!btn)return;e.preventDefault();e.stopPropagation();var txt=btn.getAttribute('data-copy')||'';if(!txt)return;function shown(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;max-width:min(92vw,640px);background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1rem;border-radius:10px;font-weight:800';document.body.appendChild(msg)}msg.textContent=txt;msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},4000);}if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(shown).catch(function(){fallback(txt);shown();});}else{fallback(txt);shown();}});}
+})();</script>
 <script>(function(){var hs=[].slice.call(document.querySelectorAll('body > h2[id]')),ids=[];hs.forEach(function(h){var sec=document.createElement('section');sec.className='tabsec';sec.dataset.id=h.id;h.parentNode.insertBefore(sec,h);var n=h;while(n&&!(n!==h&&n.tagName==='H2')&&!(n.id==='pop'||n.id==='totop'||n.tagName==='SCRIPT'||n.tagName==='ASIDE'||(n.tagName==='BUTTON'))){var nx=n.nextElementSibling;sec.appendChild(n);n=nx}ids.push(h.id)});
 function show(){var id=(location.hash||'').slice(1);if(ids.indexOf(id)<0)id=ids.indexOf('prossime')>=0?'prossime':(ids[0]||'');document.querySelectorAll('section.tabsec').forEach(function(x){x.style.display=x.dataset.id===id?'':'none'});document.querySelectorAll('#side a.sbig,#side a.ssm').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)});window.scrollTo(0,0);var p=document.getElementById('pop');if(p)p.style.display='none'}
 window.addEventListener('hashchange',show);show()})();</script>

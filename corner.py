@@ -11,7 +11,8 @@ I file «new» (campionati extra) non hanno le colonne dei corner: si usano solo
 i CSV stagionali mmz4281 che le pubblicano. Un errore qui non deve impedire
 il salvataggio dei dati combo: lo script scrive i file solo alla fine.
 """
-import csv, io, os, html, json, re, unicodedata, urllib.request
+import csv, io, os, html, json, re, time, unicodedata, urllib.request
+from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -62,6 +63,45 @@ LEAGUES = [
     ("TURCHIA", "SUPER LIG", "T1"),
     ("GRECIA", "SUPER LEAGUE", "G1"),
 ]
+
+# Campionato corner -> id FotMob. Le prossime partite arrivano da qui;
+# fixtures.csv e adamchoi restano di riserva.
+FOTMOB_IDS = {
+    "E0": 47, "E1": 48, "E2": 108, "E3": 109, "EC": 117,
+    "SC0": 64, "SC1": 123, "SC2": 124, "SC3": 125,
+    "D1": 54, "D2": 146, "D3": 208,
+    "I1": 55, "I2": 86,
+    "SP1": 87, "SP2": 140,
+    "F1": 53, "F2": 110,
+    "N1": 57, "N2": 111,
+    "B1": 40,
+    "P1": 61,
+    "T1": 71,
+    "G1": 135,
+    "AUT1": 38,
+    "SU1": 69,
+    "NT1": 59,
+    "DEN1": 46,
+    "SA1": 67,
+    "CZ1": 122,
+    "BR1": 268,
+    "BR2": 8814,
+    "ARG1": 112,
+    "MLS1": 130,
+    "AUS1": 113,
+    "FV1": 51,
+    "POL1": 196,
+    "JAP1": 223,
+    "MX1": 230,
+    "COL1": 274,
+    "CHN1": 120,
+    "ECU1": 246,
+    "PER1": 131,
+    "RUS1": 63,
+    "SAU1": 536,
+    "SKO1": 9080,
+    "UK1": 441,
+}
 
 def is_hit(total):
     return 9 <= total <= 11
@@ -537,11 +577,35 @@ def fonte_page(model):
             "Gli orari sono in ora italiana.")
 
 
-# Nomi FotMob che non coincidono con football-data. La chiave è già senza accenti.
+# Forma compatta -> forma usata nei CSV. Copre i nomi FotMob più lunghi.
 _NAME_ALIASES = {
     "hellasverona": "verona",
+    "borussiamonchengladbach": "mgladbach",
+    "monchengladbach": "mgladbach",
+    "mgladbach": "mgladbach",
+    "bayernmunchen": "bayernmunich",
+    "eintrachtfrankfurt": "einfrankfurt",
+    "1fckoln": "fckoln",
+    "hamburgersv": "hamburg",
+    "mainz05": "mainz",
+    "vfbstuttgart": "stuttgart",
+    "borussiadortmund": "dortmund",
+    "bayerleverkusen": "leverkusen",
+    "bayer04leverkusen": "leverkusen",
+    "1fcheidenheim": "heidenheim",
+    "vflwolfsburg": "wolfsburg",
+    "rasporting": "sporting",
+    "sportingcp": "sporting",
+    "athleticbilbao": "athbilbao",
+    "atleticobilbao": "athbilbao",
+    "realsociedad": "sociedad",
+    "rayovallecano": "vallecano",
 }
-_NAME_PREFIXES = ("afc", "fc", "ac", "sc", "ss", "us", "as", "cf", "cd", "fk", "sk")
+# Parole di contorno, non il nome della squadra.
+_NAME_STOP = {
+    "afc", "fc", "ac", "sc", "ss", "us", "as", "cf", "cd", "fk", "sk", "sv",
+    "vfb", "vfl", "tsg", "club", "calcio", "de", "the",
+}
 VIEW_WORD = {"all": "totale", "home": "casa", "away": "trasferta"}
 BADGE_CSS = """<style>
 .corner-when{display:inline-block;margin-left:.4rem;padding:.08rem .42rem;border:0;border-radius:6px;font-size:.68rem;font-weight:900;letter-spacing:.04em;cursor:pointer;vertical-align:middle}
@@ -580,10 +644,15 @@ def madrid_day(when, today=None):
     return None
 
 
-def _compact_team(name):
+def _fold_team(name):
     text = unicodedata.normalize("NFKD", name or "")
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
-    return re.sub(r"[^a-z0-9]+", "", text.lower())
+    text = text.replace("'", "")
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
+
+
+def _compact_team(name):
+    return re.sub(r"[^a-z0-9]+", "", _fold_team(name))
 
 
 def norm_team(name):
@@ -591,51 +660,60 @@ def norm_team(name):
     return _NAME_ALIASES.get(text, text)
 
 
-def _lookup_keys(name):
-    text = _compact_team(name)
-    keys = [text]
-    if text in _NAME_ALIASES:
-        keys.append(_NAME_ALIASES[text])
-    for prefix in _NAME_PREFIXES:
-        if text.startswith(prefix) and len(text) > len(prefix) + 2:
-            rest = text[len(prefix):]
-            keys.append(_NAME_ALIASES.get(rest, rest))
-    seen = []
-    for key in keys:
-        if key and key not in seen:
-            seen.append(key)
-    return seen
+def _name_forms(name):
+    """Varianti confrontabili: nome intero, senza prefissi, ultimo token, alias."""
+    tokens = [tok for tok in _fold_team(name).split() if tok and not tok.isdigit()]
+    compact = "".join(tokens)
+    out = {compact, _NAME_ALIASES.get(compact, compact)}
+    core = [tok for tok in tokens if tok not in _NAME_STOP]
+    if core:
+        joined = "".join(core)
+        out.add(joined)
+        out.add(_NAME_ALIASES.get(joined, joined))
+        if len(core[-1]) >= 4:
+            out.add(core[-1])
+            out.add(_NAME_ALIASES.get(core[-1], core[-1]))
+    return {item for item in out if len(item) >= 3}
 
 
-def _team_indexes(model):
-    by_div, global_map = {}, {}
-    for div, block in model.get("by_div", {}).items():
-        bucket = {}
-        for team in block.get("teams") or []:
-            key = norm_team(team)
-            bucket.setdefault(key, set()).add(team)
-            global_map.setdefault(key, set()).add((div, team))
-        by_div[div] = bucket
-    return by_div, global_map
+def _name_score(left, right):
+    forms_left, forms_right = _name_forms(left), _name_forms(right)
+    if forms_left & forms_right:
+        return 100
+    best = 0
+    for a in forms_left:
+        for b in forms_right:
+            if len(a) >= 4 and len(b) >= 4 and (a in b or b in a):
+                best = max(best, 88)
+            best = max(best, int(SequenceMatcher(None, a, b).ratio() * 100))
+    return best
 
 
-def _one(mapping, keys):
-    for key in keys:
-        hits = mapping.get(key)
-        if hits and len(hits) == 1:
-            return next(iter(hits))
-    return None
+def match_name(name, teams):
+    """Nome canonico dentro un solo campionato, oppure None se è ambiguo o assente."""
+    ranked = sorted(((_name_score(name, team), team) for team in teams), reverse=True)
+    if not ranked or ranked[0][0] < 80:
+        return None
+    if len(ranked) > 1 and ranked[1][0] == ranked[0][0]:
+        return None
+    if len(ranked) > 1 and ranked[0][0] < 100 and ranked[1][0] >= ranked[0][0] - 5:
+        return None
+    return ranked[0][1]
 
 
-def _resolve_team(name, div, by_div, global_map):
-    keys = _lookup_keys(name)
-    if div and div in by_div:
-        team = _one(by_div[div], keys)
+def _resolve_team(name, div, teams_by_div):
+    if div and teams_by_div.get(div):
+        team = match_name(name, teams_by_div[div])
         if team:
             return div, team
-    found = _one(global_map, keys)
-    if found:
-        return found
+    hits = []
+    for other, teams in teams_by_div.items():
+        team = match_name(name, teams)
+        if team:
+            hits.append((other, team))
+    unique = {(item[0], item[1]) for item in hits}
+    if len(unique) == 1:
+        return next(iter(unique))
     return None, None
 
 
@@ -661,11 +739,20 @@ def load_fotmob_fixtures(path="fotmob_fixtures.json"):
     return out
 
 
+def _teams_by_div(model):
+    out = {}
+    for div, block in model.get("by_div", {}).items():
+        names = set(block.get("teams") or [])
+        if names:
+            out[div] = names
+    return out
+
+
 def playing_map(model, extra=None, today=None):
     """Per ogni squadra e vista, la prima gara di oggi o domani. Non guarda la top 10."""
-    by_div, global_map = _team_indexes(model)
+    teams_by_div = _teams_by_div(model)
     best = {}
-    pool = list(model.get("upcoming") or []) + list(extra if extra is not None else load_fotmob_fixtures())
+    pool = list(model.get("upcoming") or []) + list(extra if extra is not None else [])
     for raw in pool:
         when = raw.get("when")
         if not isinstance(when, datetime):
@@ -674,8 +761,13 @@ def playing_map(model, extra=None, today=None):
         if not day:
             continue
         div = raw.get("div") or ""
-        home_div, home = _resolve_team(raw.get("home") or "", div, by_div, global_map)
-        away_div, away = _resolve_team(raw.get("away") or "", div, by_div, global_map)
+        home_div, home = _resolve_team(raw.get("home") or "", div, teams_by_div)
+        away_div, away = _resolve_team(raw.get("away") or "", div, teams_by_div)
+        # Se una squadra è nel campionato, l'altra si cerca lì: è la stessa partita.
+        if home and not away and (home_div or div):
+            away_div, away = _resolve_team(raw.get("away") or "", home_div or div, teams_by_div)
+        if away and not home and (away_div or div):
+            home_div, home = _resolve_team(raw.get("home") or "", away_div or div, teams_by_div)
         info = {
             "when": when, "day": day,
             "home": home or raw.get("home") or "",
@@ -695,6 +787,168 @@ def playing_map(model, extra=None, today=None):
                 if prev is None or info["when"] < prev["when"]:
                     best[key] = info
     return best
+
+
+def current_teams(history, leagues):
+    """Squadre della stagione in corso, i nomi con cui sono scritte le classifiche."""
+    out = {}
+    for _country, _league, div in leagues:
+        seasons = history.get(div) or {}
+        usable = [code for code, rows in seasons.items() if rows and str(code).isdigit()]
+        if not usable:
+            continue
+        code = max(usable, key=int)
+        names = set()
+        for match in seasons[code]:
+            names.add(match["home"])
+            names.add(match["away"])
+        if names:
+            out[div] = names
+    return out
+
+
+def fetch_fotmob_fixtures(divs):
+    """Prossime gare FotMob, una lega alla volta. Un errore non ferma le altre."""
+    now = datetime.now(timezone.utc)
+    start = madrid_start(now)
+    horizon = now + timedelta(days=GIORNI)
+    out = []
+    first = True
+    for div in divs:
+        lid = FOTMOB_IDS.get(div)
+        if not lid:
+            continue
+        if not first:
+            time.sleep(0.6)
+        first = False
+        url = f"https://www.fotmob.com/api/data/leagues?id={lid}"
+        raw = fetch(url)
+        if not raw:
+            print(f"fotmob: {div} ({lid}) non disponibile, uso le altre fonti.", flush=True)
+            continue
+        try:
+            data = json.loads(raw.decode("utf-8"))
+            matches = (data.get("fixtures") or {}).get("allMatches") or []
+        except (UnicodeDecodeError, json.JSONDecodeError, AttributeError):
+            print(f"fotmob: {div} ({lid}) risposta illeggibile.", flush=True)
+            continue
+        kept = 0
+        for match in matches:
+            status = match.get("status") or {}
+            if status.get("cancelled") or status.get("finished"):
+                continue
+            try:
+                when = datetime.fromisoformat(str(status.get("utcTime") or "").replace("Z", "+00:00"))
+            except ValueError:
+                continue
+            if not (start <= when <= horizon):
+                continue
+            home = ((match.get("home") or {}).get("name") or "").strip()
+            away = ((match.get("away") or {}).get("name") or "").strip()
+            if not home or not away:
+                continue
+            out.append({"when": when, "home": home, "away": away, "div": div, "source": "fotmob"})
+            kept += 1
+        print(f"fotmob: {div} {kept} prossime", flush=True)
+    return out
+
+
+def _align_pair(fix, teams_by_div):
+    div = fix.get("div") or ""
+    if div and teams_by_div.get(div):
+        home = match_name(fix.get("home") or "", teams_by_div[div])
+        away = match_name(fix.get("away") or "", teams_by_div[div])
+        return div, home, away
+    both = None
+    one = None
+    for other, teams in teams_by_div.items():
+        home = match_name(fix.get("home") or "", teams)
+        away = match_name(fix.get("away") or "", teams)
+        if home and away:
+            both = (other, home, away)
+            break
+        if (home or away) and one is None:
+            one = (other, home, away)
+    return both or one or ("", None, None)
+
+
+def merge_fixtures(teams_by_div, groups):
+    """FotMob prima, poi le altre fonti. Stessa gara e stesso giorno: una sola riga.
+
+    Se una fonte abbina entrambe le squadre e l'altra una sola, resta quella completa.
+    """
+    best = {}
+    order = []
+    missed = {}
+    for _label, fixtures in groups:
+        for fix in fixtures:
+            div, home, away = _align_pair(fix, teams_by_div)
+            if not div:
+                continue
+            if not home and not away:
+                if madrid_day(fix["when"]):
+                    key = (div, fix["when"].astimezone(MADRID).date().isoformat(), norm_team(fix.get("home") or ""), norm_team(fix.get("away") or ""))
+                    missed.setdefault(key, (div, fix.get("home") or "", fix.get("away") or ""))
+                continue
+            canon_home = home or fix.get("home") or ""
+            canon_away = away or fix.get("away") or ""
+            key = (
+                div,
+                fix["when"].astimezone(MADRID).date().isoformat(),
+                norm_team(canon_home),
+                norm_team(canon_away),
+            )
+            score = int(bool(home)) + int(bool(away))
+            chosen = {
+                "when": fix["when"], "div": div, "home": canon_home, "away": canon_away,
+                "raw_home": fix.get("home") or "", "raw_away": fix.get("away") or "",
+                "home_ok": bool(home), "away_ok": bool(away),
+            }
+            prev = best.get(key)
+            if prev is None:
+                best[key] = (score, chosen)
+                order.append(key)
+            elif score > prev[0]:
+                best[key] = (score, chosen)
+    merged = []
+    stats = {"both": 0, "one": 0, "none": len(missed), "rows": len(missed), "unmatched": []}
+    for div, home, away in missed.values():
+        stats["unmatched"].append((div, home, home, away))
+        stats["unmatched"].append((div, away, home, away))
+    for key in order:
+        score, item = best[key]
+        if madrid_day(item["when"]):
+            stats["rows"] += 1
+            if item["home_ok"] and item["away_ok"]:
+                stats["both"] += 1
+            elif item["home_ok"] or item["away_ok"]:
+                stats["one"] += 1
+                missing = item["raw_away"] if item["home_ok"] else item["raw_home"]
+                stats["unmatched"].append((item["div"], missing, item["raw_home"], item["raw_away"]))
+            else:
+                stats["none"] += 1
+        if not item["home_ok"] and not item["away_ok"]:
+            continue
+        merged.append({"when": item["when"], "div": item["div"], "home": item["home"], "away": item["away"]})
+    merged.sort(key=lambda item: (item["when"], item["div"], item["home"]))
+    return merged, stats
+
+
+def report_fixtures(stats):
+    print(
+        f"FIXTURE OGGI/DOMANI: {stats['rows']} partite, "
+        f"{stats['both']} con entrambe le squadre, "
+        f"{stats['one']} con una sola, {stats['none']} senza abbinamento.",
+        flush=True,
+    )
+    shown = []
+    for div, missing, home, away in stats["unmatched"]:
+        if not missing or missing in shown:
+            continue
+        shown.append(missing)
+        print(f"  NON ABBINATA {div}: {missing}  ({home} - {away})", flush=True)
+    if not shown:
+        print("  Nessun nome di oggi o domani rimasto fuori.", flush=True)
 
 
 def _copy_line(when, home, away, team, kind, value, view):
@@ -1357,6 +1611,15 @@ def selftest():
     assert "DOMANI" in badge and "corner-when domani" in badge
     assert "CORNER 9-11 | 2026-11-27 22:30 | Deportivo Cuenca - Manta | Deportivo Cuenca (ripetizione 11 casa)" in badge
     assert _badge_html(None, "T12", "ritardo", "1", "totale") == ""
+    bundesliga = {"Werder Bremen", "M'gladbach", "Bayern Munich", "FC Koln", "Hamburg", "Mainz", "Stuttgart", "Ein Frankfurt", "Dortmund", "Leverkusen"}
+    assert match_name("Borussia Mönchengladbach", bundesliga) == "M'gladbach"
+    assert match_name("Werder Bremen", bundesliga) == "Werder Bremen"
+    assert match_name("Bayern München", bundesliga) == "Bayern Munich"
+    assert match_name("1. FC Köln", bundesliga) == "FC Koln"
+    assert match_name("Hamburger SV", bundesliga) == "Hamburg"
+    assert match_name("VfB Stuttgart", bundesliga) == "Stuttgart"
+    assert match_name("Eintracht Frankfurt", bundesliga) == "Ein Frankfurt"
+    assert match_name("Bayer Leverkusen", bundesliga) == "Leverkusen"
     print("selftest ok")
 
 def main():
