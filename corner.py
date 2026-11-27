@@ -1056,8 +1056,11 @@ def merge_fixtures(teams_by_div, groups):
             missed.pop(raw_key, None)
             canon_home = home or fix.get("home") or ""
             canon_away = away or fix.get("away") or ""
+            # La stessa partita può arrivare con un codice di campionato diverso
+            # (o con una fonte che classifica diversamente la competizione). La chiave
+            # deve usare giorno + squadre canoniche, non il div: così i nomi alias
+            # abbinati alle squadre dello storico non creano una seconda scheda.
             key = (
-                div,
                 fix["when"].astimezone(MADRID).date().isoformat(),
                 norm_team(canon_home),
                 norm_team(canon_away),
@@ -1695,6 +1698,13 @@ def verify_team(model, div, team):
 def selftest():
     assert is_hit(9) and is_hit(10) and is_hit(11)
     assert not is_hit(8) and not is_hit(12)
+    # Football-Data deve prevalere su una copia Adam/FotMob con codice div diverso.
+    tomorrow = datetime.now(timezone.utc) + timedelta(days=1)
+    teams = {"I1": {"Alpha FC", "Beta FC"}, "ADAMX": {"Alpha FC", "Beta FC"}}
+    fd_fix = {"when": tomorrow, "home": "Alpha FC", "away": "Beta FC", "div": "I1"}
+    adam_fix = {"when": tomorrow + timedelta(hours=2), "home": "Alpha FC", "away": "Beta FC", "div": "ADAMX"}
+    deduped, _stats = merge_fixtures(teams, [("football-data", [fd_fix]), ("adamchoi", [adam_fix])])
+    assert len(deduped) == 1 and deduped[0]["div"] == "I1"
     assert season_codes(datetime(2026, 11, 20, tzinfo=ROME))[0] == "2627"
     assert season_codes(datetime(2026, 6, 1, tzinfo=ROME))[0] == "2526"
     when, precise = london_kick("23/08/2025", "17:30")
