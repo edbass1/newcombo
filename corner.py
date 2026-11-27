@@ -402,7 +402,9 @@ def _league_report(block, pool, now):
     return {"block": block, "views": views, "freq": freq, "repeats": repeats}
 
 def _label(delay, full):
-    return f"{delay}{'+' if full else ''}"
+    # Il simbolo + non è compatibile con il tracker quando si copiano i corner.
+    # Mantieni sempre il valore numerico puro, sia in pagina sia nel testo copiato.
+    return str(delay)
 
 def _classifica(model, venue, kind):
     """Classifica globale della vista. Il posto è quello della prima squadra con lo stesso ritardo."""
