@@ -1735,7 +1735,7 @@ def selftest():
     assert len(parsed) == 1 and parsed[0]["hit"] and parsed[0]["total"] == 10
     names = [f"T{i:02d}" for i in range(1, 13)]
     rit = [{"team": name, "delay": 13 - i, "full": False} for i, name in enumerate(names, 1)]
-    rep = [{"team": name, "delay": i, "full": False} for i, name in enumerate(names, 1)]
+    rep = [{"team": name, "delay": i, "full": False, "last": True} for i, name in enumerate(names, 1)]
     views = {venue: {"rows": list(rit), "sotto": [], "salt": []} for venue, _l, _d in VENUES}
     repeats = {venue: list(rep) for venue, _l, _d in VENUES}
     league = {
@@ -1767,6 +1767,13 @@ def selftest():
     assert [kind for kind, _r in only_rep["lines"]] == ["ripetizione", "ripetizione"]
     assert all(not row["red"] for _k, row in only_rep["lines"])
     ranked = _classifica(model, "all", "ritardo")
+    tied_top = _top2_by_league([
+        {"team": "A", "delay": 7}, {"team": "B", "delay": 6},
+        {"team": "C", "delay": 6}, {"team": "D", "delay": 3},
+    ])
+    assert [row["team"] for row in tied_top] == ["A", "B", "C"]
+    assert all(row["delay"] >= 4 for row in tied_top)
+    assert _top2_by_league([{"team": "A", "delay": 3}, {"team": "B", "delay": 2}]) == []
     assert _top_slice(ranked, 10)[-1]["team"] == "T10"
     assert ranked[2]["delay"] == 10 and ranked[3]["red"] is False and ranked[2]["red"] is True
     assert norm_team("Hellas Verona") == norm_team("Verona") == "verona"
