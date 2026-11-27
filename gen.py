@@ -1751,11 +1751,8 @@ def render_prossime(chunks, now, repeat_alerts=None):
             )
             P.append(f'{selection_label:<20} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
-                if alert_row.get("reason"):
-                    P.append(f'           {alert_team_name}: {alert_row["reason"]}')
-                else:
-                    delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                    P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+                delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                P.append(f'           TOP 3 RIPETIZIONE: {alert_team_name} · {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
             PG.append(f'{selection_label:<20} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             continue
         alert_badge_shown = False
@@ -2063,17 +2060,18 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
             )
 
-    repeat_top3 = {
-        scope: {
-            name: {
+    repeat_top3 = {}
+    for scope in scopes:
+        repeat_top3[scope] = {}
+        for name, rows in rankings[scope].items():
+            if not rows:
+                repeat_top3[scope][name] = set()
+                continue
+            cutoff = rows[min(2, len(rows) - 1)]["delay"]
+            repeat_top3[scope][name] = {
                 (row["country"], row["league"], row["team"])
-                for row in rows[:]
-                if row["delay"] >= (rows[min(2, len(rows) - 1)]["delay"] if rows else 0)
+                for row in rows if row["delay"] >= cutoff
             }
-            for name, rows in rankings[scope].items()
-        }
-        for scope in scopes
-    }
 
     alert_map = {}
     for c, l, r, err in data:
