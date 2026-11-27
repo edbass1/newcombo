@@ -27,10 +27,10 @@ SOTTO_MIN = 100
 SALTATI_MIN = 6
 SALTATI_GIORNI = 7
 MIN_GIORNATE = 7
-PROSSIME_TOP = 10
-RED_TOP = 3
+PROSSIME_TOP = 2
+RED_TOP = 2
 GIORNI = 5
-REPEAT_ALERT_MIN = 10
+REPEAT_ALERT_MIN = 4
 SEASON_COUNT = 12
 VENUES = (
     ("all", "Totali", "tutte le partite, in casa o in trasferta"),
@@ -413,6 +413,7 @@ def _classifica(model, venue, kind):
         for row in source:
             rows.append({
                 "team": row["team"], "delay": row["delay"], "full": row["full"],
+                "last": row.get("last", False),
                 "div": block["div"], "country": block["country"], "league": block["league"],
                 "matches": row.get("matches"),
             })
@@ -1292,17 +1293,39 @@ def render_texts(model, stamp):
         "prossime": "\n".join(prossime + _prossime_lines(model)) + "\n",
     }
 
+def _top2_by_league(rows, minimum=4):
+    """Prime due posizioni della singola classifica, pari merito inclusi e ritardo minimo."""
+    ordered = sorted(rows, key=lambda row: (-row["delay"], row["team"].casefold()))
+    if not ordered:
+        return []
+    cutoff = max(minimum, ordered[min(PROSSIME_TOP, len(ordered)) - 1]["delay"])
+    selected = [row for row in ordered if row["delay"] >= cutoff]
+    total = len(ordered)
+    rank_by_team = {}
+    previous = None
+    rank = 0
+    for index, row in enumerate(ordered, 1):
+        if row["delay"] != previous:
+            rank, previous = index, row["delay"]
+        rank_by_team[row["team"]] = rank
+    return [{**row, "rank": rank_by_team[row["team"]], "total": total}
+            for row in selected]
+
+
 def _explain(model, venue, div, teams):
-    """Righe di spiegazione, nell'ordine delle squadre: prima il ritardo, poi la ripetizione."""
-    ritardo = _by_team(_top_slice(_classifica(model, venue, "ritardo"), PROSSIME_TOP))
-    ripetizione = _by_team(_top_slice(_classifica(model, venue, "ripetizione"), PROSSIME_TOP))
+    """Prime due posizioni per campionato e contesto; una ripetizione richiede l'ultima gara in fascia."""
+    report = next((item for item in model["leagues"] if item["block"]["div"] == div), None)
+    if not report:
+        return []
+    ritardo = _by_team(_top2_by_league(report["views"][venue]["rows"]))
+    ripetizione = _by_team(_top2_by_league(report["repeats"][venue]))
     lines = []
     for team in teams:
-        key = (div, team)
-        if key in ritardo:
-            lines.append(("ritardo", ritardo[key]))
-        if key in ripetizione:
-            lines.append(("ripetizione", ripetizione[key]))
+        if team in ritardo:
+            lines.append(("ritardo", ritardo[team]))
+        row = ripetizione.get(team)
+        if row and row.get("last"):
+            lines.append(("ripetizione", row))
     return lines
 
 def _sides_for(venue, fixture):
@@ -1317,7 +1340,7 @@ def _prossime_lines(model):
     day = None
     cards = _upcoming_cards(model)
     if not cards:
-        return ["Nessuna partita in arrivo con una squadra nelle prime 10."]
+        return ["Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 4."]
     for card in cards:
         local = card["when"].astimezone(ROME)
         stamp = local.strftime("%d/%m/%Y")
@@ -1360,7 +1383,7 @@ def render_html(model, stamp):
         f'{fonte_page(model)}</p>',
         BADGE_CSS,
         '<h3>Prossime partite (5 giorni)</h3>',
-        '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 10 per ritardo oppure tra le prime 10 per ripetizione. '
+        '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 2 posizioni della propria classifica per ritardo oppure per ripetizione, con ritardo minimo 4 e pari merito inclusi. '
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '
         '# &egrave; il posto nella classifica di quella vista. '
         'Le partite già iniziate non restano in elenco.</p>',
@@ -1539,14 +1562,14 @@ def _repeat_alerts(model):
         rows = []
         for venue, scope in (("all", "TOTALE"), ("home", "CASA"), ("away", "TRASFERTA")):
             table = report["repeats"][venue]
-            total = len(table)
+            selected = _by_team(_top2_by_league(table, minimum=REPEAT_ALERT_MIN))
             sides = [fixture["home"]] if venue == "home" else [fixture["away"]] if venue == "away" else [fixture["home"], fixture["away"]]
             for team in sides:
-                found = next((row for row in table if row["team"] == team), None)
-                if not found or not found["last"] or found["delay"] < REPEAT_ALERT_MIN:
+                found = selected.get(team)
+                # L'ultima partita nella vista deve essere un'uscita della fascia.
+                if not found or not found.get("last") or found["delay"] < REPEAT_ALERT_MIN:
                     continue
-                rank = next(index for index, row in enumerate(table, 1) if row["team"] == team)
-                rows.append((team, scope, found["delay"], found["full"], rank, total))
+                rows.append((team, scope, found["delay"], found["full"], found["rank"], found["total"]))
         if rows:
             block = report["block"]
             alerts.append({
