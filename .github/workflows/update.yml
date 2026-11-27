@@ -139,7 +139,6 @@ jobs:
         fi
     - name: Sezione Corner
       if: steps.need.outputs.esegui == 'true'
-      continue-on-error: true
       timeout-minutes: 40
       run: python3 corner_multi.py
     - name: Se Corner fallisce, rimetti la sezione precedente
