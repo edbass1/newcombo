@@ -1789,7 +1789,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                     last_hit = meta.get("last_hit")
                     if last_hit:
                         last_dt = datetime.datetime.fromisoformat(last_hit.replace("Z", "+00:00"))
-                        weeks_value = max(0, (g["t"].date() - last_dt.date()).days // 7)
+                        weeks_value = max(0, (lt.date() - last_dt.astimezone(ROME).date()).days // 7)
                         last_date = last_dt.astimezone(ROME).date().isoformat()
                     else:
                         weeks_value, last_date = "OLTRE_STORICO", ""
