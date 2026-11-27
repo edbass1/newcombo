@@ -1131,13 +1131,13 @@ def tables(d, teams, which="all", forms=None):
     return out
 
 def top3_delay_teams(res_full):
-    """Per ogni combo, seleziona solo le prime 3 squadre della sua classifica dei ritardi; pari merito inclusi."""
+    """Per ogni combo, seleziona le prime 2 posizioni con ritardo almeno 4; pari merito inclusi."""
     selected = {}
     for name, rows in (res_full or {}).get("goal", []):
         if not rows:
             selected[name] = set()
             continue
-        cutoff = rows[min(2, len(rows) - 1)][0]
+        cutoff = max(4, rows[min(1, len(rows) - 1)][0])
         selected[name] = {
             team for delay, team, _full, _pct in rows if delay >= cutoff
         }
@@ -1739,7 +1739,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                     f'#{alert_row["rank"]}/{alert_row["total"]}'
                 )
             alert_note = " | ".join(alert_lines)
-            badge_label = "TOP 3 RIPETIZIONE" if fixture_alerts and all(row.get("top3_repeat") for _team, _combo, row in fixture_alerts) else "ALERT"
+            badge_label = "TOP 2 RIPETIZIONE" if fixture_alerts and all(row.get("top3_repeat") for _team, _combo, row in fixture_alerts) else "ALERT"
             alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">{badge_label}</span> '
             only_top3 = bool(fixture_alerts) and all(row.get("top3_repeat") for _team, _combo, row in fixture_alerts)
             selection_label = "TOP 3 RIPETIZIONE" if only_top3 else "DOPPIA RIPETIZIONE"
@@ -2043,7 +2043,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
         "Ogni categoria ha una sequenza cronologica e un ritardo indipendenti.",
         "Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.",
         f"Storico: pool nazionale multi-stagione disponibile (fino a {SOTTO_STAGIONI} stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.",
-        "Ogni classifica è separata per campionato, combo e contesto: vengono selezionate le prime 3 posizioni per ritardo, con tutti i pari merito al terzo posto inclusi.", ""
+        "Ogni classifica è separata per campionato, combo e contesto: nelle Prossime vengono selezionate le prime 2 posizioni per ritardo, solo con ritardo almeno 4 e con tutti i pari merito alla seconda posizione inclusi.", ""
     ]
     blocks = []
     repeat_top3 = {scope: {name: set() for name, _f in COMBOS["goal"]} for scope in scopes}
@@ -2056,10 +2056,10 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 league_label = f"{country} - {league}"
                 lines += [f"CLASSIFICA {scope} — {name} — {league_label}", f"Squadre: {len(rows)}"]
                 table = []
-                cutoff = rows[min(2, len(rows) - 1)]["delay"] if rows else None
+                cutoff = max(4, rows[min(1, len(rows) - 1)]["delay"]) if rows else None
                 for row in rows:
                     delay = str(row["delay"]) + ("+" if row["full"] else "")
-                    marker = "  ← TOP 3" if cutoff is not None and row["delay"] >= cutoff else ""
+                    marker = "  ← TOP 2 (ritardo ≥ 4)" if cutoff is not None and row["delay"] >= cutoff else ""
                     table.append(
                         f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | '
                         f'{row["matches"]} gare{marker}'
