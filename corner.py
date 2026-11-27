@@ -1293,7 +1293,7 @@ def render_texts(model, stamp):
         "prossime": "\n".join(prossime + _prossime_lines(model)) + "\n",
     }
 
-def _top2_by_league(rows, minimum=4):
+def _top2_by_league(rows, minimum=5):
     """Prime due posizioni della singola classifica, pari merito inclusi e ritardo minimo."""
     ordered = sorted(rows, key=lambda row: (-row["delay"], row["team"].casefold()))
     if not ordered:
@@ -1313,22 +1313,19 @@ def _top2_by_league(rows, minimum=4):
 
 
 def _explain(model, venue, div, teams):
-    """Prime due posizioni per campionato e contesto; una ripetizione richiede l'ultima gara in fascia."""
+    """Solo ritardi: prime due posizioni per campionato e contesto, con minimo 5 partite."""
     report = next((item for item in model["leagues"] if item["block"]["div"] == div), None)
     if not report:
         return []
     global_ritardo = _by_team(_classifica(model, venue, "ritardo"))
-    global_ripetizione = _by_team(_classifica(model, venue, "ripetizione"))
-    selected_ritardo = {row["team"] for row in _top2_by_league(report["views"][venue]["rows"])}
-    selected_ripetizione = {row["team"] for row in _top2_by_league(report["repeats"][venue])}
+    selected_ritardo = {
+        row["team"] for row in _top2_by_league(report["views"][venue]["rows"], minimum=5)
+    }
     lines = []
     for team in teams:
         key = (div, team)
         if team in selected_ritardo and key in global_ritardo:
             lines.append(("ritardo", global_ritardo[key]))
-        row = global_ripetizione.get(key)
-        if team in selected_ripetizione and row and row.get("last"):
-            lines.append(("ripetizione", row))
     return lines
 
 def _sides_for(venue, fixture):
@@ -1343,7 +1340,7 @@ def _prossime_lines(model):
     day = None
     cards = _upcoming_cards(model)
     if not cards:
-        return ["Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 4."]
+        return ["Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 5."]
     for card in cards:
         local = card["when"].astimezone(ROME)
         stamp = local.strftime("%d/%m/%Y")
@@ -1386,7 +1383,7 @@ def render_html(model, stamp):
         f'{fonte_page(model)}</p>',
         BADGE_CSS,
         '<h3>Prossime partite (5 giorni)</h3>',
-        '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 2 posizioni della propria classifica per ritardo oppure per ripetizione, con ritardo minimo 4 e pari merito inclusi. '
+        '<p class="leg">Solo le gare in arrivo. Per ogni campionato e per ciascuna vista (Totale, Casa, Trasferta) entrano solo le prime 2 posizioni per ritardo, con minimo 5 partite e pari merito inclusi. '
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '
         '# &egrave; il posto nella classifica di quella vista. '
         'Le partite già iniziate non restano in elenco.</p>',
@@ -1396,7 +1393,7 @@ def render_html(model, stamp):
     cards = _upcoming_cards(model)
     day = None
     if not cards:
-        parts.append("<p>Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 4.</p>")
+        parts.append("<p>Nessuna partita in arrivo con una squadra nelle prime 2 posizioni e ritardo almeno 5.</p>")
     for card in cards:
         local = card["when"].astimezone(ROME)
         stamp_day = local.strftime("%d/%m/%Y")
@@ -1449,29 +1446,9 @@ def render_html(model, stamp):
         parts.append(f'<div class="venue" data-v="{venue}">' + "".join(rows_html) + "</div>")
     parts.append("<h3>Doppia ripetizione</h3>")
     parts.append(
-        '<p class="leg">Stesso conto della sezione combo: dopo un&rsquo;uscita, se la partita successiva '
-        'non è ancora 9-11 il ritardo di ripetizione sale di uno. Due uscite di fila lo azzerano. '
-        'In arrivo solo per le prime 2 posizioni della classifica, con ritardo almeno 4, se l&rsquo;ultima partita è stata un&rsquo;uscita: '
-        'la prossima gara può chiudere la coppia.</p>'
+        '<p class="leg">Statistiche della doppia ripetizione: questa sezione resta separata dalle partite del giorno. '
+        'Le partite in arrivo mostrano esclusivamente i ritardi.</p>'
     )
-    parts.append('<div class="repeat-alerts"><h3>Partite in arrivo — possibile rottura della ripetizione</h3>')
-    alerts = _repeat_alerts(model)
-    if not alerts:
-        parts.append('<p class="leg">Nessuna partita in arrivo con i requisiti.</p>')
-    for alert in alerts:
-        local = alert["when"].astimezone(ROME)
-        kick = alert["when"].astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-        bits = " | ".join(
-            f"{esc(team)} · {esc(scope)} · ritardo {_label(delay, full)} · #{rank}/{total}"
-            for team, scope, delay, full, rank, total in alert["rows"]
-        )
-        parts.append(
-            f'<div class="fx" data-kick="{kick}"><b>{local:%d/%m %H:%M}</b> · '
-            f'{esc(alert["home"])} vs {esc(alert["away"])} '
-            f'<span class="lg">{esc(alert["country"])} - {esc(alert["league"])}</span>'
-            f'<div class="tagrow">{bits}</div></div>'
-        )
-    parts.append("</div>")
     for venue, label, desc in VENUES:
         ranked = _classifica(model, venue, "ripetizione")
         rows_html = [
@@ -1694,7 +1671,7 @@ def _check_prossime(model):
         for kind, row in both["lines"]:
             print("   " + _line_text(kind, row), flush=True)
     totale = _top_slice(tables[("all", "ritardo")], PROSSIME_TOP)
-    print("Prime 2 per ritardo totale (con ritardo minimo 4):", flush=True)
+    print("Prime 2 per ritardo totale (con ritardo minimo 5):", flush=True)
     for row in totale[:12]:
         print(f"  #{row['rank']} {row['team']} {row['delay']} {row['country']} - {row['league']}", flush=True)
 
@@ -1788,7 +1765,7 @@ def selftest():
         {"team": "C", "delay": 6}, {"team": "D", "delay": 3},
     ])
     assert [row["team"] for row in tied_top] == ["A", "B", "C"]
-    assert all(row["delay"] >= 4 for row in tied_top)
+    assert all(row["delay"] >= 5 for row in tied_top)
     assert _top2_by_league([{"team": "A", "delay": 3}, {"team": "B", "delay": 2}]) == []
     assert _top_slice(ranked, 10)[-1]["team"] == "T10"
     assert ranked[1]["delay"] == 11 and ranked[1]["red"] is True and ranked[2]["red"] is False
