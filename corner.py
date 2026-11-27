@@ -1451,7 +1451,7 @@ def render_html(model, stamp):
     parts.append(
         '<p class="leg">Stesso conto della sezione combo: dopo un&rsquo;uscita, se la partita successiva '
         'non è ancora 9-11 il ritardo di ripetizione sale di uno. Due uscite di fila lo azzerano. '
-        'In arrivo solo se l&rsquo;ultima partita è stata un&rsquo;uscita e il ritardo di ripetizione è almeno 10: '
+        'In arrivo solo per le prime 2 posizioni della classifica, con ritardo almeno 4, se l&rsquo;ultima partita è stata un&rsquo;uscita: '
         'la prossima gara può chiudere la coppia.</p>'
     )
     parts.append('<div class="repeat-alerts"><h3>Partite in arrivo — possibile rottura della ripetizione</h3>')
