@@ -1994,6 +1994,41 @@ def render_repeat(data, pools, now, double_fixtures=None):
     }
 
 
+def write_fotmob_fixtures(data):
+    """Le prossime già lette da FotMob, per i badge OGGI/DOMANI della sezione corner."""
+    rows, seen = [], set()
+    now = datetime.datetime.now(datetime.timezone.utc)
+    start = datetime.datetime.now(ZoneInfo("Europe/Madrid")).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    ).astimezone(datetime.timezone.utc)
+    horizon = now + datetime.timedelta(days=GIORNI)
+    for _c, _l, result, _err in data:
+        if not result:
+            continue
+        teams = result.get("teams") or {}
+        for item in result.get("up") or []:
+            when, hid, aid = item[0], item[1], item[2]
+            if when.tzinfo is None:
+                when = when.replace(tzinfo=datetime.timezone.utc)
+            if not (start <= when <= horizon):
+                continue
+            home = teams.get(hid) or teams.get(str(hid)) or ""
+            away = teams.get(aid) or teams.get(str(aid)) or ""
+            if not home or not away:
+                continue
+            key = (when.isoformat(), home, away)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append({
+                "when": when.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "home": home, "away": away,
+            })
+    with open("fotmob_fixtures.json", "w", encoding="utf-8") as handle:
+        json.dump(rows, handle, ensure_ascii=False)
+    print(f"Prossime FotMob salvate: {len(rows)}", flush=True)
+
+
 def main():
     now = datetime.datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
     data = []
@@ -2013,6 +2048,10 @@ def main():
             xg_rows.append((c, l, "err", 0))
             print(f"  ERRORE {e}", flush=True)
         time.sleep(1)
+    try:
+        write_fotmob_fixtures(data)
+    except Exception as exc:
+        print(f"Prossime FotMob non salvate: {exc}", flush=True)
     excluded = build_league_frequency(data)
     freq_text, n_freq = render_freq_text(now, excluded)
     print(f"Frequenza campionati: {n_freq} idonei, {len(excluded)} esclusi", flush=True)

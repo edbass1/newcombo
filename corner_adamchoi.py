@@ -226,8 +226,9 @@ def dedupe_fixtures(fixtures):
 
 def in_window(fixtures, now):
     now = now.astimezone(timezone.utc)
+    start = c.madrid_start(now)
     horizon = now + timedelta(days=c.GIORNI)
-    return [item for item in fixtures if now <= item["when"] <= horizon]
+    return [item for item in fixtures if start <= item["when"] <= horizon]
 
 
 def select_leagues(nav):

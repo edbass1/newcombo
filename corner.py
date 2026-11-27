@@ -11,12 +11,13 @@ I file «new» (campionati extra) non hanno le colonne dei corner: si usano solo
 i CSV stagionali mmz4281 che le pubblicano. Un errore qui non deve impedire
 il salvataggio dei dati combo: lo script scrive i file solo alla fine.
 """
-import csv, io, os, html, re, urllib.request
+import csv, io, os, html, json, re, unicodedata, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 ROME = ZoneInfo("Europe/Rome")
+MADRID = ZoneInfo("Europe/Madrid")
 LONDON = ZoneInfo("Europe/London")
 EVENT = "CORNER 9-11"
 TOP = 10
@@ -217,6 +218,7 @@ def load_fixtures():
     fields = {(name or "").replace("\ufeff", "").strip(): name for name in reader.fieldnames}
     out = []
     now = datetime.now(timezone.utc)
+    start = madrid_start(now)
     horizon = now + timedelta(days=GIORNI)
     for row in reader:
         def col(key):
@@ -226,7 +228,7 @@ def load_fixtures():
         home, away, div = col("HomeTeam").strip(), col("AwayTeam").strip(), col("Div").strip()
         if not precise or not when or not home or not away or not div:
             continue
-        if not (now <= when <= horizon):
+        if not (start <= when <= horizon):
             continue
         out.append({"when": when, "home": home, "away": away, "div": div})
     out.sort(key=lambda item: (item["when"], item["div"], item["home"]))
@@ -433,12 +435,13 @@ function readCard(card){if(!visible(card))return null;var kick=card.getAttribute
 function collectDays(){var list=upcomingList(),days=[],by={};if(!list)return days;[].slice.call(list.querySelectorAll(':scope > .fx')).forEach(function(card){var info=readCard(card);if(!info)return;if(!by[info.date]){by[info.date]={date:info.date,label:info.label,matches:{}};days.push(by[info.date]);}var bucket=by[info.date].matches;if(!bucket[info.key])bucket[info.key]={hm:info.hm,home:info.home,away:info.away,bits:[]};info.bits.forEach(function(bit){bucket[info.key].bits.push(bit);});});days.forEach(function(day){day.keys=Object.keys(day.matches).sort(function(a,b){var ga=day.matches[a],gb=day.matches[b];if(ga.hm!==gb.hm)return ga.hm<gb.hm?-1:1;return a<b?-1:1;});day.count=day.keys.length;});days.sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:0;});return days;}
 function paintDays(){var box=document.getElementById('copy-corner-days');if(!box)return;var days=collectDays();var sig=days.map(function(day){return day.date+':'+day.count;}).join('|');if(box.getAttribute('data-sig')===sig)return;var prev={},had=!!box.querySelector('input'),hadChecked=false;[].forEach.call(box.querySelectorAll('input'),function(inp){prev[inp.value]=inp.checked;if(inp.checked)hadChecked=true;});box.setAttribute('data-sig',sig);box.textContent='';days.forEach(function(day,index){var label=document.createElement('label');label.style.cssText='display:inline-flex;align-items:center;gap:.4rem;color:#fff;font-weight:700;font-size:1.05rem;cursor:pointer;background:#000';var input=document.createElement('input');input.type='checkbox';input.value=day.date;input.style.cssText='width:1.15rem;height:1.15rem;accent-color:#fff';if(!had)input.checked=index===0;else if(Object.prototype.hasOwnProperty.call(prev,day.date))input.checked=!!prev[day.date];var text=document.createElement('span');text.textContent=day.label+' ('+day.count+')';label.appendChild(input);label.appendChild(text);box.appendChild(label);});var inputs=box.querySelectorAll('input'),any=false;[].forEach.call(inputs,function(inp){if(inp.checked)any=true;});if(!any&&inputs[0]&&(!had||hadChecked))inputs[0].checked=true;}
 function buildCornerDay(){var days=collectDays(),picked={},box=document.getElementById('copy-corner-days');if(box)[].forEach.call(box.querySelectorAll('input:checked'),function(inp){picked[inp.value]=true;});var lines=[];days.forEach(function(day){if(!picked[day.date])return;lines.push('CORNER 9-11 | '+day.date);day.keys.forEach(function(key){var match=day.matches[key];lines.push(match.hm+' | '+match.home+' - '+match.away+' | '+match.bits.join('; '));});});return lines.join('\n');}
-function showNote(text){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';document.body.appendChild(msg);}msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1.1rem;border-radius:10px;font-weight:800;font-size:1.25rem';msg.textContent=text;msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},1800);}
+function showNote(text){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';document.body.appendChild(msg);}msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1.1rem;border-radius:10px;font-weight:800;font-size:1rem;max-width:min(92vw,760px);white-space:pre-wrap;text-align:left';msg.textContent=text;msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},text.length>24?4500:1800);}
 function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.setAttribute('readonly','');ta.style.position='fixed';ta.style.left='-9999px';document.body.appendChild(ta);ta.select();var ok=false;try{ok=document.execCommand('copy');}catch(e){ok=false;}ta.remove();if(ok)showNote('Copiato!');else window.prompt('Copia il testo:',txt);}
 function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){showNote('Copiato!');}).catch(function(){fallback(txt);});}else fallback(txt);}
 function arm(){var list=upcomingList();if(list&&!list._cornerDays){list._cornerDays=new MutationObserver(function(){paintDays();});list._cornerDays.observe(list,{subtree:true,attributes:true,attributeFilter:['hidden','style','class'],childList:true});}paintDays();}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',arm);else arm();setTimeout(arm,0);setTimeout(arm,400);
 document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('#copy-corner-today');if(!btn)return;e.preventDefault();var txt=buildCornerDay();if(!txt){showNote('Seleziona un giorno');return;}copyText(txt);});
+if(!window.__cornerWhen){window.__cornerWhen=true;document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('.corner-when');if(!btn)return;e.preventDefault();e.stopPropagation();var txt=btn.getAttribute('data-copy')||'';if(!txt)return;function shown(){showNote(txt);}if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(shown).catch(function(){fallback(txt);showNote(txt);});}else{fallback(txt);showNote(txt);}});}
 })();</script>"""
 
 _OLD_COPY_BUTTON = re.compile(
@@ -534,8 +537,203 @@ def fonte_page(model):
             "Gli orari sono in ora italiana.")
 
 
+# Nomi FotMob che non coincidono con football-data. La chiave è già senza accenti.
+_NAME_ALIASES = {
+    "hellasverona": "verona",
+}
+_NAME_PREFIXES = ("afc", "fc", "ac", "sc", "ss", "us", "as", "cf", "cd", "fk", "sk")
+VIEW_WORD = {"all": "totale", "home": "casa", "away": "trasferta"}
+BADGE_CSS = """<style>
+.corner-when{display:inline-block;margin-left:.4rem;padding:.08rem .42rem;border:0;border-radius:6px;font-size:.68rem;font-weight:900;letter-spacing:.04em;cursor:pointer;vertical-align:middle}
+.corner-when.oggi{background:#d50000;color:#fff}
+.corner-when.domani{background:#6a1b9a;color:#fff}
+.cr-list{margin:.2rem 0 1rem}
+.cr-row{display:grid;grid-template-columns:2.6rem minmax(0,1fr) auto;gap:.05rem .5rem;align-items:baseline;padding:.16rem 0;border-bottom:1px solid var(--line);font-size:.92rem}
+.cr-rank{color:var(--accent);font-variant-numeric:tabular-nums}
+.cr-delay{font-weight:900;color:var(--accent2);font-variant-numeric:tabular-nums}
+.cr-lg{grid-column:2/4;color:var(--muted);font-size:.76rem}
+.cr-h{margin:.9rem 0 .15rem;color:var(--accent2);font-size:1rem}
+</style>"""
+
+
+def madrid_start(now=None):
+    """Mezzanotte di oggi a Madrid, in UTC. Le partite già iniziate oggi restano nel giorno."""
+    now = now or datetime.now(MADRID)
+    if now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+    local = now.astimezone(MADRID)
+    return local.replace(hour=0, minute=0, second=0, microsecond=0).astimezone(timezone.utc)
+
+
+def madrid_day(when, today=None):
+    """'oggi', 'domani' o None, sul calendario di Europe/Madrid."""
+    if today is None:
+        today = datetime.now(MADRID)
+    elif today.tzinfo is None:
+        today = today.replace(tzinfo=MADRID)
+    day = when.astimezone(MADRID).date()
+    origin = today.astimezone(MADRID).date()
+    if day == origin:
+        return "oggi"
+    if day == origin + timedelta(days=1):
+        return "domani"
+    return None
+
+
+def _compact_team(name):
+    text = unicodedata.normalize("NFKD", name or "")
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    return re.sub(r"[^a-z0-9]+", "", text.lower())
+
+
+def norm_team(name):
+    text = _compact_team(name)
+    return _NAME_ALIASES.get(text, text)
+
+
+def _lookup_keys(name):
+    text = _compact_team(name)
+    keys = [text]
+    if text in _NAME_ALIASES:
+        keys.append(_NAME_ALIASES[text])
+    for prefix in _NAME_PREFIXES:
+        if text.startswith(prefix) and len(text) > len(prefix) + 2:
+            rest = text[len(prefix):]
+            keys.append(_NAME_ALIASES.get(rest, rest))
+    seen = []
+    for key in keys:
+        if key and key not in seen:
+            seen.append(key)
+    return seen
+
+
+def _team_indexes(model):
+    by_div, global_map = {}, {}
+    for div, block in model.get("by_div", {}).items():
+        bucket = {}
+        for team in block.get("teams") or []:
+            key = norm_team(team)
+            bucket.setdefault(key, set()).add(team)
+            global_map.setdefault(key, set()).add((div, team))
+        by_div[div] = bucket
+    return by_div, global_map
+
+
+def _one(mapping, keys):
+    for key in keys:
+        hits = mapping.get(key)
+        if hits and len(hits) == 1:
+            return next(iter(hits))
+    return None
+
+
+def _resolve_team(name, div, by_div, global_map):
+    keys = _lookup_keys(name)
+    if div and div in by_div:
+        team = _one(by_div[div], keys)
+        if team:
+            return div, team
+    found = _one(global_map, keys)
+    if found:
+        return found
+    return None, None
+
+
+def load_fotmob_fixtures(path="fotmob_fixtures.json"):
+    """Prossime gare già scaricate da gen.py. Se il file manca, i badge usano le altre fonti."""
+    if not os.path.exists(path):
+        return []
+    try:
+        raw = json.load(open(path, encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    out = []
+    for row in raw if isinstance(raw, list) else []:
+        if not isinstance(row, dict):
+            continue
+        try:
+            when = datetime.fromisoformat(str(row.get("when") or "").replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        home, away = str(row.get("home") or "").strip(), str(row.get("away") or "").strip()
+        if home and away:
+            out.append({"when": when, "home": home, "away": away, "div": str(row.get("div") or "")})
+    return out
+
+
+def playing_map(model, extra=None, today=None):
+    """Per ogni squadra e vista, la prima gara di oggi o domani. Non guarda la top 10."""
+    by_div, global_map = _team_indexes(model)
+    best = {}
+    pool = list(model.get("upcoming") or []) + list(extra if extra is not None else load_fotmob_fixtures())
+    for raw in pool:
+        when = raw.get("when")
+        if not isinstance(when, datetime):
+            continue
+        day = madrid_day(when, today)
+        if not day:
+            continue
+        div = raw.get("div") or ""
+        home_div, home = _resolve_team(raw.get("home") or "", div, by_div, global_map)
+        away_div, away = _resolve_team(raw.get("away") or "", div, by_div, global_map)
+        info = {
+            "when": when, "day": day,
+            "home": home or raw.get("home") or "",
+            "away": away or raw.get("away") or "",
+        }
+        sides = []
+        if home:
+            sides.append((home_div or div, home, "home"))
+        if away:
+            sides.append((away_div or div, away, "away"))
+        for side_div, team, side in sides:
+            if not side_div or not team:
+                continue
+            for venue in ("all", side):
+                key = (side_div, team, venue)
+                prev = best.get(key)
+                if prev is None or info["when"] < prev["when"]:
+                    best[key] = info
+    return best
+
+
+def _copy_line(when, home, away, team, kind, value, view):
+    local = when.astimezone(MADRID)
+    return (
+        f"{EVENT} | {local:%Y-%m-%d} {local:%H:%M} | {home} - {away} | "
+        f"{team} ({kind} {value} {view})"
+    )
+
+
+def _badge_html(fix, team, kind, value, view):
+    if not fix:
+        return ""
+    word = "OGGI" if fix["day"] == "oggi" else "DOMANI"
+    line = _copy_line(fix["when"], fix["home"], fix["away"], team, kind, value, view)
+    return (
+        f' <button type="button" class="corner-when {fix["day"]}" data-copy="{esc(line)}">{word}</button>'
+    )
+
+
+def _marker(playing, div, team, venue):
+    fix = playing.get((div, team, venue))
+    if not fix:
+        return ""
+    return " OGGI" if fix["day"] == "oggi" else " DOMANI"
+
+
+def _stat_row(index, team, value, badge, league=""):
+    extra = f'<span class="cr-lg">{esc(league)}</span>' if league else ""
+    return (
+        f'<div class="cr-row"><span class="cr-rank">{index}.</span>'
+        f'<span class="cr-team">{esc(team)}{badge}</span>'
+        f'<span class="cr-delay">{esc(value)}</span>{extra}</div>'
+    )
+
+
 def render_texts(model, stamp):
     leagues = model["leagues"]
+    playing = playing_map(model)
     ritardi, sotto, saltati, freq_lines, repeat_lines, prossime = [], [], [], [], [], []
     for venue, label, desc in VENUES:
         ritardi += [
@@ -553,7 +751,7 @@ def render_texts(model, stamp):
         for row in shown_rows:
             ritardi.append(
                 f"  {row['rank']:>2}. {row['team']:<28.28} {_label(row['delay'], row['full']):>4}  | "
-                f"{row['country']} - {row['league']}"
+                f"{row['country']} - {row['league']}{_marker(playing, row['div'], row['team'], venue)}"
             )
         if not shown_rows:
             ritardi.append("  Nessun dato.")
@@ -561,11 +759,14 @@ def render_texts(model, stamp):
         for item in leagues:
             block = item["block"]
             ritardi += ["=" * 50, f"{block['country']} - {block['league']}", "=" * 50, f"RITARDI {EVENT}"]
-            rows = item["views"][venue]["rows"][:TOP]
+            rows = item["views"][venue]["rows"]
             if not rows:
                 ritardi.append("  Nessuna squadra con storico.")
             for index, row in enumerate(rows, 1):
-                ritardi.append(f"  {index:>2}. {row['team']:<28.28} {_label(row['delay'], row['full']):>4}")
+                ritardi.append(
+                    f"  {index:>2}. {row['team']:<28.28} {_label(row['delay'], row['full']):>4}"
+                    f"{_marker(playing, block['div'], row['team'], venue)}"
+                )
             ritardi.append("")
         sotto += [
             "#" * 50, f"# {label.upper()}", "#" * 50, "",
@@ -628,6 +829,7 @@ def render_texts(model, stamp):
             repeat_lines.append(
                 f"{row['rank']:>4}. {row['team']:<28.28} {_label(row['delay'], row['full']):>5}  | "
                 f"{row['country']} - {row['league']}  | {row['matches']} gare"
+                f"{_marker(playing, row['div'], row['team'], venue)}"
             )
         repeat_lines.append("")
     freq_lines = [
@@ -733,6 +935,7 @@ def render_html(model, stamp):
         f'Ritardo = partite consecutive senza quella uscita. Le viste sono una sotto l&rsquo;altra: '
         f'<b>Totali</b>, <b>Casa</b>, <b>Trasferta</b>. Aggiornato: {esc(stamp)} (ora italiana). '
         f'{fonte_page(model)}</p>',
+        BADGE_CSS,
         '<h3>Prossime partite (5 giorni)</h3>',
         '<p class="leg">Solo le gare in arrivo. Una scheda c&rsquo;&egrave; se, in quella vista, almeno una squadra &egrave; tra le prime 10 per ritardo oppure tra le prime 10 per ripetizione. '
         'Il pari merito sull&rsquo;ultimo posto entra. Se lo sono tutte e due, la scheda mostra le spiegazioni di entrambe. '
@@ -763,31 +966,38 @@ def render_html(model, stamp):
             + "</div>"
         )
     parts.append("</div>")
+    playing = playing_map(model)
     parts.append("<h3>Ritardi e top 20</h3>")
+    parts.append(
+        '<p class="leg">Ogni squadra che gioca oggi ha la targhetta rossa <b>OGGI</b>, '
+        'chi gioca domani quella viola <b>DOMANI</b> (giorno di Madrid), anche fuori dalla top 10. '
+        'Il clic mostra la riga e la copia.</p>'
+    )
     for venue, label, desc in VENUES:
-        lines = [
-            f"RITARDI {EVENT} — {label.upper()}",
-            f"Aggiornato: {stamp} (ora italiana)",
-            desc,
-            "TOP 20 globale, pari merito sul confine inclusi.",
-            "",
+        rows_html = [
+            f'<p class="vnote">Vista <b>{esc(label)}</b> · {esc(desc)}</p>',
+            '<div class="cr-list">',
+            '<h4 class="cr-h">TOP 20 globale</h4>',
         ]
         for row in _top_slice(_classifica(model, venue, "ritardo"), 20):
-            lines.append(
-                f"{row['rank']:>2}. {row['team']:<28.28} {_label(row['delay'], row['full']):>4}  "
-                f"{row['country']} - {row['league']}"
-            )
-        lines.append("")
+            value = _label(row["delay"], row["full"]).strip()
+            badge = _badge_html(playing.get((row["div"], row["team"], venue)), row["team"], "ritardo", value, VIEW_WORD[venue])
+            rows_html.append(_stat_row(row["rank"], row["team"], value, badge, f"{row['country']} - {row['league']}"))
         for item in model["leagues"]:
             block = item["block"]
-            lines += ["=" * 50, f"{block['country']} - {block['league']}", f"RITARDI {EVENT}"]
-            for index, row in enumerate(item["views"][venue]["rows"][:TOP], 1):
-                lines.append(f"  {index:>2}. {row['team']:<28.28} {_label(row['delay'], row['full']):>4}")
-            lines.append("")
-        parts.append(
-            f'<div class="venue" data-v="{venue}"><p class="vnote">Vista <b>{esc(label)}</b> · {esc(desc)}</p>'
-            f'<pre>{esc(chr(10).join(lines))}</pre></div>'
-        )
+            rows_html.append(f'<h4 class="cr-h">{esc(block["country"])} - {esc(block["league"])}</h4>')
+            league_rows = item["views"][venue]["rows"]
+            if not league_rows:
+                rows_html.append('<p class="leg">Nessuna squadra con storico.</p>')
+            for index, row in enumerate(league_rows, 1):
+                value = _label(row["delay"], row["full"]).strip()
+                badge = _badge_html(
+                    playing.get((block["div"], row["team"], venue)),
+                    row["team"], "ritardo", value, VIEW_WORD[venue],
+                )
+                rows_html.append(_stat_row(index, row["team"], value, badge))
+        rows_html.append("</div>")
+        parts.append(f'<div class="venue" data-v="{venue}">' + "".join(rows_html) + "</div>")
     parts.append("<h3>Doppia ripetizione</h3>")
     parts.append(
         '<p class="leg">Stesso conto della sezione combo: dopo un&rsquo;uscita, se la partita successiva '
@@ -814,26 +1024,25 @@ def render_html(model, stamp):
         )
     parts.append("</div>")
     for venue, label, desc in VENUES:
-        lines = [f"DOPPIA RIPETIZIONE {EVENT} — {label.upper()}", f"Aggiornato: {stamp}", ""]
         ranked = _classifica(model, venue, "ripetizione")
-        visible = ranked[:30]
-        for row in visible:
-            lines.append(
-                f"{row['rank']:>3}. {row['team']:<28.28} {_label(row['delay'], row['full']):>5}  "
-                f"{row['country']} - {row['league']}"
+        rows_html = [
+            f'<h3>{esc(label)}</h3>',
+            f'<p class="vnote">{esc(desc)}</p>',
+            '<div class="cr-list">',
+        ]
+        for row in ranked:
+            value = _label(row["delay"], row["full"]).strip()
+            badge = _badge_html(
+                playing.get((row["div"], row["team"], venue)),
+                row["team"], "ripetizione", value, VIEW_WORD[venue],
             )
-        more = ""
-        if len(ranked) > 30:
-            full_lines = [
-                f"{row['rank']:>3}. {row['team']:<28.28} {_label(row['delay'], row['full']):>5}  "
-                f"{row['country']} - {row['league']}"
-                for row in ranked
-            ]
-            more = (
-                f'<details><summary>Classifica {esc(label.lower())} completa ({len(ranked)} squadre)</summary>'
-                f'<pre>{esc(chr(10).join(full_lines))}</pre></details>'
-            )
-        parts.append(f'<div class="fx"><h3>{esc(label)}</h3><pre>{esc(chr(10).join(lines))}</pre>{more}</div>')
+            rows_html.append(_stat_row(
+                row["rank"], row["team"], value, badge, f"{row['country']} - {row['league']}",
+            ))
+        if not ranked:
+            rows_html.append('<p class="leg">Nessuna squadra con storico.</p>')
+        rows_html.append("</div>")
+        parts.append(f'<div class="fx">{"".join(rows_html)}</div>')
     parts.append("<h3>Frequenza campionati</h3>")
     freq_lines = [
         f"FREQUENZA CAMPIONATI — {EVENT}",
@@ -1109,6 +1318,45 @@ def selftest():
     ranked = _classifica(model, "all", "ritardo")
     assert _top_slice(ranked, 10)[-1]["team"] == "T10"
     assert ranked[2]["delay"] == 10 and ranked[3]["red"] is False and ranked[2]["red"] is True
+    assert norm_team("Hellas Verona") == norm_team("Verona") == "verona"
+    assert norm_team("Südtirol") == norm_team("Sudtirol") == "sudtirol"
+    kick = datetime(2026, 11, 27, 22, 30, tzinfo=MADRID)
+    assert _copy_line(
+        kick, "Deportivo Cuenca", "Manta", "Deportivo Cuenca", "ripetizione", "11", "casa",
+    ) == "CORNER 9-11 | 2026-11-27 22:30 | Deportivo Cuenca - Manta | Deportivo Cuenca (ripetizione 11 casa)"
+    today = datetime(2026, 11, 26, 12, tzinfo=MADRID)
+    assert madrid_day(datetime(2026, 11, 26, 23, 30, tzinfo=timezone.utc), today) == "domani"
+    assert madrid_day(datetime(2026, 11, 26, 20, tzinfo=MADRID), today) == "oggi"
+    assert madrid_day(datetime(2026, 11, 28, 12, tzinfo=MADRID), today) is None
+    badge_model = {
+        "by_div": {
+            "EC1": {"div": "EC1", "teams": {"Deportivo Cuenca", "Manta", "T12"}},
+            "I1": {"div": "I1", "teams": {"Verona", "Sudtirol"}},
+        },
+        "upcoming": [{
+            "when": datetime(2026, 11, 27, 22, 30, tzinfo=MADRID),
+            "home": "Deportivo Cuenca", "away": "Manta", "div": "EC1",
+        }],
+        "leagues": [],
+    }
+    found = playing_map(badge_model, [{
+        "when": datetime(2026, 11, 26, 18, tzinfo=MADRID),
+        "home": "Hellas Verona", "away": "Südtirol", "div": "",
+    }], today)
+    assert found[("EC1", "Deportivo Cuenca", "home")]["day"] == "domani"
+    assert found[("EC1", "Deportivo Cuenca", "all")]["day"] == "domani"
+    assert ("EC1", "Deportivo Cuenca", "away") not in found
+    assert ("EC1", "T12", "all") not in found
+    assert found[("I1", "Verona", "home")]["day"] == "oggi"
+    assert found[("I1", "Sudtirol", "away")]["day"] == "oggi"
+    assert ("I1", "Verona", "away") not in found
+    badge = _badge_html(
+        found[("EC1", "Deportivo Cuenca", "home")],
+        "Deportivo Cuenca", "ripetizione", "11", "casa",
+    )
+    assert "DOMANI" in badge and "corner-when domani" in badge
+    assert "CORNER 9-11 | 2026-11-27 22:30 | Deportivo Cuenca - Manta | Deportivo Cuenca (ripetizione 11 casa)" in badge
+    assert _badge_html(None, "T12", "ritardo", "1", "totale") == ""
     print("selftest ok")
 
 def main():
