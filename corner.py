@@ -154,6 +154,10 @@ def drought(seq):
     return n, n == len(seq)
 
 def repeat_state(seq):
+    # L'ordine cronologico deve essere sempre crescente: i CSV e le sorgenti
+    # aggregate possono arrivare in ordine diverso. L'ultimo flag deve riferirsi
+    # alla partita più recente, non all'ultimo record ricevuto.
+    seq = sorted(seq, key=lambda match: match["when"])
     delay = 0
     previous = False
     last = False
@@ -330,8 +334,11 @@ def _seq(block, team, venue, pool=None):
         if not played_prev:
             previous = []
         current = [m for m in block["current"] if in_venue(m, team, venue)]
-        return previous + current
-    return [m for m in source if in_venue(m, team, venue)]
+        return sorted(previous + current, key=lambda match: match["when"])
+    return sorted(
+        (m for m in source if in_venue(m, team, venue)),
+        key=lambda match: match["when"],
+    )
 
 def _league_report(block, pool, now):
     teams = sorted(block["teams"], key=str.casefold)
@@ -1687,8 +1694,13 @@ def selftest():
     seq = [match(False, 1), match(True, 2), match(False, 3), match(False, 4)]
     assert drought(seq) == (2, False)
     assert drought([match(False, 1), match(False, 2)]) == (2, True)
-    delay, last, full = repeat_state([match(True, 1), match(False, 2), match(False, 3)])
+    ordered_repeat = [match(True, 1), match(False, 2), match(False, 3)]
+    delay, last, full = repeat_state(ordered_repeat)
     assert (delay, last, full) == (1, False, True)
+    # Anche se i record arrivano al contrario, l'ultima partita reale prevale:
+    # una vecchia uscita 12-14 non deve generare una ripetizione dopo un 2-2.
+    delay_rev, last_rev, full_rev = repeat_state(list(reversed(ordered_repeat)))
+    assert (delay_rev, last_rev, full_rev) == (1, False, True)
     delay, last, full = repeat_state([match(True, 1), match(True, 2), match(False, 3)])
     assert delay == 1 and last is False and full is False
     sample = (
