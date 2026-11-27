@@ -577,7 +577,8 @@ def fonte_page(model):
             "Gli orari sono in ora italiana.")
 
 
-# Forma compatta -> forma usata nei CSV. Copre i nomi FotMob più lunghi.
+# Forma compatta -> forma usata nella classifica. Copre i nomi FotMob più lunghi
+# e ogni squadra rimasta fuori nel giro del 27/11/2026.
 _NAME_ALIASES = {
     "hellasverona": "verona",
     "borussiamonchengladbach": "mgladbach",
@@ -598,14 +599,45 @@ _NAME_ALIASES = {
     "sportingcp": "sporting",
     "athleticbilbao": "athbilbao",
     "atleticobilbao": "athbilbao",
+    "athleticclub": "athbilbao",
     "realsociedad": "sociedad",
     "rayovallecano": "vallecano",
+    "atleticomadrid": "athmadrid",
+    "atleticodemadrid": "athmadrid",
+    "wolverhamptonwanderers": "wolves",
+    "wolverhampton": "wolves",
+    "queensparkrangers": "qpr",
+    "chivas": "guadalajara",
+    "guadalajarachivas": "guadalajara",
+    "cdguadalajara": "guadalajara",
+    "deportivoguadalajara": "guadalajara",
+    "urawareddiamonds": "urawareds",
+    "urawarediamond": "urawareds",
+    "fkakhmat": "terekgrozny",
+    "fcakhmat": "terekgrozny",
+    "akhmatgrozny": "terekgrozny",
+    "akhmat": "terekgrozny",
+    "manchesterunited": "manunited",
+    "manchesterutd": "manunited",
+    "manchestercity": "mancity",
+    "nottinghamforest": "nottmforest",
+    "brightonandhovealbion": "brighton",
+    "brightonhovealbion": "brighton",
 }
 # Parole di contorno, non il nome della squadra.
 _NAME_STOP = {
     "afc", "fc", "ac", "sc", "ss", "us", "as", "cf", "cd", "fk", "sk", "sv",
-    "vfb", "vfl", "tsg", "club", "calcio", "de", "the",
+    "vfb", "vfl", "tsg", "kv", "ksv", "rsc", "rsca", "club", "calcio", "de", "the",
 }
+# Suffissi generici: si tolgono solo nel confronto largo, così "Town" non pareggia
+# tutte le squadre "Town" e "Madrid" non pareggia Real Madrid con l'Atlético.
+_NAME_SOFT = {
+    "town", "city", "united", "utd", "wanderers", "rovers", "hotspur", "albion",
+    "county", "alexandra", "stanley", "wednesday", "orient", "deportivo",
+    "athletic", "rangers",
+}
+# II, B, U23: una seconda squadra non è la prima squadra della classifica.
+_RESERVE = {"ii", "iii", "b", "u17", "u18", "u19", "u20", "u21", "u23", "reserves", "reserve", "am"}
 VIEW_WORD = {"all": "totale", "home": "casa", "away": "trasferta"}
 BADGE_CSS = """<style>
 .corner-when{display:inline-block;margin-left:.4rem;padding:.08rem .42rem;border:0;border-radius:6px;font-size:.68rem;font-weight:900;letter-spacing:.04em;cursor:pointer;vertical-align:middle}
@@ -660,45 +692,154 @@ def norm_team(name):
     return _NAME_ALIASES.get(text, text)
 
 
-def _name_forms(name):
-    """Varianti confrontabili: nome intero, senza prefissi, ultimo token, alias."""
-    tokens = [tok for tok in _fold_team(name).split() if tok and not tok.isdigit()]
-    compact = "".join(tokens)
-    out = {compact, _NAME_ALIASES.get(compact, compact)}
-    core = [tok for tok in tokens if tok not in _NAME_STOP]
-    if core:
-        joined = "".join(core)
-        out.add(joined)
-        out.add(_NAME_ALIASES.get(joined, joined))
-        if len(core[-1]) >= 4:
-            out.add(core[-1])
-            out.add(_NAME_ALIASES.get(core[-1], core[-1]))
-    return {item for item in out if len(item) >= 3}
+def _tokens(name):
+    return [tok for tok in _fold_team(name).split() if tok and not tok.isdigit()]
 
 
-def _name_score(left, right):
-    forms_left, forms_right = _name_forms(left), _name_forms(right)
-    if forms_left & forms_right:
-        return 100
-    best = 0
-    for a in forms_left:
-        for b in forms_right:
-            if len(a) >= 4 and len(b) >= 4 and (a in b or b in a):
-                best = max(best, 88)
-            best = max(best, int(SequenceMatcher(None, a, b).ratio() * 100))
-    return best
+def _is_reserve(name):
+    toks = _tokens(name)
+    return bool(toks) and toks[-1] in _RESERVE
 
 
-def match_name(name, teams):
-    """Nome canonico dentro un solo campionato, oppure None se è ambiguo o assente."""
-    ranked = sorted(((_name_score(name, team), team) for team in teams), reverse=True)
-    if not ranked or ranked[0][0] < 80:
+def _compatible(query, team):
+    """Una squadra B o U23 non prende il posto della prima squadra, e il contrario."""
+    return _is_reserve(query) == _is_reserve(team)
+
+
+def _solid(name):
+    return [tok for tok in _tokens(name) if tok not in _NAME_STOP and tok not in _RESERVE]
+
+
+def _loose(name):
+    return [tok for tok in _solid(name) if tok not in _NAME_SOFT]
+
+
+def _alias_key(name):
+    compact = _compact_team(name)
+    solid = "".join(_solid(name))
+    return _NAME_ALIASES.get(compact) or _NAME_ALIASES.get(solid)
+
+
+def _team_keys(team):
+    keys = {_compact_team(team), "".join(_solid(team))}
+    alias = _alias_key(team)
+    if alias:
+        keys.add(alias)
+    return {key for key in keys if key}
+
+
+def match_name(name, teams, fuzzy=True):
+    """Nome della classifica. Il token più lungo e specifico vince sul token condiviso.
+
+    fuzzy aggiunge la somiglianza solo se un nome resta unico e staccato dal secondo.
+    """
+    pool = [team for team in teams if _compatible(name, team)]
+    if not pool:
         return None
-    if len(ranked) > 1 and ranked[1][0] == ranked[0][0]:
+    alias = _alias_key(name)
+    if alias:
+        hits = [team for team in pool if alias in _team_keys(team)]
+        if len(hits) == 1:
+            return hits[0]
+        exact = [team for team in hits if _compact_team(team) == alias]
+        if len(exact) == 1:
+            return exact[0]
+        if len(hits) > 1:
+            return None
+    solid_q = _solid(name)
+    if solid_q:
+        exact = [team for team in pool if _solid(team) == solid_q]
+        if len(exact) == 1:
+            return exact[0]
+        if len(exact) > 1:
+            return None
+    loose_q = _loose(name)
+    if loose_q:
+        contained = []
+        for team in pool:
+            loose_t = _loose(team)
+            if loose_t and set(loose_q) <= set(loose_t):
+                contained.append(team)
+        if contained:
+            contained.sort(key=lambda team: (len(_loose(team)) - len(loose_q), team))
+            extra = len(_loose(contained[0])) - len(loose_q)
+            top = [team for team in contained if len(_loose(team)) - len(loose_q) == extra]
+            if len(top) == 1:
+                return top[0]
+    if not fuzzy:
         return None
-    if len(ranked) > 1 and ranked[0][0] < 100 and ranked[1][0] >= ranked[0][0] - 5:
+    qkey = "".join(solid_q) or _compact_team(name)
+    scored = []
+    for team in pool:
+        tkey = "".join(_solid(team)) or _compact_team(team)
+        if len(qkey) < 4 or len(tkey) < 4:
+            continue
+        ratio = int(SequenceMatcher(None, qkey, tkey).ratio() * 100)
+        scored.append((ratio, team))
+    scored.sort(reverse=True)
+    if not scored or scored[0][0] < 86:
+        return None
+    if len(scored) > 1 and scored[1][0] >= scored[0][0] - 5:
+        return None
+    return scored[0][1]
+
+
+def _rescue(name, teams):
+    """L'avversario è già abbinato: resta una sola squadra abbastanza simile."""
+    qkey = "".join(_solid(name)) or _compact_team(name)
+    if len(qkey) < 4:
+        return None
+    ranked = []
+    for team in teams:
+        if not _compatible(name, team):
+            continue
+        tkey = "".join(_solid(team)) or _compact_team(team)
+        if len(tkey) < 4:
+            continue
+        ratio = int(SequenceMatcher(None, qkey, tkey).ratio() * 100)
+        ranked.append((ratio, team))
+    ranked.sort(reverse=True)
+    if not ranked or ranked[0][0] < 88:
+        return None
+    if len(ranked) > 1 and ranked[1][0] >= ranked[0][0] - 8:
         return None
     return ranked[0][1]
+
+
+def _match_sides(home_name, away_name, teams):
+    """Prima i nomi sicuri. Se ne manca uno, si cerca solo tra le squadre rimaste."""
+    squad = set(teams)
+    home = match_name(home_name, squad, fuzzy=False)
+    away = match_name(away_name, squad, fuzzy=False)
+    if home and not away:
+        away = match_name(away_name, squad - {home}, fuzzy=True) or _rescue(away_name, squad - {home})
+    elif away and not home:
+        home = match_name(home_name, squad - {away}, fuzzy=True) or _rescue(home_name, squad - {away})
+    elif not home and not away:
+        home = match_name(home_name, squad, fuzzy=True)
+        away = match_name(away_name, squad, fuzzy=True)
+        if home and not away:
+            away = _rescue(away_name, squad - {home})
+        elif away and not home:
+            home = _rescue(home_name, squad - {away})
+    return home, away
+
+
+def explain_miss(name, div, teams_by_div):
+    """Perché un nome di oggi o domani non ha il badge."""
+    if _is_reserve(name):
+        return "squadra riserve o seconda squadra, non è in classifica"
+    hits = []
+    for other, teams in teams_by_div.items():
+        hit = match_name(name, teams, fuzzy=False)
+        if hit:
+            hits.append((other, hit))
+    if not hits:
+        return "non è in nessuna classifica"
+    if div and not any(other == div for other, _hit in hits):
+        shown = ", ".join(f"{other} ({hit})" for other, hit in hits[:3])
+        return f"non è in {div}; in classifica come {shown}"
+    return "abbinamento ambiguo"
 
 
 def _resolve_team(name, div, teams_by_div):
@@ -708,7 +849,7 @@ def _resolve_team(name, div, teams_by_div):
             return div, team
     hits = []
     for other, teams in teams_by_div.items():
-        team = match_name(name, teams)
+        team = match_name(name, teams, fuzzy=False)
         if team:
             hits.append((other, team))
     unique = {(item[0], item[1]) for item in hits}
@@ -761,13 +902,20 @@ def playing_map(model, extra=None, today=None):
         if not day:
             continue
         div = raw.get("div") or ""
-        home_div, home = _resolve_team(raw.get("home") or "", div, teams_by_div)
-        away_div, away = _resolve_team(raw.get("away") or "", div, teams_by_div)
-        # Se una squadra è nel campionato, l'altra si cerca lì: è la stessa partita.
-        if home and not away and (home_div or div):
-            away_div, away = _resolve_team(raw.get("away") or "", home_div or div, teams_by_div)
-        if away and not home and (away_div or div):
-            home_div, home = _resolve_team(raw.get("home") or "", away_div or div, teams_by_div)
+        squad = teams_by_div.get(div) if div else None
+        if squad:
+            home, away = _match_sides(raw.get("home") or "", raw.get("away") or "", squad)
+            home_div = div if home else ""
+            away_div = div if away else ""
+        else:
+            home_div, home = _resolve_team(raw.get("home") or "", "", teams_by_div)
+            away_div, away = _resolve_team(raw.get("away") or "", "", teams_by_div)
+            if home and not away and home_div:
+                _home, away = _match_sides(raw.get("home") or "", raw.get("away") or "", teams_by_div.get(home_div) or [])
+                away_div = home_div if away else ""
+            elif away and not home and away_div:
+                home, _away = _match_sides(raw.get("home") or "", raw.get("away") or "", teams_by_div.get(away_div) or [])
+                home_div = away_div if home else ""
         info = {
             "when": when, "day": day,
             "home": home or raw.get("home") or "",
@@ -856,14 +1004,17 @@ def fetch_fotmob_fixtures(divs):
 def _align_pair(fix, teams_by_div):
     div = fix.get("div") or ""
     if div and teams_by_div.get(div):
-        home = match_name(fix.get("home") or "", teams_by_div[div])
-        away = match_name(fix.get("away") or "", teams_by_div[div])
+        home, away = _match_sides(fix.get("home") or "", fix.get("away") or "", teams_by_div[div])
         return div, home, away
     both = None
     one = None
     for other, teams in teams_by_div.items():
-        home = match_name(fix.get("home") or "", teams)
-        away = match_name(fix.get("away") or "", teams)
+        home = match_name(fix.get("home") or "", teams, fuzzy=False)
+        away = match_name(fix.get("away") or "", teams, fuzzy=False)
+        if home and not away:
+            away = _rescue(fix.get("away") or "", [team for team in teams if team != home])
+        elif away and not home:
+            home = _rescue(fix.get("home") or "", [team for team in teams if team != away])
         if home and away:
             both = (other, home, away)
             break
@@ -883,13 +1034,18 @@ def merge_fixtures(teams_by_div, groups):
     for _label, fixtures in groups:
         for fix in fixtures:
             div, home, away = _align_pair(fix, teams_by_div)
+            raw_key = (
+                fix["when"].astimezone(MADRID).date().isoformat(),
+                norm_team(fix.get("home") or ""),
+                norm_team(fix.get("away") or ""),
+            )
+            if not home and not away:
+                if div and madrid_day(fix["when"]):
+                    missed.setdefault(raw_key, (div, fix.get("home") or "", fix.get("away") or ""))
+                continue
             if not div:
                 continue
-            if not home and not away:
-                if madrid_day(fix["when"]):
-                    key = (div, fix["when"].astimezone(MADRID).date().isoformat(), norm_team(fix.get("home") or ""), norm_team(fix.get("away") or ""))
-                    missed.setdefault(key, (div, fix.get("home") or "", fix.get("away") or ""))
-                continue
+            missed.pop(raw_key, None)
             canon_home = home or fix.get("home") or ""
             canon_away = away or fix.get("away") or ""
             key = (
@@ -911,12 +1067,18 @@ def merge_fixtures(teams_by_div, groups):
             elif score > prev[0]:
                 best[key] = (score, chosen)
     merged = []
-    stats = {"both": 0, "one": 0, "none": len(missed), "rows": len(missed), "unmatched": []}
-    for div, home, away in missed.values():
-        stats["unmatched"].append((div, home, home, away))
-        stats["unmatched"].append((div, away, home, away))
+    stats = {"both": 0, "one": 0, "none": 0, "rows": 0, "unmatched": []}
+    seen_names = set()
+    for div, home_name, away_name in missed.values():
+        stats["rows"] += 1
+        stats["none"] += 1
+        for missing in (home_name, away_name):
+            if not missing or missing in seen_names:
+                continue
+            seen_names.add(missing)
+            stats["unmatched"].append((div or "—", missing, home_name, away_name, explain_miss(missing, div, teams_by_div)))
     for key in order:
-        score, item = best[key]
+        _score, item = best[key]
         if madrid_day(item["when"]):
             stats["rows"] += 1
             if item["home_ok"] and item["away_ok"]:
@@ -924,9 +1086,12 @@ def merge_fixtures(teams_by_div, groups):
             elif item["home_ok"] or item["away_ok"]:
                 stats["one"] += 1
                 missing = item["raw_away"] if item["home_ok"] else item["raw_home"]
-                stats["unmatched"].append((item["div"], missing, item["raw_home"], item["raw_away"]))
-            else:
-                stats["none"] += 1
+                if missing and missing not in seen_names:
+                    seen_names.add(missing)
+                    stats["unmatched"].append((
+                        item["div"], missing, item["raw_home"], item["raw_away"],
+                        explain_miss(missing, item["div"], teams_by_div),
+                    ))
         if not item["home_ok"] and not item["away_ok"]:
             continue
         merged.append({"when": item["when"], "div": item["div"], "home": item["home"], "away": item["away"]})
@@ -941,14 +1106,11 @@ def report_fixtures(stats):
         f"{stats['one']} con una sola, {stats['none']} senza abbinamento.",
         flush=True,
     )
-    shown = []
-    for div, missing, home, away in stats["unmatched"]:
-        if not missing or missing in shown:
-            continue
-        shown.append(missing)
-        print(f"  NON ABBINATA {div}: {missing}  ({home} - {away})", flush=True)
-    if not shown:
+    if not stats["unmatched"]:
         print("  Nessun nome di oggi o domani rimasto fuori.", flush=True)
+        return
+    for div, missing, home, away, reason in stats["unmatched"]:
+        print(f"  NON ABBINATA {div}: {missing}  ({home} - {away}) — {reason}", flush=True)
 
 
 def _copy_line(when, home, away, team, kind, value, view):
@@ -1620,6 +1782,60 @@ def selftest():
     assert match_name("VfB Stuttgart", bundesliga) == "Stuttgart"
     assert match_name("Eintracht Frankfurt", bundesliga) == "Ein Frankfurt"
     assert match_name("Bayer Leverkusen", bundesliga) == "Leverkusen"
+    spain = {"Alaves", "Ath Bilbao", "Ath Madrid", "Barcelona", "Elche", "Malaga", "Real Madrid", "Vallecano"}
+    assert match_name("Real Madrid", spain) == "Real Madrid"
+    assert match_name("Atlético Madrid", spain) == "Ath Madrid"
+    assert match_name("Athletic Club", spain) == "Ath Bilbao"
+    assert match_name("Málaga", spain) == "Malaga"
+    assert match_name("Deportivo Alavés", spain) == "Alaves"
+    england = {"Wolves", "QPR", "Lincoln", "Sheffield United", "Sheffield Weds"}
+    assert match_name("Wolverhampton Wanderers", england) == "Wolves"
+    assert match_name("Queens Park Rangers", england) == "QPR"
+    assert match_name("Lincoln City", england) == "Lincoln"
+    assert match_name("Sheffield United", england) == "Sheffield United"
+    league_two = {"Shrewsbury", "Cheltenham", "Crawley Town", "Grimsby", "Fleetwood Town", "Swindon", "Northampton", "Exeter", "Crewe", "Accrington"}
+    assert match_name("Shrewsbury Town", league_two) == "Shrewsbury"
+    assert match_name("Cheltenham Town", league_two) == "Cheltenham"
+    assert match_name("Crawley Town", league_two) == "Crawley Town"
+    assert match_name("Grimsby Town", league_two) == "Grimsby"
+    assert match_name("Crewe Alexandra", league_two) == "Crewe"
+    assert match_name("Accrington Stanley", league_two) == "Accrington"
+    assert match_name("Exeter City", league_two) == "Exeter"
+    belgium = {"Cercle Brugge", "Club Brugge", "Mechelen", "Gent"}
+    assert match_name("Cercle Brugge", belgium) == "Cercle Brugge"
+    assert match_name("Club Brugge", belgium) == "Club Brugge"
+    assert match_name("KV Mechelen", belgium) == "Mechelen"
+    assert match_name("Preussen Münster", belgium) is None
+    assert match_name("Gent U23", belgium) is None
+    assert match_name("Hoffenheim II", bundesliga) is None
+    assert match_name("VfB Stuttgart II", bundesliga) is None
+    serie_a = {"Lecce", "Inter", "Milan", "Roma"}
+    assert match_name("Lecco", serie_a) is None
+    assert match_name("Carpi", serie_a) is None
+    austria = {"FC Salzburg", "Austria Wien", "SK Sturm Graz", "LASK"}
+    assert match_name("Austria Salzburg", austria) is None
+    assert match_name("Austria Wien II", austria) is None
+    assert match_name("Sturm Graz II", austria) is None
+    japan = {"Cerezo Osaka", "Gamba Osaka", "Kyoto Sanga", "Urawa Reds", "Shimizu S-Pulse"}
+    assert match_name("Cerezo Osaka", japan) == "Cerezo Osaka"
+    assert match_name("Kyoto Sanga FC", japan) == "Kyoto Sanga"
+    assert match_name("Urawa Red Diamonds", japan) == "Urawa Reds"
+    mexico = {"Guadalajara", "Pachuca", "América"}
+    assert match_name("Chivas", mexico) == "Guadalajara"
+    russia = {"CSKA Moscow", "Dinamo Moscow", "Terek Grozny", "Zenit St Petersburg", "Baltika Kaliningrad"}
+    assert match_name("CSKA Moscow", russia) == "CSKA Moscow"
+    assert match_name("FK Akhmat", russia) == "Terek Grozny"
+    assert match_name("Zenit St. Petersburg", russia) == "Zenit St Petersburg"
+    assert match_name("Baltika", russia) == "Baltika Kaliningrad"
+    scotland = {"Annan Athletic", "Elgin", "Stirling"}
+    assert match_name("Athletic Club", scotland) is None
+    assert match_name("Málaga", scotland) is None
+    home, away = _match_sides("Málaga", "Athletic Club", spain)
+    assert (home, away) == ("Malaga", "Ath Bilbao")
+    home, away = _match_sides("Shrewsbury Town", "Cheltenham Town", league_two)
+    assert (home, away) == ("Shrewsbury", "Cheltenham")
+    assert "non è in nessuna classifica" in explain_miss("Carpi", "I1", {"I1": serie_a})
+    assert "riserve" in explain_miss("Hoffenheim II", "D1", {"D1": bundesliga})
     print("selftest ok")
 
 def main():
