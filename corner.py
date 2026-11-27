@@ -1317,14 +1317,17 @@ def _explain(model, venue, div, teams):
     report = next((item for item in model["leagues"] if item["block"]["div"] == div), None)
     if not report:
         return []
-    ritardo = _by_team(_top2_by_league(report["views"][venue]["rows"]))
-    ripetizione = _by_team(_top2_by_league(report["repeats"][venue]))
+    global_ritardo = _by_team(_classifica(model, venue, "ritardo"))
+    global_ripetizione = _by_team(_classifica(model, venue, "ripetizione"))
+    selected_ritardo = {row["team"] for row in _top2_by_league(report["views"][venue]["rows"])}
+    selected_ripetizione = {row["team"] for row in _top2_by_league(report["repeats"][venue])}
     lines = []
     for team in teams:
-        if team in ritardo:
-            lines.append(("ritardo", ritardo[team]))
-        row = ripetizione.get(team)
-        if row and row.get("last"):
+        key = (div, team)
+        if team in selected_ritardo and key in global_ritardo:
+            lines.append(("ritardo", global_ritardo[key]))
+        row = global_ripetizione.get(key)
+        if team in selected_ripetizione and row and row.get("last"):
             lines.append(("ripetizione", row))
     return lines
 
@@ -1657,7 +1660,17 @@ def _check_prossime(model):
         for kind in ("ritardo", "ripetizione"):
             ranked = _classifica(model, venue, kind)
             tables[(venue, kind)] = ranked
-            allowed[(venue, kind)] = _by_team(_top_slice(ranked, PROSSIME_TOP))
+            global_by_team = _by_team(ranked)
+            selected_keys = set()
+            for report in model["leagues"]:
+                source = report["views"][venue]["rows"] if kind == "ritardo" else report["repeats"][venue]
+                selected = _top2_by_league(source, minimum=REPEAT_ALERT_MIN if kind == "ripetizione" else 4)
+                for item in selected:
+                    if kind == "ritardo" or item.get("last"):
+                        selected_keys.add((report["block"]["div"], item["team"]))
+            allowed[(venue, kind)] = {
+                key: global_by_team[key] for key in selected_keys if key in global_by_team
+            }
             if kind == "ritardo" and ranked:
                 cutoff = ranked[min(RED_TOP, len(ranked)) - 1]["delay"]
                 for row in ranked:
@@ -1681,7 +1694,7 @@ def _check_prossime(model):
         for kind, row in both["lines"]:
             print("   " + _line_text(kind, row), flush=True)
     totale = _top_slice(tables[("all", "ritardo")], PROSSIME_TOP)
-    print("Prime 10 per ritardo totale:", flush=True)
+    print("Prime 2 per ritardo totale (con ritardo minimo 4):", flush=True)
     for row in totale[:12]:
         print(f"  #{row['rank']} {row['team']} {row['delay']} {row['country']} - {row['league']}", flush=True)
 
@@ -1775,7 +1788,7 @@ def selftest():
     assert all(row["delay"] >= 4 for row in tied_top)
     assert _top2_by_league([{"team": "A", "delay": 3}, {"team": "B", "delay": 2}]) == []
     assert _top_slice(ranked, 10)[-1]["team"] == "T10"
-    assert ranked[2]["delay"] == 10 and ranked[3]["red"] is False and ranked[2]["red"] is True
+    assert ranked[1]["delay"] == 11 and ranked[1]["red"] is True and ranked[2]["red"] is False
     assert norm_team("Hellas Verona") == norm_team("Verona") == "verona"
     assert norm_team("Südtirol") == norm_team("Sudtirol") == "sudtirol"
     kick = datetime(2026, 11, 27, 22, 30, tzinfo=MADRID)
