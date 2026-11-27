@@ -124,6 +124,17 @@ def selfcheck():
     assert [row["hit"] for row in low["I1"]["2627"]] == [True, False, False]
     assert [row["hit"] for row in high["I1"]["2627"]] == [False, False, True]
     assert sample["I1"]["2627"][0]["hit"] is False
+    # Regressione Chelsea: una vecchia gara 12-14 non deve prevalere
+    # sull'ultima trasferta con 2+2 corner (totale 4).
+    ordered = [
+        {"when": c.datetime(2026, 11, 1, tzinfo=c.timezone.utc), "home": "X", "away": "Chelsea", "total": 13},
+        {"when": c.datetime(2026, 11, 8, tzinfo=c.timezone.utc), "home": "Y", "away": "Chelsea", "total": 4},
+    ]
+    for low, high in ((6, 8), (9, 11), (12, 14)):
+        tagged = with_band({"I1": {"2627": ordered}}, low, high)
+        seq = tagged["I1"]["2627"]
+        delay, last, _full = c.repeat_state(seq)
+        assert last is False
     html = adapt_markup(
         'pari a 9, 10 o 11. uscite 9-11. corner 9-11. non è ancora 9-11. '
         'id="copy-corner-today" href="#corner" getElementById(\'corner\') CORNER 9-11 |',
