@@ -1973,8 +1973,9 @@ def render_repeat(data, pools, now, double_fixtures=None):
     """Ritardi delle coppie consecutive: totale, sole gare in casa e sole gare in trasferta."""
     double_fixtures = double_fixtures or set()
     scopes = ("TOTALE", "CASA", "TRASFERTA")
+    # Classifiche indipendenti per campionato, combo e contesto.
     rankings = {
-        scope: {name: [] for name, _f in COMBOS["goal"]}
+        scope: {name: {} for name, _f in COMBOS["goal"]}
         for scope in scopes
     }
     by_team = {}
@@ -2020,17 +2021,20 @@ def render_repeat(data, pools, now, double_fixtures=None):
                         "last_hit": last_hit, "matches": len(seq),
                         "rank": 0, "total": 0,
                     }
-                    rankings[scope][name].append(row)
+                    rankings[scope][name].setdefault((c, l), []).append(row)
                     team_rows[name] = row
                 by_team[(c, l, tname, scope)] = team_rows
 
     for scope in scopes:
-        for name, rows in rankings[scope].items():
-            rows.sort(key=lambda x: (-x["delay"], x["team"].casefold(),
-                                     x["country"].casefold(), x["league"].casefold()))
-            for i, row in enumerate(rows, 1):
-                row["rank"] = i
-                row["total"] = len(rows)
+        for name, leagues in rankings[scope].items():
+            for _league_key, rows in leagues.items():
+                rows.sort(key=lambda x: (-x["delay"], x["team"].casefold()))
+                previous, rank = None, 0
+                for i, row in enumerate(rows, 1):
+                    if row["delay"] != previous:
+                        rank, previous = i, row["delay"]
+                    row["rank"] = rank
+                    row["total"] = len(rows)
 
     lines = [
         "RITARDI DOPPIA RIPETIZIONE CONSECUTIVA — TOTALE / CASA / TRASFERTA",
@@ -2039,42 +2043,39 @@ def render_repeat(data, pools, now, double_fixtures=None):
         "Ogni categoria ha una sequenza cronologica e un ritardo indipendenti.",
         "Il ritardo aumenta quando una combo uscita in una partita non esce anche nella partita immediatamente successiva; due uscite consecutive azzerano il ritardo.",
         f"Storico: pool nazionale multi-stagione disponibile (fino a {SOTTO_STAGIONI} stagioni). Il simbolo + indica che non è stata trovata una doppia uscita consecutiva nello storico caricato.",
-        "La posizione è globale per ciascuna combo all'interno della categoria indicata.", ""
+        "Ogni classifica è separata per campionato, combo e contesto: vengono selezionate le prime 3 posizioni per ritardo, con tutti i pari merito al terzo posto inclusi.", ""
     ]
     blocks = []
+    repeat_top3 = {scope: {name: set() for name, _f in COMBOS["goal"]} for scope in scopes}
     for scope in scopes:
         for name, _f in COMBOS["goal"]:
-            rows = rankings[scope][name]
-            lines += [f"CLASSIFICA {scope} — {name}", f"Squadre: {len(rows)}"]
-            table = []
-            for row in rows:
-                delay = str(row["delay"]) + ("+" if row["full"] else "")
-                table.append(
-                    f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | '
-                    f'{row["country"]} - {row["league"]}  | {row["matches"]} gare'
+            for (country, league), rows in sorted(
+                rankings[scope][name].items(),
+                key=lambda item: (item[0][0].casefold(), item[0][1].casefold())
+            ):
+                league_label = f"{country} - {league}"
+                lines += [f"CLASSIFICA {scope} — {name} — {league_label}", f"Squadre: {len(rows)}"]
+                table = []
+                cutoff = rows[min(2, len(rows) - 1)]["delay"] if rows else None
+                for row in rows:
+                    delay = str(row["delay"]) + ("+" if row["full"] else "")
+                    marker = "  ← TOP 3" if cutoff is not None and row["delay"] >= cutoff else ""
+                    table.append(
+                        f'{row["rank"]:>4}. {row["team"]:<28.28} {delay:>5}  | '
+                        f'{row["matches"]} gare{marker}'
+                    )
+                    if cutoff is not None and row["delay"] >= cutoff:
+                        repeat_top3[scope][name].add((country, league, row["team"]))
+                lines += table + [""]
+                selected = [line for line, row in zip(table, rows)
+                            if cutoff is not None and row["delay"] >= cutoff]
+                complete = "\n".join(table)
+                blocks.append(
+                    f'<div class="fx"><h3>{esc(scope)} · {esc(name)} · {esc(league_label)}</h3>'
+                    f'<pre>{html.escape("\\n".join(selected) or "Nessuna squadra")}</pre>'
+                    f'<details><summary>Classifica completa ({len(rows)} squadre)</summary>'
+                    f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
                 )
-            lines += table + [""]
-            visible = "\n".join(table[:30])
-            complete = "\n".join(table)
-            blocks.append(
-                f'<div class="fx"><h3>{esc(scope)} · {esc(name)}</h3>'
-                f'<pre>{html.escape(visible or "Nessun dato disponibile")}</pre>'
-                f'<details><summary>Classifica {scope.lower()} completa ({len(rows)} squadre)</summary>'
-                f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
-            )
-
-    repeat_top3 = {}
-    for scope in scopes:
-        repeat_top3[scope] = {}
-        for name, rows in rankings[scope].items():
-            if not rows:
-                repeat_top3[scope][name] = set()
-                continue
-            cutoff = rows[min(2, len(rows) - 1)]["delay"]
-            repeat_top3[scope][name] = {
-                (row["country"], row["league"], row["team"])
-                for row in rows if row["delay"] >= cutoff
-            }
 
     alert_map = {}
     for c, l, r, err in data:
@@ -2084,7 +2085,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
         for t, h, a in r["up"]:
             fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
             # TOTALE vale per entrambe; CASA solo per la squadra di casa;
-            # TRASFERTA solo per la squadra ospite. Ogni combo ha la propria top 3 globale.
+            # TRASFERTA solo per la squadra ospite. La top 3 è calcolata separatamente per ogni campionato, combo e contesto.
             for tid, applicable_scopes in ((h, ("TOTALE", "CASA")), (a, ("TOTALE", "TRASFERTA"))):
                 team = teams.get(tid)
                 if not team:
