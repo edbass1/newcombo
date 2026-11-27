@@ -1130,6 +1130,27 @@ def tables(d, teams, which="all", forms=None):
     except Exception: pass
     return out
 
+def top3_standing_teams(tab):
+    """Squadre nelle prime 3 posizioni della classifica, includendo tutte quelle a pari punti sul confine."""
+    selected = set()
+    for block in tab or []:
+        rows = []
+        for row in block or []:
+            if len(row) < 3 or not row[1] or row[2] is None:
+                continue
+            try:
+                points = float(row[2])
+            except (TypeError, ValueError):
+                continue
+            rows.append((points, row[1]))
+        if not rows:
+            continue
+        rows.sort(key=lambda item: item[0], reverse=True)
+        cutoff = rows[min(2, len(rows) - 1)][0]
+        selected.update(name for points, name in rows if points >= cutoff)
+    return selected
+
+
 def red_sets(sotto):
     # Pallino rosso = prime 3 della classifica (più uscite in cima), pari merito inclusi.
     out = {}
@@ -1282,7 +1303,7 @@ def bookmaker_badges(home, away, li=None):
         out.append(f'<a class="book {css}{state}" href="{href}" target="_blank" rel="noopener">{label}</a>')
     return " ".join(out)
 
-LAB = {"goal": "GOAL"}
+LAB = {"goal": "GOAL", "top3": "TOP 3 CLASSIFICA"}
 LAB2 = LAB
 VENUES = (
     ("all", "Totali", "tutte le partite, in casa o in trasferta"),
@@ -1514,6 +1535,7 @@ def render_venue(data, venue, now):
             sotto_L += ["  dati non disponibili", ""]
             continue
         view = r["venues"][venue]
+        top3_teams = top3_standing_teams(view["tab"])
         cs, ps, n = r["cs"], r["ps"], r["n"]
         red = red_sets(view["sotto"])
         lg = f"{c} - {l}"
@@ -1593,9 +1615,14 @@ def render_venue(data, venue, now):
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
                     tags.append(("goal", tn, parts, hparts, gg.get(tn)))
+                if tn in top3_teams:
+                    top3_parts = [f"TOP 3 CLASSIFICA {VENUE_TAG[venue]}"]
+                    top3_hparts = [f'<span class="combo-label" style="display:inline!important;color:var(--accent2);font-weight:800;white-space:nowrap">TOP 3 CLASSIFICA {VENUE_TAG[venue]}</span>']
+                    info.append((tn, top3_parts, gg.get(tn)))
+                    tags.append(("top3", tn, top3_parts, top3_hparts, gg.get(tn)))
             if info:
                 xgp = xg_pieces(r["xg"], ((h, teams[h]), (a, teams[a])))
-                nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags for p in ps]
+                nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags if _k == "goal" for p in ps]
                 dh, dt = dbadges(view["danger"], lg, nms)
                 cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt, r.get("gol")))
     sal = []
@@ -1717,13 +1744,17 @@ def render_prossime(chunks, now, repeat_alerts=None):
             repeat_li = next((idx for idx, pd in chunks["all"]["pop"].items() if pd.get("lg") == f"{c} - {l}"), None)
             alert_lines = []
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
-                delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                alert_lines.append(
-                    f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · '
-                    f'#{alert_row["rank"]}/{alert_row["total"]}'
-                )
+                if alert_row.get("reason"):
+                    alert_lines.append(f'{alert_team_name}: {alert_row["reason"]}')
+                else:
+                    delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                    alert_lines.append(
+                        f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · '
+                        f'#{alert_row["rank"]}/{alert_row["total"]}'
+                    )
             alert_note = " | ".join(alert_lines)
-            alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
+            badge_label = "TOP 3 CLASSIFICA" if fixture_alerts and all(row.get("reason") for _team, _combo, row in fixture_alerts) else "ALERT"
+            alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">{badge_label}</span> '
             H.append(
                 f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag all">TOTALE</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
@@ -1731,11 +1762,16 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 f'<div class="tagrow"><span class="tag goal">DOPPIA RIPETIZIONE</span> '
                 f'{esc(alert_note)}</div></div>'
             )
-            P.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
+            only_top3 = bool(fixture_alerts) and all(row.get("reason") for _team, _combo, row in fixture_alerts)
+            selection_label = "TOP 3 CLASSIFICA" if only_top3 else "DOPPIA RIPETIZIONE"
+            P.append(f'{selection_label:<20} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             for alert_team_name, alert_combo, alert_row in fixture_alerts:
-                delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
-            PG.append(f'ALERT     {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
+                if alert_row.get("reason"):
+                    P.append(f'           {alert_team_name}: {alert_row["reason"]}')
+                else:
+                    delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                    P.append(f'           DOPPIA RIPETIZIONE: {alert_team_name} · {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+            PG.append(f'{selection_label:<20} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]')
             continue
         alert_badge_shown = False
         for venue, _label, _desc in VENUES:
@@ -1759,10 +1795,13 @@ def render_prossime(chunks, now, repeat_alerts=None):
             alert_badge = ""
             alert_note = ""
             if fixture_alerts and not alert_badge_shown:
-                labels = []
+                    labels = []
                 for alert_team_name, alert_combo, alert_row in fixture_alerts:
-                    delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
-                    labels.append(f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
+                    if alert_row.get("reason"):
+                        labels.append(f'{alert_team_name}: {alert_row["reason"]}')
+                    else:
+                        delay_label = str(alert_row["delay"]) + ("+" if alert_row["full"] else "")
+                        labels.append(f'{alert_team_name}: {alert_combo} · {alert_row.get("scope", "TOTALE")} · ritardo ripetizione {delay_label} · #{alert_row["rank"]}/{alert_row["total"]}')
                 alert_note = " | ".join(labels)
                 alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">ALERT</span> '
                 alert_badge_shown = True
@@ -2045,8 +2084,20 @@ def render_repeat(data, pools, now, double_fixtures=None):
         if not r:
             continue
         teams = r["teams"]
+        top3_by_scope = {
+            "TOTALE": top3_standing_teams(r["venues"]["all"]["tab"]),
+            "CASA": top3_standing_teams(r["venues"]["home"]["tab"]),
+            "TRASFERTA": top3_standing_teams(r["venues"]["away"]["tab"]),
+        }
         for t, h, a in r["up"]:
             fixture_key = (t.isoformat(), c, l, teams[h], teams[a])
+            for tid, scope in ((h, "TOTALE"), (a, "TOTALE"), (h, "CASA"), (a, "TRASFERTA")):
+                team = teams.get(tid)
+                if team and team in top3_by_scope[scope]:
+                    reason = f"TOP 3 CLASSIFICA {scope}"
+                    alert_map.setdefault(fixture_key, []).append(
+                        (team, "CLASSIFICA", {"scope": scope, "reason": reason, "rank": 0, "total": 0})
+                    )
             for tid, scope in ((h, "CASA"), (a, "TRASFERTA")):
                 team = teams.get(tid)
                 if not team:
@@ -2059,7 +2110,7 @@ def render_repeat(data, pools, now, double_fixtures=None):
                                 (team, row["name"], row)
                             )
 
-    alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — POSSIBILE ROTTURA DEL RITARDO</h3>']
+    alert_html = ['<div class="repeat-alerts"><h3>PARTITE IN ARRIVO — DOPPIA RIPETIZIONE E PRIME 3 CLASSIFICHE</h3>']
     if not alert_map:
         alert_html.append('<p class="leg">Nessuna partita in arrivo nei prossimi giorni con i requisiti per completare la doppia ripetizione.</p>')
     for fixture_key, fixture_alerts in sorted(
@@ -2070,11 +2121,14 @@ def render_repeat(data, pools, now, double_fixtures=None):
         double_badge = '<span class="double-badge">DOUBLE</span> ' if fixture_key in double_fixtures else ''
         details = []
         for team, combo_name, row in fixture_alerts:
-            delay = str(row["delay"]) + ("+" if row["full"] else "")
-            details.append(
-                f'<b>{esc(team)}</b> — {esc(combo_name)} · {esc(row["scope"])} · ritardo {delay} · '
-                f'#{row["rank"]}/{row["total"]}'
-            )
+            if row.get("reason"):
+                details.append(f'<b>{esc(team)}</b> — {esc(row["reason"])}')
+            else:
+                delay = str(row["delay"]) + ("+" if row["full"] else "")
+                details.append(
+                    f'<b>{esc(team)}</b> — {esc(combo_name)} · {esc(row["scope"])} · ritardo {delay} · '
+                    f'#{row["rank"]}/{row["total"]}'
+                )
         alert_html.append(
             f'<div class="fx" data-kick="{kick_attr(datetime.datetime.fromisoformat(t_iso))}">{double_badge}<b>{lt:%d/%m %H:%M}</b> · '
             f'{esc(hn)} vs {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span>'
