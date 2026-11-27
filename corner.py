@@ -1565,7 +1565,7 @@ def _repeat_alerts(model):
         rows = []
         for venue, scope in (("all", "TOTALE"), ("home", "CASA"), ("away", "TRASFERTA")):
             table = report["repeats"][venue]
-            selected = _by_team(_top2_by_league(table, minimum=REPEAT_ALERT_MIN))
+            selected = {row["team"]: row for row in _top2_by_league(table, minimum=REPEAT_ALERT_MIN)}
             sides = [fixture["home"]] if venue == "home" else [fixture["away"]] if venue == "away" else [fixture["home"], fixture["away"]]
             for team in sides:
                 found = selected.get(team)
