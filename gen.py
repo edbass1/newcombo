@@ -1131,13 +1131,16 @@ def tables(d, teams, which="all", forms=None):
     return out
 
 def top3_delay_teams(res_full):
-    """Unisce le prime 3 squadre di ogni classifica dei ritardi GOAL; include i pari merito."""
-    selected = set()
-    for _name, rows in (res_full or {}).get("goal", []):
+    """Per ogni combo, seleziona solo le prime 3 squadre della sua classifica dei ritardi; pari merito inclusi."""
+    selected = {}
+    for name, rows in (res_full or {}).get("goal", []):
         if not rows:
+            selected[name] = set()
             continue
         cutoff = rows[min(2, len(rows) - 1)][0]
-        selected.update(team for delay, team, _full, _pct in rows if delay >= cutoff)
+        selected[name] = {
+            team for delay, team, _full, _pct in rows if delay >= cutoff
+        }
     return selected
 
 
@@ -1589,11 +1592,9 @@ def render_venue(data, venue, now):
             info, tags = [], []
             for tid in _fixture_sides(venue, h, a):
                 tn = teams[tid]
-                if tn not in top3_teams:
-                    continue
                 parts, hparts = [], []
                 for key, name, streak, _, full, pct in allr.get(tn, []):
-                    if key != "goal":
+                    if key != "goal" or tn not in top3_teams.get(name, set()):
                         continue
                     rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
                     bdg = league_badge_txt(lg, name)
