@@ -1753,9 +1753,9 @@ def selftest():
     ]
     casa = next(card for card in cards if card["home"] == "T01" and card["away"] == "T02" and card["venue"] == "home")
     assert [row["team"] for _k, row in casa["lines"]] == ["T01"]
-    only_rep = next(card for card in cards if card["home"] == "T12" and card["away"] == "T11" and card["venue"] == "all")
-    assert [(kind, row["team"]) for kind, row in only_rep["lines"]] == [("ripetizione", "T11")]
-    assert all(not row["red"] for _k, row in only_rep["lines"])
+    # Una partita con sole condizioni di ripetizione non deve comparire tra le prossime.
+    assert not any(card["home"] == "T12" and card["away"] == "T11" for card in cards)
+    # Le classifiche/statistiche delle ripetizioni restano attive nella loro sezione dedicata.
     repeat_alerts = _repeat_alerts(model)
     assert len(repeat_alerts) == 1
     assert [row[0] for row in repeat_alerts[0]["rows"]] == ["T11", "T11"]
