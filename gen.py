@@ -2069,10 +2069,11 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 lines += table + [""]
                 selected = [line for line, row in zip(table, rows)
                             if cutoff is not None and row["delay"] >= cutoff]
+                selected_text = "\n".join(selected)
                 complete = "\n".join(table)
                 blocks.append(
                     f'<div class="fx"><h3>{esc(scope)} · {esc(name)} · {esc(league_label)}</h3>'
-                    f'<pre>{html.escape("\\n".join(selected) or "Nessuna squadra")}</pre>'
+                    f'<pre>{html.escape(selected_text or "Nessuna squadra")}</pre>'
                     f'<details><summary>Classifica completa ({len(rows)} squadre)</summary>'
                     f'<pre>{html.escape(complete or "Nessun dato disponibile")}</pre></details></div>'
                 )
