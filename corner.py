@@ -1781,7 +1781,7 @@ def selftest():
     assert all(not row["red"] for _k, row in only_rep["lines"])
     repeat_alerts = _repeat_alerts(model)
     assert len(repeat_alerts) == 1
-    assert [row[0] for row in repeat_alerts[0]["rows"]] == ["T11"]
+    assert [row[0] for row in repeat_alerts[0]["rows"]] == ["T11", "T11"]
     ranked = _classifica(model, "all", "ritardo")
     tied_top = _top2_by_league([
         {"team": "A", "delay": 7}, {"team": "B", "delay": 6},
