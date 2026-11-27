@@ -683,6 +683,7 @@ def compute(lid, POOL):
 
 def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
     sotto, freq, sinfo = [], {}, {}
+    delay_meta = {}
     for name, f in COMBOS["goal"]:
         rows = []
         for tid, tname in teams.items():
@@ -715,6 +716,8 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
                     if m[3]+m[4] >= 2 or (m[3] > 0 and m[4] > 0): g += 1
                 full = n == len(seq)
                 pct = round(100*g/n) if n else 0
+                last_hit = next((m[0] for m in reversed(seq) if f(m[3], m[4])), None)
+                delay_meta.setdefault(tname, {})[name] = {"last_hit": last_hit, "sample": len(seq)}
                 run = 0
                 for m in seq:
                     if f(m[3], m[4]):
@@ -752,7 +755,7 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
             hist[name] = {teams[tid]: (sum(1 for m in seq if f(m[3], m[4])), len(seq)) for tid, seq in seqs.items() if seq}
     return {"res": res, "res_full": res_full, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue, forms),
-            "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg, "hist": hist}
+            "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg, "hist": hist, "delay_meta": delay_meta}
 
 TIPS_MAX = 10
 TIPS_MIN_DELAY = 6
@@ -1612,7 +1615,7 @@ def render_venue(data, venue, now):
                 xgp = xg_pieces(r["xg"], ((h, teams[h]), (a, teams[a])))
                 nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags if _k == "goal" for p in ps]
                 dh, dt = dbadges(view["danger"], lg, nms)
-                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt, r.get("gol")))
+                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt, r.get("gol"), view.get("delay_meta", {})))
     sal = []
     for c, l, r, err in data:
         if not r:
@@ -1657,10 +1660,10 @@ def render_prossime(chunks, now, repeat_alerts=None):
     """Una scheda per contesto, raggruppata sulla stessa partita: TOTALE, poi CASA, poi TRASFERTA."""
     groups = {}
     for venue, _label, _desc in VENUES:
-        for t, c, l, hn, an, tags, info, LIX, xgp, dh, dt, gol in chunks[venue]["cards"]:
+        for t, c, l, hn, an, tags, info, LIX, xgp, dh, dt, gol, delay_meta in chunks[venue]["cards"]:
             key = (t.isoformat(), c, l, hn, an)
             g = groups.setdefault(key, {"t": t, "c": c, "l": l, "hn": hn, "an": an, "by": {}})
-            g["by"][venue] = (tags, info, LIX, xgp, dh, dt, gol)
+            g["by"][venue] = (tags, info, LIX, xgp, dh, dt, gol, delay_meta)
     # Le partite con alert di doppia ripetizione entrano sempre in Prossime,
     # anche quando non hanno nessun ritardo combo ordinario in fascia.
     for fixture_key, alerts in repeat_alerts.items():
@@ -1761,7 +1764,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             item = g["by"].get(venue)
             if not item:
                 continue
-            tags, _info, LIX, xgp, dh, dt, gol = item
+            tags, _info, LIX, xgp, dh, dt, gol, delay_meta = item
             mark = VENUE_TAG[venue]
             P.append(f"{mark:<9} {lt:%H:%M}  {hn}{ad_suffix(hn, gol)} vs {an}{ad_suffix(an, gol)}   [{c} - {l}]  {dt}")
             PG.append(f"{mark:<9} {lt:%H:%M}  {hn}{ad_suffix(hn, gol)} vs {an}{ad_suffix(an, gol)}   [{c} - {l}]")
@@ -1775,6 +1778,27 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 PG.append(f"           {tn}: " + "; ".join(parts))
                 hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>: ' + "; ".join(hparts) + "</div>")
             xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
+            copy_rows = []
+            for _key, signal_team, signal_parts, _hparts, _ggv in tags:
+                for signal_part in signal_parts:
+                    mm = re.match(r"^(.+?) \((\d+)(?:\+)?\)", signal_part)
+                    if not mm:
+                        continue
+                    combo_name, delay_value = mm.group(1).strip(), int(mm.group(2))
+                    meta = (delay_meta.get(signal_team) or {}).get(combo_name) or {}
+                    last_hit = meta.get("last_hit")
+                    if last_hit:
+                        last_dt = datetime.datetime.fromisoformat(last_hit.replace("Z", "+00:00"))
+                        weeks_value = max(0, (g["t"].date() - last_dt.date()).days // 7)
+                        last_date = last_dt.astimezone(ROME).date().isoformat()
+                    else:
+                        weeks_value, last_date = "OLTRE_STORICO", ""
+                    copy_rows.append("\t".join([
+                        lt.strftime("%Y-%m-%d"), lt.strftime("%H:%M"), f"{hn} - {an}",
+                        f"{c} - {l}", VENUE_TAG[venue], signal_team, combo_name,
+                        str(delay_value), str(weeks_value), str(meta.get("sample", "")), last_date
+                    ]))
+            copy_attr = html.escape("\n".join(copy_rows), quote=True)
             alert_badge = ""
             alert_note = ""
             if fixture_alerts and not alert_badge_shown:
@@ -1788,7 +1812,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 alert_badge = f'<span class="repeat-alert" title="{esc(alert_note)}">{badge_label}</span> '
                 alert_badge_shown = True
             H.append(
-                f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag {venue}">{mark}</span>'
+                f'<div class="fx" data-kick="{kick_attr(g["t"])}" data-copy-lines="{copy_attr}"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{club_html(LIX, hn, an, hn, gol, venue, "home")} vs {club_html(LIX, hn, an, an, gol, venue, "away")} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
@@ -1944,7 +1968,7 @@ function hide(){pop.style.display='none';cur=null}
 document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
 if(window.matchMedia('(hover:hover)').matches){document.addEventListener('mouseover',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el&&el!==cur)show(el)})}
 document.addEventListener('keydown',function(e){if(e.key==='Escape')hide()})})();</script>
-<script>(function(){function romeDay(d){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',year:'numeric',month:'2-digit',day:'2-digit'}).format(d)}function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var bulk=e.target.closest('.copy-day[data-copy-day="prossime"]');if(bulk){var sec=document.querySelector('section.tabsec[data-id="prossime"]'),list=sec&&sec.querySelector('.fxlist'),today=romeDay(new Date()),seen={},out=[];if(list){[].forEach.call(list.querySelectorAll('.fx:not([hidden])'),function(card){var kick=card.getAttribute('data-kick')||'',dt=kick?new Date(kick):null;if(!dt||isNaN(dt.getTime())||romeDay(dt)!==today)return;var tm=card.querySelector('.time[data-copy]'),match=tm&&tm.getAttribute('data-copy');if(!match||seen[match])return;seen[match]=1;out.push((tm.textContent||'').trim()+'  '+match);});}if(out.length)copyText(out.join('\\n'));else{var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700';document.body.appendChild(msg)}msg.textContent='Nessuna partita di oggi da copiare';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1800);}e.preventDefault();e.stopPropagation();return;}var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()});
+<script>(function(){function romeDay(d){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',year:'numeric',month:'2-digit',day:'2-digit'}).format(d)}function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var bulk=e.target.closest('.copy-day[data-copy-day="prossime"]');if(bulk){var sec=document.querySelector('section.tabsec[data-id="prossime"]'),list=sec&&sec.querySelector('.fxlist'),today=romeDay(new Date()),seen={},out=[];if(list){[].forEach.call(list.querySelectorAll('.fx:not([hidden])'),function(card){var kick=card.getAttribute('data-kick')||'',dt=kick?new Date(kick):null;if(!dt||isNaN(dt.getTime())||romeDay(dt)!==today)return;var tm=card.querySelector('.time[data-copy]'),match=tm&&tm.getAttribute('data-copy');if(!match)return;var lines=card.getAttribute('data-copy-lines')||'';if(lines){lines.split('\n').forEach(function(line){if(line&&!seen[line]){seen[line]=1;out.push(line);}});}else{var line=(tm.textContent||'').trim()+'  '+match;if(!seen[line]){seen[line]=1;out.push(line);}}});}if(out.length)copyText(out.join('\\n'));else{var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700';document.body.appendChild(msg)}msg.textContent='Nessuna partita di oggi da copiare';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1800);}e.preventDefault();e.stopPropagation();return;}var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()});
 if(!window.__cornerWhen){window.__cornerWhen=true;document.addEventListener('click',function(e){var btn=e.target&&e.target.closest&&e.target.closest('.corner-when');if(!btn)return;e.preventDefault();e.stopPropagation();var txt=btn.getAttribute('data-copy')||'';if(!txt)return;function shown(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;max-width:min(92vw,640px);background:#000;color:#fff;border:2px solid #fff;padding:.7rem 1rem;border-radius:10px;font-weight:800';document.body.appendChild(msg)}msg.textContent=txt;msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none';},4000);}if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(shown).catch(function(){fallback(txt);shown();});}else{fallback(txt);shown();}});}
 })();</script>
 <script>(function(){var hs=[].slice.call(document.querySelectorAll('body > h2[id]')),ids=[];hs.forEach(function(h){var sec=document.createElement('section');sec.className='tabsec';sec.dataset.id=h.id;h.parentNode.insertBefore(sec,h);var n=h;while(n&&!(n!==h&&n.tagName==='H2')&&!(n.id==='pop'||n.id==='totop'||n.tagName==='SCRIPT'||n.tagName==='ASIDE'||(n.tagName==='BUTTON'))){var nx=n.nextElementSibling;sec.appendChild(n);n=nx}ids.push(h.id)});
