@@ -2119,6 +2119,12 @@ def render_repeat(data, pools, now, double_fixtures=None):
                 for current_scope in applicable_scopes:
                     state = by_team.get((c, l, team, current_scope), {})
                     for name, row in state.items():
+                        # Una ripetizione può essere segnalata solo se la combo
+                        # è uscita nell'ultima partita della squadra in questo contesto.
+                        # Il ritardo da solo non basta: altrimenti si avvisa anche
+                        # dopo una partita che non ha centrato la combo.
+                        if not row.get("last_hit"):
+                            continue
                         if team_key in repeat_top3[current_scope].get(name, set()):
                             selected_row = dict(row)
                             selected_row["top3_repeat"] = True
