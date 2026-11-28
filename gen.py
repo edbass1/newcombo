@@ -1084,7 +1084,7 @@ def render_tips(tips, data, today, now):
         dh, _dt = dbadges(data[c["LI"]][2]["venues"][c["venue"]]["danger"], f"{c['c']} - {c['l']}", [c["nm"]])
         html_rows.append(
             f'<div class="tip"><div class="tiph"><span class="rk">{i}</span>'
-            f'<span class="time copy-time" data-copy="{esc(c["hn"] + " vs " + c["an"])}" title="Clicca per copiare la partita">{c["lt"]:%H:%M}</span> '
+            f'<span class="time copy-time" data-copy="{esc(c["hn"] + " - " + c["an"])}" title="Clicca per copiare la partita">{c["lt"]:%H:%M}</span> '
             f'{tspan(c["LI"], c["hn"], c["an"], c["hn"])} vs {tspan(c["LI"], c["hn"], c["an"], c["an"])} '
             f'<span class="lg">{esc(c["c"])} - {esc(c["l"])}</span> {dh}</div>'
             f'<div class="tipc"><span class="vtag {c["venue"]}">{ctx}</span><span class="tag goal">{esc(c["nm"])}</span> '
@@ -1748,7 +1748,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
             selection_label = "TOP 3 RIPETIZIONE" if only_top3 else "DOPPIA RIPETIZIONE"
             H.append(
                 f'<div class="fx" data-kick="{kick_attr(g["t"])}"><span class="vtag all">TOTALE</span>'
-                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
+                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " - " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{tspan(repeat_li, hn, an, hn, "all") if repeat_li is not None else esc(hn)} vs {tspan(repeat_li, hn, an, an, "all") if repeat_li is not None else esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div>'
                 f'<div class="tagrow"><span class="tag goal">{selection_label}</span> '
                 f'{esc(alert_note)}</div></div>'
@@ -1813,7 +1813,7 @@ def render_prossime(chunks, now, repeat_alerts=None):
                 alert_badge_shown = True
             H.append(
                 f'<div class="fx" data-kick="{kick_attr(g["t"])}" data-copy-lines="{copy_attr}"><span class="vtag {venue}">{mark}</span>'
-                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
+                f'<div class="fxh">{alert_badge}<span class="time copy-time" data-copy="{esc(hn + " - " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
                 f'{club_html(LIX, hn, an, hn, gol, venue, "home")} vs {club_html(LIX, hn, an, an, gol, venue, "away")} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
                 + "".join(hb) + "</div>"
